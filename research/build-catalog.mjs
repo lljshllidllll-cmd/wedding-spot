@@ -84,6 +84,9 @@ applyScope(catalog);
 mergeEnrichment(catalog);
 const pricingPath='research/pricing/all-regions.json';
 if(fs.existsSync(pricingPath)){const pricing=JSON.parse(fs.readFileSync(pricingPath,'utf8'));catalog.pricingScope={checkedAt:pricing.checkedAt,region:pricing.region,planning:pricing.planning,requestedHistory:pricing.requestedHistory,scopeNote:pricing.scopeNote};for(const v of catalog.venues)if(pricing.venues[v.id])v.pricing=pricing.venues[v.id];}
+const reviewCounts=JSON.parse(fs.readFileSync('research/review-counts.json','utf8'));
+catalog.reviewScope={checkedAt:reviewCounts.checkedAt,methodology:reviewCounts.methodology};
+for(const v of catalog.venues)v.reviews=reviewCounts.venues[v.id];
 fs.writeFileSync('catalog.json',JSON.stringify(catalog,null,2));
 fs.writeFileSync('catalog.js','// catalog.json에서 생성. research/build-catalog.mjs로 재생성합니다.\nconst venueCatalog = '+JSON.stringify(catalog,null,2)+';\n');
 console.log(JSON.stringify({total:catalog.venues.length,statuses:Object.fromEntries(['official','listed','pending','planned'].map(s=>[s,catalog.venues.filter(v=>v.status===s).length])),excluded:catalog.excluded.length,counts:Object.fromEntries(catalog.regions.map(r=>[r.name,catalog.venues.filter(v=>v.region===r.id).length]))},null,2));
