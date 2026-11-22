@@ -4,7 +4,7 @@
 
 [배포 사이트](https://lljshllidllll-cmd.github.io/wedding-spot/) · [GitHub 저장소](https://github.com/lljshllidllll-cmd/wedding-spot)
 
-- 지역별 탭, 상호·주소 검색, 주차·확인 상태·사진 필터
+- 지역별 탭, 상호·주소 검색, 확인 상태·사진 필터
 - 공식 사이트에서 수집하고 검수한 사진 확대 갤러리와 원본 출처
 - 대학·동문·군 관련 시설 등의 별도 제외 목록
 - 2026-11-22 기준 후보 118곳, 사진 312장: 52곳 5장, 23곳 일부, 43곳 미확보
