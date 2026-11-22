@@ -1,5 +1,7 @@
 {
-  "removedRegions": ["eunpyeong"],
+  "removedRegions": [
+    "eunpyeong"
+  ],
   "excludedVenues": {
     "venue-022": "야외 정원·가든 웨딩 중심 시설",
     "venue-023": "야외 정원·가든 웨딩 중심 시설",
@@ -7,7 +9,6 @@
     "venue-025": "한옥·야외 정원 웨딩 중심 시설",
     "venue-026": "야외 웨딩숲·가든 상품 중심 시설",
     "venue-027": "야외 하우스·가든 웨딩 중심 시설",
-    "venue-062": "루프탑 야외 웨딩 중심 시설",
     "venue-080": "일반 예식장이 아닌 공공기관 강당 대관 시설",
     "venue-084": "공원·야외 공공예식 공간",
     "venue-085": "문화회관 내 문화시설 예식 공간",
@@ -28,8 +29,21 @@
     "venue-114": "문화시설 공공예식 대관 공간",
     "venue-115": "광장 야외 예식 공간",
     "venue-116": "한강공원 수상무대 야외 예식 공간",
-    "venue-117": "호수공원 야외 작은결혼식 공간"
+    "venue-117": "호수공원 야외 작은결혼식 공간",
+    "venue-055": "과거 상호 백악관웨딩문화원 · 문화원 계열 예식시설 제외 기준"
   },
-  "indoorOnlyVenues": ["venue-005", "venue-011", "venue-038", "venue-039", "venue-047", "venue-066", "venue-089"],
-  "excludedPhotos": ["public/photos/venue-039-2.jpg", "public/photos/venue-039-5.jpg"]
+  "indoorOnlyVenues": [
+    "venue-005",
+    "venue-011",
+    "venue-038",
+    "venue-039",
+    "venue-047",
+    "venue-066",
+    "venue-089",
+    "venue-062"
+  ],
+  "excludedPhotos": [
+    "public/photos/venue-039-2.jpg",
+    "public/photos/venue-039-5.jpg"
+  ]
 }

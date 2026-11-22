@@ -15,6 +15,8 @@ assert(sheet(32).includes('8,800원'));assert(get(32).records[0].extras.includes
 assert.deepEqual(get(4).records[0].rentalKRW,[2000000,2000000]);assert(get(4).records[0].extras.includes('생화장식 200~500만원'));
 assert(get(58).records.some(r=>r.extras.includes('3,674만원')));assert(get(58).records.some(r=>r.extras.includes('2,750만원')));
 assert(get(67).extras===undefined);assert(get(67).records[0].extras.includes('KBS 관계자'));
+assert(c.venues.find(v=>v.id==='venue-062').indoorOnly);assert(get(62).records.some(p=>p.period.includes('2027년 3~12월')));
+assert(c.excluded.some(v=>v.name==='베뉴비안'&&v.reason.includes('문화원')));
 assert.deepEqual(get(1).records[0].adultMealKRW,[58000,68000]);assert(get(18).availabilityNote.includes('2027년 10월'));
 for(const id of Object.keys(scope.excludedVenues))assert(!c.venues.some(v=>v.id===id));
 for(const file of ['index.html','catalog.json','catalog.js','catalog.csv','pricing.csv','PRICING_REPORT.md','SURVEY_REPORT.md','ENRICHMENT_REPORT.md'])assert(!/은평|eunpyeong/.test(fs.readFileSync(file,'utf8')),file+' removed area absent');

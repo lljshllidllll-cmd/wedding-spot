@@ -352,30 +352,6 @@
     }
   },
   {
-    "id": "venue-055",
-    "name": "베뉴비안",
-    "field": "phone",
-    "before": null,
-    "after": "02-842-7200",
-    "source": {
-      "url": "http://www.venuevian.com/",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-055",
-    "name": "베뉴비안",
-    "field": "website",
-    "before": null,
-    "after": "http://www.venuevian.com/",
-    "source": {
-      "url": "http://www.venuevian.com/",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
     "id": "venue-056",
     "name": "루나미엘레",
     "field": "phone",

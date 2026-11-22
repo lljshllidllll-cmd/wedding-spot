@@ -46,7 +46,7 @@
 | 너른마당 | 경기 고양시 덕양구 서삼릉길 233-4 | 한옥·야외 정원 웨딩 중심 시설 |
 | 라피쥬웨딩 원흥점 | 경기 고양시 덕양구 서삼릉길 120 | 야외 웨딩숲·가든 상품 중심 시설 |
 | 해피뉴데이 힐하우스 일산 | 경기 고양시 덕양구 동헌로 385-18 | 야외 하우스·가든 웨딩 중심 시설 |
-| 하우스 오브 콩두 | 서울 영등포구 여의대로 24, FKI타워 50층 | 루프탑 야외 웨딩 중심 시설 |
+| 베뉴비안 | 서울 영등포구 신길로 89 | 과거 상호 백악관웨딩문화원 · 문화원 계열 예식시설 제외 기준 |
 | 서대문구청 본관강당 | 서울 서대문구 연희로 248, 구청 본관 6층 | 일반 예식장이 아닌 공공기관 강당 대관 시설 |
 | 서울물재생공원 | 서울 강서구 마곡동 1131 | 공원·야외 공공예식 공간 |
 | 양천문화회관 리더스웨딩홀 | 서울 양천구 목동서로 367 | 문화회관 내 문화시설 예식 공간 |
@@ -118,13 +118,13 @@
 | 영등포구 | 더베르G | 공식 예식 안내 있음 | 서울 영등포구 국회대로 612, 코레일유통사옥 2층 | 02-2088-5272 | 건물 내 400대 · 하객 2시간 무료, 혼주 5대 5시간 무료 | https://www.theverde-g.kr/ | https://www.theverde-g.kr/reservation |  |
 | 영등포구 | 웨딩여율리 | 공식 예식 안내 있음 | 서울 영등포구 국제금융로6길 26, 한국노총빌딩 5층 | 02-6277-0777 | 무료 주차 2시간 · 주차요원 안내, 대수 미공개 | https://www.yyrwed.com/ | https://www.yyrwed.com/main/ |  |
 | 영등포구 | 웨스턴베니비스 영등포 | 공식 예식 안내 있음 | 서울 영등포구 국회대로 558 | 02-6297-7000 | 현대해상 강서사옥 지하 · 2시간 무료 | https://ydp.thebennevis.co.kr/ | https://ydp.thebennevis.co.kr/ | 주차장 주소는 당산로 141로 예식장 주소와 다름. |
-| 영등포구 | 베뉴비안 | 공식 예식 안내 있음 | 서울 영등포구 신길로 89 | 02-842-7200 | 공개자료에서 확인되지 않음 | http://www.venuevian.com/ | http://www.venuevian.com/ | 공식 사이트에서 신길동 주소·웨딩홀 안내 및 대표번호 확인. 실제 신규 예약은 재확인 필요. |
 | 영등포구 | 루나미엘레 | 공식 예식 안내 있음 | 서울 영등포구 여의공원로 101, CCMM빌딩 12층 | 02-783-8811 | 약 700대 동시 주차 · 무료 시간·혼주 조건 재확인 필요 | http://www.lunamiele.co.kr/ | http://www.lunamiele.co.kr/location/ | 접속 가능한 공식 주소와 현 사이트의 연락처로 보완. |
 | 영등포구 | FKI플라자 | 공식 예식 안내 있음 | 서울 영등포구 여의대로 24, FKI타워 컨퍼런스센터 1층 | 02-2055-4780 | 700대 · 하객 3시간 무료, 혼주·가족 차량 8시간 무료 | https://www.plazawedding.co.kr/info2/weddinghall.do | https://www.plazawedding.co.kr/info2/weddinghall.do |  |
 | 영등포구 | 콘래드 서울 | 공식 예식 안내 있음 | 서울 영등포구 국제금융로 10 | 02-6137-7230 | 공개자료에서 확인되지 않음 | https://www.conradseoul.co.kr/hub/ko/gather/wedding.do | https://www.conradseoul.co.kr/hub/en/cstmr/contact.do |  |
 | 영등포구 | 페어몬트 앰배서더 서울 | 공식 예식 안내 있음 | 서울 영등포구 여의대로 108 | 02-3395-6000 | 공개자료에서 확인되지 않음 | https://fairmont-seoul.com/ | https://fairmont-seoul.com/en/weddingsfamilyevent/wedding_grandballroom/ |  |
 | 영등포구 | 글래드 여의도 | 공식 예식 안내 있음 | 서울 영등포구 의사당대로 16 | 02-6222-5222 | 공개자료에서 확인되지 않음 | https://www.glad-hotels.com/yeouido/wedding/wedding.do | https://www.glad-hotels.com/yeouido/wedding/wedding.do |  |
 | 영등포구 | 켄싱턴호텔 여의도 | 공식 예식 안내 있음 | 서울 영등포구 국회대로76길 16 | 02-6670-7332 | 200대 · 하객 3시간 무료, 이후 10분당 1,000원 | https://m.kensington.co.kr/hyd/wedding_party/detail?idx=73&type=wedding | https://m.kensington.co.kr/hyd/wedding_party/detail?idx=73&type=wedding |  |
+| 영등포구 | 하우스 오브 콩두 | 공식 예식 안내 있음 | 서울 영등포구 여의대로 24, FKI타워 50층 | 02-722-7002 | 공개자료에서 확인되지 않음 | https://congdu.co.kr/ | https://congdu.co.kr/wedding/ | FKI플라자와 같은 건물이지만 별도 층·브랜드·상품으로 구분. 비교 대상은 실내 예식 상품만 포함합니다. |
 | 영등포구 | 마리앤코 코지가든 | 공식 예식 안내 있음 | 서울 영등포구 양평로 8, 3층 | 02-541-2111 | 기계식 약 40대 · 하객 3시간, 혼주 6시간 무료 | https://marieenco.co.kr/place/43 | https://www.marieenco.co.kr/place/43 | 미니 상품과 일반 상품은 같은 장소로 통합. |
 | 영등포구 | 마리앤코 영등포역점 | 공식 예식 안내 있음 | 서울 영등포구 경인로 870, 영등포 J&S | 02-541-2111 | 지하 약 100대 · 하객 3시간, 혼주 6시간 무료 | https://www.marieenco.co.kr/place/38 | https://www.marieenco.co.kr/issue/26 | 외부 플랫폼의 700대 표기와 달라, 운영사 지점 상세의 100대·3시간 안내를 우선 반영. |
 | 영등포구 | 워킹온더클라우드 | 외부 목록 수록 | 서울 영등포구 63로 50, 59층 | 미확인 | 주차 가능 · 대수·이용 조건 미공개 | https://www.63restaurant.co.kr/ | https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ca0afb5a-0214-4567-a4d4-e5c4d58b750a | 한국관광공사의 스몰웨딩 안내 확인. 63컨벤션센터와 별도 장소. |
