@@ -304,18 +304,6 @@
     }
   },
   {
-    "id": "venue-049",
-    "name": "더파티움 여의도",
-    "field": "website",
-    "before": "https://thepartyum.com/",
-    "after": "https://www.thepartyum.com/",
-    "source": {
-      "url": "https://www.thepartyum.com/",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
     "id": "venue-056",
     "name": "루나미엘레",
     "field": "phone",
@@ -383,54 +371,6 @@
     "after": "https://www.plazawedding.co.kr/info2/weddinghall.do",
     "source": {
       "url": "https://www.plazawedding.co.kr/info2/weddinghall.do",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-063",
-    "name": "마리앤코 코지가든",
-    "field": "phone",
-    "before": null,
-    "after": "02-541-2111",
-    "source": {
-      "url": "https://marieenco.co.kr/contact",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-063",
-    "name": "마리앤코 코지가든",
-    "field": "parking",
-    "before": "기계식 40대 · 예식 고객 3시간 무료",
-    "after": "기계식 약 40대 · 하객 3시간, 혼주 6시간 무료",
-    "source": {
-      "url": "https://marieenco.co.kr/place/43",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-064",
-    "name": "마리앤코 영등포역점",
-    "field": "phone",
-    "before": null,
-    "after": "02-541-2111",
-    "source": {
-      "url": "https://marieenco.co.kr/contact",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-064",
-    "name": "마리앤코 영등포역점",
-    "field": "parking",
-    "before": "운영사 개장 안내 약 100대 / 외부 플랫폼 700대로 상충 · 재확인 필요",
-    "after": "지하 약 100대 · 하객 3시간, 혼주 6시간 무료",
-    "source": {
-      "url": "https://marieenco.co.kr/place/38",
       "type": "official",
       "checkedAt": "2026-11-22"
     }
