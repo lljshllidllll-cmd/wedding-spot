@@ -4,11 +4,18 @@ import assert from 'node:assert/strict';
 const c=JSON.parse(fs.readFileSync('catalog.json','utf8'));
 const serialized=vm.runInNewContext(fs.readFileSync('catalog.js','utf8')+';JSON.stringify(venueCatalog)');
 assert.deepEqual(JSON.parse(serialized),c,'브라우저 데이터와 JSON 일치');
-assert.equal(c.regions.length,8);
-assert.equal(c.venues.length,51);
-assert.equal(c.excluded.length,66);
+assert.equal(c.regions.length,7);
+assert.equal(c.venues.length,41);
+assert.equal(c.excluded.length,67);
+assert.deepEqual(c.venues.filter(v=>v.region==='ilsan-west').map(v=>v.name),['더블유페스타 일산점','베뉴지1995']);
+assert(!c.excluded.some(v=>v.name==='더블유페스타 일산점'));
+for(const name of ['웨스턴빌리프','일산컨벤션웨딩홀뷔페']){assert(!c.venues.some(v=>v.name===name));assert(c.excluded.some(v=>v.name===name));}
+for(const name of ['호텔 나루 서울 엠갤러리','아펠가모 공덕']){assert(!c.venues.some(v=>v.name===name));assert(c.excluded.some(v=>v.name===name));}
 assert(!JSON.stringify(c).includes('eunpyeong'));
 assert(!JSON.stringify(c).includes('은평'));
+assert(!c.regions.some(r=>r.id==='seodaemun'));
+assert(!c.venues.some(v=>v.region==='seodaemun'));
+assert(!c.excluded.some(v=>v.region==='seodaemun'));
 assert.equal(new Set(c.venues.map(v=>v.id)).size,c.venues.length);
 assert.equal(new Set(c.venues.map(v=>v.region+'|'+v.name)).size,c.venues.length);
 for(const v of c.venues){assert(c.regions.some(r=>r.id===v.region));assert(c.statusLabels[v.status]);assert(v.name&&v.address&&v.parking&&v.source);assert(['http:','https:'].includes(new URL(v.source).protocol));if(v.website)assert(['http:','https:'].includes(new URL(v.website).protocol));if(v.phone)assert.match(v.phone,/^[0-9+-]+$/);}

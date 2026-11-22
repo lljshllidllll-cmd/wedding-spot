@@ -2,34 +2,6 @@
   "checkedAt": "2026-11-22",
   "methodology": "네이버 명칭 검색의 플레이스 표시 집계. 업체명과 주소를 대조하여 지점 선택. 방문자리뷰와 블로그 리뷰는 합산 선택 시에만 더함. 호텔 전체 리뷰는 웨딩 전용 후기 수가 아님. 검색 집계의 갱신 시차와 광고·협찬 글이 포함될 수 있음. 미표시는 null로 보존.",
   "venues": {
-    "venue-001": {
-      "checkedAt": "2026-11-22",
-      "status": "matched",
-      "visitor": 9,
-      "blog": 1437,
-      "placeId": "1326158659",
-      "placeName": "더블유페스타 일산점",
-      "placeAddress": "경기 고양시 일산서구 일현로 97-11 제니스스퀘어 상가동 B299호, B499호",
-      "category": "뷔페",
-      "sourceUrl": "https://search.naver.com/search.naver?query=%EB%8D%94%EB%B8%94%EC%9C%A0%ED%8E%98%EC%8A%A4%ED%83%80%20%EC%9D%BC%EC%82%B0%EC%A0%90",
-      "placeUrl": "https://m.place.naver.com/place/1326158659/home",
-      "scope": "뷔페·연회 전체 리뷰 · 돌잔치 등 포함",
-      "note": ""
-    },
-    "venue-002": {
-      "checkedAt": "2026-11-22",
-      "status": "matched",
-      "visitor": 15,
-      "blog": 32,
-      "placeId": "1435610174",
-      "placeName": "그래머시 킨텍스 그랜드볼룸",
-      "placeAddress": "경기도 고양시 일산서구 킨텍스로 217-60 킨텍스 1전시장 3층",
-      "category": "예식장",
-      "sourceUrl": "https://search.naver.com/search.naver?query=%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8B%9C%20%ED%82%A8%ED%85%8D%EC%8A%A4%20%EC%9D%BC%EC%82%B0%EC%84%9C%EA%B5%AC",
-      "placeUrl": "https://m.place.naver.com/place/1435610174/home",
-      "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
-      "note": "제1전시장 그랜드볼룸 플레이스 기준. 예약실·아네스홀 리뷰는 합산하지 않음."
-    },
     "venue-003": {
       "checkedAt": "2026-11-22",
       "status": "matched",
@@ -42,20 +14,6 @@
       "sourceUrl": "https://search.naver.com/search.naver?query=%EC%86%8C%EB%85%B8%EC%BA%84%20%EA%B3%A0%EC%96%91%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC",
       "placeUrl": "https://m.place.naver.com/place/31403330/home",
       "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
-      "note": ""
-    },
-    "venue-004": {
-      "checkedAt": "2026-11-22",
-      "status": "matched",
-      "visitor": 20,
-      "blog": 1024,
-      "placeId": "757968614",
-      "placeName": "웨스턴빌리프 웨딩홀",
-      "placeAddress": "경기도 고양시 일산동구 정발산로 24 B동주차장 웨스턴타워3차 9층",
-      "category": "예식장",
-      "sourceUrl": "https://search.naver.com/search.naver?query=%EC%9B%A8%EC%8A%A4%ED%84%B4%EB%B9%8C%EB%A6%AC%ED%94%84%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC",
-      "placeUrl": "https://m.place.naver.com/place/757968614/home",
-      "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
       "note": ""
     },
     "venue-005": {
@@ -226,20 +184,6 @@
       "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
       "note": ""
     },
-    "venue-017": {
-      "checkedAt": "2026-11-22",
-      "status": "matched",
-      "visitor": 2,
-      "blog": 17,
-      "placeId": "1254163651",
-      "placeName": "그래머시 킨텍스 아네스홀",
-      "placeAddress": "경기도 고양시 일산서구 킨텍스로 217-59 킨텍스 제2전시장 3층 301호",
-      "category": "예식장",
-      "sourceUrl": "https://search.naver.com/search.naver?query=%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8B%9C%20%ED%82%A8%ED%85%8D%EC%8A%A4%20%EC%95%84%EB%84%A4%EC%8A%A4%ED%99%80",
-      "placeUrl": "https://m.place.naver.com/place/1254163651/home",
-      "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
-      "note": ""
-    },
     "venue-018": {
       "checkedAt": "2026-11-22",
       "status": "matched",
@@ -293,20 +237,6 @@
       "category": "예식장",
       "sourceUrl": "https://search.naver.com/search.naver?query=%EC%9D%B4%EB%A3%B8%EC%9B%A8%EB%94%A9%EC%BB%A8%EB%B2%A4%EC%85%98",
       "placeUrl": "https://m.place.naver.com/place/20322273/home",
-      "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
-      "note": ""
-    },
-    "venue-032": {
-      "checkedAt": "2026-11-22",
-      "status": "matched",
-      "visitor": 70,
-      "blog": 2658,
-      "placeId": "1929913788",
-      "placeName": "아펠가모 공덕",
-      "placeAddress": "서울특별시 마포구 마포대로 92 효성해링턴스퀘어 B동 6~7층",
-      "category": "예식장",
-      "sourceUrl": "https://search.naver.com/search.naver?query=%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95",
-      "placeUrl": "https://m.place.naver.com/place/1929913788/home",
       "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
       "note": ""
     },
@@ -380,20 +310,6 @@
       "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
       "note": ""
     },
-    "venue-038": {
-      "checkedAt": "2026-11-22",
-      "status": "matched",
-      "visitor": 597,
-      "blog": 4876,
-      "placeId": "1923905766",
-      "placeName": "호텔 나루 서울 엠갤러리",
-      "placeAddress": "서울 마포구 마포대로 8 호텔 나루 서울 엠갤러리",
-      "category": "호텔",
-      "sourceUrl": "https://search.naver.com/search.naver?query=%ED%98%B8%ED%85%94%20%EB%82%98%EB%A3%A8%20%EC%84%9C%EC%9A%B8%20%EC%97%A0%EA%B0%A4%EB%9F%AC%EB%A6%AC",
-      "placeUrl": "https://m.place.naver.com/place/1923905766/home",
-      "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
-      "note": ""
-    },
     "venue-039": {
       "checkedAt": "2026-11-22",
       "status": "matched",
@@ -406,20 +322,6 @@
       "sourceUrl": "https://search.naver.com/search.naver?query=%EB%9D%BC%EC%9D%B4%EC%A6%88%20%EC%98%A4%ED%86%A0%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%BB%AC%EB%A0%89%EC%85%98",
       "placeUrl": "https://m.place.naver.com/place/1578505636/home",
       "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
-      "note": ""
-    },
-    "venue-042": {
-      "checkedAt": "2026-11-22",
-      "status": "matched",
-      "visitor": 1,
-      "blog": 440,
-      "placeId": "13281724",
-      "placeName": "스위스그랜드호텔서울컨벤션센터",
-      "placeAddress": "서울특별시 서대문구 연희로 353",
-      "category": "컨벤션센터",
-      "sourceUrl": "https://search.naver.com/search.naver?query=%EC%8A%A4%EC%9C%84%EC%8A%A4%20%EA%B7%B8%EB%9E%9C%EB%93%9C%20%ED%98%B8%ED%85%94",
-      "placeUrl": "https://m.place.naver.com/place/13281724/home",
-      "scope": "컨벤션센터 전체 리뷰 · 행사 등 포함",
       "note": ""
     },
     "venue-043": {
@@ -660,61 +562,19 @@
       "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
       "note": ""
     },
-    "venue-073": {
+    "venue-001": {
       "checkedAt": "2026-11-22",
       "status": "matched",
-      "visitor": null,
-      "blog": 8,
-      "placeId": "11493592",
-      "placeName": "일산컨벤션웨딩홀뷔페",
-      "placeAddress": "경기도 고양시 덕양구 화중로 50 대산프라자",
-      "category": "예식장",
-      "sourceUrl": "https://search.naver.com/search.naver?query=%EC%9D%BC%EC%82%B0%EC%BB%A8%EB%B2%A4%EC%85%98%EC%9B%A8%EB%94%A9%ED%99%80%EB%B7%94%ED%8E%98",
-      "placeUrl": "https://m.place.naver.com/place/11493592/home",
-      "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
-      "note": "방문자리뷰 숫자 미표시. 0건으로 간주하지 않음."
-    },
-    "venue-077": {
-      "checkedAt": "2026-11-22",
-      "status": "matched",
-      "visitor": null,
-      "blog": 29,
-      "placeId": "1765085901",
-      "placeName": "베이스",
-      "placeAddress": "서울특별시 서대문구 성산로 309-14 5층",
-      "category": "예식장",
-      "sourceUrl": "https://search.naver.com/search.naver?query=%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%B1%EC%82%B0%EB%A1%9C%20309-14",
-      "placeUrl": "https://m.place.naver.com/place/1765085901/home",
-      "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
-      "note": "방문자리뷰 숫자 미표시. 0건으로 간주하지 않음."
-    },
-    "venue-078": {
-      "checkedAt": "2026-11-22",
-      "status": "matched",
-      "visitor": 26,
-      "blog": 18,
-      "placeId": "1332476804",
-      "placeName": "예스에이피엠컨벤시아",
-      "placeAddress": "서울특별시 서대문구 이화여대1길 10",
-      "category": "예식장",
-      "sourceUrl": "https://search.naver.com/search.naver?query=%EC%98%88%EC%8A%A4%EC%97%90%EC%9D%B4%ED%94%BC%EC%97%A0%EC%BB%A8%EB%B2%A4%EC%8B%9C%EC%95%84",
-      "placeUrl": "https://m.place.naver.com/place/1332476804/home",
-      "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+      "visitor": 9,
+      "blog": 1437,
+      "placeId": "1326158659",
+      "placeName": "더블유페스타 일산점",
+      "placeAddress": "경기 고양시 일산서구 일현로 97-11 제니스스퀘어 상가동 B299호, B499호",
+      "category": "뷔페",
+      "sourceUrl": "https://search.naver.com/search.naver?query=%EB%8D%94%EB%B8%94%EC%9C%A0%ED%8E%98%EC%8A%A4%ED%83%80%20%EC%9D%BC%EC%82%B0%EC%A0%90",
+      "placeUrl": "https://m.place.naver.com/place/1326158659/home",
+      "scope": "뷔페·연회 전체 리뷰 · 돌잔치 등 포함",
       "note": ""
-    },
-    "venue-079": {
-      "checkedAt": "2026-11-22",
-      "status": "unconfirmed",
-      "visitor": null,
-      "blog": null,
-      "placeId": null,
-      "placeName": null,
-      "placeAddress": null,
-      "category": null,
-      "sourceUrl": "https://search.naver.com/search.naver?query=%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%B0%BD%EC%B2%9C%EB%8F%99",
-      "placeUrl": null,
-      "scope": "동일 주소의 플레이스 리뷰 수 미확인",
-      "note": "마포구 곤자가컨벤션 리뷰는 사용하지 않음."
     }
   }
 }

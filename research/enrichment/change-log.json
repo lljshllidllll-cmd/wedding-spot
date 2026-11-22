@@ -1,13 +1,5 @@
 [
   {
-    "id": "venue-002",
-    "name": "그래머시 킨텍스",
-    "field": "website",
-    "before": null,
-    "after": "https://www.kintex.com/",
-    "source": null
-  },
-  {
     "id": "venue-003",
     "name": "소노캄 고양",
     "field": "parking",
@@ -15,30 +7,6 @@
     "after": "호텔 무료 주차장 · 공식 웨딩 안내의 수용 대수 미공개",
     "source": {
       "url": "https://www.sonohotelsresorts.com/calm_gy/wedding",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-004",
-    "name": "웨스턴빌리프",
-    "field": "parking",
-    "before": "주차 대수·요금 확인 필요",
-    "after": "주차 전담팀 상주 · 정확한 대수·무료 시간 미공개",
-    "source": {
-      "url": "https://westernbelief.kr/",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-004",
-    "name": "웨스턴빌리프",
-    "field": "website",
-    "before": null,
-    "after": "https://westernbelief.kr/",
-    "source": {
-      "url": "https://westernbelief.kr/",
       "type": "official",
       "checkedAt": "2026-11-22"
     }
@@ -140,26 +108,6 @@
     }
   },
   {
-    "id": "venue-017",
-    "name": "그래머시 킨텍스 아네스홀",
-    "field": "phone",
-    "before": null,
-    "after": "031-995-8700",
-    "source": {
-      "url": "https://www.kintex.com/download/formatModal/Meeting%20Organizer%20Manual.pdf",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-017",
-    "name": "그래머시 킨텍스 아네스홀",
-    "field": "website",
-    "before": null,
-    "after": "https://www.kintex.com/",
-    "source": null
-  },
-  {
     "id": "venue-019",
     "name": "천년컨벤션웨딩홀",
     "field": "website",
@@ -191,18 +139,6 @@
     "after": "http://www.theterrace.co/",
     "source": {
       "url": "http://www.theterrace.co/",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-032",
-    "name": "아펠가모 공덕",
-    "field": "website",
-    "before": "https://apelgamo.com/",
-    "after": "https://apelgamo.com/home/wedding5",
-    "source": {
-      "url": "https://apelgamo.com/home/wedding5",
       "type": "official",
       "checkedAt": "2026-11-22"
     }
@@ -372,30 +308,6 @@
     "source": {
       "url": "https://www.plazawedding.co.kr/info2/weddinghall.do",
       "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-078",
-    "name": "예스에이피엠컨벤시아",
-    "field": "phone",
-    "before": null,
-    "after": "02-6373-7500",
-    "source": {
-      "url": "https://www.naraecard.co.kr/location1_pop.php?copt=&keycode=&keyword=&page=243",
-      "type": "historical",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-079",
-    "name": "캠퍼스웨딩홀(서울부페)",
-    "field": "phone",
-    "before": null,
-    "after": "02-333-2727",
-    "source": {
-      "url": "https://www.cardmaul.com/location.php?ml_addr=&ml_kind=&page=380&wedding_opt=&wedding_value=",
-      "type": "historical",
       "checkedAt": "2026-11-22"
     }
   }

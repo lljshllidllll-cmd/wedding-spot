@@ -4,14 +4,9 @@ import assert from 'node:assert/strict';
 const root=process.cwd(),out=path.join(root,'dist');
 const catalog=JSON.parse(fs.readFileSync('catalog.json','utf8'));
 const files=['index.html','styles.css','gallery.css','pricing.css','script.js','catalog.js','catalog.json','catalog.csv','pricing.csv','SURVEY_REPORT.md','ENRICHMENT_REPORT.md','PRICING_REPORT.md',...catalog.venues.flatMap(v=>v.photos.map(p=>p.localPath))];
+assert.equal(out,path.resolve(root,'dist'),'배포 경로는 프로젝트 dist 폴더');
+fs.rmSync(out,{recursive:true,force:true});
 fs.mkdirSync(out,{recursive:true});
-// Only the distribution copy is pruned; original research photos remain intact.
-const photoOut=path.join(out,'public','photos'),selected=new Set(files);
-if(fs.existsSync(photoOut))for(const name of fs.readdirSync(photoOut)){
- const relative='public/photos/'+name,target=path.resolve(photoOut,name);
- assert(target.startsWith(path.resolve(photoOut)+path.sep),'Photo remains in distribution folder');
- if(/^venue-\d+-\d+\.(?:jpg|png|webp)$/.test(name)&&!selected.has(relative))fs.unlinkSync(target);
-}
 let bytes=0;
 for(const file of new Set(files)){
  const source=path.resolve(root,file),target=path.resolve(out,file);
