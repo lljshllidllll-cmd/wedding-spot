@@ -5329,211 +5329,6 @@ const venueCatalog = {
       }
     },
     {
-      "type": "하우스",
-      "phone": "02-6936-6060",
-      "parking": "외부 100대 안내 · 예약 플랫폼 기준",
-      "parkingKnown": true,
-      "website": "https://www.onze-droom.com/",
-      "aliases": [],
-      "note": "운영사 공식 사이트 확인. 합정 공간의 예식일·주차 조건은 통합 상담처에 확인 필요.",
-      "checkedAt": "2026-11-22",
-      "region": "mapo",
-      "name": "온즈드롬 합정",
-      "address": "서울 마포구 양화진2길 31, 주니비노호텔 저스티나",
-      "status": "official",
-      "source": "https://www.weddingbook.com/weddinghall/991c270d-d951-11ef-9d4f-023379a10fd2",
-      "id": "venue-040",
-      "fieldSources": {
-        "phone": {
-          "url": "https://www.onze-droom.com/",
-          "type": "official",
-          "checkedAt": "2026-11-22"
-        },
-        "website": {
-          "url": "https://www.onze-droom.com/",
-          "type": "official",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "phoneLabel": "온즈드롬 통합 상담",
-      "phoneSourceType": "official",
-      "searchChecks": {
-        "naver": {
-          "query": "온즈드롬 합정 마포구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EC%98%A8%EC%A6%88%EB%93%9C%EB%A1%AC%20%ED%95%A9%EC%A0%95%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "온즈드롬 합정 마포구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EC%98%A8%EC%A6%88%EB%93%9C%EB%A1%AC%20%ED%95%A9%EC%A0%95%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"온즈드롬 합정\" 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EC%98%A8%EC%A6%88%EB%93%9C%EB%A1%AC%20%ED%95%A9%EC%A0%95%22%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": "https://www.onze-droom.com/",
-            "status": "공식 페이지 접근 · 유효 가격 미확보",
-            "pages": [
-              {
-                "url": "https://www.onze-droom.com/",
-                "title": "온즈드롬"
-              }
-            ],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "온즈드롬 합정 마포구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EC%98%A8%EC%A6%88%EB%93%9C%EB%A1%AC%20%ED%95%A9%EC%A0%95%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "웨딩일기 ‘웨딩홀 투어’ | [온즈드롬 합정] 스몰웨딩 카페대관웨딩 투어 후기 / 견적공유, 장단점 정리",
-              "url": "https://blog.naver.com/myscent_/223638287423",
-              "publishedAt": "2024-10-29",
-              "readLevel": "본문 열람",
-              "priceUse": "비공개 견적 · 금액 미사용",
-              "note": "가격은 댓글·메일 등으로 공유되며 공개 본문만으로 날짜별 대관료·식대 확정 불가.",
-              "independence": "광고·협찬 여부 미확인"
-            }
-          ]
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "하우스",
-      "phone": "02-2248-4580",
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": "https://www.kinaflower.com/",
-      "aliases": [],
-      "note": "",
-      "checkedAt": "2026-11-22",
-      "region": "mapo",
-      "name": "키나웨딩홀",
-      "address": "서울 마포구 상수동 92-3, 키나플라워",
-      "status": "official",
-      "source": "https://www.kinaflower.com/VENUE",
-      "id": "venue-041",
-      "searchChecks": {
-        "naver": {
-          "query": "키나웨딩홀 마포구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%ED%82%A4%EB%82%98%EC%9B%A8%EB%94%A9%ED%99%80%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "키나웨딩홀 마포구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%ED%82%A4%EB%82%98%EC%9B%A8%EB%94%A9%ED%99%80%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [
-        {
-          "imageUrl": "https://cdn.imweb.me/thumbnail/20260720/1bc1a5ba96769.png",
-          "sourcePage": "https://www.kinaflower.com/",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-041-1.png",
-          "width": 1080,
-          "height": 1350,
-          "sha256": "63797518594f0be383b2657869e2a1da528d15f92d6a0961b82b958579fdd169",
-          "bytes": 1711153,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "https://cdn.imweb.me/thumbnail/20260629/4344ac0a1d47d.png",
-          "sourcePage": "https://www.kinaflower.com/",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-041-2.png",
-          "width": 960,
-          "height": 1200,
-          "sha256": "1ec0a5287948f5b63bcf1b4e0c84ba0763dfaa2bd9f5d234ee512fa8cf20071b",
-          "bytes": 1508033,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        }
-      ],
-      "photoStatus": "partial",
-      "photoNote": "공식 사이트 공개 이미지 2/5장 · 촬영일 미공개",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"키나웨딩홀\" 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%ED%82%A4%EB%82%98%EC%9B%A8%EB%94%A9%ED%99%80%22%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": "https://www.kinaflower.com/",
-            "status": "공식 페이지 접근 · 유효 가격 미확보",
-            "pages": [
-              {
-                "url": "https://www.kinaflower.com/",
-                "title": "(주)키나플라워 웨딩·다이닝·이벤트"
-              },
-              {
-                "url": "https://www.kinaflower.com/VENUE",
-                "title": "(주)키나플라워 웨딩·다이닝·이벤트"
-              }
-            ],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "키나웨딩홀 마포구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%ED%82%A4%EB%82%98%EC%9B%A8%EB%94%A9%ED%99%80%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "웨딩베뉴 분석하기_마포 키나플라워 | 예비 신부의 머리터지는 결혼 일기 (5)",
-              "url": "https://blog.naver.com/arrr-r/224452111085",
-              "publishedAt": "2026-10-24",
-              "readLevel": "본문 열람",
-              "priceUse": "참고 후기 · 가격 미사용",
-              "note": "작성자 경험·홍보 안내로 참고. 실제 계약서·적용일·세부 금액의 교차 확인이 되지 않아 가격 근거로 채택하지 않음.",
-              "independence": "광고·협찬 여부 미확인"
-            }
-          ]
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
       "type": "호텔",
       "phone": "02-2287-8700",
       "parking": "공개자료에서 확인되지 않음",
@@ -9526,361 +9321,6 @@ const venueCatalog = {
       "parkingKnown": false,
       "website": null,
       "aliases": [],
-      "note": "한국소비자원 중요정보 공개 목록에 2026-11-18 공시 확인. 이용자격·연락처·주차 미확인.",
-      "checkedAt": "2026-11-22",
-      "region": "yeongdeungpo",
-      "name": "KBS신관웨딩홀",
-      "address": "서울 영등포구 여의공원로 13, KBS 신관",
-      "status": "listed",
-      "source": "https://www.price.go.kr/tprice/portal/board/boardInfoMgr.do?boardTypeCode=0090000141",
-      "id": "venue-067",
-      "searchChecks": {
-        "naver": {
-          "query": "KBS신관웨딩홀 영등포구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=KBS%EC%8B%A0%EA%B4%80%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "KBS신관웨딩홀 영등포구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=KBS%EC%8B%A0%EA%B4%80%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "KBS 관계자 무료 · 일반 미확인",
-        "mealSummary": "51,000~66,000원",
-        "summaryType": "한국소비자원 게시 업체 공시 · 적용기간은 상세 확인",
-        "records": [
-          {
-            "label": "KBS 신관홀 / 관계자 조건",
-            "kind": "한국소비자원 게시 업체 공시",
-            "period": "2026-11-22 공시 원본 조회 · 예식 적용연도·월 미표기",
-            "rental": "0원",
-            "adultMeal": "51,000원~66,000원 / 성인 1인",
-            "rentalKRW": [
-              0,
-              0
-            ],
-            "adultMealKRW": [
-              51000,
-              66000
-            ],
-            "extras": "‘KBS 관계자 대관료 없음’ 조건. 일반 고객 대관료와 예약 자격은 미확인. 보증 200명. 장식비 88만원, 식음료 추가는 총인원 1/4 계산 표기(단가 미기재). VAT 포함.",
-            "sourceLabel": "한국소비자원 게시 업체 공시 원문",
-            "source": "https://www.price.go.kr/tprice/common/file/file_down.do?fileRgtnSeq=31987"
-          }
-        ],
-        "comparisonNote": "대관 무료는 KBS 관계자 조건입니다. 일반인도 무료라는 의미가 아닙니다.",
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"KBS신관웨딩홀\" 서울 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22KBS%EC%8B%A0%EA%B4%80%EC%9B%A8%EB%94%A9%ED%99%80%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": null,
-            "status": "공식 가격 원문 확보",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "KBS신관웨딩홀 영등포구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=KBS%EC%8B%A0%EA%B4%80%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "[영등포구예식장소]KBS씨작웨딩홀,여의도예식장소,예식홀섭외,예식비용,결혼준비,박경숙실장",
-              "url": "https://blog.naver.com/rhaekffo12/140194890850",
-              "publishedAt": "작성일 확인 필요",
-              "readLevel": "본문 열람",
-              "priceUse": "참고 후기 · 가격 미사용",
-              "note": "작성자 경험·홍보 안내로 참고. 실제 계약서·적용일·세부 금액의 교차 확인이 되지 않아 가격 근거로 채택하지 않음.",
-              "independence": "광고·협찬 여부 미확인"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": "02-761-2307",
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": null,
-      "aliases": [
-        "한결웨딩뷔페 한국거래소점",
-        "라피쥬웨딩 한국거래소점"
-      ],
-      "note": "시설은 한 곳으로 집계. 운영상품·이용자격·계약 상대는 현행 운영처에 확인 필요.",
-      "checkedAt": "2026-11-22",
-      "region": "yeongdeungpo",
-      "name": "한국거래소 웨딩홀",
-      "address": "서울 영등포구 여의나루로 76",
-      "status": "listed",
-      "source": "https://yozmwedding.co.kr/venue/?bmode=view&idx=19854223",
-      "id": "venue-068",
-      "phoneLabel": "외부 예식 소개 번호 · 현재 운영처·연결 미확인",
-      "phoneSourceType": "external",
-      "fieldSources": {
-        "phone": {
-          "url": "https://blog.naver.com/xo_xo0",
-          "type": "external",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "searchChecks": {
-        "naver": {
-          "query": "한국거래소 웨딩홀 영등포구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EA%B1%B0%EB%9E%98%EC%86%8C%20%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "한국거래소 웨딩홀 영등포구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%ED%95%9C%EA%B5%AD%EA%B1%B0%EB%9E%98%EC%86%8C%20%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "330만원 · 꽃 별도",
-        "mealSummary": "65,000~115,000원",
-        "summaryType": "중개업체 정가 · 적용기간은 상세 확인",
-        "records": [
-          {
-            "label": "한국거래소 · 중개 정가",
-            "kind": "중개업체 정가",
-            "period": "적용연도·월 미표기 · 2026-11-22 본문 조회",
-            "rental": "3,300,000원",
-            "adultMeal": "65,000원~115,000원 / 성인 1인",
-            "rentalKRW": [
-              3300000,
-              3300000
-            ],
-            "adultMealKRW": [
-              65000,
-              115000
-            ],
-            "extras": "꽃장식 330만원 별도, 음주류 1인 5,000원 별도. 페이지는 한결웨딩으로 안내하므로 현재 운영사·상품 동일 여부 재확인 필요. 블로그의 ‘추측한 최소견적’은 가격 근거에서 제외. 페이지는 연출료·VAT·봉사료 포함 정가로 안내. 적용 날짜별 할인은 별도 상담.",
-            "sourceLabel": "중개업체 정가 원문",
-            "source": "https://yozmwedding.co.kr/venue/?bmode=view&idx=19854223"
-          },
-          {
-            "label": "한국거래소 · 다른 운영 상품",
-            "kind": "중개업체 공개가",
-            "period": "적용연도·월 미표기 · 2026-11-22 본문 조회",
-            "rental": "3,700,000원",
-            "adultMeal": "67,000원 / 성인 1인",
-            "rentalKRW": [
-              3700000,
-              3700000
-            ],
-            "adultMealKRW": [
-              67000,
-              67000
-            ],
-            "extras": "보증 200명부터. 꽃장식·음주류 포함. 웨딩데이즈 상품이며 다른 중개 페이지의 한결웨딩 상품과 구성·운영사가 다르므로 동일 견적 아님. 적용연도·월 및 VAT·봉사료는 확인 필요.",
-            "sourceLabel": "중개업체 공개가 원문",
-            "source": "https://app.myweddingfriendz.com/weddinghall/weddinghall_view.asp?PartnerNo=351"
-          }
-        ],
-        "comparisonNote": "개인 후기의 금액은 글쓴이가 인터넷으로 추측했다고 밝혀 비교 가격에서 제외했습니다. 현재 운영사도 재확인해야 합니다.",
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"한국거래소 웨딩홀\" 서울 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%ED%95%9C%EA%B5%AD%EA%B1%B0%EB%9E%98%EC%86%8C%20%EC%9B%A8%EB%94%A9%ED%99%80%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": null,
-            "status": "공식 사이트 미확정",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "한국거래소 웨딩홀 영등포구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%ED%95%9C%EA%B5%AD%EA%B1%B0%EB%9E%98%EC%86%8C%20%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "[웨딩홀투어] 여의도 한국거래소 웨딩홀투어 기대보다 마음에들지 않았던 솔직후기(계약X)",
-              "url": "https://blog.naver.com/annievoix/224175323133",
-              "publishedAt": "2026-02-07",
-              "readLevel": "본문 열람",
-              "priceUse": "비공개 견적 · 금액 미사용",
-              "note": "가격은 댓글·메일 등으로 공유되며 공개 본문만으로 날짜별 대관료·식대 확정 불가.",
-              "independence": "광고·협찬 여부 미확인"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": null,
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": null,
-      "aliases": [],
-      "note": "지역 장소 목록에 수록되지만 현행 공식 예식 운영 안내 미확인.",
-      "checkedAt": "2026-11-22",
-      "region": "deogyang",
-      "name": "스마일웨딩홀",
-      "address": "경기 고양시 덕양구 토당로42번길 13-15",
-      "source": "https://lov999.com/region/gyeonggi/goyang/",
-      "status": "pending",
-      "id": "venue-071",
-      "searchChecks": {
-        "naver": {
-          "query": "스마일웨딩홀 덕양구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EC%8A%A4%EB%A7%88%EC%9D%BC%EC%9B%A8%EB%94%A9%ED%99%80%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "스마일웨딩홀 덕양구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EC%8A%A4%EB%A7%88%EC%9D%BC%EC%9B%A8%EB%94%A9%ED%99%80%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "availabilityNote": "현재 예식 운영 여부부터 확인해야 하는 후보입니다. 과거 후기·검색 결과만으로 현재 예약 또는 가격을 보장하지 않습니다.",
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"스마일웨딩홀\" 고양 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EC%8A%A4%EB%A7%88%EC%9D%BC%EC%9B%A8%EB%94%A9%ED%99%80%22%20%EA%B3%A0%EC%96%91%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": null,
-            "status": "공식 사이트 미확정",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "스마일웨딩홀 덕양구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EC%8A%A4%EB%A7%88%EC%9D%BC%EC%9B%A8%EB%94%A9%ED%99%80%20%EB%8D%95%EC%96%91%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 완료 · 해당 시설의 유효 후기 미확보"
-          },
-          "blogReferences": []
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": "031-974-1122",
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": null,
-      "aliases": [],
-      "note": "지도 검색 기반 소개 및 주소록 수록. 허니문예식장과 동일 업체인지는 확정하지 않음.",
-      "checkedAt": "2026-11-22",
-      "region": "deogyang",
-      "name": "허스예식장",
-      "address": "경기 고양시 덕양구 토당로 130",
-      "source": "https://wow-wedding.co.kr/wedding-hall/?region=goyang",
-      "status": "pending",
-      "id": "venue-072",
-      "phoneLabel": "외부 주소록 번호 · 현재 연결·운영 미확인",
-      "phoneSourceType": "historical",
-      "fieldSources": {
-        "phone": {
-          "url": "https://wow-wedding.co.kr/",
-          "type": "historical",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "searchChecks": {
-        "naver": {
-          "query": "허스예식장 덕양구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "허스예식장 덕양구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "availabilityNote": "현재 예식 운영 여부부터 확인해야 하는 후보입니다. 과거 후기·검색 결과만으로 현재 예약 또는 가격을 보장하지 않습니다.",
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"허스예식장\" 고양 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5%22%20%EA%B3%A0%EC%96%91%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": null,
-            "status": "공식 사이트 미확정",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "허스예식장 덕양구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5%20%EB%8D%95%EC%96%91%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 완료 · 해당 시설의 유효 후기 미확보"
-          },
-          "blogReferences": []
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": null,
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": null,
-      "aliases": [],
       "note": "일산이라는 상호지만 소재지는 덕양구. 현행 운영 미확인.",
       "checkedAt": "2026-11-22",
       "region": "deogyang",
@@ -9945,71 +9385,6 @@ const venueCatalog = {
               "independence": "광고·협찬 여부 미확인"
             }
           ]
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": null,
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": null,
-      "aliases": [],
-      "note": "미용실 상호가 예식장 목록에 혼입. 실제 예식홀 보유 여부를 확인할 수 없어 운영 예식장으로 집계하지 않음.",
-      "checkedAt": "2026-11-22",
-      "region": "deogyang",
-      "name": "탑웨딩홀미용실",
-      "address": "경기 고양시 덕양구 중앙로 628",
-      "source": "https://lov999.com/region/gyeonggi/goyang/",
-      "status": "pending",
-      "id": "venue-074",
-      "searchChecks": {
-        "naver": {
-          "query": "탑웨딩홀미용실 덕양구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%ED%83%91%EC%9B%A8%EB%94%A9%ED%99%80%EB%AF%B8%EC%9A%A9%EC%8B%A4%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "탑웨딩홀미용실 덕양구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%ED%83%91%EC%9B%A8%EB%94%A9%ED%99%80%EB%AF%B8%EC%9A%A9%EC%8B%A4%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "availabilityNote": "현재 예식 운영 여부부터 확인해야 하는 후보입니다. 과거 후기·검색 결과만으로 현재 예약 또는 가격을 보장하지 않습니다.",
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"탑웨딩홀미용실\" 고양 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%ED%83%91%EC%9B%A8%EB%94%A9%ED%99%80%EB%AF%B8%EC%9A%A9%EC%8B%A4%22%20%EA%B3%A0%EC%96%91%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": null,
-            "status": "공식 사이트 미확정",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "탑웨딩홀미용실 덕양구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%ED%83%91%EC%9B%A8%EB%94%A9%ED%99%80%EB%AF%B8%EC%9A%A9%EC%8B%A4%20%EB%8D%95%EC%96%91%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 완료 · 해당 시설의 유효 후기 미확보"
-          },
-          "blogReferences": []
         },
         "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
       }
@@ -10241,222 +9616,6 @@ const venueCatalog = {
     },
     {
       "type": "컨벤션",
-      "phone": null,
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": null,
-      "aliases": [],
-      "note": "과거·지역 목록 수록. 현행 공식 예식 운영 안내 미확인.",
-      "checkedAt": "2026-11-22",
-      "region": "gangseo",
-      "name": "럭셔리웨딩스토리",
-      "address": "서울 강서구 양천로 500",
-      "source": "https://lov999.com/region/seoul/seoul-gangseo/",
-      "status": "pending",
-      "id": "venue-081",
-      "searchChecks": {
-        "naver": {
-          "query": "럭셔리웨딩스토리 강서구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EB%9F%AD%EC%85%94%EB%A6%AC%EC%9B%A8%EB%94%A9%EC%8A%A4%ED%86%A0%EB%A6%AC%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "럭셔리웨딩스토리 강서구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EB%9F%AD%EC%85%94%EB%A6%AC%EC%9B%A8%EB%94%A9%EC%8A%A4%ED%86%A0%EB%A6%AC%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "availabilityNote": "현재 예식 운영 여부부터 확인해야 하는 후보입니다. 과거 후기·검색 결과만으로 현재 예약 또는 가격을 보장하지 않습니다.",
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"럭셔리웨딩스토리\" 서울 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EB%9F%AD%EC%85%94%EB%A6%AC%EC%9B%A8%EB%94%A9%EC%8A%A4%ED%86%A0%EB%A6%AC%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": null,
-            "status": "공식 사이트 미확정",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "럭셔리웨딩스토리 강서구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EB%9F%AD%EC%85%94%EB%A6%AC%EC%9B%A8%EB%94%A9%EC%8A%A4%ED%86%A0%EB%A6%AC%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 완료 · 해당 시설의 유효 후기 미확보"
-          },
-          "blogReferences": []
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": null,
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": null,
-      "aliases": [],
-      "note": "지역 목록에만 확인되며 현행 운영 미확인.",
-      "checkedAt": "2026-11-22",
-      "region": "gangseo",
-      "name": "원앙예식장",
-      "address": "서울 강서구 공항동 53-9",
-      "source": "https://lov999.com/region/seoul/seoul-gangseo/",
-      "status": "pending",
-      "id": "venue-082",
-      "searchChecks": {
-        "naver": {
-          "query": "원앙예식장 강서구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EC%9B%90%EC%95%99%EC%98%88%EC%8B%9D%EC%9E%A5%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "원앙예식장 강서구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EC%9B%90%EC%95%99%EC%98%88%EC%8B%9D%EC%9E%A5%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "availabilityNote": "현재 예식 운영 여부부터 확인해야 하는 후보입니다. 과거 후기·검색 결과만으로 현재 예약 또는 가격을 보장하지 않습니다.",
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"원앙예식장\" 서울 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EC%9B%90%EC%95%99%EC%98%88%EC%8B%9D%EC%9E%A5%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": null,
-            "status": "공식 사이트 미확정",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "원앙예식장 강서구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EC%9B%90%EC%95%99%EC%98%88%EC%8B%9D%EC%9E%A5%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 완료 · 해당 시설의 유효 후기 미확보"
-          },
-          "blogReferences": []
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": "02-3664-6006",
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": null,
-      "aliases": [
-        "만추웨딩홀"
-      ],
-      "note": "과거 웨딩업체 안내에서 내발산동 647 확인. 최근 크롤링 날짜는 최근 예식 운영의 증거가 아니므로 운영 확인 필요로 유지.",
-      "checkedAt": "2026-11-22",
-      "region": "gangseo",
-      "name": "블리스웨딩컨벤션",
-      "address": "서울 강서구 내발산동 647",
-      "source": "https://www.itwed.co.kr/store/hall.htm?idx=167&mode=realview",
-      "status": "pending",
-      "id": "venue-083",
-      "phoneLabel": "과거 예식 안내 번호 · 현재 연결·운영 미확인",
-      "phoneSourceType": "historical",
-      "fieldSources": {
-        "phone": {
-          "url": "https://www.itwed.co.kr/",
-          "type": "historical",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "searchChecks": {
-        "naver": {
-          "query": "블리스웨딩컨벤션 강서구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EB%B8%94%EB%A6%AC%EC%8A%A4%EC%9B%A8%EB%94%A9%EC%BB%A8%EB%B2%A4%EC%85%98%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "블리스웨딩컨벤션 강서구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EB%B8%94%EB%A6%AC%EC%8A%A4%EC%9B%A8%EB%94%A9%EC%BB%A8%EB%B2%A4%EC%85%98%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "availabilityNote": "현재 예식 운영 여부부터 확인해야 하는 후보입니다. 과거 후기·검색 결과만으로 현재 예약 또는 가격을 보장하지 않습니다.",
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"블리스웨딩컨벤션\" 서울 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EB%B8%94%EB%A6%AC%EC%8A%A4%EC%9B%A8%EB%94%A9%EC%BB%A8%EB%B2%A4%EC%85%98%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": null,
-            "status": "공식 사이트 미확정",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "블리스웨딩컨벤션 강서구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EB%B8%94%EB%A6%AC%EC%8A%A4%EC%9B%A8%EB%94%A9%EC%BB%A8%EB%B2%A4%EC%85%98%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "[ 웨딩홀 정하기 5탄 ] 강서구 블리스 웨딩 컨벤션 2021년 견적 받은 후기",
-              "url": "https://blog.naver.com/dlsdo525/222154733032",
-              "publishedAt": "2020-11-26",
-              "readLevel": "본문 열람",
-              "priceUse": "참고 후기 · 가격 미사용",
-              "note": "작성자 경험·홍보 안내로 참고. 실제 계약서·적용일·세부 금액의 교차 확인이 되지 않아 가격 근거로 채택하지 않음.",
-              "independence": "운영사·혜택·홍보 문구 있음 / 독립 후기 여부 확인 필요"
-            }
-          ]
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
       "phone": "02-789-5700",
       "parking": "공개자료에서 확인되지 않음",
       "parkingKnown": false,
@@ -10534,843 +9693,6 @@ const venueCatalog = {
               "independence": "광고·협찬 여부 미확인"
             }
           ]
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": "02-6788-3965",
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": "https://assemblywedding.or.kr/?p=8",
-      "aliases": [],
-      "note": "공식 대관 사이트에서 국회소통관·의원동산 안내 확인. 이용 자격·일정은 별도 확인.",
-      "checkedAt": "2026-11-22",
-      "region": "yeongdeungpo",
-      "name": "국회 예식장",
-      "address": "서울 영등포구 의사당대로 1",
-      "source": "https://assemblywedding.or.kr/?p=8",
-      "status": "official",
-      "id": "venue-087",
-      "phoneLabel": "국회 예식 공용 담당 · 공간별 예약 자격 확인",
-      "phoneSourceType": "official",
-      "fieldSources": {
-        "phone": {
-          "url": "https://assemblywedding.or.kr/?p=6",
-          "type": "official",
-          "checkedAt": "2026-11-22"
-        },
-        "website": {
-          "url": "https://assemblywedding.or.kr/?p=8",
-          "type": "official",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "searchChecks": {
-        "naver": {
-          "query": "국회 예식장 영등포구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EA%B5%AD%ED%9A%8C%20%EC%98%88%EC%8B%9D%EC%9E%A5%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "국회 예식장 영등포구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EA%B5%AD%ED%9A%8C%20%EC%98%88%EC%8B%9D%EC%9E%A5%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [
-        {
-          "imageUrl": "https://assemblywedding.or.kr/inc/img/sub/s0103_a1.jpg",
-          "sourcePage": "https://assemblywedding.or.kr/?p=8",
-          "alt": "헌정기념관 신부대기실",
-          "hint": "",
-          "localPath": "public/photos/venue-087-1.jpg",
-          "width": 406,
-          "height": 286,
-          "sha256": "4c5bcd9e415efd75f9857693366c790dcb83a6e01c8aaf88d21edb7c08a74151",
-          "bytes": 42619,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "https://assemblywedding.or.kr/inc/img/sub/s0103_a2.jpg",
-          "sourcePage": "https://assemblywedding.or.kr/?p=8",
-          "alt": "헌정기념관1",
-          "hint": "",
-          "localPath": "public/photos/venue-087-2.jpg",
-          "width": 406,
-          "height": 286,
-          "sha256": "3ecbf2e3e69cc6e2a16bb9e2609745ac923cbcfbf4413ca6ab097d8d571d1fc2",
-          "bytes": 39407,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "https://assemblywedding.or.kr/inc/img/sub/s0103_a3.jpg",
-          "sourcePage": "https://assemblywedding.or.kr/?p=8",
-          "alt": "헌정기념관3",
-          "hint": "",
-          "localPath": "public/photos/venue-087-3.jpg",
-          "width": 406,
-          "height": 286,
-          "sha256": "958a710e7b1f3c2a1d41a89b2016bcb16ca855108380cf9b91262d48fc1cf42f",
-          "bytes": 64458,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        }
-      ],
-      "photoStatus": "partial",
-      "photoNote": "공식 사이트 공개 이미지 3/5장 · 촬영일 미공개",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"국회 예식장\" 서울 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EA%B5%AD%ED%9A%8C%20%EC%98%88%EC%8B%9D%EC%9E%A5%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": "https://assemblywedding.or.kr/?p=8",
-            "status": "공식 페이지 접근 · 유효 가격 미확보",
-            "pages": [
-              {
-                "url": "https://assemblywedding.or.kr/?p=8",
-                "title": "시설 안내 | 국회예식장 대관"
-              },
-              {
-                "url": "https://assemblywedding.or.kr/?main=Y&sitesession=kc6n4rbcihsk061b6196k61m24",
-                "title": "국회예식장 대관"
-              },
-              {
-                "url": "https://assemblywedding.or.kr/?p=16",
-                "title": "로그인 | 국회예식장 대관"
-              }
-            ],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "국회 예식장 영등포구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EA%B5%AD%ED%9A%8C%20%EC%98%88%EC%8B%9D%EC%9E%A5%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 완료 · 해당 시설의 유효 후기 미확보"
-          },
-          "blogReferences": []
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": "02-2088-4015",
-      "parking": "전용 주차장 · 시설 이용 시 차량번호 등록 후 무료, 국회 둔치 별도 유료",
-      "parkingKnown": true,
-      "website": "https://seoulmarina.club/",
-      "aliases": [
-        "마리나컨벤션센터"
-      ],
-      "note": "공식 4층 M라운지 스몰웨딩 소개와 찾아오시는 길 확인. 구형 공공주소록 전화 대신 현 운영사 대표번호 사용. 비교 대상은 실내 예식 상품만 포함합니다.",
-      "checkedAt": "2026-11-22",
-      "region": "yeongdeungpo",
-      "name": "서울마리나 컨벤션",
-      "address": "서울 영등포구 여의서로 160",
-      "source": "https://seoulmarina.club/marina/13/?page=3",
-      "status": "official",
-      "id": "venue-089",
-      "indoorOnly": true,
-      "searchChecks": {
-        "naver": {
-          "query": "서울마리나 컨벤션 영등포구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%EB%A7%88%EB%A6%AC%EB%82%98%20%EC%BB%A8%EB%B2%A4%EC%85%98%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "서울마리나 컨벤션 영등포구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EC%84%9C%EC%9A%B8%EB%A7%88%EB%A6%AC%EB%82%98%20%EC%BB%A8%EB%B2%A4%EC%85%98%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "실내 예식 상품의 공식 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"서울마리나 컨벤션\" 서울 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EC%84%9C%EC%9A%B8%EB%A7%88%EB%A6%AC%EB%82%98%20%EC%BB%A8%EB%B2%A4%EC%85%98%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": "https://seoulmarina.club/",
-            "status": "공식 주소 접근 실패 · 가격 미확보",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "서울마리나 컨벤션 영등포구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EC%84%9C%EC%9A%B8%EB%A7%88%EB%A6%AC%EB%82%98%20%EC%BB%A8%EB%B2%A4%EC%85%98%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "서울마리나웨딩홀, 웨딩홀할인계산기로 빠른견적 받아보기!",
-              "url": "https://blog.naver.com/bythesharr/221474530515",
-              "publishedAt": "2019-02-25",
-              "readLevel": "본문 열람",
-              "priceUse": "제외",
-              "note": "목록·일반 소개 자료로 개별 가격 근거 불충분",
-              "independence": "광고·협찬 여부 미확인"
-            }
-          ]
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다.",
-        "availabilityNote": "실내 예식 상품만 비교합니다. 야외 상품은 제외했습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": null,
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": null,
-      "aliases": [],
-      "note": "루나미엘레와 같은 건물의 과거 상호 후보. 같은 홀인지 확인되지 않아 중복 확정하지 않음.",
-      "checkedAt": "2026-11-22",
-      "region": "yeongdeungpo",
-      "name": "서울씨티클럽",
-      "address": "서울 영등포구 여의공원로 101",
-      "source": "https://lov999.com/region/seoul/yeongdeungpo/",
-      "status": "pending",
-      "id": "venue-090",
-      "searchChecks": {
-        "naver": {
-          "query": "서울씨티클럽 영등포구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%EC%94%A8%ED%8B%B0%ED%81%B4%EB%9F%BD%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "서울씨티클럽 영등포구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EC%84%9C%EC%9A%B8%EC%94%A8%ED%8B%B0%ED%81%B4%EB%9F%BD%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "availabilityNote": "현재 예식 운영 여부부터 확인해야 하는 후보입니다. 과거 후기·검색 결과만으로 현재 예약 또는 가격을 보장하지 않습니다.",
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"서울씨티클럽\" 서울 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EC%84%9C%EC%9A%B8%EC%94%A8%ED%8B%B0%ED%81%B4%EB%9F%BD%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": null,
-            "status": "공식 사이트 미확정",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "서울씨티클럽 영등포구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EC%84%9C%EC%9A%B8%EC%94%A8%ED%8B%B0%ED%81%B4%EB%9F%BD%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 완료 · 해당 시설의 유효 후기 미확보"
-          },
-          "blogReferences": []
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": "02-844-8836",
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": "http://ybwedding.net/",
-      "aliases": [
-        "연변웨딩홀"
-      ],
-      "note": "운영사 사이트에서 2호점의 주소와 번호 확인. 1호점과 전화·사진을 구분.",
-      "checkedAt": "2026-11-22",
-      "region": "yeongdeungpo",
-      "name": "연변냉면웨딩홀",
-      "address": "서울 영등포구 도림로31길 4",
-      "source": "http://ybwedding.net/",
-      "status": "official",
-      "id": "venue-091",
-      "fieldSources": {
-        "phone": {
-          "url": "http://ybwedding.net/",
-          "type": "official",
-          "checkedAt": "2026-11-22"
-        },
-        "website": {
-          "url": "http://ybwedding.net/",
-          "type": "official",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "phoneLabel": "연변웨딩홀 2호점",
-      "phoneSourceType": "official",
-      "searchChecks": {
-        "naver": {
-          "query": "연변냉면웨딩홀 영등포구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EC%97%B0%EB%B3%80%EB%83%89%EB%A9%B4%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "연변냉면웨딩홀 영등포구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EC%97%B0%EB%B3%80%EB%83%89%EB%A9%B4%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [
-        {
-          "imageUrl": "http://ybwedding.net/main/02_3_photo_01/1000/1.jpg",
-          "sourcePage": "http://ybwedding.net/main23.php",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-091-1.jpg",
-          "width": 800,
-          "height": 532,
-          "sha256": "678b4933db00fb0672209c2613a873e5b7f5b393deb09ac37667ed5349fc4409",
-          "bytes": 506503,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "http://ybwedding.net/main/02_3_photo_01/1000/2.jpg",
-          "sourcePage": "http://ybwedding.net/main23.php",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-091-2.jpg",
-          "width": 800,
-          "height": 532,
-          "sha256": "6a3dbdaa01fade329ee57063883523e1299590a608ee4a37f5b0ebb42a9df428",
-          "bytes": 488423,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "http://ybwedding.net/main/02_3_photo_01/1000/3.jpg",
-          "sourcePage": "http://ybwedding.net/main23.php",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-091-3.jpg",
-          "width": 800,
-          "height": 532,
-          "sha256": "b7b721f498205176daf5089792ebf571dd04e22dbd7a36ef131e7f650f8f91c9",
-          "bytes": 539698,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "http://ybwedding.net/main/02_3_photo_01/1000/4.jpg",
-          "sourcePage": "http://ybwedding.net/main23.php",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-091-4.jpg",
-          "width": 800,
-          "height": 532,
-          "sha256": "660eab6b257e710859e344eb2b76cb354d2a12ce6d5899717b024c1bb7d2d1ff",
-          "bytes": 464589,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "http://ybwedding.net/main/02_3_photo_01/1000/5.jpg",
-          "sourcePage": "http://ybwedding.net/main23.php",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-091-5.jpg",
-          "width": 800,
-          "height": 532,
-          "sha256": "8075975a6bb6abf5fe8b987c266b216b7468d828a3d9ae5a9a55b2a334dac1af",
-          "bytes": 402611,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        }
-      ],
-      "photoStatus": "complete",
-      "photoNote": "공식 사이트 공개 이미지 5/5장 · 촬영일 미공개",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"연변냉면웨딩홀\" 서울 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EC%97%B0%EB%B3%80%EB%83%89%EB%A9%B4%EC%9B%A8%EB%94%A9%ED%99%80%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": "http://ybwedding.net/",
-            "status": "공식 페이지 접근 · 유효 가격 미확보",
-            "pages": [
-              {
-                "url": "http://ybwedding.net/",
-                "title": "��������Ȧ"
-              },
-              {
-                "url": "http://ybwedding.net/main23.php",
-                "title": "��������Ȧ"
-              },
-              {
-                "url": "http://ybwedding.net/main24.php",
-                "title": "��������Ȧ"
-              }
-            ],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "연변냉면웨딩홀 영등포구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EC%97%B0%EB%B3%80%EB%83%89%EB%A9%B4%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "예식장 연변냉면 웨딩홀 서울 영등포구 대림3동 가격 식사 견적 주차 식대 뷔페",
-              "url": "https://blog.naver.com/rlaqhrghk10/223786865072",
-              "publishedAt": "2025-03-07",
-              "readLevel": "본문 열람",
-              "priceUse": "제외",
-              "note": "짧은 과거 소개로 현행 가격을 확인할 수 없음",
-              "independence": "광고·협찬 여부 미확인"
-            }
-          ]
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": "02-844-5544",
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": "http://ybwedding.net/",
-      "aliases": [],
-      "note": "운영사 사이트에서 1호점의 주소와 번호 확인. 2호점과 전화·사진을 구분.",
-      "checkedAt": "2026-11-22",
-      "region": "yeongdeungpo",
-      "name": "연변웨딩",
-      "address": "서울 영등포구 도림로 136",
-      "source": "http://ybwedding.net/",
-      "status": "official",
-      "id": "venue-092",
-      "fieldSources": {
-        "phone": {
-          "url": "http://ybwedding.net/",
-          "type": "official",
-          "checkedAt": "2026-11-22"
-        },
-        "website": {
-          "url": "http://ybwedding.net/",
-          "type": "official",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "phoneLabel": "연변웨딩홀 1호점",
-      "phoneSourceType": "official",
-      "searchChecks": {
-        "naver": {
-          "query": "연변웨딩 영등포구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EC%97%B0%EB%B3%80%EC%9B%A8%EB%94%A9%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "연변웨딩 영등포구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EC%97%B0%EB%B3%80%EC%9B%A8%EB%94%A9%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [
-        {
-          "imageUrl": "http://ybwedding.net/main/02_0_photo_01/1000/1.jpg",
-          "sourcePage": "http://ybwedding.net/main20.php",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-092-1.jpg",
-          "width": 800,
-          "height": 532,
-          "sha256": "f0ae76d24727f7c61182b733d920fa1243d2cedda2141f14e60f5cffa3b492ce",
-          "bytes": 505370,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "http://ybwedding.net/main/02_0_photo_01/1000/2.jpg",
-          "sourcePage": "http://ybwedding.net/main20.php",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-092-2.jpg",
-          "width": 800,
-          "height": 532,
-          "sha256": "ad1a47fd8be023e0ad60fc47eb1dbe785d1af8b70624e543251ddceb75d86358",
-          "bytes": 444959,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "http://ybwedding.net/main/02_0_photo_01/1000/3.jpg",
-          "sourcePage": "http://ybwedding.net/main20.php",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-092-3.jpg",
-          "width": 800,
-          "height": 532,
-          "sha256": "e0bcfba824d00997aeeb6f6a168c106fc160abfae1b1b42b9d4b6f5b9568e1ea",
-          "bytes": 515083,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "http://ybwedding.net/main/02_0_photo_01/1000/4.jpg",
-          "sourcePage": "http://ybwedding.net/main20.php",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-092-4.jpg",
-          "width": 800,
-          "height": 532,
-          "sha256": "bf7dbb30bc73936f4220082d4b9b76069ff00724296da1c20b9b3582871a5200",
-          "bytes": 485816,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "http://ybwedding.net/main/02_0_photo_01/1000/5.jpg",
-          "sourcePage": "http://ybwedding.net/main20.php",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-092-5.jpg",
-          "width": 800,
-          "height": 532,
-          "sha256": "2d6ebd78d7281f1102b5dbd1a7ea49a0d1a72d4b5bdb6d098d63e6f751d642c8",
-          "bytes": 501641,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        }
-      ],
-      "photoStatus": "complete",
-      "photoNote": "공식 사이트 공개 이미지 5/5장 · 촬영일 미공개",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"연변웨딩\" 서울 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EC%97%B0%EB%B3%80%EC%9B%A8%EB%94%A9%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": "http://ybwedding.net/",
-            "status": "공식 페이지 접근 · 유효 가격 미확보",
-            "pages": [
-              {
-                "url": "http://ybwedding.net/",
-                "title": "��������Ȧ"
-              },
-              {
-                "url": "http://ybwedding.net/main20.php",
-                "title": "��������Ȧ"
-              },
-              {
-                "url": "http://ybwedding.net/main21.php",
-                "title": "��������Ȧ"
-              }
-            ],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "연변웨딩 영등포구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EC%97%B0%EB%B3%80%EC%9B%A8%EB%94%A9%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "영등포웨딩홀 연변웨딩홀 투어가기 전 꼭 알아야 할 현실적인 조언",
-              "url": "https://blog.naver.com/crevasse_1/223993023661",
-              "publishedAt": "2025-09-03",
-              "readLevel": "본문 열람",
-              "priceUse": "제외",
-              "note": "과거 자료로 현행 운영·가격을 확인할 수 없음",
-              "independence": "광고·협찬 여부 미확인"
-            }
-          ]
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": null,
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": null,
-      "aliases": [],
-      "note": "지역 장소 목록 수록. 공식 예식 안내·현행 운영 미확인.",
-      "checkedAt": "2026-11-22",
-      "region": "yeongdeungpo",
-      "name": "장백산웨딩홀",
-      "address": "서울 영등포구 디지털로 386",
-      "source": "https://lov999.com/region/seoul/yeongdeungpo/",
-      "status": "pending",
-      "id": "venue-093",
-      "searchChecks": {
-        "naver": {
-          "query": "장백산웨딩홀 영등포구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EC%9E%A5%EB%B0%B1%EC%82%B0%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "장백산웨딩홀 영등포구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EC%9E%A5%EB%B0%B1%EC%82%B0%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "availabilityNote": "현재 예식 운영 여부부터 확인해야 하는 후보입니다. 과거 후기·검색 결과만으로 현재 예약 또는 가격을 보장하지 않습니다.",
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"장백산웨딩홀\" 서울 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EC%9E%A5%EB%B0%B1%EC%82%B0%EC%9B%A8%EB%94%A9%ED%99%80%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": null,
-            "status": "공식 사이트 미확정",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "장백산웨딩홀 영등포구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EC%9E%A5%EB%B0%B1%EC%82%B0%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 결과 없음"
-          },
-          "blogReferences": []
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": "02-787-8338",
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": null,
-      "aliases": [],
-      "note": "주소록의 옛 여의도동 21 표기와 대조. 현재 예식 운영 및 예약 자격 미확인.",
-      "checkedAt": "2026-11-22",
-      "region": "yeongdeungpo",
-      "name": "한전웨딩여의프라자",
-      "address": "서울 영등포구 여의동로7길 5",
-      "source": "https://place.udanax.org/r/서울특별시/영등포구/문래동4가?type=96",
-      "status": "pending",
-      "id": "venue-094",
-      "phoneLabel": "외부 장소 안내 번호 · 현재 연결·예약 미확인",
-      "phoneSourceType": "external",
-      "fieldSources": {
-        "phone": {
-          "url": "https://fiance.co.kr/wedding-halls/seoul/yangcheon-gu/%ED%95%9C%EC%A0%84%EC%9B%A8%EB%94%A9%EC%97%AC%EC%9D%98%ED%94%84%EB%9D%BC%EC%9E%90-233/",
-          "type": "external",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "searchChecks": {
-        "naver": {
-          "query": "한전웨딩여의프라자 영등포구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%ED%95%9C%EC%A0%84%EC%9B%A8%EB%94%A9%EC%97%AC%EC%9D%98%ED%94%84%EB%9D%BC%EC%9E%90%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "한전웨딩여의프라자 영등포구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%ED%95%9C%EC%A0%84%EC%9B%A8%EB%94%A9%EC%97%AC%EC%9D%98%ED%94%84%EB%9D%BC%EC%9E%90%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "availabilityNote": "현재 예식 운영 여부부터 확인해야 하는 후보입니다. 과거 후기·검색 결과만으로 현재 예약 또는 가격을 보장하지 않습니다.",
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"한전웨딩여의프라자\" 서울 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%ED%95%9C%EC%A0%84%EC%9B%A8%EB%94%A9%EC%97%AC%EC%9D%98%ED%94%84%EB%9D%BC%EC%9E%90%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": null,
-            "status": "공식 사이트 미확정",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "한전웨딩여의프라자 영등포구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%ED%95%9C%EC%A0%84%EC%9B%A8%EB%94%A9%EC%97%AC%EC%9D%98%ED%94%84%EB%9D%BC%EC%9E%90%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "한강뷰 웨딩홀 <한전웨딩 여의프라자>:: 여의도 웨딩홀 추천, 대관료 무료, 프라이빗 단독홀, 한전여의도 웨딩홀 하객 후기",
-              "url": "https://blog.naver.com/ines_free/224420343527",
-              "publishedAt": "2026-09-22",
-              "readLevel": "본문 열람",
-              "priceUse": "참고 후기 · 가격 미사용",
-              "note": "작성자 경험·홍보 안내로 참고. 실제 계약서·적용일·세부 금액의 교차 확인이 되지 않아 가격 근거로 채택하지 않음.",
-              "independence": "광고·협찬 여부 미확인"
-            }
-          ]
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": null,
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": null,
-      "aliases": [],
-      "note": "일반적인 장소명이라 다른 업체와 혼동 가능. 독립된 현행 예식장인지 미확인.",
-      "checkedAt": "2026-11-22",
-      "region": "yeongdeungpo",
-      "name": "가든웨딩홀",
-      "address": "서울 영등포구 국제금융로8길 27-3",
-      "source": "https://lov999.com/region/seoul/yeongdeungpo/",
-      "status": "pending",
-      "id": "venue-095",
-      "searchChecks": {
-        "naver": {
-          "query": "가든웨딩홀 영등포구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EA%B0%80%EB%93%A0%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "가든웨딩홀 영등포구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EA%B0%80%EB%93%A0%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "availabilityNote": "현재 예식 운영 여부부터 확인해야 하는 후보입니다. 과거 후기·검색 결과만으로 현재 예약 또는 가격을 보장하지 않습니다.",
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"가든웨딩홀\" 서울 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EA%B0%80%EB%93%A0%EC%9B%A8%EB%94%A9%ED%99%80%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": null,
-            "status": "공식 사이트 미확정",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "가든웨딩홀 영등포구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EA%B0%80%EB%93%A0%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 완료 · 해당 시설의 유효 후기 미확보"
-          },
-          "blogReferences": []
         },
         "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
       }
@@ -11760,10 +10082,34 @@ const venueCatalog = {
       "reason": "야외 하우스·가든 웨딩 중심 시설"
     },
     {
+      "region": "mapo",
+      "name": "온즈드롬 합정",
+      "address": "서울 마포구 양화진2길 31, 주니비노호텔 저스티나",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "mapo",
+      "name": "키나웨딩홀",
+      "address": "서울 마포구 상수동 92-3, 키나플라워",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
       "region": "yeongdeungpo",
       "name": "베뉴비안",
       "address": "서울 영등포구 신길로 89",
       "reason": "과거 상호 백악관웨딩문화원 · 문화원 계열 예식시설 제외 기준"
+    },
+    {
+      "region": "yeongdeungpo",
+      "name": "KBS신관웨딩홀",
+      "address": "서울 영등포구 여의공원로 13, KBS 신관",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "yeongdeungpo",
+      "name": "한국거래소 웨딩홀",
+      "address": "서울 영등포구 여의나루로 76",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
     },
     {
       "region": "ilsan-east",
@@ -11778,10 +10124,46 @@ const venueCatalog = {
       "reason": "사용자 요청으로 비교 대상에서 제외"
     },
     {
+      "region": "deogyang",
+      "name": "스마일웨딩홀",
+      "address": "경기 고양시 덕양구 토당로42번길 13-15",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "deogyang",
+      "name": "허스예식장",
+      "address": "경기 고양시 덕양구 토당로 130",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "deogyang",
+      "name": "탑웨딩홀미용실",
+      "address": "경기 고양시 덕양구 중앙로 628",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
       "region": "seodaemun",
       "name": "서대문구청 본관강당",
       "address": "서울 서대문구 연희로 248, 구청 본관 6층",
       "reason": "일반 예식장이 아닌 공공기관 강당 대관 시설"
+    },
+    {
+      "region": "gangseo",
+      "name": "럭셔리웨딩스토리",
+      "address": "서울 강서구 양천로 500",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "gangseo",
+      "name": "원앙예식장",
+      "address": "서울 강서구 공항동 53-9",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "gangseo",
+      "name": "블리스웨딩컨벤션",
+      "address": "서울 강서구 내발산동 647",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
     },
     {
       "region": "gangseo",
@@ -11797,9 +10179,57 @@ const venueCatalog = {
     },
     {
       "region": "yeongdeungpo",
+      "name": "국회 예식장",
+      "address": "서울 영등포구 의사당대로 1",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "yeongdeungpo",
       "name": "국회 사랑재",
       "address": "서울 영등포구 의사당대로 1, 국회 경내 사랑재",
       "reason": "한옥 야외 예식 공간"
+    },
+    {
+      "region": "yeongdeungpo",
+      "name": "서울마리나 컨벤션",
+      "address": "서울 영등포구 여의서로 160",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "yeongdeungpo",
+      "name": "서울씨티클럽",
+      "address": "서울 영등포구 여의공원로 101",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "yeongdeungpo",
+      "name": "연변냉면웨딩홀",
+      "address": "서울 영등포구 도림로31길 4",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "yeongdeungpo",
+      "name": "연변웨딩",
+      "address": "서울 영등포구 도림로 136",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "yeongdeungpo",
+      "name": "장백산웨딩홀",
+      "address": "서울 영등포구 디지털로 386",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "yeongdeungpo",
+      "name": "한전웨딩여의프라자",
+      "address": "서울 영등포구 여의동로7길 5",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "yeongdeungpo",
+      "name": "가든웨딩홀",
+      "address": "서울 영등포구 국제금융로8길 27-3",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
     },
     {
       "region": "mapo",
@@ -11950,23 +10380,22 @@ const venueCatalog = {
       "venue-039",
       "venue-047",
       "venue-066",
-      "venue-089",
       "venue-062"
     ]
   },
   "enrichment": {
     "checkedAt": "2026-11-22",
-    "total": 79,
-    "naverResults": 79,
-    "googleResults": 79,
-    "photos": 229,
-    "completeGalleries": 40,
-    "partialGalleries": 12,
-    "missingGalleries": 27,
-    "missingPhone": 11,
-    "missingParking": 47,
-    "missingWebsite": 18,
-    "changes": 53
+    "total": 61,
+    "naverResults": 61,
+    "googleResults": 61,
+    "photos": 214,
+    "completeGalleries": 38,
+    "partialGalleries": 10,
+    "missingGalleries": 13,
+    "missingPhone": 3,
+    "missingParking": 31,
+    "missingWebsite": 6,
+    "changes": 41
   },
   "pricingScope": {
     "checkedAt": "2026-11-22",
@@ -11990,6 +10419,6 @@ const venueCatalog = {
         11
       ]
     },
-    "scopeNote": "8개 지역 79개 후보를 명칭별로 검색했습니다. 아래는 업체 공시·공식 안내·중개 공개가의 참고 가격이며, 2027년 9~11월 확정 견적이 아닙니다. 적용연도·홀·보증인원·필수 별도비용을 출처별로 구분했습니다. 2025·2026년 가을의 날짜별 계약 견적은 미확보입니다."
+    "scopeNote": "8개 지역 61개 후보를 명칭별로 검색했습니다. 아래는 업체 공시·공식 안내·중개 공개가의 참고 가격이며, 2027년 9~11월 확정 견적이 아닙니다. 적용연도·홀·보증인원·필수 별도비용을 출처별로 구분했습니다. 2025·2026년 가을의 날짜별 계약 견적은 미확보입니다."
   }
 };

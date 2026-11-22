@@ -256,30 +256,6 @@
     }
   },
   {
-    "id": "venue-040",
-    "name": "온즈드롬 합정",
-    "field": "phone",
-    "before": null,
-    "after": "02-6936-6060",
-    "source": {
-      "url": "https://www.onze-droom.com/",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-040",
-    "name": "온즈드롬 합정",
-    "field": "website",
-    "before": null,
-    "after": "https://www.onze-droom.com/",
-    "source": {
-      "url": "https://www.onze-droom.com/",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
     "id": "venue-045",
     "name": "그래머시 코엑스마곡",
     "field": "phone",
@@ -460,30 +436,6 @@
     }
   },
   {
-    "id": "venue-068",
-    "name": "한국거래소 웨딩홀",
-    "field": "phone",
-    "before": null,
-    "after": "02-761-2307",
-    "source": {
-      "url": "https://blog.naver.com/xo_xo0",
-      "type": "external",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-072",
-    "name": "허스예식장",
-    "field": "phone",
-    "before": null,
-    "after": "031-974-1122",
-    "source": {
-      "url": "https://wow-wedding.co.kr/",
-      "type": "historical",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
     "id": "venue-078",
     "name": "예스에이피엠컨벤시아",
     "field": "phone",
@@ -508,18 +460,6 @@
     }
   },
   {
-    "id": "venue-083",
-    "name": "블리스웨딩컨벤션",
-    "field": "phone",
-    "before": null,
-    "after": "02-3664-6006",
-    "source": {
-      "url": "https://www.itwed.co.kr/",
-      "type": "historical",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
     "id": "venue-086",
     "name": "63컨벤션센터",
     "field": "phone",
@@ -527,90 +467,6 @@
     "after": "02-789-5700",
     "source": {
       "url": "https://korean.miceseoul.com/kor/pgm/smaMng/miceVenueView.do?fcltySn=51&menuNo=800010&smaSn=53",
-      "type": "external",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-087",
-    "name": "국회 예식장",
-    "field": "phone",
-    "before": null,
-    "after": "02-6788-3965",
-    "source": {
-      "url": "https://assemblywedding.or.kr/?p=6",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-087",
-    "name": "국회 예식장",
-    "field": "website",
-    "before": null,
-    "after": "https://assemblywedding.or.kr/?p=8",
-    "source": {
-      "url": "https://assemblywedding.or.kr/?p=8",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-091",
-    "name": "연변냉면웨딩홀",
-    "field": "phone",
-    "before": null,
-    "after": "02-844-8836",
-    "source": {
-      "url": "http://ybwedding.net/",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-091",
-    "name": "연변냉면웨딩홀",
-    "field": "website",
-    "before": null,
-    "after": "http://ybwedding.net/",
-    "source": {
-      "url": "http://ybwedding.net/",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-092",
-    "name": "연변웨딩",
-    "field": "phone",
-    "before": null,
-    "after": "02-844-5544",
-    "source": {
-      "url": "http://ybwedding.net/",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-092",
-    "name": "연변웨딩",
-    "field": "website",
-    "before": null,
-    "after": "http://ybwedding.net/",
-    "source": {
-      "url": "http://ybwedding.net/",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-094",
-    "name": "한전웨딩여의프라자",
-    "field": "phone",
-    "before": null,
-    "after": "02-787-8338",
-    "source": {
-      "url": "https://fiance.co.kr/wedding-halls/seoul/yangcheon-gu/%ED%95%9C%EC%A0%84%EC%9B%A8%EB%94%A9%EC%97%AC%EC%9D%98%ED%94%84%EB%9D%BC%EC%9E%90-233/",
       "type": "external",
       "checkedAt": "2026-11-22"
     }
