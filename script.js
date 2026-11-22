@@ -3,7 +3,6 @@ const { regions, venues, excluded, statusLabels } = venueCatalog;
 const tabsElement = document.querySelector("#region-tabs");
 const listElement = document.querySelector("#venue-list");
 const searchElement = document.querySelector("#search");
-const parkingElement = document.querySelector("#parking-filter");
 const statusElement = document.querySelector("#status-filter");
 const photoFilter = document.querySelector('#photo-filter');
 let selectedRegion = regions[0].id;
@@ -38,9 +37,8 @@ function renderVenues() {
   const query = searchElement.value.trim().toLocaleLowerCase("ko");
   const filtered = all.filter(venue => {
     const matchesText = `${venue.name} ${venue.address} ${venue.aliases.join(' ')}`.toLocaleLowerCase("ko").includes(query);
-    const matchesParking = !parkingElement.checked || (venue.parkingKnown && !/^(?:불가|주차 불가|주차불가)/.test(venue.parking));
     const matchesStatus = statusElement.value === 'all' || venue.status === statusElement.value;
-    return matchesText && matchesParking && matchesStatus && (!photoFilter.checked || venue.photos.length > 0);
+    return matchesText && matchesStatus && (!photoFilter.checked || venue.photos.length > 0);
   });
   document.querySelector("#region-title").textContent = region.name;
   document.querySelector("#region-subtitle").textContent = `${region.area} · ${region.note}`;
@@ -79,7 +77,6 @@ tabsElement.addEventListener("keydown", event => {
   selectRegion(regions[next].id, true);
 });
 searchElement.addEventListener("input", renderVenues);
-parkingElement.addEventListener("change", renderVenues);
 statusElement.addEventListener("change", renderVenues);
 
 document.querySelector("#excluded-list").innerHTML = excluded.map(item => `<article class="excluded-item"><h2>${escapeHtml(item.name)}</h2><p>${escapeHtml(item.address)}</p><p class="reason">${escapeHtml(item.reason)}</p></article>`).join("");
@@ -98,7 +95,7 @@ const countStatus = status => venues.filter(v=>v.status===status).length;
 document.querySelector('#survey-total').textContent = `9개 지역 · 조사 후보 ${venues.length}곳 · 제외 ${excluded.length}곳`;
 document.querySelector('#survey-metrics').innerHTML = Object.entries(statusLabels).map(([status,label])=>`<div><strong>${countStatus(status)}</strong><span>${escapeHtml(label)}</span></div>`).join('');
 document.querySelector('#survey-region-rows').innerHTML = regions.map(r=>`<tr><th scope="row"><a href="#venues" data-survey-region="${r.id}">${escapeHtml(r.name)}</a></th><td>${venues.filter(v=>v.region===r.id).length}</td>${Object.keys(statusLabels).map(s=>`<td>${venues.filter(v=>v.region===r.id&&v.status===s).length}</td>`).join('')}</tr>`).join('');
-document.querySelector('#survey-region-rows').addEventListener('click',event=>{const link=event.target.closest('[data-survey-region]');if(link){statusElement.value='all';parkingElement.checked=false;selectRegion(link.dataset.surveyRegion);}});
+document.querySelector('#survey-region-rows').addEventListener('click',event=>{const link=event.target.closest('[data-survey-region]');if(link){statusElement.value='all';selectRegion(link.dataset.surveyRegion);}});
 document.querySelector('#survey-other-records').innerHTML = venueCatalog.nonVenues.map(v=>`<p><strong>${escapeHtml(v.name)}</strong> · ${escapeHtml(v.address)}<br>${escapeHtml(v.reason)} <a href="${escapeHtml(v.source)}" target="_blank" rel="noopener noreferrer">근거</a></p>`).join('');
 
 window.addEventListener("hashchange", renderView);
