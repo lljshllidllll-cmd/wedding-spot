@@ -1,14 +1,14 @@
 {
   "checkedAt": "2026-11-22",
   "pass": true,
-  "venues": 54,
-  "excluded": 63,
+  "venues": 51,
+  "excluded": 66,
   "regions": 8,
   "publicRows": 18,
   "statuses": {
     "official": 45,
-    "listed": 3,
-    "pending": 5,
+    "listed": 1,
+    "pending": 4,
     "planned": 1
   }
 }

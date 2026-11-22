@@ -20,7 +20,7 @@
       11
     ]
   },
-  "scopeNote": "8개 지역 54개 후보를 명칭별로 검색했습니다. 아래는 업체 공시·공식 안내·중개 공개가의 참고 가격이며, 2027년 9~11월 확정 견적이 아닙니다. 적용연도·홀·보증인원·필수 별도비용을 출처별로 구분했습니다. 2025·2026년 가을의 날짜별 계약 견적은 미확보입니다.",
+  "scopeNote": "8개 지역 51개 후보를 명칭별로 검색했습니다. 아래는 업체 공시·공식 안내·중개 공개가의 참고 가격이며, 2027년 9~11월 확정 견적이 아닙니다. 적용연도·홀·보증인원·필수 별도비용을 출처별로 구분했습니다. 2025·2026년 가을의 날짜별 계약 견적은 미확보입니다.",
   "venues": {
     "venue-001": {
       "historical": {
@@ -3723,52 +3723,6 @@
       },
       "availabilityNote": "실내 예식 상품만 비교합니다. 야외 상품은 제외했습니다."
     },
-    "venue-065": {
-      "historical": {
-        "2025": "9~11월 적용 견적 미확보",
-        "2026": "9~11월 적용 견적 미확보"
-      },
-      "rentalSummary": "공개 금액 미확보 · 상담 필요",
-      "mealSummary": "공개 금액 미확보 · 상담 필요",
-      "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-      "records": [],
-      "research": {
-        "checkedAt": "2026-11-22",
-        "generalSearch": {
-          "query": "\"워킹온더클라우드\" 서울 웨딩 대관료 식대 2026",
-          "url": "https://www.google.com/search?q=%22%EC%9B%8C%ED%82%B9%EC%98%A8%EB%8D%94%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-          "status": "명칭별 가격 검색 완료"
-        },
-        "official": {
-          "url": "https://www.63restaurant.co.kr/",
-          "status": "공식 페이지 접근 · 유효 가격 미확보",
-          "pages": [
-            {
-              "url": "https://www.63skylinedining.com/",
-              "title": "63 SKYLINE DINING"
-            }
-          ],
-          "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-        },
-        "blogSearch": {
-          "query": "워킹온더클라우드 영등포구 견적",
-          "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EC%9B%8C%ED%82%B9%EC%98%A8%EB%8D%94%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-          "status": "검색 및 후보 본문 열람"
-        },
-        "blogReferences": [
-          {
-            "title": "직접 가본 63빌딩 워킹온더클라우드 웨딩홀 견적 후기 (견적, 필수조건, 코스 가격)",
-            "url": "https://blog.naver.com/surisuri0919/224340413889",
-            "publishedAt": "2026-07-08",
-            "readLevel": "본문 열람",
-            "priceUse": "비공개 견적 · 금액 미사용",
-            "note": "가격은 댓글·메일 등으로 공유되며 공개 본문만으로 날짜별 대관료·식대 확정 불가.",
-            "independence": "광고·협찬 여부 미확인"
-          }
-        ]
-      },
-      "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-    },
     "venue-066": {
       "historical": {
         "2025": "9~11월 적용 견적 미확보",
@@ -4000,86 +3954,13 @@
         "blogReferences": []
       },
       "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-    },
-    "venue-086": {
-      "historical": {
-        "2025": "9~11월 적용 견적 미확보",
-        "2026": "9~11월 적용 견적 미확보"
-      },
-      "rentalSummary": "공개 금액 미확보 · 상담 필요",
-      "mealSummary": "공개 금액 미확보 · 상담 필요",
-      "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-      "records": [],
-      "research": {
-        "checkedAt": "2026-11-22",
-        "generalSearch": {
-          "query": "\"63컨벤션센터\" 서울 웨딩 대관료 식대 2026",
-          "url": "https://www.google.com/search?q=%2263%EC%BB%A8%EB%B2%A4%EC%85%98%EC%84%BC%ED%84%B0%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-          "status": "명칭별 가격 검색 완료"
-        },
-        "official": {
-          "url": null,
-          "status": "공식 사이트 미확정",
-          "pages": [],
-          "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-        },
-        "blogSearch": {
-          "query": "63컨벤션센터 영등포구 견적",
-          "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=63%EC%BB%A8%EB%B2%A4%EC%85%98%EC%84%BC%ED%84%B0%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-          "status": "검색 및 후보 본문 열람"
-        },
-        "blogReferences": [
-          {
-            "title": "63컨벤션센터 웨딩홀할인계산기로 알아보는 웨딩홀견적!확인해볼까요?",
-            "url": "https://blog.naver.com/honeysugar80/221464069099",
-            "publishedAt": "2019-02-12",
-            "readLevel": "본문 열람",
-            "priceUse": "제외",
-            "note": "할인 계산기 홍보 글로 날짜별 확정 견적을 확인할 수 없음",
-            "independence": "광고·협찬 여부 미확인"
-          }
-        ]
-      },
-      "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-    },
-    "venue-098": {
-      "historical": {
-        "2025": "9~11월 적용 견적 미확보",
-        "2026": "9~11월 적용 견적 미확보"
-      },
-      "rentalSummary": "공개 금액 미확보 · 상담 필요",
-      "mealSummary": "공개 금액 미확보 · 상담 필요",
-      "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-      "records": [],
-      "availabilityNote": "현재 예식 운영 여부부터 확인해야 하는 후보입니다. 과거 후기·검색 결과만으로 현재 예약 또는 가격을 보장하지 않습니다.",
-      "research": {
-        "checkedAt": "2026-11-22",
-        "generalSearch": {
-          "query": "\"메리어트 이그제큐티브 아파트먼트 서울\" 서울 웨딩 대관료 식대 2026",
-          "url": "https://www.google.com/search?q=%22%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8%20%EC%9D%B4%EA%B7%B8%EC%A0%9C%ED%81%90%ED%8B%B0%EB%B8%8C%20%EC%95%84%ED%8C%8C%ED%8A%B8%EB%A8%BC%ED%8A%B8%20%EC%84%9C%EC%9A%B8%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-          "status": "명칭별 가격 검색 완료"
-        },
-        "official": {
-          "url": null,
-          "status": "공식 사이트 미확정",
-          "pages": [],
-          "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-        },
-        "blogSearch": {
-          "query": "메리어트 이그제큐티브 아파트먼트 서울 영등포구 견적",
-          "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8%20%EC%9D%B4%EA%B7%B8%EC%A0%9C%ED%81%90%ED%8B%B0%EB%B8%8C%20%EC%95%84%ED%8C%8C%ED%8A%B8%EB%A8%BC%ED%8A%B8%20%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-          "status": "검색 완료 · 해당 시설의 유효 후기 미확보"
-        },
-        "blogReferences": []
-      },
-      "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
     }
   },
   "methodology": {
     "checkedAt": "2026-11-22",
-    "searches": 54,
-    "blogSearches": 54,
-    "blogBodies": 51,
+    "searches": 51,
+    "blogSearches": 51,
+    "blogBodies": 49,
     "limitations": "후보 명칭별 검색이며 인터넷의 모든 게시글 전수 열람을 뜻하지 않습니다. 후보 중 폐업·명칭 변경 가능성이 있는 곳도 포함합니다. 전화·개별 계약서는 확인하지 않았습니다."
   }
 }

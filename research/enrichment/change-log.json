@@ -398,29 +398,5 @@
       "type": "historical",
       "checkedAt": "2026-11-22"
     }
-  },
-  {
-    "id": "venue-086",
-    "name": "63컨벤션센터",
-    "field": "phone",
-    "before": null,
-    "after": "02-789-5700",
-    "source": {
-      "url": "https://korean.miceseoul.com/kor/pgm/smaMng/miceVenueView.do?fcltySn=51&menuNo=800010&smaSn=53",
-      "type": "external",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-098",
-    "name": "메리어트 이그제큐티브 아파트먼트 서울",
-    "field": "phone",
-    "before": null,
-    "after": "02-2090-8000",
-    "source": {
-      "url": "https://access.visitkorea.or.kr/main/main.do",
-      "type": "external",
-      "checkedAt": "2026-11-22"
-    }
   }
 ]
