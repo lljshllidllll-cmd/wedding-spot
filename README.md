@@ -2,6 +2,8 @@
 
 고양 3개 구와 서울 6개 구의 예식장 후보를 비교하는 정적 웹사이트입니다.
 
+[배포 사이트](https://lljshllidllll-cmd.github.io/wedding-spot/) · [GitHub 저장소](https://github.com/lljshllidllll-cmd/wedding-spot)
+
 - 지역별 탭, 상호·주소 검색, 주차·확인 상태·사진 필터
 - 공식 사이트에서 수집하고 검수한 사진 확대 갤러리와 원본 출처
 - 대학·동문·군 관련 시설 등의 별도 제외 목록
