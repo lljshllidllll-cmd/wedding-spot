@@ -2,18 +2,18 @@
   "pass": true,
   "checkedAt": "2026-11-22",
   "searches": {
-    "naver": 82,
-    "google": 82
+    "naver": 79,
+    "google": 79
   },
-  "total": 82,
-  "naverResults": 82,
-  "googleResults": 82,
+  "total": 79,
+  "naverResults": 79,
+  "googleResults": 79,
   "photos": 229,
   "completeGalleries": 40,
   "partialGalleries": 12,
-  "missingGalleries": 30,
-  "missingPhone": 12,
-  "missingParking": 50,
-  "missingWebsite": 21,
-  "changes": 55
+  "missingGalleries": 27,
+  "missingPhone": 11,
+  "missingParking": 47,
+  "missingWebsite": 18,
+  "changes": 53
 }

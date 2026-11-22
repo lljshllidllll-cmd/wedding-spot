@@ -3759,89 +3759,6 @@
     },
     {
       "type": "컨벤션",
-      "phone": "031-903-3242",
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": null,
-      "aliases": [],
-      "note": "웨딩업체 장소 안내 확인. YMCA 청소년시설로 대학 시설과 구분. 현재 운영·연락처 재확인 필요.",
-      "checkedAt": "2026-11-22",
-      "region": "ilsan-east",
-      "name": "Y컨벤션 웨딩홀",
-      "address": "경기 고양시 일산동구 애니골길 97, YMCA유스센터 1층",
-      "status": "listed",
-      "source": "https://colorinwedding.com/yconvention",
-      "id": "venue-021",
-      "phoneLabel": "외부 예약 목록 번호 · 현재 연결 미확인",
-      "phoneSourceType": "external",
-      "fieldSources": {
-        "phone": {
-          "url": "https://yozmwedding.co.kr/",
-          "type": "external",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "searchChecks": {
-        "naver": {
-          "query": "Y컨벤션 웨딩홀 일산동구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=Y%EC%BB%A8%EB%B2%A4%EC%85%98%20%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "Y컨벤션 웨딩홀 일산동구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=Y%EC%BB%A8%EB%B2%A4%EC%85%98%20%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"Y컨벤션 웨딩홀\" 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22Y%EC%BB%A8%EB%B2%A4%EC%85%98%20%EC%9B%A8%EB%94%A9%ED%99%80%22%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": null,
-            "status": "공식 사이트 미확정",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "Y컨벤션 웨딩홀 일산동구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=Y%EC%BB%A8%EB%B2%A4%EC%85%98%20%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "웨딩준비1-5 웨딩홀투어(워킹) 일산 풍동 Y컨벤션웨딩홀",
-              "url": "https://blog.naver.com/realssg/222811801875",
-              "publishedAt": "2022-07-14",
-              "readLevel": "본문 열람",
-              "priceUse": "참고 후기 · 가격 미사용",
-              "note": "작성자 경험·홍보 안내로 참고. 실제 계약서·적용일·세부 금액의 교차 확인이 되지 않아 가격 근거로 채택하지 않음.",
-              "independence": "광고·협찬 여부 미확인"
-            }
-          ]
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
       "phone": "02-714-2121",
       "parking": "공개자료에서 확인되지 않음",
       "parkingKnown": false,
@@ -9824,165 +9741,6 @@
       "parkingKnown": false,
       "website": null,
       "aliases": [],
-      "note": "전화번호·청첩장 목록은 남아 있으나 현행 공식 예식 운영 안내를 확인하지 못함.",
-      "checkedAt": "2026-11-22",
-      "region": "ilsan-east",
-      "name": "KSD컨벤션웨딩홀",
-      "address": "경기 고양시 일산동구 호수로 358-8",
-      "source": "https://store114.co.kr/store/detail.asp?seq=8573552",
-      "status": "pending",
-      "id": "venue-069",
-      "searchChecks": {
-        "naver": {
-          "query": "KSD컨벤션웨딩홀 일산동구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=KSD%EC%BB%A8%EB%B2%A4%EC%85%98%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "KSD컨벤션웨딩홀 일산동구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=KSD%EC%BB%A8%EB%B2%A4%EC%85%98%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "availabilityNote": "현재 예식 운영 여부부터 확인해야 하는 후보입니다. 과거 후기·검색 결과만으로 현재 예약 또는 가격을 보장하지 않습니다.",
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"KSD컨벤션웨딩홀\" 고양 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22KSD%EC%BB%A8%EB%B2%A4%EC%85%98%EC%9B%A8%EB%94%A9%ED%99%80%22%20%EA%B3%A0%EC%96%91%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": null,
-            "status": "공식 사이트 미확정",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "KSD컨벤션웨딩홀 일산동구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=KSD%EC%BB%A8%EB%B2%A4%EC%85%98%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "일산웨딩홀 견적 공유 (식대 대관료 등) 베네치아 상뜨엔젤 더테라스 결혼식장 엠시티 웨스턴빌리프 퍼스트가든 KSD컨벤션 플랑베 예식장 가격 비용",
-              "url": "https://blog.naver.com/w00500/222198525621",
-              "publishedAt": "2021-01-07",
-              "readLevel": "본문 열람",
-              "priceUse": "제외",
-              "note": "여러 웨딩홀을 함께 비교한 글로 현재 KSD 운영·가격 근거 불충분",
-              "independence": "광고·협찬 여부 미확인"
-            }
-          ]
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": "031-931-9000",
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": null,
-      "aliases": [],
-      "note": "웨딩 소개 및 과거 예식 기록 확인. 같은 주소의 다른 시설과 대체 관계 및 현행 운영 미확인.",
-      "checkedAt": "2026-11-22",
-      "region": "ilsan-east",
-      "name": "엠시티웨딩컨벤션",
-      "address": "경기 고양시 일산동구 백마로 195, 엠시티 B1",
-      "source": "https://weddingcrowd.kr/hall/view.php?idx=1638",
-      "status": "pending",
-      "id": "venue-070",
-      "phoneLabel": "과거 장소 안내 번호 · 현재 연결·운영 미확인",
-      "phoneSourceType": "historical",
-      "fieldSources": {
-        "phone": {
-          "url": "https://weddingcrowd.kr/",
-          "type": "historical",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "searchChecks": {
-        "naver": {
-          "query": "엠시티웨딩컨벤션 일산동구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EC%97%A0%EC%8B%9C%ED%8B%B0%EC%9B%A8%EB%94%A9%EC%BB%A8%EB%B2%A4%EC%85%98%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "엠시티웨딩컨벤션 일산동구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EC%97%A0%EC%8B%9C%ED%8B%B0%EC%9B%A8%EB%94%A9%EC%BB%A8%EB%B2%A4%EC%85%98%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "해당 장소의 공식 사이트 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "공개 금액 미확보 · 상담 필요",
-        "mealSummary": "공개 금액 미확보 · 상담 필요",
-        "summaryType": "개별 검색 완료 · 비교 가능한 공개가 미확보",
-        "records": [],
-        "availabilityNote": "현재 예식 운영 여부부터 확인해야 하는 후보입니다. 과거 후기·검색 결과만으로 현재 예약 또는 가격을 보장하지 않습니다.",
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"엠시티웨딩컨벤션\" 고양 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EC%97%A0%EC%8B%9C%ED%8B%B0%EC%9B%A8%EB%94%A9%EC%BB%A8%EB%B2%A4%EC%85%98%22%20%EA%B3%A0%EC%96%91%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": null,
-            "status": "공식 사이트 미확정",
-            "pages": [],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "엠시티웨딩컨벤션 일산동구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EC%97%A0%EC%8B%9C%ED%8B%B0%EC%9B%A8%EB%94%A9%EC%BB%A8%EB%B2%A4%EC%85%98%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "일산 웨빙컨벤션 견적 -엠시티웨딩컨벤션,웨스턴빌리프",
-              "url": "https://blog.naver.com/ulralralr/223860740927",
-              "publishedAt": "2025-05-10",
-              "readLevel": "본문 열람",
-              "priceUse": "비공개 견적 · 금액 미사용",
-              "note": "가격은 댓글·메일 등으로 공유되며 공개 본문만으로 날짜별 대관료·식대 확정 불가.",
-              "independence": "광고·협찬 여부 미확인"
-            }
-          ]
-        },
-        "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
-      }
-    },
-    {
-      "type": "컨벤션",
-      "phone": null,
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": null,
-      "aliases": [],
       "note": "지역 장소 목록에 수록되지만 현행 공식 예식 운영 안내 미확인.",
       "checkedAt": "2026-11-22",
       "region": "deogyang",
@@ -11960,6 +11718,12 @@
     },
     {
       "region": "ilsan-east",
+      "name": "Y컨벤션 웨딩홀",
+      "address": "경기 고양시 일산동구 애니골길 97, YMCA유스센터 1층",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "ilsan-east",
       "name": "아네뜨",
       "address": "경기 고양시 일산동구 공릉천로187번길 36-47",
       "reason": "야외 정원·가든 웨딩 중심 시설"
@@ -11999,6 +11763,18 @@
       "name": "베뉴비안",
       "address": "서울 영등포구 신길로 89",
       "reason": "과거 상호 백악관웨딩문화원 · 문화원 계열 예식시설 제외 기준"
+    },
+    {
+      "region": "ilsan-east",
+      "name": "KSD컨벤션웨딩홀",
+      "address": "경기 고양시 일산동구 호수로 358-8",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "ilsan-east",
+      "name": "엠시티웨딩컨벤션",
+      "address": "경기 고양시 일산동구 백마로 195, 엠시티 B1",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
     },
     {
       "region": "seodaemun",
@@ -12179,17 +11955,17 @@
   },
   "enrichment": {
     "checkedAt": "2026-11-22",
-    "total": 82,
-    "naverResults": 82,
-    "googleResults": 82,
+    "total": 79,
+    "naverResults": 79,
+    "googleResults": 79,
     "photos": 229,
     "completeGalleries": 40,
     "partialGalleries": 12,
-    "missingGalleries": 30,
-    "missingPhone": 12,
-    "missingParking": 50,
-    "missingWebsite": 21,
-    "changes": 55
+    "missingGalleries": 27,
+    "missingPhone": 11,
+    "missingParking": 47,
+    "missingWebsite": 18,
+    "changes": 53
   },
   "pricingScope": {
     "checkedAt": "2026-11-22",
@@ -12213,6 +11989,6 @@
         11
       ]
     },
-    "scopeNote": "8개 지역 82개 후보를 명칭별로 검색했습니다. 아래는 업체 공시·공식 안내·중개 공개가의 참고 가격이며, 2027년 9~11월 확정 견적이 아닙니다. 적용연도·홀·보증인원·필수 별도비용을 출처별로 구분했습니다. 2025·2026년 가을의 날짜별 계약 견적은 미확보입니다."
+    "scopeNote": "8개 지역 79개 후보를 명칭별로 검색했습니다. 아래는 업체 공시·공식 안내·중개 공개가의 참고 가격이며, 2027년 9~11월 확정 견적이 아닙니다. 적용연도·홀·보증인원·필수 별도비용을 출처별로 구분했습니다. 2025·2026년 가을의 날짜별 계약 견적은 미확보입니다."
   }
 }

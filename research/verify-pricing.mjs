@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import assert from 'node:assert/strict';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8').replace(/^\uFEFF/,''));
 const c=read('catalog.json'),scope=read('research/catalog-scope.json');
-assert.equal(c.regions.length,8);assert.equal(c.venues.length,82);assert(c.venues.every(v=>v.pricing));
+assert.equal(c.regions.length,8);assert.equal(c.venues.length,79);assert(c.venues.every(v=>v.pricing));
 assert.equal(c.pricingScope.planning.year,2027);assert.deepEqual(c.pricingScope.requestedHistory.years,[2025,2026]);
 const get=n=>c.venues.find(v=>v.id==='venue-'+String(n).padStart(3,'0')).pricing;
 const source=read('research/pricing/kintex-official-rows.json');
@@ -20,4 +20,4 @@ assert(c.excluded.some(v=>v.name==='베뉴비안'&&v.reason.includes('문화원'
 assert.deepEqual(get(1).records[0].adultMealKRW,[58000,68000]);assert(get(18).availabilityNote.includes('2027년 10월'));
 for(const id of Object.keys(scope.excludedVenues))assert(!c.venues.some(v=>v.id===id));
 for(const file of ['index.html','catalog.json','catalog.js','catalog.csv','pricing.csv','PRICING_REPORT.md','SURVEY_REPORT.md','ENRICHMENT_REPORT.md'])assert(!/은평|eunpyeong/.test(fs.readFileSync(file,'utf8')),file+' removed area absent');
-console.log(JSON.stringify({pass:true,regions:8,venues:82,priced:c.venues.filter(v=>v.pricing.records.length).length,records:c.venues.reduce((n,v)=>n+v.pricing.records.length,0),blogBodies:c.venues.filter(v=>v.pricing.research.blogReferences.length).length,exclusionChecks:'passed',sourceSpreadsheetChecks:'matched'}));
+console.log(JSON.stringify({pass:true,regions:8,venues:79,priced:c.venues.filter(v=>v.pricing.records.length).length,records:c.venues.reduce((n,v)=>n+v.pricing.records.length,0),blogBodies:c.venues.filter(v=>v.pricing.research.blogReferences.length).length,exclusionChecks:'passed',sourceSpreadsheetChecks:'matched'}));

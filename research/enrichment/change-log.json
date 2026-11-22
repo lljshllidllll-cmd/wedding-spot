@@ -196,18 +196,6 @@
     }
   },
   {
-    "id": "venue-021",
-    "name": "Y컨벤션 웨딩홀",
-    "field": "phone",
-    "before": null,
-    "after": "031-903-3242",
-    "source": {
-      "url": "https://yozmwedding.co.kr/",
-      "type": "external",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
     "id": "venue-032",
     "name": "아펠가모 공덕",
     "field": "website",
@@ -480,18 +468,6 @@
     "source": {
       "url": "https://blog.naver.com/xo_xo0",
       "type": "external",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-070",
-    "name": "엠시티웨딩컨벤션",
-    "field": "phone",
-    "before": null,
-    "after": "031-931-9000",
-    "source": {
-      "url": "https://weddingcrowd.kr/",
-      "type": "historical",
       "checkedAt": "2026-11-22"
     }
   },
