@@ -8,6 +8,7 @@
   <title>웨딩 스팟 | 고양·서울 서북권 예식장 찾기</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="gallery.css">
+  <link rel="stylesheet" href="pricing.css">
 </head>
 <body>
   <div class="app-shell">
@@ -44,6 +45,7 @@
           <section class="results-panel" aria-live="polite">
             <div class="results-topline"><span>VENUE DIRECTORY</span><span>고양 · 서울 서북권</span></div>
             <div class="region-heading"><div><p class="heading-label">선택한 지역</p><h2 id="region-title"></h2><p id="region-subtitle" class="region-subtitle"></p></div><div class="region-total"><strong id="region-count">0</strong><span>조사 후보</span></div></div>
+            <section id="pricing-overview" class="pricing-overview" hidden aria-label="일산서구 가격 비교"></section>
             <div class="toolbar"><label class="search-box"><span class="sr-only">예식장 검색</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 5 5"/></svg><input id="search" type="search" placeholder="현재·옛 이름 또는 주소 검색" autocomplete="off"></label></div>
             <div class="status-filter"><label for="status-filter">확인 상태</label><select id="status-filter"><option value="all">전체 조사 후보</option><option value="official">공식 예식 안내 있음</option><option value="listed">외부 목록 수록</option><option value="pending">운영 확인 필요</option><option value="planned">개장 예정</option></select><span>공식 안내가 있어도 신규 예약·영업을 보증하지 않습니다.</span></div>
             <label class="photo-filter"><input id="photo-filter" type="checkbox"> 사진이 있는 공간만 보기</label>
@@ -77,7 +79,7 @@
     <p id="photo-counter" aria-live="polite"></p><div id="photo-thumbs" class="photo-thumbs" aria-label="사진 선택"></div>
     <div class="gallery-source"><span>사진 제공: 해당 시설 공식 사이트 · 2026. 11. 22. 확인</span><a id="photo-source" target="_blank" rel="noopener noreferrer">출처 페이지 ↗</a><a id="photo-original" target="_blank" rel="noopener noreferrer">원본 이미지 ↗</a></div>
   </dialog>
-  <script src="catalog.js" defer></script>
-  <script src="script.js?v=20261122-parking-removed" defer></script>
+  <script src="catalog.js?v=20261122-autumn-prices" defer></script>
+  <script src="script.js?v=20261122-autumn-prices" defer></script>
 </body>
 </html>
