@@ -4,11 +4,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#17263a">
-  <meta name="description" content="고양·서울 서북권 9개 지역의 예식 공간 위치, 연락처, 주차, 홈페이지를 비교하는 대시보드">
+  <meta name="description" content="고양·서울 서북권 8개 지역의 예식 공간 위치, 연락처, 주차, 홈페이지를 비교하는 대시보드">
   <title>웨딩 스팟 | 고양·서울 서북권 예식장 찾기</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="gallery.css">
-  <link rel="stylesheet" href="pricing.css">
+  <link rel="stylesheet" href="pricing.css?v=20261122-all-region-prices">
 </head>
 <body>
   <div class="app-shell">
@@ -28,10 +28,10 @@
           <div class="hero-copy">
             <p class="eyebrow"><span class="eyebrow-line"></span> GOYANG · SEOUL WEDDING GUIDE</p>
             <h1 id="hero-title">우리에게 맞는<br><em>예식 공간</em>을 찾는 시간</h1>
-            <p class="hero-desc">고양 3개 구와 서울 6개 구의 예식 공간을 지역별로 살펴보세요. 주소, 문의 전화, 주차, 홈페이지를 한 자리에서 비교할 수 있습니다.</p>
+            <p class="hero-desc">고양 3개 구와 서울 5개 구의 예식 공간을 지역별로 살펴보세요. 주소, 문의 전화, 주차, 홈페이지를 한 자리에서 비교할 수 있습니다.</p>
             <a class="hero-jump" href="#explore">지역별 공간 살펴보기 <span aria-hidden="true">↓</span></a>
           </div>
-          <div class="hero-art" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="orbit orbit-three"></div><div class="art-center"><span>9</span><small>AREAS</small></div><i class="pin pin-a"></i><i class="pin pin-b"></i><i class="pin pin-c"></i><i class="pin pin-d"></i><div class="art-caption">한눈에 비교하는<br>우리의 결혼식 장소</div></div>
+          <div class="hero-art" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="orbit orbit-three"></div><div class="art-center"><span>8</span><small>AREAS</small></div><i class="pin pin-a"></i><i class="pin pin-b"></i><i class="pin pin-c"></i><i class="pin pin-d"></i><div class="art-caption">한눈에 비교하는<br>우리의 결혼식 장소</div></div>
         </div>
 
         <div class="survey-banner"><div><strong id="survey-total"></strong><p>현재 예약 가능 여부를 전화로 확인한 목록은 아닙니다. 과거 장소도 누락하지 않고 확인 상태와 함께 보관했습니다.</p></div><a href="#survey">조사 범위와 미확인 항목 →</a></div>
@@ -39,34 +39,34 @@
           <aside class="region-panel" aria-label="지역 선택">
             <div class="panel-kicker">지역 탐색 <span>AREA INDEX</span></div>
             <div id="region-tabs" class="region-tabs" role="tablist" aria-label="지역별 예식장"></div>
-            <div class="panel-note"><span class="note-icon">i</span><p>대학 운영 시설, 동문회관, 군 관련 회관 등은 목록에서 제외했습니다. <a href="#excluded">제외 목록 보기</a></p></div>
+            <div class="panel-note"><span class="note-icon">i</span><p>대학·동문·군 시설과 문화·체험·야외 예식 공간은 제외했습니다. <a href="#excluded">제외 목록 보기</a></p></div>
           </aside>
 
           <section class="results-panel" aria-live="polite">
             <div class="results-topline"><span>VENUE DIRECTORY</span><span>고양 · 서울 서북권</span></div>
             <div class="region-heading"><div><p class="heading-label">선택한 지역</p><h2 id="region-title"></h2><p id="region-subtitle" class="region-subtitle"></p></div><div class="region-total"><strong id="region-count">0</strong><span>조사 후보</span></div></div>
-            <section id="pricing-overview" class="pricing-overview" hidden aria-label="일산서구 가격 비교"></section>
             <div class="toolbar"><label class="search-box"><span class="sr-only">예식장 검색</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 5 5"/></svg><input id="search" type="search" placeholder="현재·옛 이름 또는 주소 검색" autocomplete="off"></label></div>
             <div class="status-filter"><label for="status-filter">확인 상태</label><select id="status-filter"><option value="all">전체 조사 후보</option><option value="official">공식 예식 안내 있음</option><option value="listed">외부 목록 수록</option><option value="pending">운영 확인 필요</option><option value="planned">개장 예정</option></select><span>공식 안내가 있어도 신규 예약·영업을 보증하지 않습니다.</span></div>
             <label class="photo-filter"><input id="photo-filter" type="checkbox"> 사진이 있는 공간만 보기</label>
             <div id="result-summary" class="result-summary"></div>
+            <section id="pricing-overview" class="pricing-overview" hidden aria-label="지역별 대관료와 식대 비교"></section>
             <div id="venue-list" class="venue-list"></div>
             <p class="data-note">조회일: 2026. 11. 22. · 공식 안내, 외부 예약 목록, 옛 주소록을 교차 대조한 후보 목록입니다. 미공개 전화·주차는 추정하지 않았습니다. 전체 영업장의 누락 없음과 현재 운영 여부는 아직 확정할 수 없습니다. <a href="#survey">출처와 남은 확인 항목 보기</a></p>
           </section>
         </div>
       </section>
       <section id="survey-view" class="view excluded-view" hidden aria-labelledby="survey-title">
-        <div class="excluded-intro"><p class="eyebrow"><span class="eyebrow-line"></span> RESEARCH RECORD</p><h1 id="survey-title">조사 내역</h1><p>9개 지역을 모두 검색하고 발견한 후보를 대조했습니다. 수록 수는 현재 운영 중인 예식장 수와 다릅니다.</p></div>
+        <div class="excluded-intro"><p class="eyebrow"><span class="eyebrow-line"></span> RESEARCH RECORD</p><h1 id="survey-title">조사 내역</h1><p>8개 지역을 모두 검색하고 발견한 후보를 대조했습니다. 수록 수는 현재 운영 중인 예식장 수와 다릅니다.</p></div>
         <div id="survey-metrics" class="survey-metrics"></div><div class="survey-section"><h2>명칭별 검색 · 사진 보완 현황</h2><div id="enrichment-summary"></div><p>각 후보의 명칭으로 네이버·구글을 각각 검색했습니다. 공식 사이트에서 해당 장소 사진을 확인하고 로고·광고·지도·중복 이미지를 제외했습니다. 확보한 사진만 표시하며 5장 미만인 곳도 있습니다.</p><a href="ENRICHMENT_REPORT.md" target="_blank" rel="noopener">시설별 검색·미확보 내역 보기</a></div>
         <div class="survey-section"><h2>지역별 조사 현황</h2><div class="table-scroll"><table class="survey-table"><thead><tr><th>지역</th><th>후보</th><th>공식 안내</th><th>외부 목록</th><th>운영 미확인</th><th>개장 예정</th></tr></thead><tbody id="survey-region-rows"></tbody></table></div></div>
-        <div class="survey-section"><h2>어디까지 확인했나요?</h2><ul><li>서울시 공공예식장 7개 목록 페이지, 총 73개 시설을 읽고 대상 지역 18개 시설의 상세 안내를 수집했습니다.</li><li>일반 예식장·호텔·한옥·소규모 웨딩·과거 상호를 지역별로 검색하고 공식 사이트와 예약업체 목록을 대조했습니다.</li><li>서울 313개 시설 비교표, 고양 및 구별 장소 목록을 후보 발굴에 활용했습니다. 이들 목록을 영업 확인 근거로 사용하지 않았습니다.</li><li>한국소비자원 공개 목록은 열람한 페이지와 검색 결과만 확인했습니다. 전체 공시 자료를 내려받아 대조하지는 못했습니다.</li><li>전국 예식장 표준데이터와 양천구 자료의 메타정보를 확인했습니다. 전국 원본 전체는 확보하지 못했고, 양천 자료는 2023년 기준이므로 현행 영업 명부로 사용하지 않았습니다.</li></ul></div>
+        <div class="survey-section"><h2>어디까지 확인했나요?</h2><ul><li>운영사·공공기관·예약업체 자료를 명칭별로 대조하고, 현재 비교 범위에 해당하는 자료만 수록했습니다.</li><li>일반 예식장·호텔·한옥·소규모 웨딩·과거 상호를 지역별로 검색하고 공식 사이트와 예약업체 목록을 대조했습니다.</li><li>서울 313개 시설 비교표, 고양 및 구별 장소 목록을 후보 발굴에 활용했습니다. 이들 목록을 영업 확인 근거로 사용하지 않았습니다.</li><li>한국소비자원 서울(강남외) 58건·경기 44건의 목록을 대조하고 해당 시설의 공개 가격 원문을 확인했습니다. 모든 업체의 상세 공시를 확인한 것은 아닙니다.</li><li>전국 예식장 표준데이터와 양천구 자료의 메타정보를 확인했습니다. 전국 원본 전체는 확보하지 못했고, 양천 자료는 2023년 기준이므로 현행 영업 명부로 사용하지 않았습니다.</li></ul></div>
         <div class="survey-section"><h2>상태를 읽는 방법</h2><dl class="status-definitions"><dt>공식 예식 안내 있음</dt><dd>운영사 또는 공공 운영기관의 예식 안내를 찾았습니다. 구형 페이지·검색 색인으로만 확인한 경우 카드에 표시했습니다.</dd><dt>외부 목록 수록</dt><dd>예약업체·관광기관 등의 소개는 있지만 현 운영사의 예약 안내를 충분히 확인하지 못했습니다.</dd><dt>운영 확인 필요</dt><dd>과거 기록 또는 분류가 불분명한 후보입니다. 현재 영업 중이거나 폐업했다고 단정하지 않았습니다.</dd><dt>개장 예정</dt><dd>예식장 개장 예정 안내가 있는 후보입니다. 현재 영업장 수에 합산하면 안 됩니다.</dd></dl></div>
         <div class="survey-section"><h2>중복·제외 기준 정리</h2><p>같은 장소의 홀별 상품은 합치고, 같은 건물이라도 예약실·층·브랜드가 다른 시설은 구분했습니다. 이룸웨딩컨벤션과 더파티움 여의도는 요청하신 제외 대상이 아니므로 복원했습니다.</p><div id="survey-other-records"></div></div>
         <div class="survey-section"><h2>남은 확인</h2><p>현재 영업·신규 예약·폐업·상호 승계 여부를 시설별로 전화 확인하지 못했습니다. 일부 후보는 정확한 위치나 전화·주차 정보도 미확인입니다. 공공데이터 원본 전체 및 지도 사업자 목록을 모두 확보한 상태가 아니므로 ‘현존 예식장 전수 확인 완료’라고 표시하지 않습니다.</p><div class="report-links"><a href="SURVEY_REPORT.md" target="_blank" rel="noopener">상세 조사 보고서</a><a href="catalog.csv" download>전체 후보 CSV</a><a href="catalog.json" download>출처 포함 JSON</a></div></div>
       </section>
 
       <section id="excluded-view" class="view excluded-view" hidden aria-labelledby="excluded-title">
-        <div class="excluded-intro"><p class="eyebrow"><span class="eyebrow-line"></span> OUT OF SCOPE</p><h1 id="excluded-title">제외된 예식장</h1><p>대학·동문·군 관련 시설과 운영 중단이 확인된 장소입니다. 이름, 위치, 제외 사유만 표시합니다.</p></div>
+        <div class="excluded-intro"><p class="eyebrow"><span class="eyebrow-line"></span> OUT OF SCOPE</p><h1 id="excluded-title">제외된 예식장</h1><p>대학·동문·군 시설, 문화·체험 시설, 야외 예식 공간 등입니다. 이름, 위치, 제외 사유만 표시합니다.</p></div>
         <div id="excluded-list" class="excluded-list"></div>
       </section>
     </main>
@@ -79,7 +79,7 @@
     <p id="photo-counter" aria-live="polite"></p><div id="photo-thumbs" class="photo-thumbs" aria-label="사진 선택"></div>
     <div class="gallery-source"><span>사진 제공: 해당 시설 공식 사이트 · 2026. 11. 22. 확인</span><a id="photo-source" target="_blank" rel="noopener noreferrer">출처 페이지 ↗</a><a id="photo-original" target="_blank" rel="noopener noreferrer">원본 이미지 ↗</a></div>
   </dialog>
-  <script src="catalog.js?v=20261122-autumn-prices" defer></script>
-  <script src="script.js?v=20261122-autumn-prices" defer></script>
+  <script src="catalog.js?v=20261122-all-region-prices" defer></script>
+  <script src="script.js?v=20261122-all-region-prices" defer></script>
 </body>
 </html>
