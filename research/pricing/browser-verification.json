@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-11-22",
+  "liveUrl": "https://lljshllidllll-cmd.github.io/wedding-spot/#pricing-overview",
+  "priceComparisonRows": 4,
+  "venuesWithPricing": 4,
+  "quoteRecords": 7,
+  "primarySpreadsheet": "amounts matched independently",
+  "historicalSeasonSpecificQuotes": 0,
+  "localOtherRegion": "overview hidden and no price sections in Ilsan east",
+  "mobile": {
+    "width": 390,
+    "pageOverflow": false,
+    "tableHorizontalScroll": true
+  },
+  "liveDetail": {
+    "venue": "venue-002",
+    "expanded": true,
+    "records": 2
+  },
+  "consoleErrors": [],
+  "parkingFilterRestored": false
+}
