@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import { mergeEnrichment } from './merge-enrichment.mjs';
+import { applyScope } from './apply-scope.mjs';
 const read = path => JSON.parse(fs.readFileSync(path, 'utf8'));
 const baseline=read('research/baseline.json');
 const additions=read('research/catalog-additions.json');
@@ -79,9 +80,10 @@ amend('하우스 오브 콩두',{phone:'02-722-7002'});
 amend('마리앤코 코지가든',{parking:'기계식 40대 · 예식 고객 3시간 무료',parkingKnown:true,source:'https://www.marieenco.co.kr/place/43'});
 amend('마리앤코 영등포역점',{parking:'운영사 개장 안내 약 100대 / 외부 플랫폼 700대로 상충 · 재확인 필요',parkingKnown:false,source:'https://www.marieenco.co.kr/issue/26'});
 const counts=Object.fromEntries(baseline.regions.map(r=>[r.name,venues.filter(v=>v.region===r.id).length]));
+applyScope(catalog);
 mergeEnrichment(catalog);
-const pricingPath='research/pricing/ilsan-west.json';
+const pricingPath='research/pricing/all-regions.json';
 if(fs.existsSync(pricingPath)){const pricing=JSON.parse(fs.readFileSync(pricingPath,'utf8'));catalog.pricingScope={checkedAt:pricing.checkedAt,region:pricing.region,planning:pricing.planning,requestedHistory:pricing.requestedHistory,scopeNote:pricing.scopeNote};for(const v of catalog.venues)if(pricing.venues[v.id])v.pricing=pricing.venues[v.id];}
 fs.writeFileSync('catalog.json',JSON.stringify(catalog,null,2));
 fs.writeFileSync('catalog.js','// catalog.json에서 생성. research/build-catalog.mjs로 재생성합니다.\nconst venueCatalog = '+JSON.stringify(catalog,null,2)+';\n');
-console.log(JSON.stringify({total:venues.length,statuses:Object.fromEntries(['official','listed','pending','planned'].map(s=>[s,catalog.venues.filter(v=>v.status===s).length])),excluded:excluded.length,counts},null,2));
+console.log(JSON.stringify({total:catalog.venues.length,statuses:Object.fromEntries(['official','listed','pending','planned'].map(s=>[s,catalog.venues.filter(v=>v.status===s).length])),excluded:catalog.excluded.length,counts:Object.fromEntries(catalog.regions.map(r=>[r.name,catalog.venues.filter(v=>v.region===r.id).length]))},null,2));

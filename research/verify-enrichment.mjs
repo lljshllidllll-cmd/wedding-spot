@@ -13,4 +13,4 @@ for(const v of c.venues){
 assert.equal(photos,c.enrichment.photos);assert.equal(c.enrichment.completeGalleries+c.enrichment.partialGalleries+c.enrichment.missingGalleries,c.venues.length);
 for(const id of ['venue-091','venue-092'])assert.equal(c.venues.find(v=>v.id===id).photos.length,5);
 assert(!c.venues.find(v=>v.id==='venue-091').photos.some(p=>c.venues.find(v=>v.id==='venue-092').photos.some(q=>q.sha256===p.sha256)));
-const result={pass:true,checkedAt:c.checkedAt,searches:{naver:118,google:118},...c.enrichment};fs.writeFileSync('research/enrichment-verification.json',JSON.stringify(result,null,2));console.log(result);
+const result={pass:true,checkedAt:c.checkedAt,searches:{naver:c.venues.length,google:c.venues.length},...c.enrichment};fs.writeFileSync('research/enrichment-verification.json',JSON.stringify(result,null,2));console.log(result);

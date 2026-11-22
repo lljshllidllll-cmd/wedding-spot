@@ -208,114 +208,6 @@
     }
   },
   {
-    "id": "venue-023",
-    "name": "관세비스타",
-    "field": "phone",
-    "before": null,
-    "after": "02-357-9090",
-    "source": {
-      "url": "https://wow-wedding.co.kr/",
-      "type": "external",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-025",
-    "name": "너른마당",
-    "field": "phone",
-    "before": null,
-    "after": "031-962-6655",
-    "source": {
-      "url": "https://www.google.com/search?q=%EB%84%88%EB%A5%B8%EB%A7%88%EB%8B%B9%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-      "type": "external",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-026",
-    "name": "라피쥬웨딩 원흥점",
-    "field": "phone",
-    "before": null,
-    "after": "02-511-4804",
-    "source": {
-      "url": "https://www.google.com/search?q=%EB%9D%BC%ED%94%BC%EC%A5%AC%EC%9B%A8%EB%94%A9%20%EC%9B%90%ED%9D%A5%EC%A0%90%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-      "type": "external",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-027",
-    "name": "해피뉴데이 힐하우스 일산",
-    "field": "phone",
-    "before": null,
-    "after": "010-3355-1147",
-    "source": {
-      "url": "https://happynewday.co.kr/place/hill-house",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-027",
-    "name": "해피뉴데이 힐하우스 일산",
-    "field": "parking",
-    "before": "공개자료에서 확인되지 않음",
-    "after": "약 70대 주차 가능 · 무료 시간·대절버스 조건 확인 필요",
-    "source": {
-      "url": "https://happynewday.co.kr/place/hill-house",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-027",
-    "name": "해피뉴데이 힐하우스 일산",
-    "field": "website",
-    "before": "https://happynewday.co.kr/",
-    "after": "https://happynewday.co.kr/place/hill-house",
-    "source": {
-      "url": "https://happynewday.co.kr/place/hill-house",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-030",
-    "name": "일루와유 달보루",
-    "field": "phone",
-    "before": null,
-    "after": "0507-1322-8432",
-    "source": {
-      "url": "https://www.ilwy.kr/space",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-030",
-    "name": "일루와유 달보루",
-    "field": "parking",
-    "before": "공개자료에서 확인되지 않음",
-    "after": "은평 한문화 공영주차장 · 도보 약 5분, 유료",
-    "source": {
-      "url": "https://www.ilwy.kr/reservation",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-030",
-    "name": "일루와유 달보루",
-    "field": "website",
-    "before": null,
-    "after": "https://www.ilwy.kr/space",
-    "source": {
-      "url": "https://www.ilwy.kr/space",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
     "id": "venue-032",
     "name": "아펠가모 공덕",
     "field": "website",
@@ -640,18 +532,6 @@
     }
   },
   {
-    "id": "venue-075",
-    "name": "한국웨딩문화원",
-    "field": "phone",
-    "before": null,
-    "after": "02-385-0033",
-    "source": {
-      "url": "https://www.naraecard.co.kr/location1_pop1.php?copt=&ml_code=map3295",
-      "type": "historical",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
     "id": "venue-078",
     "name": "예스에이피엠컨벤시아",
     "field": "phone",
@@ -676,18 +556,6 @@
     }
   },
   {
-    "id": "venue-080",
-    "name": "서대문구청 본관강당",
-    "field": "phone",
-    "before": null,
-    "after": "02-3140-8350",
-    "source": {
-      "url": "https://familyseoul.or.kr/node/5692",
-      "type": "historical",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
     "id": "venue-083",
     "name": "블리스웨딩컨벤션",
     "field": "phone",
@@ -696,18 +564,6 @@
     "source": {
       "url": "https://www.itwed.co.kr/",
       "type": "historical",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-084",
-    "name": "서울물재생공원",
-    "field": "phone",
-    "before": null,
-    "after": "02-3660-2148",
-    "source": {
-      "url": "https://www.swr.or.kr/museum/cpage.do",
-      "type": "official",
       "checkedAt": "2026-11-22"
     }
   },
@@ -738,30 +594,6 @@
   {
     "id": "venue-087",
     "name": "국회 예식장",
-    "field": "website",
-    "before": null,
-    "after": "https://assemblywedding.or.kr/?p=8",
-    "source": {
-      "url": "https://assemblywedding.or.kr/?p=8",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-088",
-    "name": "국회 사랑재",
-    "field": "phone",
-    "before": null,
-    "after": "02-6788-3965",
-    "source": {
-      "url": "https://assemblywedding.or.kr/?p=6",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-088",
-    "name": "국회 사랑재",
     "field": "website",
     "before": null,
     "after": "https://assemblywedding.or.kr/?p=8",
@@ -840,18 +672,6 @@
     "source": {
       "url": "https://access.visitkorea.or.kr/main/main.do",
       "type": "external",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-118",
-    "name": "알프스웨딩홀",
-    "field": "phone",
-    "before": null,
-    "after": "02-358-7600",
-    "source": {
-      "url": "https://www.cardmaul.com/location_pop.php?ml_code=00521",
-      "type": "historical",
       "checkedAt": "2026-11-22"
     }
   }

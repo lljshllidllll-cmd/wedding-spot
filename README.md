@@ -1,31 +1,28 @@
-# Wedding Spot — 결혼식 대작전
+# Wedding Spot
 
-고양 3개 구와 서울 6개 구의 예식장 후보를 비교하는 정적 웹사이트입니다.
+고양 3개 구와 서울 5개 구의 실내 예식 공간을 비교합니다.
 
 [배포 사이트](https://lljshllidllll-cmd.github.io/wedding-spot/) · [GitHub 저장소](https://github.com/lljshllidllll-cmd/wedding-spot)
 
-- 지역별 탭, 상호·주소 검색, 확인 상태·사진 필터
-- 공식 사이트에서 수집하고 검수한 사진 확대 갤러리와 원본 출처
-- 일산서구의 대관료·성인 식대 참고 표와 자료별 포함 항목. 2025~2026년 9~11월 적용 견적은 미확보이며 공시·중개 정가·개장 예정 상품을 구분합니다.
-- 대학·동문·군 관련 시설 등의 별도 제외 목록
-- 2026-11-22 기준 후보 118곳, 사진 312장: 52곳 5장, 23곳 일부, 43곳 미확보
+- 현재 후보 82곳, 별도 제외 35곳. 지역 탭·상호 검색·상태·사진 필터.
+- 모든 후보에 대관료·성인 식대와 적용기간·출처 확인 양식 제공. 공개 가격 확보 49곳.
+- 업체 공시·공식 안내·중개 공개가와 블로그 참고 자료를 구분. 날짜별 확정 견적은 별도 상담 필요.
+- 대학·동문·군 시설, 문화·체험 시설, 공원·야외 예식 공간은 제외. 혼합 운영 시설은 실내 상품만 수록.
+- 현재 공식 사진 234장. 5장 확보 41곳, 일부 12곳, 미확보 29곳.
 
-현재 영업 및 신규 예약 여부를 전화로 확정한 명부는 아닙니다. 상세 범위와 미확인 항목은 [조사 보고서](SURVEY_REPORT.md), [자료 보완 보고서](ENRICHMENT_REPORT.md)에 기록했습니다.
+## 재생성
 
-일산서구 가격 출처와 미확보 기간은 [가격 조사 보고서](PRICING_REPORT.md)에 있습니다. 가격 입력은 `research/pricing/ilsan-west.json`이며 후보 목록 재생성 후 `node research/pricing-report.mjs`로 가격 보고서·CSV를 갱신합니다.
+범위: research/catalog-scope.json. 가격 입력: research/pricing/all-regions.json. 원시 조사 파일은 로컬 전용 폴더에 보관하며 일반 재생성에 필요하지 않습니다.
 
-## 로컬 확인
+1. node research/build-catalog.mjs
+2. node research/report.mjs
+3. node research/enrichment-report.mjs
+4. node research/pricing-report.mjs
+5. node research/verify.mjs
+6. node research/verify-enrichment.mjs
+7. node research/verify-pricing.mjs
+8. node research/build-public.mjs
 
-Node.js 20 이상에서 `node research/preview.mjs`를 실행하고 http://127.0.0.1:8765 를 엽니다. 별도 설치나 서버 비밀키는 필요하지 않습니다.
+로컬 미리보기: node research/preview.mjs 후 http://127.0.0.1:8765 접속.
 
-## 검사와 배포
-
-1. `node research/verify.mjs`
-2. `node research/verify-enrichment.mjs`
-3. `node research/build-public.mjs`
-4. `node research/prepare-pages-commit.mjs`
-5. `git push origin gh-pages`
-
-GitHub Pages의 게시 원본은 `gh-pages` 브랜치의 루트입니다. `main`은 소스와 조사 자료를 보관하고, 배포 브랜치는 선택한 사진·최신 데이터·보고서와 화면 파일을 담습니다. `dist/`는 배포 파일을 만드는 전용 폴더입니다.
-
-후보 목록 재생성은 `research/build-catalog.mjs` → `research/report.mjs` → `research/enrichment-report.mjs` 순서입니다. 원시 웹 페이지 HTML은 로컬 조사 자료로 보관합니다. 사진 원본·출처·검수 결과는 `research/enrichment/reviewed-photos.json`과 `catalog.json`에 있습니다.
+GitHub Pages 게시 원본은 gh-pages 루트. 배포 파일 생성 후 node research/prepare-pages-commit.mjs 및 git push origin main gh-pages를 사용합니다. 사진 원본을 삭제하지 않고 현재 선택된 파일만 배포합니다.
