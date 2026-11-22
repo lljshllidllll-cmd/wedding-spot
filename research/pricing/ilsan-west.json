@@ -1,0 +1,108 @@
+{
+  "checkedAt": "2026-11-22",
+  "region": "ilsan-west",
+  "planning": {"year": 2027, "months": [9,10,11]},
+  "requestedHistory": {"years": [2025,2026], "months": [9,10,11]},
+  "scopeNote": "2025·2026년 9~11월 예식일에 적용된 대관료·식대 견적은 미확보입니다. 공개된 공시·중개 정가와 개장 예정 상품을 참고 자료로 구분했습니다. 공시일·조회일은 예식 적용일과 다릅니다. 2027년 계약 금액을 뜻하지 않습니다.",
+  "venues": {
+    "venue-001": {
+      "historical": {"2025": "9~11월 적용 견적 미확보", "2026": "9~11월 적용 견적 미확보"},
+      "rentalSummary": "200만원 · 두 홀 동일",
+      "mealSummary": "58,000~68,000원",
+      "summaryType": "중개업체 공개가 · 적용연도·월 미표기",
+      "records": [{
+        "label": "더 아르데홀(B2) · 가든 애비뉴홀(B4)",
+        "kind": "중개업체 공개가",
+        "period": "적용연도·월 미표기 · 2026-11-22 조회",
+        "rental": "각 2,000,000원",
+        "adultMeal": "58,000~68,000원 / 1인",
+        "rentalKRW": [2000000,2000000], "adultMealKRW": [58000,68000],
+        "extras": "꽃장식은 홀 사용료에 포함. 상세 문구는 부가세 포함·봉사료 5% 별도이나, 같은 페이지의 ‘세금/봉사료 미포함’ 통합 표기와 상충하여 재확인 필요. 소인 25,000원은 성인 식대에 포함하지 않음.",
+        "sourceLabel": "제이웨딩 홀·성인 메뉴 가격",
+        "source": "https://jwedding.co.kr/hall/hall_view.html?addr_1=&addr_2=&benefit_text=&course_type_text=&find_word=&hall_division_text=&max_person=&min_person=&order_type=sortnum__desc&page=1&pagesize=15&price_text=&subway_type_text=&uid=535"
+      }]
+    },
+    "venue-002": {
+      "historical": {"2025": "9~11월 적용 견적 미확보", "2026": "9~11월 적용 견적 미확보 · 9월 공시는 확인"},
+      "rentalSummary": "별도 대관료 공시 없음",
+      "mealSummary": "77,000~150,000원",
+      "summaryType": "2026-09-12 업체 공시 · 중개 정가 별도 수록",
+      "records": [{
+        "label": "그랜드볼룸홀 · 제1전시장 3층",
+        "kind": "한국소비자원 게시 업체 공시",
+        "period": "자료 공개일 2026-09-12 · 예식 적용연도·월 미표기",
+        "rental": "별도 대관료 미기재 (무료라는 의미 아님)",
+        "adultMeal": "77,000~150,000원 / 1인",
+        "rentalKRW": null, "adultMealKRW": [77000,150000],
+        "extras": "연출료 330만~550만원, 플라워 330만~2,000만원 별도 항목. VAT 포함. 보증인원 300명 이상. 연출료를 대관료로 바꾸어 적지 않음.",
+        "sourceLabel": "업체 공시 가격표 XLSX · C5/E5/E6",
+        "source": "https://www.price.go.kr/tprice/common/file/file_down.do?fileRgtnSeq=31636"
+      },{
+        "label": "그랜드볼룸홀 · 중개 정가 참고",
+        "kind": "중개업체 정가",
+        "period": "적용연도·월 미표기 · 2026-11-22 조회",
+        "rental": "4,400,000원",
+        "adultMeal": "70,000~110,000원 / 1인",
+        "rentalKRW": [4400000,4400000], "adultMealKRW": [70000,110000],
+        "extras": "꽃장식 440만원 별도. 연출료·부가세·봉사료 포함 표기. 업체 공시와 다른 출처·조건이므로 서로 합산하지 않음.",
+        "sourceLabel": "요즘웨딩 그랜드볼룸 정가",
+        "source": "https://yozmwedding.co.kr/venue/?bmode=view&idx=154757224"
+      }]
+    },
+    "venue-017": {
+      "historical": {"2025": "9~11월 적용 견적 미확보", "2026": "9~11월 적용 견적 미확보 · 9월 공시는 확인"},
+      "rentalSummary": "별도 대관료 공시 없음",
+      "mealSummary": "77,000~150,000원",
+      "summaryType": "2026-09-12 업체 공시 · 중개 정가 별도 수록",
+      "records": [{
+        "label": "아네스홀 · 제2전시장 3층",
+        "kind": "한국소비자원 게시 업체 공시",
+        "period": "자료 공개일 2026-09-12 · 예식 적용연도·월 미표기",
+        "rental": "별도 대관료 미기재 (무료라는 의미 아님)",
+        "adultMeal": "77,000~150,000원 / 1인",
+        "rentalKRW": null, "adultMealKRW": [77000,150000],
+        "extras": "연출료 286만원, 플라워 330만~1,000만원 별도 항목. VAT 포함. 보증인원 150명 이상. 연출료를 대관료로 바꾸어 적지 않음.",
+        "sourceLabel": "업체 공시 가격표 XLSX · C7/E7/E8",
+        "source": "https://www.price.go.kr/tprice/common/file/file_down.do?fileRgtnSeq=31636"
+      },{
+        "label": "아네스홀 · 중개 정가 참고",
+        "kind": "중개업체 정가",
+        "period": "적용연도·월 미표기 · 2026-11-22 조회",
+        "rental": "3,300,000원",
+        "adultMeal": "70,000~110,000원 / 1인",
+        "rentalKRW": [3300000,3300000], "adultMealKRW": [70000,110000],
+        "extras": "꽃장식 440만원 별도. 연출료·부가세·봉사료 포함 표기. 업체 공시와 다른 출처·조건이므로 서로 합산하지 않음.",
+        "sourceLabel": "요즘웨딩 아네스홀 정가",
+        "source": "https://yozmwedding.co.kr/86/?bmode=view&idx=154757496"
+      }]
+    },
+    "venue-018": {
+      "historical": {"2025": "개장 전 · 실제 예식 가격 비교 대상 아님", "2026": "개장 전 · 실제 예식 가격 비교 대상 아님"},
+      "rentalSummary": "1,200만원 · 개장 예정 상품",
+      "mealSummary": "56,000~73,000원",
+      "summaryType": "중개업체 공개가 · 2027년 10월 오픈 예정 안내",
+      "availabilityNote": "다이렉트결혼준비는 2027년 10월 오픈 예정으로 안내합니다. 2027년 9월은 오픈 예정 이전이며, 10~11월도 실제 첫 예식일·예약 가능 여부를 확인해야 합니다. 2025~2026년 실제 예식 가격으로 사용하지 않습니다.",
+      "records": [{
+        "label": "퓨리티홀(4F) · 루미니스 컨벤션(7F)",
+        "kind": "개장 예정 상품 · 중개업체 공개가",
+        "period": "2027년 10월 오픈 예정 안내 · 가격 적용월 미표기",
+        "rental": "각 12,000,000원",
+        "adultMeal": "56,000~63,000원 / 1인",
+        "rentalKRW": [12000000,12000000], "adultMealKRW": [56000,63000],
+        "extras": "연출료 필수·대관료 포함, 생화 장식 대관료 포함, 음주류 식대 포함 표기. VAT·봉사료 포함 여부 미확인. 9~11월 확정 견적 아님.",
+        "sourceLabel": "다이렉트결혼준비 홀별 상세",
+        "source": "https://www.directwedding.co.kr/weddinghall/benyuji-1995-ilsanjeom"
+      },{
+        "label": "베뉴지홀(10F)",
+        "kind": "개장 예정 상품 · 중개업체 공개가",
+        "period": "2027년 10월 오픈 예정 안내 · 가격 적용월 미표기",
+        "rental": "12,000,000원",
+        "adultMeal": "66,000~73,000원 / 1인",
+        "rentalKRW": [12000000,12000000], "adultMealKRW": [66000,73000],
+        "extras": "연출료 필수·대관료 포함, 생화 장식 대관료 포함, 음주류 식대 포함 표기. VAT·봉사료 포함 여부 미확인. 9~11월 확정 견적 아님.",
+        "sourceLabel": "다이렉트결혼준비 홀별 상세",
+        "source": "https://www.directwedding.co.kr/weddinghall/benyuji-1995-ilsanjeom"
+      }]
+    }
+  }
+}

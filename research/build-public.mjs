@@ -3,7 +3,7 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 const root=process.cwd(),out=path.join(root,'dist');
 const catalog=JSON.parse(fs.readFileSync('catalog.json','utf8'));
-const files=['index.html','styles.css','gallery.css','script.js','catalog.js','catalog.json','catalog.csv','SURVEY_REPORT.md','ENRICHMENT_REPORT.md',...catalog.venues.flatMap(v=>v.photos.map(p=>p.localPath))];
+const files=['index.html','styles.css','gallery.css','pricing.css','script.js','catalog.js','catalog.json','catalog.csv','pricing.csv','SURVEY_REPORT.md','ENRICHMENT_REPORT.md','PRICING_REPORT.md',...catalog.venues.flatMap(v=>v.photos.map(p=>p.localPath))];
 fs.mkdirSync(out,{recursive:true});
 let bytes=0;
 for(const file of new Set(files)){

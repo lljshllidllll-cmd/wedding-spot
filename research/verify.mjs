@@ -18,7 +18,7 @@ assert.equal(c.venues.filter(v=>v.aliases.includes('더힐파노라마')).length
 assert.equal(c.venues.filter(v=>v.name==='더힐파노라마').length,0);
 assert.equal(c.venues.filter(v=>v.aliases.includes('로운아뜨리움')).length,1);
 const html=fs.readFileSync('index.html','utf8');
-assert(html.indexOf('src="catalog.js"')<html.indexOf('src="script.js?'));
+assert(html.indexOf('src="catalog.js')<html.indexOf('src="script.js?'));
 assert(!fs.readFileSync('script.js','utf8').includes('原文'));
 assert.equal(c.venues.filter(v=>v.status==='official').length+ c.venues.filter(v=>v.status==='listed').length+c.venues.filter(v=>v.status==='pending').length+c.venues.filter(v=>v.status==='planned').length,c.venues.length);
 const result={checkedAt:c.checkedAt,pass:true,venues:c.venues.length,excluded:c.excluded.length,regions:c.regions.length,publicRows:18,statuses:Object.fromEntries(Object.keys(c.statusLabels).map(s=>[s,c.venues.filter(v=>v.status===s).length]))};

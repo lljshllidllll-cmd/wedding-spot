@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+let html=fs.readFileSync('index.html','utf8'),js=fs.readFileSync('script.js','utf8');
+const swap=(value,from,to)=>{if(!value.includes(from))throw new Error('Missing anchor '+from);return value.replace(from,to);};
+html=swap(html,'  <link rel="stylesheet" href="gallery.css">','  <link rel="stylesheet" href="gallery.css">\n  <link rel="stylesheet" href="pricing.css">');
+html=swap(html,'            <div class="toolbar">','            <section id="pricing-overview" class="pricing-overview" hidden aria-label="일산서구 가격 비교"></section>\n            <div class="toolbar">');
+html=swap(html,'src="catalog.js"','src="catalog.js?v=20261122-autumn-prices"');
+html=swap(html,'script.js?v=20261122-parking-removed','script.js?v=20261122-autumn-prices');
+js=swap(js,'function renderVenues() {',fs.readFileSync('research/pricing-ui.js','utf8')+'\nfunction renderVenues() {');
+js=swap(js,'  const region = regions.find(item => item.id === selectedRegion);','  renderPricingOverview();\n  const region = regions.find(item => item.id === selectedRegion);');
+js=swap(js,'</dl>${venue.aliases.length','</dl>${renderVenuePricing(venue)}${venue.aliases.length');
+fs.writeFileSync('index.html',html);fs.writeFileSync('script.js',js);
