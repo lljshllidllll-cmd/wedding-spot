@@ -1,0 +1,48 @@
+{
+  "id": "venue-108",
+  "name": "서울식물원 잔디마당",
+  "officialWebsite": "https://wedding.seoulwomen.or.kr/facilities/3201",
+  "photos": [
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90.png",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3201",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-108-1.png",
+      "width": 900,
+      "height": 506,
+      "sha256": "b1c43344a1fbbf4c63cd9b1cf2eafa2b14d834ca4463bb3b1ede027fe9c19537",
+      "bytes": 295907,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90-2.png",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3201",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-108-2.png",
+      "width": 1350,
+      "height": 695,
+      "sha256": "a2651ebfe49aff8f3869d6d1a83f03b21f01f1a3b67d98bd9b121790b9a01f66",
+      "bytes": 545831,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90-%EC%9E%94%EB%94%94%EB%A7%88%EB%8B%B9-AI.png",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3201",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-108-3.png",
+      "width": 1068,
+      "height": 720,
+      "sha256": "11efd1afc9216fdb55c54164b32bde00decd8a9b6c7695927813679e278be4e3",
+      "bytes": 464336,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 3,
+  "errors": []
+}

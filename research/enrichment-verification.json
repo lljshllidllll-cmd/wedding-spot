@@ -1,0 +1,19 @@
+{
+  "pass": true,
+  "checkedAt": "2026-11-22",
+  "searches": {
+    "naver": 118,
+    "google": 118
+  },
+  "total": 118,
+  "naverResults": 118,
+  "googleResults": 118,
+  "photos": 312,
+  "completeGalleries": 52,
+  "partialGalleries": 23,
+  "missingGalleries": 43,
+  "missingPhone": 16,
+  "missingParking": 65,
+  "missingWebsite": 30,
+  "changes": 72
+}

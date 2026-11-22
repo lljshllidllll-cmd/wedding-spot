@@ -1,0 +1,4 @@
+import fs from 'node:fs';
+let p='research/report.mjs',s=fs.readFileSync(p,'utf8');s=s.replace('27개 운영 미확인 후보',"${count('pending')}개 운영 미확인 후보");s=s.replace('프로젝트 폴더에서 node research/build-catalog.mjs 실행 후 node research/report.mjs 실행.','프로젝트 폴더에서 node research/build-catalog.mjs, node research/report.mjs, node research/enrichment-report.mjs 순으로 실행. 사진 검수 결과는 research/enrichment/reviewed-photos.json, 연락처·주차 정정은 venue-updates.json에 보존합니다.');fs.writeFileSync(p,s);
+p='DESIGN_BRIEF.md';s=fs.readFileSync(p,'utf8').replace('실제 공간 사진과 로고를 복제하지 않고, 확인된 정보 자체를 화면의 중심에 둔다.','확인된 정보를 중심에 두고, 요청에 따라 공식 사이트의 실제 공간 사진을 출처와 함께 제공한다.').replace('군 관련 회관, 경찰공제회 건물 예식장은','군 관련 회관은');fs.writeFileSync(p,s);
+p='research/build-catalog.mjs';s=fs.readFileSync(p,'utf8').replace("[s,venues.filter(v=>v.status===s).length]","[s,catalog.venues.filter(v=>v.status===s).length]");fs.writeFileSync(p,s);

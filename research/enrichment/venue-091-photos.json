@@ -1,0 +1,74 @@
+{
+  "id": "venue-091",
+  "name": "연변냉면웨딩홀",
+  "officialWebsite": "http://ybwedding.net/",
+  "photos": [
+    {
+      "imageUrl": "http://ybwedding.net/main/02_3_photo_01/1000/1.jpg",
+      "sourcePage": "http://ybwedding.net/main23.php",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-091-1.jpg",
+      "width": 800,
+      "height": 532,
+      "sha256": "678b4933db00fb0672209c2613a873e5b7f5b393deb09ac37667ed5349fc4409",
+      "bytes": 506503,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://ybwedding.net/main/02_3_photo_01/1000/2.jpg",
+      "sourcePage": "http://ybwedding.net/main23.php",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-091-2.jpg",
+      "width": 800,
+      "height": 532,
+      "sha256": "6a3dbdaa01fade329ee57063883523e1299590a608ee4a37f5b0ebb42a9df428",
+      "bytes": 488423,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://ybwedding.net/main/02_3_photo_01/1000/3.jpg",
+      "sourcePage": "http://ybwedding.net/main23.php",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-091-3.jpg",
+      "width": 800,
+      "height": 532,
+      "sha256": "b7b721f498205176daf5089792ebf571dd04e22dbd7a36ef131e7f650f8f91c9",
+      "bytes": 539698,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://ybwedding.net/main/02_3_photo_01/1000/4.jpg",
+      "sourcePage": "http://ybwedding.net/main23.php",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-091-4.jpg",
+      "width": 800,
+      "height": 532,
+      "sha256": "660eab6b257e710859e344eb2b76cb354d2a12ce6d5899717b024c1bb7d2d1ff",
+      "bytes": 464589,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://ybwedding.net/main/02_3_photo_01/1000/5.jpg",
+      "sourcePage": "http://ybwedding.net/main23.php",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-091-5.jpg",
+      "width": 800,
+      "height": 532,
+      "sha256": "8075975a6bb6abf5fe8b987c266b216b7468d828a3d9ae5a9a55b2a334dac1af",
+      "bytes": 402611,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 44,
+  "errors": []
+}

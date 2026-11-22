@@ -1,0 +1,74 @@
+{
+  "id": "venue-039",
+  "name": "라이즈호텔",
+  "officialWebsite": "https://rysehotel.com/ko/events/wedding",
+  "photos": [
+    {
+      "alt": "A brown traditional spiral staircase ascending in a classic style.",
+      "height": 734,
+      "hint": "browser-dom",
+      "imageUrl": "https://framerusercontent.com/images/wj18q4gZ1HExwtY7YV6nTVBks.jpg?width=487&height=734",
+      "width": 487,
+      "sourcePage": "https://rysehotel.com/ko/events/wedding",
+      "localPath": "public/photos/venue-039-1.jpg",
+      "sha256": "1b0d399991ea72a395834a5ed0a3aed0dccd02404d251ee1bc363881e5e97577",
+      "bytes": 102121,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://framerusercontent.com/images/1kkMihPjtamhxNVs2LGvDHAAMM.jpg?scale-down-to=1024&width=1100&height=734",
+      "sourcePage": "https://rysehotel.com/ko/events/wedding",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-039-2.jpg",
+      "width": 1024,
+      "height": 683,
+      "sha256": "8b10b67ad4b8ac6dcacc0aafda45176a4965bf50c133b30ab07ffc805261fb58",
+      "bytes": 217595,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "alt": "An exterior view through an open doorway showing a white-themed sofa inside, with statues placed on both sides of the entrance wall.",
+      "height": 734,
+      "hint": "browser-dom",
+      "imageUrl": "https://framerusercontent.com/images/2FcrhNP138eFV9XuH8IlLb7WAg.jpg?width=565&height=734",
+      "width": 565,
+      "sourcePage": "https://rysehotel.com/ko/events/wedding",
+      "localPath": "public/photos/venue-039-3.jpg",
+      "sha256": "4f23792ae036e11761fd0e401e0ec4227341580d943efece340d93a9aa6cf1cc",
+      "bytes": 78934,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "alt": "A hotel luggage carrier placed against the wall with a large decorative vase in front of it.",
+      "height": 732,
+      "hint": "browser-dom",
+      "imageUrl": "https://framerusercontent.com/images/PKmgIIVvGAmm7H8JzIVear6PA3s.jpg?width=485&height=732",
+      "width": 485,
+      "sourcePage": "https://rysehotel.com/ko/events/wedding",
+      "localPath": "public/photos/venue-039-4.jpg",
+      "sha256": "e763d2609dd1d751c527f62310ae72fc83daa98c45a03e5cd2c2c24e7e9768a4",
+      "bytes": 46799,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://framerusercontent.com/images/686x9WZgWOfdFKnOwbYUn1tac.jpg?scale-down-to=1024&width=1100&height=734",
+      "sourcePage": "https://rysehotel.com/ko/events/wedding",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-039-5.jpg",
+      "width": 1024,
+      "height": 683,
+      "sha256": "dc1c7c038468faa3c113357626bf1584f369725a1a6ebd41b1304a8c1e3891cc",
+      "bytes": 187331,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 130,
+  "errors": []
+}

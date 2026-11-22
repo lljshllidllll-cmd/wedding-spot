@@ -1,0 +1,74 @@
+{
+  "id": "venue-013",
+  "name": "웨딩그룹위더스 영등포",
+  "officialWebsite": "https://withus.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://withus.kr/attachList/upload/hall/c20201011182752790/p20201012153226553/img20240910170400803.jpg",
+      "sourcePage": "https://withus.kr/wedding/meriel/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-013-1.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5f8bd766c5f8796bb2a82a69d744b94013c462432b20909feb0d3a0fa0c1e454",
+      "bytes": 415130,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://withus.kr/attachList/upload/hall/c20201011182820030/p20201012154638433/img20240910170842067.jpg",
+      "sourcePage": "https://withus.kr/wedding/felice/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-013-2.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "bfcb173617927191c0138fc2521beb058bc2209947bea47a5a051f66bb08de6f",
+      "bytes": 425278,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.withus.kr/attachList/upload/hall/c20201024162345867/p20201024162535540/pop20250409110012760.jpg",
+      "sourcePage": "https://www.withus.kr/wedding/",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-013-3.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "8526cef86d803b269a08ae3e23c768c63186ab4b24d7756249c0503249751b88",
+      "bytes": 122345,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.withus.kr/attachList/upload/hall/c20201024162345867/p20201024162535540/pop20250709174310250.jpg",
+      "sourcePage": "https://www.withus.kr/wedding/",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-013-4.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "5b30be1194356291d00d9536ec1eabd10615db3977ba39ccfc835a2f1105aa66",
+      "bytes": 147583,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://withus.kr/attachList/upload/hall/c20201024162345867/p20201024162535540/pop20240910163744007.jpg",
+      "sourcePage": "https://withus.kr/wedding/",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-013-5.jpg",
+      "width": 800,
+      "height": 450,
+      "sha256": "6dc55d8d171dd33ccea0b05968537827d18d60ee8f7bb3825f923f3fdab642d7",
+      "bytes": 95373,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 60,
+  "errors": []
+}

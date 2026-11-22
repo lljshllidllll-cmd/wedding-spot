@@ -1,0 +1,22 @@
+{
+  "id": "venue-106",
+  "name": "서울식물원 사색의 정원",
+  "officialWebsite": "https://wedding.seoulwomen.or.kr/facilities/3209",
+  "photos": [
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EC%82%AC%EC%83%89%EC%9D%98%EC%A0%95%EC%9B%90.png",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3209",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-106-1.png",
+      "width": 520,
+      "height": 381,
+      "sha256": "b1fb6daa4edde8c0694ed05166adda02dfaaa830a415fd72ddd74c32a67fb2e4",
+      "bytes": 118752,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 1,
+  "errors": []
+}

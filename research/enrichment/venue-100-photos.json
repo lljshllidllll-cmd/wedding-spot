@@ -1,0 +1,22 @@
+{
+  "id": "venue-100",
+  "name": "서대문 안산 잔디마당",
+  "officialWebsite": "https://wedding.seoulwomen.or.kr/facilities/3203",
+  "photos": [
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/30.%EC%84%9C%EB%8C%80%EB%AC%B8%EC%95%88%EC%82%B0%EC%9E%94%EB%94%94%EB%A7%88%EB%8B%B9-1.png",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3203",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-100-1.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "1500130ec93843d513bd7892d4690ab0f7f41574e9c9df340df0e5e3413c24d3",
+      "bytes": 637420,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 1,
+  "errors": []
+}

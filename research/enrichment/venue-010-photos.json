@@ -1,0 +1,74 @@
+{
+  "id": "venue-010",
+  "name": "더베뉴지서울",
+  "officialWebsite": "https://venueg.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20250526/5ea6b369629fe.jpg",
+      "sourcePage": "https://venueg.co.kr/TheMariaCallas",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-010-1.jpg",
+      "width": 1920,
+      "height": 2880,
+      "sha256": "d4f74af58e04ebf09e942de48aa59dae6aabae170f5b1997fe51bc7fcfeee302",
+      "bytes": 2070545,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20250702/93b60b1ea0c3c.jpg",
+      "sourcePage": "https://venueg.co.kr/TheMariaCallas",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-010-2.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sha256": "1cb72a2fcf431f49dba17caacb38dbc2e69d1fe1d48304c54e97af0805c5db8b",
+      "bytes": 484521,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20250703/ac7859286daf5.jpg",
+      "sourcePage": "https://venueg.co.kr/TheMariaCallas",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-010-3.jpg",
+      "width": 1920,
+      "height": 1153,
+      "sha256": "c1320286323e634b4505d7cc61b1319e24d8b9e2d86273b7d1c109b0c1f42198",
+      "bytes": 545004,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20250703/afa5ca556ff51.jpg",
+      "sourcePage": "https://venueg.co.kr/TheMariaCallas",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-010-4.jpg",
+      "width": 1919,
+      "height": 1160,
+      "sha256": "1e802e5326fd89183aebadb0c3df6e4cfa576b7d690b44667eee2a2720e5bddb",
+      "bytes": 655903,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20250702/41d7d5e3e1b19.jpg",
+      "sourcePage": "https://venueg.co.kr/TheMariaCallas",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-010-5.jpg",
+      "width": 1920,
+      "height": 929,
+      "sha256": "f409ac1063934af71dcdc1d9766208144e205850542e188444b221538a6012dc",
+      "bytes": 505479,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 60,
+  "errors": []
+}

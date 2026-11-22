@@ -1,0 +1,2757 @@
+{
+  "id": "venue-049",
+  "name": "더파티움 여의도",
+  "website": "https://www.thepartyum.com/",
+  "checkedAt": "2026-11-22",
+  "pages": [
+    {
+      "url": "https://www.thepartyum.com/",
+      "text": "",
+      "phones": [],
+      "matches": [],
+      "parking": [],
+      "anchors": [],
+      "images": []
+    },
+    {
+      "url": "https://www.thepartyum.com/sub/partyum.html",
+      "title": "더파티움",
+      "text": "더파티움 관리 본문내용 바로가기 The Partyum About Location Grand Convention Partyum Chandelier Kitchen Space Space Lounge Community Notice Event Data room News The Partyum Grand Convention Partyum Chandelier Kitchen Space Community 상담 및 방문 예약 찾아오시는 길 --> --> PARTYUM Partyum THE PARTYUM PARTYUM 스타일부터 디테일까지 모든 부분의 품격이 남다른 예식 WEDDING HALL PARTYUM 자연채광을 허락한 밝은 웨딩홀로 춤추는 샹들리에는 꿈에서만 그리던 결혼식을 현실로 만들어드립니다. MORE VIEW --> --> MORE VIEW PARTYUM BRIDE ROOM 대한민국 최대의 100평 신부대기실은 브라이덜샤워를 유럽귀족들이 즐기던 파티로 만들어 드립니다. MORE VIEW --> MORE VIEW PARTYUM HALL MOVIE 서울시 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYUM, ALL RIGHTS RESERVED. 빠른상담 신청하기 개인정보수집동의 개인정보수집동의 이름 연락처 010 011 016 - - 상담신청 전화연결 온라인상담 화이트에디션",
+      "phones": [
+        "02-784-0000"
+      ],
+      "matches": [
+        {
+          "phone": "02-784-0000",
+          "context": " 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTY"
+        },
+        {
+          "phone": "02-784-0800",
+          "context": "도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYUM, ALL RIGHTS R"
+        }
+      ],
+      "parking": [],
+      "anchors": [
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html#container",
+          "title": "본문내용 바로가기",
+          "raw": "#container"
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html",
+          "title": "",
+          "raw": "/main/main.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "The Partyum",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "About",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/location.html",
+          "title": "Location",
+          "raw": "../sub/location.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/grand.html",
+          "title": "Grand Convention",
+          "raw": "../sub/grand.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html",
+          "title": "Partyum",
+          "raw": "../sub/partyum.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/kitchen.html",
+          "title": "Chandelier Kitchen",
+          "raw": "../sub/kitchen.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "Space",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "Space",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/lounge.html",
+          "title": "Lounge",
+          "raw": "../sub/lounge.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=notice",
+          "title": "Community",
+          "raw": "/bbs/board.php?bo_table=notice"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=notice",
+          "title": "Notice",
+          "raw": "/bbs/board.php?bo_table=notice"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=event",
+          "title": "Event",
+          "raw": "/bbs/board.php?bo_table=event"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=dataroom",
+          "title": "Data room",
+          "raw": "/bbs/board.php?bo_table=dataroom"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=news",
+          "title": "News",
+          "raw": "/bbs/board.php?bo_table=news"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "javascript: openLayer('ly_calendar',0,0)"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw",
+          "title": "",
+          "raw": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/all_new_thepartyum/",
+          "title": "",
+          "raw": "https://www.instagram.com/all_new_thepartyum/"
+        },
+        {
+          "url": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734",
+          "title": "",
+          "raw": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "The Partyum",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/grand.html",
+          "title": "Grand Convention",
+          "raw": "../sub/grand.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html",
+          "title": "Partyum",
+          "raw": "../sub/partyum.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/kitchen.html",
+          "title": "Chandelier Kitchen",
+          "raw": "../sub/kitchen.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "Space",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=notice",
+          "title": "Community",
+          "raw": "/bbs/board.php?bo_table=notice"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "상담 및 방문 예약",
+          "raw": "../sub/reservation.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/location.html",
+          "title": "찾아오시는 길",
+          "raw": "../sub/location.html"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "javascript: openLayer('ly_calendar',0,0)"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw",
+          "title": "",
+          "raw": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/all_new_thepartyum/",
+          "title": "",
+          "raw": "https://www.instagram.com/all_new_thepartyum/"
+        },
+        {
+          "url": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734",
+          "title": "",
+          "raw": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "title": "",
+          "raw": "/bbs/board.php?bo_table=realwedding"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=magazine",
+          "title": "",
+          "raw": "/bbs/board.php?bo_table=magazine"
+        },
+        {
+          "url": "https://www.thepartyum.com/event/white_edition.html",
+          "title": "",
+          "raw": "https://www.thepartyum.com/event/white_edition.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/event/white_edition.html",
+          "title": "",
+          "raw": "https://www.thepartyum.com/event/white_edition.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "",
+          "raw": "../sub/reservation.html"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "tel:02-784-0000"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html",
+          "title": "Partyum",
+          "raw": "partyum.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html#",
+          "title": "MORE VIEW",
+          "raw": "#"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html#",
+          "title": "MORE VIEW",
+          "raw": "#"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw",
+          "title": "",
+          "raw": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/all_new_thepartyum/",
+          "title": "",
+          "raw": "https://www.instagram.com/all_new_thepartyum/"
+        },
+        {
+          "url": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734",
+          "title": "",
+          "raw": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html#",
+          "title": "개인정보수집동의",
+          "raw": "#"
+        },
+        {
+          "url": null,
+          "title": "전화연결",
+          "raw": "tel:02-784-0000"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "온라인상담",
+          "raw": "/sub/reservation.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/event/white_edition.html",
+          "title": "화이트에디션",
+          "raw": "https://www.thepartyum.com/event/white_edition.html"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.facebook.com/tr?id=671155261136431&ev=PageView&noscript=1",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/live@2x.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "라이브",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-yb.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "유튜브",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-blog.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "블로그",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-ig.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "인스타",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-fb.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "페이스북",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/menu@2x.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "전체메뉴 열기",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-yb.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "유튜브",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-blog.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "블로그",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-insta.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "인스타그램",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-fb.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "페이스북",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-gnb-close.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "전체메뉴 닫기",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick1.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "리얼웨딩",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick2.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "매거진",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick5.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "화이트에디션상담신청",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick3.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "예약",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick4.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "문의",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party01.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party1-1.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party1-2.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party1-3.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party1-4.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party1-5.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party1-8.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party1-7.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party1-6.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party02.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party2-1.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party2-2.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party2-3.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party2-4.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party2-5.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party2-6.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party2-7.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/party2-8.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/grand-more2-1.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/grand-more2-2.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/grand-more2-3.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/grand-more2-4.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/grand-more2-5.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/grand-more2-6.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/grand-more2-7.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/grand-more2-8.jpg",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/arrow-next.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "다음",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/arrow-prev.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "이전",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/sub/ts-close.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "닫기",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/ico_close_tp1.png",
+          "sourcePage": "https://www.thepartyum.com/sub/partyum.html",
+          "alt": "",
+          "hint": "background"
+        }
+      ]
+    },
+    {
+      "url": "https://www.thepartyum.com/sub/location.html",
+      "title": "더파티움",
+      "text": "더파티움 관리 본문내용 바로가기 The Partyum About Location Grand Convention Partyum Chandelier Kitchen Space Space Lounge Community Notice Event Data room News The Partyum Grand Convention Partyum Chandelier Kitchen Space Community 상담 및 방문 예약 찾아오시는 길 --> --> LOCATION About Location THE PARTYUM LOCATION 여의도더파티움에 찾아오시는 길을 알려드립니다. 도로명 주소 서울시 영등포구 은행로 30 (여의도동, 중소기업중앙회) 지번 주소 서울시 영등포구 여의도동 16-2 중소기업중앙회 상담 문의 대표전화 TEL 02-784-0000 │ FAX 02-784-0800 네이버 빠른길 찾기 예식식순 다운 주례없는예식 다운 --> 약도 다운받기 지하철 이용 시 9호선 - 국회의사당역 3번 출구 (도보 5분) 5호선 -여의나루역 1번출구 셔틀버스 이용 [ 여의나루역 2번출구 버스정류장(19140) 마을버스 10번 승차 기계회관 정류장 하차] ★ 여의나루역 → 더파티움여의도 무료 셔틀버스 운영 ★ 버스 이용 시 기계회관 [버스 정류장 No.19-320] - 일반[10], 마을[영등포10] 산업은행본점 [버스 정류장 No.19-281] - 일반[10], 간선[463], 마을[영등포10] 여의도순복음교회 [버스 정류장 No.19-303] - 일반[10], 간선[463], 지선[5633], 마을[영등포10] 여의도 환승센터 [버스 정류장 No.19-016] - 일반[88], 간선[8600, 8601] 여의도 환승센터 [버스 정류장 No.19-008] - 간선[N16, 160, 260, 360, 600, 662], 지선[5012, 6623, 6628] 자가용 이용 시 네비게이션 - 더파티움여의도 (서울 영등포구 은행로 30) 강남방면 - 88올림픽대로를 타고 여의도 63빌딩쪽으로 나오셔서 여의도 공원 방면으로 직진 후 중소기업중앙회관 지하 주차장으로 들어 오시면 됩니다. 강북방면 - 서강대교를 건너서 바로 순복음교회 쪽으로 좌회전 하신 후 두 번째 삼거리에서 우회전, 중소기업 중앙회 지하 주차장으로 들어오시면 됩니다. 마포대교 - 마포대교를 건너자마자 우회전 하시고 바로 좌회전 하신 후 중소기업중앙회관 지하 주차장으로 들어오시면 됩니다. 제1주차장 - 더파티움여의도 본관 주차장 ( 중소기업중앙회) 제2주차장 - ※ 제2주차장 이용 시, 반드시 본관에 들러 직원 안내를 받으셔야 주차 등록 및 혜택이 가능합니다. (주차등록은 직원이 진행) 서울시 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYUM, ALL RIGHTS RESERVED. 빠른상담 신청하기 개인정보수집동의 개인정보수집동의 이름 연락처 010 011 016 - - 상담신청 전화연결 온라인상담 화이트에디션",
+      "phones": [
+        "02-784-0000"
+      ],
+      "matches": [
+        {
+          "phone": "02-784-0000",
+          "context": " (여의도동, 중소기업중앙회) 지번 주소 서울시 영등포구 여의도동 16-2 중소기업중앙회 상담 문의 대표전화 TEL 02-784-0000 │ FAX 02-784-0800 네이버 빠른길 찾기 예식식순 다운 주례없는예식 다운 --> 약도 다운받기 지하철 이용 시 9호선 - 국회의사당역 3번 출구 ("
+        },
+        {
+          "phone": "02-784-0800",
+          "context": "번 주소 서울시 영등포구 여의도동 16-2 중소기업중앙회 상담 문의 대표전화 TEL 02-784-0000 │ FAX 02-784-0800 네이버 빠른길 찾기 예식식순 다운 주례없는예식 다운 --> 약도 다운받기 지하철 이용 시 9호선 - 국회의사당역 3번 출구 (도보 5분) 5호선 -여의나루역 "
+        },
+        {
+          "phone": "02-784-0000",
+          "context": " 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTY"
+        },
+        {
+          "phone": "02-784-0800",
+          "context": "도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYUM, ALL RIGHTS R"
+        }
+      ],
+      "parking": [
+        " 30) 강남방면 - 88올림픽대로를 타고 여의도 63빌딩쪽으로 나오셔서 여의도 공원 방면으로 직진 후 중소기업중앙회관 지하 주차장으로 들어 오시면 됩니다. 강북방면 - 서강대교를 건너서 바로 순복음교회 쪽으로 좌회전 하신 후 두 번째 삼거리에서 우회전, 중소기업 중앙회 지하 주차장으로 들어오시면 됩니다. 마포대교 - 마포대교를 건너자마자 우회전 하시고 바로 좌회전 하신 후 중소기업중앙회관 지하 주차장으로 들어오시면 됩니다. 제1주차장 - 더파티움여의도 본관 주차장 ( 중소기업중앙회) 제2주차장 - ※ 제2주차장 이용 시, 반드시 본관에 들러 직원 안내를 받으셔야 주차 등록 및 혜택이 가능합니다. (주차등록은 직원이 진",
+        "다. 강북방면 - 서강대교를 건너서 바로 순복음교회 쪽으로 좌회전 하신 후 두 번째 삼거리에서 우회전, 중소기업 중앙회 지하 주차장으로 들어오시면 됩니다. 마포대교 - 마포대교를 건너자마자 우회전 하시고 바로 좌회전 하신 후 중소기업중앙회관 지하 주차장으로 들어오시면 됩니다. 제1주차장 - 더파티움여의도 본관 주차장 ( 중소기업중앙회) 제2주차장 - ※ 제2주차장 이용 시, 반드시 본관에 들러 직원 안내를 받으셔야 주차 등록 및 혜택이 가능합니다. (주차등록은 직원이 진행) 서울시 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F ",
+        "하 주차장으로 들어오시면 됩니다. 마포대교 - 마포대교를 건너자마자 우회전 하시고 바로 좌회전 하신 후 중소기업중앙회관 지하 주차장으로 들어오시면 됩니다. 제1주차장 - 더파티움여의도 본관 주차장 ( 중소기업중앙회) 제2주차장 - ※ 제2주차장 이용 시, 반드시 본관에 들러 직원 안내를 받으셔야 주차 등록 및 혜택이 가능합니다. (주차등록은 직원이 진행) 서울시 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자",
+        "마포대교 - 마포대교를 건너자마자 우회전 하시고 바로 좌회전 하신 후 중소기업중앙회관 지하 주차장으로 들어오시면 됩니다. 제1주차장 - 더파티움여의도 본관 주차장 ( 중소기업중앙회) 제2주차장 - ※ 제2주차장 이용 시, 반드시 본관에 들러 직원 안내를 받으셔야 주차 등록 및 혜택이 가능합니다. (주차등록은 직원이 진행) 서울시 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYU",
+        "자 우회전 하시고 바로 좌회전 하신 후 중소기업중앙회관 지하 주차장으로 들어오시면 됩니다. 제1주차장 - 더파티움여의도 본관 주차장 ( 중소기업중앙회) 제2주차장 - ※ 제2주차장 이용 시, 반드시 본관에 들러 직원 안내를 받으셔야 주차 등록 및 혜택이 가능합니다. (주차등록은 직원이 진행) 서울시 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYUM, ALL RIGHTS RES",
+        "하신 후 중소기업중앙회관 지하 주차장으로 들어오시면 됩니다. 제1주차장 - 더파티움여의도 본관 주차장 ( 중소기업중앙회) 제2주차장 - ※ 제2주차장 이용 시, 반드시 본관에 들러 직원 안내를 받으셔야 주차 등록 및 혜택이 가능합니다. (주차등록은 직원이 진행) 서울시 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYUM, ALL RIGHTS RESERVED. 빠른상담 신청하기 ",
+        "앙회관 지하 주차장으로 들어오시면 됩니다. 제1주차장 - 더파티움여의도 본관 주차장 ( 중소기업중앙회) 제2주차장 - ※ 제2주차장 이용 시, 반드시 본관에 들러 직원 안내를 받으셔야 주차 등록 및 혜택이 가능합니다. (주차등록은 직원이 진행) 서울시 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYUM, ALL RIGHTS RESERVED. 빠른상담 신청하기 개인정보수집동의 개",
+        "파티움여의도 본관 주차장 ( 중소기업중앙회) 제2주차장 - ※ 제2주차장 이용 시, 반드시 본관에 들러 직원 안내를 받으셔야 주차 등록 및 혜택이 가능합니다. (주차등록은 직원이 진행) 서울시 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYUM, ALL RIGHTS RESERVED. 빠른상담 신청하기 개인정보수집동의 개인정보수집동의 이름 연락처 010 011 016 - - 상담",
+        "중앙회) 제2주차장 - ※ 제2주차장 이용 시, 반드시 본관에 들러 직원 안내를 받으셔야 주차 등록 및 혜택이 가능합니다. (주차등록은 직원이 진행) 서울시 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYUM, ALL RIGHTS RESERVED. 빠른상담 신청하기 개인정보수집동의 개인정보수집동의 이름 연락처 010 011 016 - - 상담신청 전화연결 온라인상담 화이트에디션"
+      ],
+      "anchors": [
+        {
+          "url": "https://www.thepartyum.com/sub/location.html#container",
+          "title": "본문내용 바로가기",
+          "raw": "#container"
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html",
+          "title": "",
+          "raw": "/main/main.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "The Partyum",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "About",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/location.html",
+          "title": "Location",
+          "raw": "../sub/location.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/grand.html",
+          "title": "Grand Convention",
+          "raw": "../sub/grand.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html",
+          "title": "Partyum",
+          "raw": "../sub/partyum.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/kitchen.html",
+          "title": "Chandelier Kitchen",
+          "raw": "../sub/kitchen.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "Space",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "Space",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/lounge.html",
+          "title": "Lounge",
+          "raw": "../sub/lounge.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=notice",
+          "title": "Community",
+          "raw": "/bbs/board.php?bo_table=notice"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=notice",
+          "title": "Notice",
+          "raw": "/bbs/board.php?bo_table=notice"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=event",
+          "title": "Event",
+          "raw": "/bbs/board.php?bo_table=event"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=dataroom",
+          "title": "Data room",
+          "raw": "/bbs/board.php?bo_table=dataroom"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=news",
+          "title": "News",
+          "raw": "/bbs/board.php?bo_table=news"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "javascript: openLayer('ly_calendar',0,0)"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw",
+          "title": "",
+          "raw": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/all_new_thepartyum/",
+          "title": "",
+          "raw": "https://www.instagram.com/all_new_thepartyum/"
+        },
+        {
+          "url": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734",
+          "title": "",
+          "raw": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "The Partyum",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/grand.html",
+          "title": "Grand Convention",
+          "raw": "../sub/grand.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html",
+          "title": "Partyum",
+          "raw": "../sub/partyum.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/kitchen.html",
+          "title": "Chandelier Kitchen",
+          "raw": "../sub/kitchen.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "Space",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=notice",
+          "title": "Community",
+          "raw": "/bbs/board.php?bo_table=notice"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "상담 및 방문 예약",
+          "raw": "../sub/reservation.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/location.html",
+          "title": "찾아오시는 길",
+          "raw": "../sub/location.html"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "javascript: openLayer('ly_calendar',0,0)"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw",
+          "title": "",
+          "raw": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/all_new_thepartyum/",
+          "title": "",
+          "raw": "https://www.instagram.com/all_new_thepartyum/"
+        },
+        {
+          "url": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734",
+          "title": "",
+          "raw": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "title": "",
+          "raw": "/bbs/board.php?bo_table=realwedding"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=magazine",
+          "title": "",
+          "raw": "/bbs/board.php?bo_table=magazine"
+        },
+        {
+          "url": "https://www.thepartyum.com/event/white_edition.html",
+          "title": "",
+          "raw": "https://www.thepartyum.com/event/white_edition.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/event/white_edition.html",
+          "title": "",
+          "raw": "https://www.thepartyum.com/event/white_edition.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "",
+          "raw": "../sub/reservation.html"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "tel:02-784-0000"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "About",
+          "raw": "about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/location.html",
+          "title": "Location",
+          "raw": "location.html"
+        },
+        {
+          "url": "https://map.naver.com/v5/directions/-/14128973.072566863,4512994.937269285,%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80,1018318622,PLACE_POI/-/transit?c=14128003.2777705,4513162.1432687,14,0,0,0,dh",
+          "title": "네이버 빠른길 찾기",
+          "raw": "https://map.naver.com/v5/directions/-/14128973.072566863,4512994.937269285,%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80,1018318622,PLACE_POI/-/transit?c=14128003.2777705,4513162.1432687,14,0,0,0,dh"
+        },
+        {
+          "url": "https://www.thepartyum.com/assets/data/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80%EC%97%AC%EC%9D%98%EB%8F%84%EC%98%88%EC%8B%9D%EC%8B%9D%EC%88%9C.pdf",
+          "title": "예식식순 다운",
+          "raw": "../assets/data/더파티움여의도예식식순.pdf"
+        },
+        {
+          "url": "https://www.thepartyum.com/assets/data/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80%EC%97%AC%EC%9D%98%EB%8F%84%EC%A3%BC%EB%A1%80%EC%97%86%EB%8A%94%EC%98%88%EC%8B%9D%EC%8B%9D%EC%88%9C.pdf",
+          "title": "주례없는예식 다운",
+          "raw": "../assets/data/더파티움여의도주례없는예식식순.pdf"
+        },
+        {
+          "url": "https://www.thepartyum.com/img/tow_thepartyum_counselling_list.pdf",
+          "title": "약도 다운받기",
+          "raw": "../img/tow_thepartyum_counselling_list.pdf"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw",
+          "title": "",
+          "raw": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/all_new_thepartyum/",
+          "title": "",
+          "raw": "https://www.instagram.com/all_new_thepartyum/"
+        },
+        {
+          "url": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734",
+          "title": "",
+          "raw": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/location.html#",
+          "title": "개인정보수집동의",
+          "raw": "#"
+        },
+        {
+          "url": null,
+          "title": "전화연결",
+          "raw": "tel:02-784-0000"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "온라인상담",
+          "raw": "/sub/reservation.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/event/white_edition.html",
+          "title": "화이트에디션",
+          "raw": "https://www.thepartyum.com/event/white_edition.html"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.facebook.com/tr?id=671155261136431&ev=PageView&noscript=1",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/live@2x.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "라이브",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-yb.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "유튜브",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-blog.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "블로그",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-ig.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "인스타",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-fb.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "페이스북",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/menu@2x.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "전체메뉴 열기",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-yb.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "유튜브",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-blog.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "블로그",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-insta.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "인스타그램",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-fb.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "페이스북",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-gnb-close.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "전체메뉴 닫기",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick1.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "리얼웨딩",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick2.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "매거진",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick5.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "화이트에디션상담신청",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick3.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "예약",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick4.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "문의",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/ico_close_tp1.png",
+          "sourcePage": "https://www.thepartyum.com/sub/location.html",
+          "alt": "",
+          "hint": "background"
+        }
+      ]
+    },
+    {
+      "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+      "title": "REAL WEDDING 1 페이지 | 더파티움",
+      "text": "REAL WEDDING 1 페이지 | 더파티움 관리 본문내용 바로가기 The Partyum About Location Grand Convention Partyum Chandelier Kitchen Space Space Lounge Community Notice Event Data room News The Partyum Grand Convention Partyum Chandelier Kitchen Space Community 상담 및 방문 예약 찾아오시는 길 --> REAL WEDDING Real Wedding THE PARTYUM REAL WEDDING 여의도더파티움의 리얼웨딩 하이라이트 231 REAL WEDDING 본식의 품격을 완성하는 식전 디렉팅 본식의 품격을 완성하는 식전 디렉팅양가 어머님의 입장 동선부터걸음의 속도와 시선, 맞절의 위치까지.예식이 시작되기 전주요 순서를 차분하게 안내받.. 2026.08.31 11:42:54 --> 230 REAL WEDDING 누구보다 축하하는 <마음을 드려요> 누구보다 축하하는 <마음을 드려요>아이유의 〈마음을 드려요〉와 함께두 사람의 새로운 시작을 축복한 따뜻한 축가가컨벤션홀을 잔잔한 감동.. 2026.08.25 11:52:07 --> 229 REAL WEDDING 결혼식이 뮤지컬이 되는 순간 결혼식이 한 편의 뮤지컬이 되는 순간결혼식의 막이 오르고,두 사람만을 위한 특별한 무대가 시작됩니다.실제 뮤지컬 배우의 깊이 있는 목소리와풍부한.. 2026.08.18 16:52:51 --> 228 REAL WEDDING 메인 대기실 이동 전, 머무는 곳 문 하나를 열었을 뿐인데,생각보다 넓고 아늑한 공간이 나타났습니다.메인 신부대기실로 이동하기 전,신부님이 여유롭게 마음의 준비를 이어가고긴장을 .. 2026.08.10 10:57:27 --> 227 REAL WEDDING 영원히 기억에 남을 터미널 축무 신부를 향한 마음을 담아짧고 굵게 준비한 터미널 춤익숙한 동작에 재치 있는 몸짓과 센스가 더해져시작부터 하객들의 웃음을 터뜨리고,예식장의 분위기.. 2026.08.03 16:09:46 --> 226 REAL WEDDING 가장 사랑스러운 사람이라는 마음 축가가 전하는 진심과 함께 스크린 뒤에서두 사람이 손을 맞잡고 천천히 걸어 나옵니다.'가장 사랑스러운 사람'이라는 마음을 담은 노래처럼,서로를 .. 2026.07.27 14:13:37 --> 225 REAL WEDDING 멋진 퍼포먼스 신랑입장 어두운 홀을 가득 채우는 영상의 몰입감과영상이 끝나고 문이 열리는 순간,신랑의 등장은 단순한 입장이 아닌하나의 장면처럼 완성됩니다.더파티움여의도.. 2026.07.21 09:06:11 --> 224 REAL WEDDING 공간 분위기만큼 중요한 부분, 식사 하객분들이가장 오래 기억하는 부분은식사 구성과 만족도입니다.음식의 종류는 충분한지,어른들부터 친구들까지호불호 없이 즐길 수 있는지,연회 동선은 .. 2026.07.13 10:55:35 --> 223 REAL WEDDING 식중에 갑자기 곰돌이의 등장?! 생각도 못 한 순간,가장 귀여운 게스트가등장했습니다노래에 맞춰분위기를 끌어올리고하객분들의 호응까지자연스럽게 이끌어낸곰돌이의 깜짝 등장예식의 진지.. 2026.07.06 15:11:12 --> 222 REAL WEDDING 신랑 등장이 이렇게 멋있어도 돼요? 신랑 등장이 이렇게 멋있어도 돼요?신랑 입장도그저 걸어나오는 순간이 아니라하나의 장면처럼완성될 수 있습니다.더파티움여의도는미디어 스크린 뒤에서등.. 2026.06.29 14:42:41 --> 221 REAL WEDDING 더 편하고 만족스러운 웨딩 준비 더 편하고 만족스러운 웨딩 준비신랑신부님의 편안한 예식을 위해더파티움여의도는 컨시어지 서비스까지 함께합니다.주차부터 짐 이동까지컨시어지 팀이 신.. 2026.06.22 13:53:30 --> 220 REAL WEDDING 두 사람에게 선물하는 특별한 선율 신랑신부님을 위한 캐논 연주가예식 공간 안에 조용히 울려 퍼지는 순간입니다.우리가 몰랐던 테너 리코더 깊은 선율과바이올린의 섬세한 울림,콘트라베.. 2026.06.15 16:34:20 --> 219 REAL WEDDING 소중한 하객들과 함께 완성되는 순간 눈에 담고 싶어지는 플라워 데코,어디서 찍어도 예쁜 포토스팟,들어서는 순간부터 기분 좋아지는 공간까지.하객들의 진짜 반응이 남는 웨딩.축하하러 .. 2026.06.09 14:42:00 --> 218 REAL WEDDING 푸른 달빛 아래 찬란한 순간, 더파티움여의도의 식중영상 깊고 은은한 푸른빛 위로달빛처럼 퍼지는 조명이 더해지며공간 전체를 더욱 신비롭고 찬란한 분위기로 완성합니다.더파티움여의도는빛과 공간, 디테일의 .. 2026.06.02 13:16:50 --> 217 REAL WEDDING 대형 미디어스크린이 만드는 몰입감, 웅장함이 남다른 그랜드컨벤션홀 그랜드컨벤션홀에 들어서는 순간 가장 먼저 시선을 사로잡는 건단연 압도적인 대형 미디어스크린입니다.넓고 웅장한 홀 분위기 위에플라워와 캔.. 2026.05.26 13:53:49 --> 열린 1 페이지 2 페이지 3 페이지 4 페이지 5 페이지 6 페이지 7 페이지 8 페이지 9 페이지 10 페이지 다음 맨끝 검색 검색대상 제목 내용 제목+내용 글쓴이 글쓴이(코) 검색어 필수 검색 닫기 서울시 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYUM, ALL RIGHTS RESERVED. 빠른상담 신청하기 개인정보수집동의 개인정보수집동의 이름 연락처 010 011 016 - - 상담신청 전화연결 온라인상담 매거진 리얼웨딩 --> 화이트에디션",
+      "phones": [
+        "02-784-0000"
+      ],
+      "matches": [
+        {
+          "phone": "02-784-0000",
+          "context": " 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTY"
+        },
+        {
+          "phone": "02-784-0800",
+          "context": "도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYUM, ALL RIGHTS R"
+        }
+      ],
+      "parking": [
+        "스러운 웨딩 준비 더 편하고 만족스러운 웨딩 준비신랑신부님의 편안한 예식을 위해더파티움여의도는 컨시어지 서비스까지 함께합니다.주차부터 짐 이동까지컨시어지 팀이 신.. 2026.06.22 13:53:30 --> 220 REAL WEDDING 두 사람에게 선물하는 특별한 선율 신랑신부님을 위한 캐논 연주가예식 공간 안에 조용히 울려 퍼지는 순간입니다.우리가 몰랐던 테너 리코더 깊은 선율과바이올린의 섬세한 울림,콘트라베.. 2026.06.15 16:34:20 --> 219 REAL WEDDING 소중한 하객들과 함께 완성되는 순간 눈에 담고 싶어지는 플라워 데코,어디서 찍어도 예쁜 포토스팟,들어서는 순간부터 기분 좋아지는 공"
+      ],
+      "anchors": [
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding#container",
+          "title": "본문내용 바로가기",
+          "raw": "#container"
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html",
+          "title": "",
+          "raw": "/main/main.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "The Partyum",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "About",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/location.html",
+          "title": "Location",
+          "raw": "../sub/location.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/grand.html",
+          "title": "Grand Convention",
+          "raw": "../sub/grand.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html",
+          "title": "Partyum",
+          "raw": "../sub/partyum.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/kitchen.html",
+          "title": "Chandelier Kitchen",
+          "raw": "../sub/kitchen.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "Space",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "Space",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/lounge.html",
+          "title": "Lounge",
+          "raw": "../sub/lounge.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=notice",
+          "title": "Community",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=notice"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=notice",
+          "title": "Notice",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=notice"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=event",
+          "title": "Event",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=event"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=dataroom",
+          "title": "Data room",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=dataroom"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=news",
+          "title": "News",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=news"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "javascript: openLayer('ly_calendar',0,0)"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw",
+          "title": "",
+          "raw": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/all_new_thepartyum/",
+          "title": "",
+          "raw": "https://www.instagram.com/all_new_thepartyum/"
+        },
+        {
+          "url": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734",
+          "title": "",
+          "raw": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "The Partyum",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/grand.html",
+          "title": "Grand Convention",
+          "raw": "../sub/grand.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html",
+          "title": "Partyum",
+          "raw": "../sub/partyum.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/kitchen.html",
+          "title": "Chandelier Kitchen",
+          "raw": "../sub/kitchen.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "Space",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=notice",
+          "title": "Community",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=notice"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "상담 및 방문 예약",
+          "raw": "../sub/reservation.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/location.html",
+          "title": "찾아오시는 길",
+          "raw": "../sub/location.html"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "javascript: openLayer('ly_calendar',0,0)"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw",
+          "title": "",
+          "raw": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/all_new_thepartyum/",
+          "title": "",
+          "raw": "https://www.instagram.com/all_new_thepartyum/"
+        },
+        {
+          "url": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734",
+          "title": "",
+          "raw": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "title": "",
+          "raw": "/bbs/board.php?bo_table=realwedding"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=magazine",
+          "title": "",
+          "raw": "/bbs/board.php?bo_table=magazine"
+        },
+        {
+          "url": "https://www.thepartyum.com/event/white_edition.html",
+          "title": "",
+          "raw": "https://www.thepartyum.com/event/white_edition.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "",
+          "raw": "../sub/reservation.html"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "tel:02-784-0000"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "title": "Real Wedding",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=252",
+          "title": "REAL WEDDING 본식의 품격을 완성하는 식전 디렉팅 본식의 품격을 완성하는 식전 디렉팅양가 어머님의 입장 동선부터걸음의 속도와 시선, 맞절의 위치까지.예식이 시작되기 전주요",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=252"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=251",
+          "title": "REAL WEDDING 누구보다 축하하는 <마음을 드려요> 누구보다 축하하는 <마음을 드려요>아이유의 〈마음을 드려요〉와 함께두 사람의 새로운 시작을 축복한 따뜻한 축가가컨벤션홀을",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=251"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=249",
+          "title": "REAL WEDDING 결혼식이 뮤지컬이 되는 순간 결혼식이 한 편의 뮤지컬이 되는 순간결혼식의 막이 오르고,두 사람만을 위한 특별한 무대가 시작됩니다.실제 뮤지컬 배우의 깊이 있",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=249"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "title": "REAL WEDDING 메인 대기실 이동 전, 머무는 곳 문 하나를 열었을 뿐인데,생각보다 넓고 아늑한 공간이 나타났습니다.메인 신부대기실로 이동하기 전,신부님이 여유롭게 마음의 ",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=247",
+          "title": "REAL WEDDING 영원히 기억에 남을 터미널 축무 신부를 향한 마음을 담아짧고 굵게 준비한 터미널 춤익숙한 동작에 재치 있는 몸짓과 센스가 더해져시작부터 하객들의 웃음을 터뜨",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=247"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=246",
+          "title": "REAL WEDDING 가장 사랑스러운 사람이라는 마음 축가가 전하는 진심과 함께 스크린 뒤에서두 사람이 손을 맞잡고 천천히 걸어 나옵니다.'가장 사랑스러운 사람'이라는 마음을 담",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=246"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=245",
+          "title": "REAL WEDDING 멋진 퍼포먼스 신랑입장 어두운 홀을 가득 채우는 영상의 몰입감과영상이 끝나고 문이 열리는 순간,신랑의 등장은 단순한 입장이 아닌하나의 장면처럼 완성됩니다.더",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=245"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=244",
+          "title": "REAL WEDDING 공간 분위기만큼 중요한 부분, 식사 하객분들이가장 오래 기억하는 부분은식사 구성과 만족도입니다.음식의 종류는 충분한지,어른들부터 친구들까지호불호 없이 즐길 ",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=244"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=243",
+          "title": "REAL WEDDING 식중에 갑자기 곰돌이의 등장?! 생각도 못 한 순간,가장 귀여운 게스트가등장했습니다노래에 맞춰분위기를 끌어올리고하객분들의 호응까지자연스럽게 이끌어낸곰돌이의 ",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=243"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=242",
+          "title": "REAL WEDDING 신랑 등장이 이렇게 멋있어도 돼요? 신랑 등장이 이렇게 멋있어도 돼요?신랑 입장도그저 걸어나오는 순간이 아니라하나의 장면처럼완성될 수 있습니다.더파티움여의도",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=242"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=241",
+          "title": "REAL WEDDING 더 편하고 만족스러운 웨딩 준비 더 편하고 만족스러운 웨딩 준비신랑신부님의 편안한 예식을 위해더파티움여의도는 컨시어지 서비스까지 함께합니다.주차부터 짐 이동",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=241"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=240",
+          "title": "REAL WEDDING 두 사람에게 선물하는 특별한 선율 신랑신부님을 위한 캐논 연주가예식 공간 안에 조용히 울려 퍼지는 순간입니다.우리가 몰랐던 테너 리코더 깊은 선율과바이올린의",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=240"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=239",
+          "title": "REAL WEDDING 소중한 하객들과 함께 완성되는 순간 눈에 담고 싶어지는 플라워 데코,어디서 찍어도 예쁜 포토스팟,들어서는 순간부터 기분 좋아지는 공간까지.하객들의 진짜 반응",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=239"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=238",
+          "title": "REAL WEDDING 푸른 달빛 아래 찬란한 순간, 더파티움여의도의 식중영상 깊고 은은한 푸른빛 위로달빛처럼 퍼지는 조명이 더해지며공간 전체를 더욱 신비롭고 찬란한 분위기로 완성",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=238"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=237",
+          "title": "REAL WEDDING 대형 미디어스크린이 만드는 몰입감, 웅장함이 남다른 그랜드컨벤션홀 그랜드컨벤션홀에 들어서는 순간 가장 먼저 시선을 사로잡는 건단연 압도적인 대형 미디어스크린",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=237"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=2",
+          "title": "2 페이지",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=2"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=3",
+          "title": "3 페이지",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=3"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=4",
+          "title": "4 페이지",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=4"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=5",
+          "title": "5 페이지",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=5"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=6",
+          "title": "6 페이지",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=6"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=7",
+          "title": "7 페이지",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=7"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=8",
+          "title": "8 페이지",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=8"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=9",
+          "title": "9 페이지",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=9"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=10",
+          "title": "10 페이지",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=10"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=11",
+          "title": "다음",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=11"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=16",
+          "title": "맨끝",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&page=16"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw",
+          "title": "",
+          "raw": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/all_new_thepartyum/",
+          "title": "",
+          "raw": "https://www.instagram.com/all_new_thepartyum/"
+        },
+        {
+          "url": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734",
+          "title": "",
+          "raw": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding#",
+          "title": "개인정보수집동의",
+          "raw": "#"
+        },
+        {
+          "url": null,
+          "title": "전화연결",
+          "raw": "tel:02-784-0000"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "온라인상담",
+          "raw": "/sub/reservation.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=magazine",
+          "title": "매거진",
+          "raw": "/bbs/board.php?bo_table=magazine"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "title": "리얼웨딩 --> 화이트에디션",
+          "raw": "/bbs/board.php?bo_table=realwedding"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/live@2x.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "라이브",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-yb.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "유튜브",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-blog.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "블로그",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-ig.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "인스타",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-fb.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "페이스북",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/menu@2x.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "전체메뉴 열기",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-yb.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "유튜브",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-blog.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "블로그",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-insta.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "인스타그램",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-fb.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "페이스북",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-gnb-close.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "전체메뉴 닫기",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick1.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "리얼웨딩",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick2.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "매거진",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick5.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "화이트에디션상담신청",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick3.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "예약",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick4.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "문의",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_pAJTOUEj_60981788948605f60344ca16888cc1ce08c65865_456x241.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_aI4VFM8W_6317291b0eb38dc23a6497d768eebda9955a2717_456x241.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_GcNpxRqV_1511be08344a302ee9df76b77a0fd28f19f71c18_456x241.jpg",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_7Yy3Zqk8_283c2c0dc2d9ff28c00457d0200f37398955c21b_456x241.jpg",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_jvs84U0V_d77d43f84d3c125321b8648eb3401d17b8c0a81e_456x241.jpg",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_BjOyCr4l_8bfe1f9b51e70757e99a70d83b600fd699c461c4_456x241.jpg",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_PmsxfEzy_f20ffcd1bea051c4df44d8c57961aad162467a37_456x241.jpg",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_SeaZ9l86_239a632d8ebbf438118605e32b2995d99297882e_456x241.jpg",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_8Sdpuk1z_a3bddfaf7249ac691c39d5d3047dc99c12d5f5ce_456x241.jpg",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_3WSujwf9_5b9b1d65dec2c5e39b1dbbdd9752daa7512ab921_456x241.jpg",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_PHvZLTuw_3c88cdf838b032a99f7d1d3b5bd0f35e2eb97b91_456x241.jpg",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_3oF0Ecgi_2c38d1deb6494f8a1add8fc3d4017d5969b59ad1_456x241.jpg",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_aqvdMb4m_355106cedc03d55f3b141623b6a08e5c7f99d7c1_456x241.jpg",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_l3LBy2Nx_cff769574f8b7b6a8b1ee94f803b390da6da1aa7_456x241.jpg",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_SRxsOJW8_a795a230452cbbc2eec7154646ad1c3de38f53a6_456x241.jpg",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/ico_close_tp1.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "background"
+        },
+        {
+          "imageUrl": "http://thepartyum.com/img/og.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "alt": "",
+          "hint": "embedded"
+        }
+      ]
+    },
+    {
+      "url": "https://www.thepartyum.com/main/main.html",
+      "title": "더파티움",
+      "text": "더파티움 관리 본문내용 바로가기 The Partyum About Location Grand Convention Partyum Chandelier Kitchen Space Space Lounge Community Notice Event Data room News The Partyum Grand Convention Partyum Chandelier Kitchen Space Community 상담 및 방문 예약 찾아오시는 길 --> --> --> X 오늘 하루 이 창을 열지 않음 닫기 --> --> X 오늘 하루 이 창을 열지 않음 닫기 --> × 오늘 하루 보지 않기 --> --> --> The Partyum Yeouio 새로운 웨딩 문화를 만드는 대표브랜드, 여의도 더파티움 RESERVATION + --> --> THE PARTYUM INSTARGRAM #결혼준비 #더파티움 #신부대기실 100평 #30M 풀스크린 의 감동 --> --> THE PARTYUM REAL WEDDING 서울 서남권 최고의 프리미엄 웨딩홀, 최고의 순간을 더 파티움 여의도에서 REAL WEDDING 본식의 품격을 완성하는 식전 디렉팅 본식의 품격을 완성하는 식전 디렉팅양가 어머님의 입장 동선부터걸음의 속도와 시선, 맞절의 위치까지.예식이 시작되기 전주요 순서를 차분하게 안내받으며낯선 동선에 대한 긴장을 덜어냅니다.짧지만 세심한 식전 디렉팅이양가 어머님의 아름다운 입장과안정적인 예식의 시작을 완성합니다.파티움은 본식의 모든 순간이더욱 자연스럽게 이어질 수 있도록예식 전부터 세심하게 함께합... 2026-08-31 11:42:54 REAL WEDDING 누구보다 축하하는 <마음을 드려요> 누구보다 축하하는 &lt;마음을 드려요&gt;아이유의 〈마음을 드려요〉와 함께두 사람의 새로운 시작을 축복한 따뜻한 축가가컨벤션홀을 잔잔한 감동으로 채웠습니다.진심이 담긴 목소리와 아름다운 멜로디,그리고 노래를 바라보는 두 사람의 행복한 표정까지.오래도록 마음속에 남을파티움여의도 컨벤션홀의특별한 축가 순간입니다.⬇️더 많은 웨딩 정보 보기블로그 https:... 2026-08-25 11:52:07 REAL WEDDING 결혼식이 뮤지컬이 되는 순간 결혼식이 한 편의 뮤지컬이 되는 순간결혼식의 막이 오르고,두 사람만을 위한 특별한 무대가 시작됩니다.실제 뮤지컬 배우의 깊이 있는 목소리와풍부한 표현력이 더해진 축가.노래가 시작되는 순간예식장은 어느새 한 편의 뮤지컬 무대로 변하고,신랑신부님의 이야기는가장 아름다운 장면으로 완성됩니다.조명과 음악, 대형 스크린이 어우러지는파티움여의도 그랜드 컨벤션홀에서 펼... 2026-08-18 16:52:51 REAL WEDDING 메인 대기실 이동 전, 머무는 곳 문 하나를 열었을 뿐인데,생각보다 넓고 아늑한 공간이 나타났습니다.메인 신부대기실로 이동하기 전,신부님이 여유롭게 마음의 준비를 이어가고긴장을 잠시 내려놓을 수 있는 또 하나의 공간.화려한 예식 장면만큼이나 중요한 것은그 순간을 맞이하기까지의편안한 준비 과정입니다.신부님의 동선을 세심하게 고려한 공간 구성으로본식 전, 한층 여유롭게 만들어주는 파티움여의도.... 2026-08-10 10:57:27 MORE VIEW + THE PARTYUM ABOUT US 새로운 웨딩문화를 만드는 대표브랜드로 이미 ‘더 파티움 강남’을 성공적으로 런칭 후 이제 새롭게 season2 ‘여의도파티움’ 으로 새로운 차원의 웨딩문화를 구축하고 있습니다. MORE VIEW --> --> BOUTIQUE CULTURAL SPACE WEDDING GUIDE 차별화된 컨셉으로 구성된 2개의 웨딩홀, 존귀하고 우아한 귀하를 위한 아름다운 웨딩을 연출 합니다. Grand Convention Hall grand convention Bride Room partyum Hall partyum Bride Room THE PARTYUM SPACE 당신의 특별한 순간을 완벽한 공간에서 더 파티움 만의 특별함 THE PARTYUM Chandelier Kitchen THE PARTYUM Beauty Shop THE PARTYUM VIP Locker Room THE PARTYUM VIP Lounge THE PARTYUM Customer Service Lounge CHANDELIER KITCHEN 특급 호텔의 레스토랑이상의 품위있는 아름다움과 건강까지 생각한 정갈한 퓨전한정식을 행복하게 즐길수 있는 1,400석의 좌석을 갖추고 있습니다 MORE VIEW 서울시 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYUM, ALL RIGHTS RESERVED. 빠른상담 신청하기 개인정보수집동의 개인정보수집동의 이름 연락처 010 011 016 - - 상담신청 전화연결 온라인상담 화이트에디션",
+      "phones": [
+        "02-784-0000"
+      ],
+      "matches": [
+        {
+          "phone": "02-784-0000",
+          "context": " 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTY"
+        },
+        {
+          "phone": "02-784-0800",
+          "context": "도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYUM, ALL RIGHTS R"
+        }
+      ],
+      "parking": [],
+      "anchors": [
+        {
+          "url": "https://www.thepartyum.com/main/main.html#container",
+          "title": "본문내용 바로가기",
+          "raw": "#container"
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html",
+          "title": "",
+          "raw": "/main/main.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "The Partyum",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "About",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/location.html",
+          "title": "Location",
+          "raw": "../sub/location.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/grand.html",
+          "title": "Grand Convention",
+          "raw": "../sub/grand.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html",
+          "title": "Partyum",
+          "raw": "../sub/partyum.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/kitchen.html",
+          "title": "Chandelier Kitchen",
+          "raw": "../sub/kitchen.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "Space",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "Space",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/lounge.html",
+          "title": "Lounge",
+          "raw": "../sub/lounge.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=notice",
+          "title": "Community",
+          "raw": "/bbs/board.php?bo_table=notice"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=notice",
+          "title": "Notice",
+          "raw": "/bbs/board.php?bo_table=notice"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=event",
+          "title": "Event",
+          "raw": "/bbs/board.php?bo_table=event"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=dataroom",
+          "title": "Data room",
+          "raw": "/bbs/board.php?bo_table=dataroom"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=news",
+          "title": "News",
+          "raw": "/bbs/board.php?bo_table=news"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "javascript: openLayer('ly_calendar',0,0)"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw",
+          "title": "",
+          "raw": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/all_new_thepartyum/",
+          "title": "",
+          "raw": "https://www.instagram.com/all_new_thepartyum/"
+        },
+        {
+          "url": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734",
+          "title": "",
+          "raw": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "The Partyum",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/grand.html",
+          "title": "Grand Convention",
+          "raw": "../sub/grand.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html",
+          "title": "Partyum",
+          "raw": "../sub/partyum.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/kitchen.html",
+          "title": "Chandelier Kitchen",
+          "raw": "../sub/kitchen.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "Space",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=notice",
+          "title": "Community",
+          "raw": "/bbs/board.php?bo_table=notice"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "상담 및 방문 예약",
+          "raw": "../sub/reservation.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/location.html",
+          "title": "찾아오시는 길",
+          "raw": "../sub/location.html"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "javascript: openLayer('ly_calendar',0,0)"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw",
+          "title": "",
+          "raw": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/all_new_thepartyum/",
+          "title": "",
+          "raw": "https://www.instagram.com/all_new_thepartyum/"
+        },
+        {
+          "url": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734",
+          "title": "",
+          "raw": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "title": "",
+          "raw": "/bbs/board.php?bo_table=realwedding"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=magazine",
+          "title": "",
+          "raw": "/bbs/board.php?bo_table=magazine"
+        },
+        {
+          "url": "https://www.thepartyum.com/event/white_edition.html",
+          "title": "",
+          "raw": "https://www.thepartyum.com/event/white_edition.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/event/white_edition.html",
+          "title": "",
+          "raw": "https://www.thepartyum.com/event/white_edition.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "",
+          "raw": "../sub/reservation.html"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "tel:02-784-0000"
+        },
+        {
+          "url": "https://thepartyum.com/bbs/board.php?bo_table=notice&wr_id=8",
+          "title": "",
+          "raw": "https://thepartyum.com/bbs/board.php?bo_table=notice&wr_id=8"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "tel:02-784-0000"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "tel:02-784-0000"
+        },
+        {
+          "url": "https://thepartyum.com/bbs/board.php?bo_table=notice&wr_id=23",
+          "title": "",
+          "raw": "https://thepartyum.com/bbs/board.php?bo_table=notice&wr_id=23"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "RESERVATION +",
+          "raw": "../sub/reservation.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html",
+          "title": "",
+          "raw": ""
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html",
+          "title": "",
+          "raw": ""
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html",
+          "title": "",
+          "raw": ""
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html",
+          "title": "",
+          "raw": ""
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html",
+          "title": "",
+          "raw": ""
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html",
+          "title": "",
+          "raw": ""
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html",
+          "title": "",
+          "raw": ""
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html",
+          "title": "",
+          "raw": ""
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html",
+          "title": "",
+          "raw": ""
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html",
+          "title": "",
+          "raw": ""
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=252",
+          "title": "REAL WEDDING 본식의 품격을 완성하는 식전 디렉팅 본식의 품격을 완성하는 식전 디렉팅양가 어머님의 입장 동선부터걸음의 속도와 시선, 맞절의 위치까지.예식이 시작되기 전주요",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=252"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=251",
+          "title": "REAL WEDDING 누구보다 축하하는 <마음을 드려요> 누구보다 축하하는 &lt;마음을 드려요&gt;아이유의 〈마음을 드려요〉와 함께두 사람의 새로운 시작을 축복한 따뜻한 축가",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=251"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=249",
+          "title": "REAL WEDDING 결혼식이 뮤지컬이 되는 순간 결혼식이 한 편의 뮤지컬이 되는 순간결혼식의 막이 오르고,두 사람만을 위한 특별한 무대가 시작됩니다.실제 뮤지컬 배우의 깊이 있",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=249"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "title": "REAL WEDDING 메인 대기실 이동 전, 머무는 곳 문 하나를 열었을 뿐인데,생각보다 넓고 아늑한 공간이 나타났습니다.메인 신부대기실로 이동하기 전,신부님이 여유롭게 마음의 ",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "title": "MORE VIEW +",
+          "raw": "/bbs/board.php?bo_table=realwedding"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "MORE VIEW",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/grand.html",
+          "title": "Grand Convention Hall",
+          "raw": "../sub/grand.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/grand.html",
+          "title": "grand convention Bride Room",
+          "raw": "../sub/grand.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html",
+          "title": "partyum Hall",
+          "raw": "../sub/partyum.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html",
+          "title": "partyum Bride Room",
+          "raw": "../sub/partyum.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/kitchen.html",
+          "title": "THE PARTYUM Chandelier Kitchen",
+          "raw": "../sub/kitchen.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "THE PARTYUM Beauty Shop",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "THE PARTYUM VIP Locker Room",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/lounge.html",
+          "title": "THE PARTYUM VIP Lounge",
+          "raw": "../sub/lounge.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/lounge.html",
+          "title": "THE PARTYUM Customer Service Lounge",
+          "raw": "../sub/lounge.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/kitchen.html",
+          "title": "MORE VIEW",
+          "raw": "../sub/kitchen.html"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw",
+          "title": "",
+          "raw": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/all_new_thepartyum/",
+          "title": "",
+          "raw": "https://www.instagram.com/all_new_thepartyum/"
+        },
+        {
+          "url": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734",
+          "title": "",
+          "raw": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734"
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html#",
+          "title": "개인정보수집동의",
+          "raw": "#"
+        },
+        {
+          "url": null,
+          "title": "전화연결",
+          "raw": "tel:02-784-0000"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "온라인상담",
+          "raw": "/sub/reservation.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/event/white_edition.html",
+          "title": "화이트에디션",
+          "raw": "https://www.thepartyum.com/event/white_edition.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/main/$%7Bpost.permalink%7D",
+          "title": "",
+          "raw": "${post.permalink}"
+        },
+        {
+          "url": "https://www.thepartyum.com/main/$%7Bpost.permalink%7D",
+          "title": "",
+          "raw": "${post.permalink}"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.facebook.com/tr?id=671155261136431&ev=PageView&noscript=1",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/live@2x.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "라이브",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-yb.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "유튜브",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-blog.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "블로그",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-ig.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "인스타",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-fb.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "페이스북",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/menu@2x.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "전체메뉴 열기",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-yb.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "유튜브",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-blog.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "블로그",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-insta.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "인스타그램",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-fb.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "페이스북",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-gnb-close.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "전체메뉴 닫기",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick1.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "리얼웨딩",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick2.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "매거진",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick5.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "화이트에디션상담신청",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick3.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "예약",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick4.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "문의",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/popup/popup210524.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/popup/popup230504.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/popup/popup230616.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/popup/popup221108.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://thepartyum.com/data/editor/2607/f16b8492c2992717226d5d98d2b7da6f_1785218273_6204.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": "embedded"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/video/intro.mp4",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/emblem.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/scroll_bar.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/main-visual1.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/main-visual2.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/main-visual3.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/main-visual4.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/main-visual1_mo.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/2039285323_pAJTOUEj_60981788948605f60344ca16888cc1ce08c65865.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/2039285323_aI4VFM8W_6317291b0eb38dc23a6497d768eebda9955a2717.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/2039285323_GcNpxRqV_1511be08344a302ee9df76b77a0fd28f19f71c18.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/2039285323_7Yy3Zqk8_283c2c0dc2d9ff28c00457d0200f37398955c21b.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/about.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/guide-big.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/guide-thumb1.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/guide-thumb2.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/guide-thumb3.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/guide-thumb4.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/space01.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": "pc-view"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/mo-space01.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": "mo-view"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/space02.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": "pc-view"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/mo-space02.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": "mo-view"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/space03.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": "pc-view"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/mo-space03.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": "mo-view"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/space04.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": "pc-view"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/mo-space04.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": "mo-view"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/space05.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": "pc-view"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/main/mo-space05.jpg",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": "mo-view"
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/main/$%7Bpost.thumbnail_url%7D",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "${post.caption}",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/main/$%7Bpost.media_url%7D",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "${post.caption}",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/ico_close_tp1.png",
+          "sourcePage": "https://www.thepartyum.com/main/main.html",
+          "alt": "",
+          "hint": "background"
+        }
+      ]
+    },
+    {
+      "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+      "title": "메인 대기실 이동 전, 머무는 곳 > REAL WEDDING | 더파티움",
+      "text": "메인 대기실 이동 전, 머무는 곳 > REAL WEDDING | 더파티움 관리 본문내용 바로가기 The Partyum About Location Grand Convention Partyum Chandelier Kitchen Space Space Lounge Community Notice Event Data room News The Partyum Grand Convention Partyum Chandelier Kitchen Space Community 상담 및 방문 예약 찾아오시는 길 --> REAL WEDDING Real Wedding THE PARTYUM REAL WEDDING 여의도더파티움의 리얼웨딩 하이라이트 목록 Real Wedding 메인 대기실 이동 전, 머무는 곳 26.08.10 문 하나를 열었을 뿐인데, 생각보다 넓고 아늑한 공간이 나타났습니다. 메인 신부대기실로 이동하기 전, 신부님이 여유롭게 마음의 준비를 이어가고 긴장을 잠시 내려놓을 수 있는 또 하나의 공간. 화려한 예식 장면만큼이나 중요한 것은 그 순간을 맞이하기까지의 편안한 준비 과정입니다. 신부님의 동선을 세심하게 고려한 공간 구성으로 본식 전, 한층 여유롭게 만들어주는 파티움여의도. ⬇️더 많은 웨딩 정보 보기 블로그 https://blog.naver.com/partyumy2020 인스타그램 https://www.instagram.com/partyumy2020/ 공식 홈페이지 https://www.thepartyum.com 파티움여의도 웨딩홀 | 서울 여의도 02-784-0000 ㅣ @all_new_thepartyum 이전글 결혼식이 뮤지컬이 되는 순간 26.08.18 다음글 영원히 기억에 남을 터미널 축무 26.08.03 서울시 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYUM, ALL RIGHTS RESERVED. 빠른상담 신청하기 개인정보수집동의 개인정보수집동의 이름 연락처 010 011 016 - - 상담신청 전화연결 온라인상담 매거진 리얼웨딩 --> 화이트에디션",
+      "phones": [
+        "02-784-0000"
+      ],
+      "matches": [
+        {
+          "phone": "02-784-0000",
+          "context": "yumy2020/ 공식 홈페이지 https://www.thepartyum.com 파티움여의도 웨딩홀 | 서울 여의도 02-784-0000 ㅣ @all_new_thepartyum 이전글 결혼식이 뮤지컬이 되는 순간 26.08.18 다음글 영원히 기억에 남을 터미널 축무 26.08.03 서울시 영등"
+        },
+        {
+          "phone": "02-784-0000",
+          "context": " 영등포구 은행로 30 (여의도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTY"
+        },
+        {
+          "phone": "02-784-0800",
+          "context": "도동, 중소기업중앙회) 더파티움 여의도 지번 : 서울 영등포구 여의도동 16-2 T . 02-784-0000 F . 02-784-0800 ※ 매주 월요일 정기휴무 상호 : 주식회사 더 파티움 사업자번호 : 261-81-02975 대표자 : 장영식 © THE PARTYUM, ALL RIGHTS R"
+        }
+      ],
+      "parking": [],
+      "anchors": [
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248#container",
+          "title": "본문내용 바로가기",
+          "raw": "#container"
+        },
+        {
+          "url": "https://www.thepartyum.com/main/main.html",
+          "title": "",
+          "raw": "/main/main.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "The Partyum",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "About",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/location.html",
+          "title": "Location",
+          "raw": "../sub/location.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/grand.html",
+          "title": "Grand Convention",
+          "raw": "../sub/grand.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html",
+          "title": "Partyum",
+          "raw": "../sub/partyum.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/kitchen.html",
+          "title": "Chandelier Kitchen",
+          "raw": "../sub/kitchen.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "Space",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "Space",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/lounge.html",
+          "title": "Lounge",
+          "raw": "../sub/lounge.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=notice",
+          "title": "Community",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=notice"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=notice",
+          "title": "Notice",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=notice"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=event",
+          "title": "Event",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=event"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=dataroom",
+          "title": "Data room",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=dataroom"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=news",
+          "title": "News",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=news"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "javascript: openLayer('ly_calendar',0,0)"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw",
+          "title": "",
+          "raw": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/all_new_thepartyum/",
+          "title": "",
+          "raw": "https://www.instagram.com/all_new_thepartyum/"
+        },
+        {
+          "url": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734",
+          "title": "",
+          "raw": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/about.html",
+          "title": "The Partyum",
+          "raw": "../sub/about.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/grand.html",
+          "title": "Grand Convention",
+          "raw": "../sub/grand.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/partyum.html",
+          "title": "Partyum",
+          "raw": "../sub/partyum.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/kitchen.html",
+          "title": "Chandelier Kitchen",
+          "raw": "../sub/kitchen.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/space.html",
+          "title": "Space",
+          "raw": "../sub/space.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=notice",
+          "title": "Community",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=notice"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "상담 및 방문 예약",
+          "raw": "../sub/reservation.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/location.html",
+          "title": "찾아오시는 길",
+          "raw": "../sub/location.html"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "javascript: openLayer('ly_calendar',0,0)"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw",
+          "title": "",
+          "raw": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/all_new_thepartyum/",
+          "title": "",
+          "raw": "https://www.instagram.com/all_new_thepartyum/"
+        },
+        {
+          "url": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734",
+          "title": "",
+          "raw": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "title": "",
+          "raw": "/bbs/board.php?bo_table=realwedding"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=magazine",
+          "title": "",
+          "raw": "/bbs/board.php?bo_table=magazine"
+        },
+        {
+          "url": "https://www.thepartyum.com/event/white_edition.html",
+          "title": "",
+          "raw": "https://www.thepartyum.com/event/white_edition.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "",
+          "raw": "../sub/reservation.html"
+        },
+        {
+          "url": null,
+          "title": "",
+          "raw": "tel:02-784-0000"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "title": "Real Wedding",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "title": "목록",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "https://blog.naver.com/partyumy2020",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/partyumy2020/",
+          "title": "https://www.instagram.com/partyumy2020/",
+          "raw": "https://www.instagram.com/partyumy2020/"
+        },
+        {
+          "url": "https://www.thepartyum.com/",
+          "title": "https://www.thepartyum.com",
+          "raw": "https://www.thepartyum.com"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=249",
+          "title": "결혼식이 뮤지컬이 되는 순간",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=249"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=247",
+          "title": "영원히 기억에 남을 터미널 축무",
+          "raw": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=247"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw",
+          "title": "",
+          "raw": "https://www.youtube.com/channel/UCKWMRlpEHWtI4E860pBP9rw"
+        },
+        {
+          "url": "https://blog.naver.com/partyumy2020",
+          "title": "",
+          "raw": "https://blog.naver.com/partyumy2020"
+        },
+        {
+          "url": "https://www.instagram.com/all_new_thepartyum/",
+          "title": "",
+          "raw": "https://www.instagram.com/all_new_thepartyum/"
+        },
+        {
+          "url": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734",
+          "title": "",
+          "raw": "https://www.facebook.com/%EB%8D%94%ED%8C%8C%ED%8B%B0%EC%9B%80-%EC%97%AC%EC%9D%98%EB%8F%84-101646244815734"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248#",
+          "title": "개인정보수집동의",
+          "raw": "#"
+        },
+        {
+          "url": null,
+          "title": "전화연결",
+          "raw": "tel:02-784-0000"
+        },
+        {
+          "url": "https://www.thepartyum.com/sub/reservation.html",
+          "title": "온라인상담",
+          "raw": "/sub/reservation.html"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=magazine",
+          "title": "매거진",
+          "raw": "/bbs/board.php?bo_table=magazine"
+        },
+        {
+          "url": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+          "title": "리얼웨딩 --> 화이트에디션",
+          "raw": "/bbs/board.php?bo_table=realwedding"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/live@2x.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "라이브",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-yb.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "유튜브",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-blog.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "블로그",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-ig.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "인스타",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/sns-ico-fb.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "페이스북",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/menu@2x.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "전체메뉴 열기",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-yb.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "유튜브",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-blog.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "블로그",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-insta.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "인스타그램",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-fb.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "페이스북",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/mo-gnb-close.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "전체메뉴 닫기",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick1.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "리얼웨딩",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick2.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "매거진",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick5.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "화이트에디션상담신청",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick3.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "예약",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/quick4.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "문의",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/data/file/realwedding/2039285323_BX6iTrQV_6b61410655b5e49afcc3c74e226534d620e029a4.mp4",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://www.thepartyum.com/img/common/ico_close_tp1.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "",
+          "hint": "background"
+        },
+        {
+          "imageUrl": "http://thepartyum.com/img/og.png",
+          "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding&wr_id=248",
+          "alt": "",
+          "hint": "embedded"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

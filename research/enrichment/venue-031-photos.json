@@ -1,0 +1,74 @@
+{
+  "id": "venue-031",
+  "name": "이룸웨딩컨벤션",
+  "officialWebsite": "https://www.iruumwedding.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://www.iruumwedding.co.kr/theme/basic/source/image/main/all_n_thumb_01_251118.jpg",
+      "sourcePage": "https://www.iruumwedding.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-031-1.jpg",
+      "width": 441,
+      "height": 294,
+      "sha256": "049b4148aec8d85171f025c9dc7412255d0558dc5f64eadad14ebcac9561283b",
+      "bytes": 137204,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.iruumwedding.co.kr/theme/basic/source/image/main/all_n_thumb_03_250410.jpg",
+      "sourcePage": "https://www.iruumwedding.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-031-2.jpg",
+      "width": 441,
+      "height": 294,
+      "sha256": "831d145725e51968f50ca65ad563b267d9691ffa89e5ab0315078d3469330c8e",
+      "bytes": 128387,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.iruumwedding.co.kr/theme/basic/source/image/main/all_n_thumb_04_251118.jpg",
+      "sourcePage": "https://www.iruumwedding.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-031-3.jpg",
+      "width": 441,
+      "height": 294,
+      "sha256": "4f0b95e179da9c45eaf0eb6f94ab5d107d26f83370013e608a03f9bd4824cd7c",
+      "bytes": 101667,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.iruumwedding.co.kr/data/file/bnr/thumb-1794529686_uIlyhKoC_e9f61227acafdc506dfbcd12ac4564057f80288a_1920x920.jpg",
+      "sourcePage": "https://www.iruumwedding.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-031-4.jpg",
+      "width": 1920,
+      "height": 920,
+      "sha256": "92d88131aacb3d4aef643feeb5c0b2c9d62bf9e02d61953ae52021a0088f5160",
+      "bytes": 570224,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.iruumwedding.co.kr/data/file/bnr/thumb-1794529686_4N5LYAJc_e6561dc2893c43af84648995d7a9617a2f237634_1920x920.jpg",
+      "sourcePage": "https://www.iruumwedding.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-031-5.jpg",
+      "width": 1920,
+      "height": 920,
+      "sha256": "035763ecb6a763d2006a2889f1abbb666e3dc5534b9c8b76d128b4d03c9b32a2",
+      "bytes": 708288,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 33,
+  "errors": []
+}

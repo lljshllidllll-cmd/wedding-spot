@@ -1,0 +1,136 @@
+{
+  "id": "venue-096",
+  "name": "아모리스 타임스퀘어",
+  "officialWebsite": "https://m.amoris.co.kr/mobile/board/wedding/time_hall.htm",
+  "photos": [
+    {
+      "imageUrl": "https://m.amoris.co.kr/images/mobile/img_time_bride01.jpg",
+      "sourcePage": "https://m.amoris.co.kr/mobile/board/wedding/time_bride.htm",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-096-1.jpg",
+      "width": 1080,
+      "height": 638,
+      "sha256": "9f057cec692d2be6c46f53cfa6403d2a874a72fc396f113a4a24a68fe84db82e",
+      "bytes": 508550,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://m.amoris.co.kr/images/mobile/img_time_bride03.jpg",
+      "sourcePage": "https://m.amoris.co.kr/mobile/board/wedding/time_bride.htm",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-096-2.jpg",
+      "width": 1080,
+      "height": 638,
+      "sha256": "29c17659a1fec5ecbce812d032b42308a209e10e1dc4ff48bb0ff82759ce995b",
+      "bytes": 464542,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 37,
+  "errors": [
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/111.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/222.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/333.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/444.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/555.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/666.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/777.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/888.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/999.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/100000.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/mobile/wedding/txt_time_wedding.png",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/yMOBILE_1080x638-1.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/yMOBILE_1080x638-2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/yMOBILE_1080x638-3.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/yMOBILE_1080x638-7.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/mobile/wedding/txt_gs_wedding.png",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/MOBILE_1080x638-1.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/MOBILE_1080x638-2.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/MOBILE_1080x638-3.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/wedding/MOBILE_1080x638-4.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/mobile/wedding/txt_meritz_wedding.png",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/mobile/sub_titl_2-1-2.png",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/mobile/img_time_bride04.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/mobile/sub_titl_1-3-1.png",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://m.amoris.co.kr/images/mobile/sub_titl_1-3-2.png",
+      "error": "HTTP 404"
+    }
+  ]
+}

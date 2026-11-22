@@ -1,0 +1,74 @@
+{
+  "id": "venue-027",
+  "name": "해피뉴데이 힐하우스 일산",
+  "officialWebsite": "https://happynewday.co.kr/place/hill-house",
+  "photos": [
+    {
+      "imageUrl": "https://happynewday.co.kr/api/public/media/c2baec49-bb72-4338-9ebb-f6aa5b9ee822.png",
+      "sourcePage": "https://happynewday.co.kr/place/hill-house",
+      "alt": "해피뉴데이 힐하우스 갤러리 1",
+      "hint": "",
+      "localPath": "public/photos/venue-027-1.png",
+      "width": 1920,
+      "height": 1280,
+      "sha256": "4f6e408e3400a7bf5e495a91201b12fe14acf1e91d239a4dec9dceed5a6e80e8",
+      "bytes": 6556720,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://happynewday.co.kr/api/public/media/f1f09f8f-0925-4f9d-83a5-7937e0ca0f88.png",
+      "sourcePage": "https://happynewday.co.kr/place/hill-house",
+      "alt": "해피뉴데이 힐하우스 갤러리 2",
+      "hint": "",
+      "localPath": "public/photos/venue-027-2.png",
+      "width": 1280,
+      "height": 1920,
+      "sha256": "5de160e3224642838d1c8d6ba9fc430285a487a6b5153011097a2cdee04dbfa1",
+      "bytes": 5916142,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://happynewday.co.kr/api/public/media/17225091-75cd-469c-9e8c-38a962746ee3.png",
+      "sourcePage": "https://happynewday.co.kr/place/hill-house",
+      "alt": "해피뉴데이 힐하우스 갤러리 3",
+      "hint": "",
+      "localPath": "public/photos/venue-027-3.png",
+      "width": 1280,
+      "height": 1707,
+      "sha256": "32003a1344bc80c33acfb604a9746016310d43b3f838e1094761ebfa7cb6a287",
+      "bytes": 5509782,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://happynewday.co.kr/api/public/media/c0575ad6-48df-4736-8b2a-8476704a7f40.png",
+      "sourcePage": "https://happynewday.co.kr/place/hill-house",
+      "alt": "해피뉴데이 힐하우스 갤러리 4",
+      "hint": "",
+      "localPath": "public/photos/venue-027-4.png",
+      "width": 1062,
+      "height": 851,
+      "sha256": "ea5eeefa20cd92ad03ffbeb4538111ee76f31e60f0fdb2c913007155f2e82b33",
+      "bytes": 2378616,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://happynewday.co.kr/api/public/media/ab7202f2-5575-4a9c-a8d8-93b67d0f77aa.png",
+      "sourcePage": "https://happynewday.co.kr/place/hill-house",
+      "alt": "해피뉴데이 힐하우스 갤러리 5",
+      "hint": "",
+      "localPath": "public/photos/venue-027-5.png",
+      "width": 1280,
+      "height": 1707,
+      "sha256": "1443cd3bfc1cdd4c8eb468af58e4a36f3ea669ae50ac61195a0592f515a432c2",
+      "bytes": 5278146,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 9,
+  "errors": []
+}

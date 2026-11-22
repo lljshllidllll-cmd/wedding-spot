@@ -1,0 +1,74 @@
+{
+  "id": "venue-048",
+  "name": "아르떼서울",
+  "officialWebsite": "https://arteseoul.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://arteseoul.kr/images/wedding-lumiere-floral-aisle.jpg",
+      "sourcePage": "https://arteseoul.kr/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-048-1.jpg",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "bbf60cb0a8e78a4ee27f5182d206bbb0cea1c9d354d3a3cb20e0f88dc2932612",
+      "bytes": 2806992,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://arteseoul.kr/images/performance-muse-stage-wide.jpg",
+      "sourcePage": "https://arteseoul.kr/",
+      "alt": "뮤즈 홀의 소형 무대와 객석 전경",
+      "hint": "",
+      "localPath": "public/photos/venue-048-2.jpg",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "3f0fe672547b6574aeb663fb7680327060f7feb3dcf813c0a58542e6bca5fb24",
+      "bytes": 1087178,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://arteseoul.kr/images/performance-arte-side-seats.jpg",
+      "sourcePage": "https://arteseoul.kr/",
+      "alt": "측면에서 바라본 아르떼 홀 객석과 무대",
+      "hint": "",
+      "localPath": "public/photos/venue-048-3.jpg",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "200f28590608eb3a54c9bc4ca85a20cfc7c4187831911ef698390e8d3fceb972",
+      "bytes": 2469520,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://arteseoul.kr/images/performance-arte-stage-screen.jpg",
+      "sourcePage": "https://arteseoul.kr/",
+      "alt": "아르떼 홀 무대와 스크린",
+      "hint": "",
+      "localPath": "public/photos/venue-048-4.jpg",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "e9baafd064a03af3529e44167654dfa14140aefec5d28217f24e0bef26c8aed9",
+      "bytes": 559571,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://arteseoul.kr/images/performance-muse-hall-wide.jpg",
+      "sourcePage": "https://arteseoul.kr/",
+      "alt": "뮤즈 홀 중앙 통로와 테이블 좌석",
+      "hint": "",
+      "localPath": "public/photos/venue-048-5.jpg",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "6f0eff682824946a17a69ad9e99a5170ec7301d2bfe091518502c4d5868c9e4c",
+      "bytes": 935169,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 66,
+  "errors": []
+}

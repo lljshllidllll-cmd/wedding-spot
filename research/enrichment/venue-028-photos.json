@@ -1,0 +1,74 @@
+{
+  "id": "venue-028",
+  "name": "예서헌",
+  "officialWebsite": "https://www.yeseoheon.com/",
+  "photos": [
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20250620/c23570261d1be.png",
+      "sourcePage": "https://www.yeseoheon.com/37",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-028-1.png",
+      "width": 636,
+      "height": 436,
+      "sha256": "d6f3ee31d9bf8d68d31839e199d81a09fd6421c78ca88ad72ab2a79817f1f2ef",
+      "bytes": 584028,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260225/7bda655262915.jpg",
+      "sourcePage": "https://www.yeseoheon.com/37",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-028-2.jpg",
+      "width": 640,
+      "height": 427,
+      "sha256": "d018f727fdadb8803e233aedb18864f4768de0ec18cc6c9549e86a0f7863ddca",
+      "bytes": 114805,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260223/5122f98c8fffa.jpg",
+      "sourcePage": "https://www.yeseoheon.com/37",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-028-3.jpg",
+      "width": 640,
+      "height": 428,
+      "sha256": "b2fd7419ff68ad56aded1cbb7460978c12675be884a6e746a694cf4fd3f90529",
+      "bytes": 83546,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260225/ab38bab0d8467.jpg",
+      "sourcePage": "https://www.yeseoheon.com/37",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-028-4.jpg",
+      "width": 640,
+      "height": 427,
+      "sha256": "5fe3d8894133586fb36cc891dfabd18a0fafa598eaa1e577ffb60bee8dfd524d",
+      "bytes": 131862,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260225/4e5ecd6f02855.jpg",
+      "sourcePage": "https://www.yeseoheon.com/37",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-028-5.jpg",
+      "width": 640,
+      "height": 427,
+      "sha256": "b32570ba1625327d21092bbdd8cc3acdb6bea3291d457fc37124cad957451255",
+      "bytes": 47747,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 139,
+  "errors": []
+}

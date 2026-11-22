@@ -1,0 +1,74 @@
+{
+  "id": "venue-049",
+  "name": "더파티움 여의도",
+  "officialWebsite": "https://www.thepartyum.com/",
+  "photos": [
+    {
+      "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_pAJTOUEj_60981788948605f60344ca16888cc1ce08c65865_456x241.png",
+      "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-049-1.png",
+      "width": 456,
+      "height": 241,
+      "sha256": "acbc2d7647a41769eeee5240b3eb9b7684c923f732877d5f4efa3f9130999f13",
+      "bytes": 268190,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_GcNpxRqV_1511be08344a302ee9df76b77a0fd28f19f71c18_456x241.jpg",
+      "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-049-2.jpg",
+      "width": 456,
+      "height": 241,
+      "sha256": "7a1a683ebf44ee70ecd0d556d99304221dbf87eceae8e1051648fcb241b7cbef",
+      "bytes": 43713,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_7Yy3Zqk8_283c2c0dc2d9ff28c00457d0200f37398955c21b_456x241.jpg",
+      "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-049-3.jpg",
+      "width": 456,
+      "height": 241,
+      "sha256": "59ce9aa3d7e723c829430e6320a251102ae725d2c6a97fd7430f1ec4660670f4",
+      "bytes": 33128,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_jvs84U0V_d77d43f84d3c125321b8648eb3401d17b8c0a81e_456x241.jpg",
+      "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-049-4.jpg",
+      "width": 456,
+      "height": 241,
+      "sha256": "08290f94dd416505656baeb13ab6fd6503de946e85481004f9f69c8724a1afdc",
+      "bytes": 32258,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.thepartyum.com/data/file/realwedding/thumb-2039285323_PmsxfEzy_f20ffcd1bea051c4df44d8c57961aad162467a37_456x241.jpg",
+      "sourcePage": "https://www.thepartyum.com/bbs/board.php?bo_table=realwedding",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-049-5.jpg",
+      "width": 456,
+      "height": 241,
+      "sha256": "b3e1bc55b13b8d04d87268d8ab75cf4e34da89370969dec565b465edd575b395",
+      "bytes": 22480,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 78,
+  "errors": []
+}

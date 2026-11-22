@@ -1,0 +1,22 @@
+{
+  "id": "venue-110",
+  "name": "서울문화예술교육센터 은평",
+  "officialWebsite": "https://wedding.seoulwomen.or.kr/facilities/3213",
+  "photos": [
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EC%84%9C%EA%B5%90%EB%AC%B8%ED%99%94-%EC%9D%80%ED%8F%89.png",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3213",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-110-1.png",
+      "width": 1280,
+      "height": 907,
+      "sha256": "dba45188eb650e8391cae7407084494576751eca428647f530210d7930f40db8",
+      "bytes": 712981,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 1,
+  "errors": []
+}

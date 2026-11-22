@@ -1,0 +1,74 @@
+{
+  "id": "venue-007",
+  "name": "DMC타워웨딩",
+  "officialWebsite": "https://www.dmcwedding.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://www.dmcwedding.co.kr/attachList/upload/hall/c20231111152500067/p20231111152702723/pop20231111195952333.jpg",
+      "sourcePage": "https://www.dmcwedding.co.kr/about/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-007-1.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "228b07b78d8c98af090972dfeca51be3e2f7ac7aff25c474be65cbe43ae7de4b",
+      "bytes": 83360,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.dmcwedding.co.kr/attachList/upload/hall/c20231111152500067/p20231111152702723/pop20260805161032100.jpg",
+      "sourcePage": "https://www.dmcwedding.co.kr/about/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-007-2.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "6313209e76916fe6f34a34fd9fa3c76dcca7030c2c3aa5d25814cfcc6178a489",
+      "bytes": 194439,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.dmcwedding.co.kr/attachList/upload/hall/c20231111152500067/p20231111152702723/pop20251105095727753.jpg",
+      "sourcePage": "https://www.dmcwedding.co.kr/about/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-007-3.jpg",
+      "width": 800,
+      "height": 600,
+      "sha256": "d66a0cd7ac6586831e63a462affbef4ff287836214f6fcab9ae4fc2671de6de6",
+      "bytes": 120232,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.dmcwedding.co.kr/attachList/upload/hall/c20261110105023293/p20261110105137370/img20261110105603647.jpg",
+      "sourcePage": "https://www.dmcwedding.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-007-4.jpg",
+      "width": 700,
+      "height": 800,
+      "sha256": "e7d7bae1bf39cea4916d48810f14feab002778ddb26260c1f3c3d4411bf1c99a",
+      "bytes": 236696,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.dmcwedding.co.kr/attachList/upload/hall/c20261110105023293/p20261110105137370/pop20261110105905507.jpg",
+      "sourcePage": "https://www.dmcwedding.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-007-5.jpg",
+      "width": 640,
+      "height": 360,
+      "sha256": "099ea90bae5a438da4a436f8edb08b932f045bbeb355ac53bfee899567a78b44",
+      "bytes": 192761,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 13,
+  "errors": []
+}

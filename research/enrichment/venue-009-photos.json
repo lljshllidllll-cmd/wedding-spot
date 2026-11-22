@@ -1,0 +1,74 @@
+{
+  "id": "venue-009",
+  "name": "보타닉파크웨딩",
+  "officialWebsite": "https://botanicparkwedding.com/",
+  "photos": [
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260228/a238bf6ae634c.jpg",
+      "sourcePage": "https://botanicparkwedding.com/calla",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-009-1.jpg",
+      "width": 1920,
+      "height": 1281,
+      "sha256": "cfdf1ec55faf1c9ac978c877ed34ec2b153ba87a34068cd4469229a5dc3d0101",
+      "bytes": 657033,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260228/aafb3ca8e6470.jpg",
+      "sourcePage": "https://botanicparkwedding.com/calla",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-009-2.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sha256": "dda6452f26d809493f663bdea7529ec21fbdbf568e368275e3d74b98594f3563",
+      "bytes": 773770,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260228/1c4dd8eb04e6c.jpg",
+      "sourcePage": "https://botanicparkwedding.com/calla",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-009-3.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sha256": "ed40d53966f4dfdf37ed5b2a9367014f1291cd515e6deb285a8693784af94875",
+      "bytes": 778344,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260228/f96f6c18078c9.jpg",
+      "sourcePage": "https://botanicparkwedding.com/calla",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-009-4.jpg",
+      "width": 1920,
+      "height": 2880,
+      "sha256": "26b54e6fd5f35e49109bc453b9c79d1df9877973bff0237a4b6d133f81058755",
+      "bytes": 1858464,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260228/677e92b865e8c.jpg",
+      "sourcePage": "https://botanicparkwedding.com/calla",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-009-5.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sha256": "eb7d94da2d1386d40f60559def35fdf73a3e3bdc10505d1ff3a6b6c6ea326699",
+      "bytes": 840618,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 65,
+  "errors": []
+}

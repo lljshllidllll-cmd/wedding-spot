@@ -1,0 +1,30 @@
+{
+  "id": "venue-074",
+  "name": "탑웨딩홀미용실",
+  "query": "탑웨딩홀미용실 덕양구 홈페이지 전화 주차",
+  "checkedAt": "2026-11-22",
+  "engines": {
+    "naver": {
+      "url": "https://search.naver.com/search.naver?query=%ED%83%91%EC%9B%A8%EB%94%A9%ED%99%80%EB%AF%B8%EC%9A%A9%EC%8B%A4%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    "google": {
+      "url": "https://www.google.com/search?q=%ED%83%91%EC%9B%A8%EB%94%A9%ED%99%80%EB%AF%B8%EC%9A%A9%EC%8B%A4%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "javascript-required",
+      "httpStatus": 200,
+      "title": "Google Search",
+      "text": "Google Search Google 검색에 액세스하는 데 문제가 있으면 여기를 클릭 하거나 의견 을 보내 주세요.",
+      "links": [
+        {
+          "url": "https://www.google.com/httpservice/retry/enablejs?sei=nZkCa4exKM_q1e8P5f3L2QI",
+          "title": "여기"
+        },
+        {
+          "url": "https://support.google.com/websearch",
+          "title": "의견"
+        }
+      ]
+    }
+  }
+}

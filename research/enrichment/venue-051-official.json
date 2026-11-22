@@ -1,0 +1,97 @@
+{
+  "id": "venue-051",
+  "name": "규수당 문래점",
+  "website": "https://kyusoodang.co.kr/",
+  "checkedAt": "2026-11-22",
+  "pages": [
+    {
+      "url": "https://kyusoodang.co.kr/",
+      "title": "규수당 - 문래점｜운정점",
+      "text": "규수당 - 문래점｜운정점 Mullae 규수당 문래점 서울특별시 영등포구 문래로 164 SK리더스뷰 2층 TEL 02-332-9000 홈페이지 가기 Unjeong 규수당 운정점 경기도 파주시 와석순환로 511 덕진프라자 7~9층 TEL 031-943-0999 홈페이지 가기 오직 두 사람을 위한 단아한 예식, 규수당 규수당 문래점 서울특별시 영등포구 문래로 164 SK리더스뷰 2층 T. 02-332-9000 규수당 | 사업자 등록번호 : 526-87-02215 규수당 운정점 경기도 파주시 와석순환로 511 덕진프라자 7~9층 T. 031-943-0999 규수당웨딩&앨리스뷔페 | 사업자 등록번호 : 176-16-00079 &copy; KYU SOO DANG ALL RIGHTS RESERVED.",
+      "phones": [
+        "02-332-9000",
+        "031-943-0999"
+      ],
+      "matches": [
+        {
+          "phone": "02-332-9000",
+          "context": "규수당 - 문래점｜운정점 Mullae 규수당 문래점 서울특별시 영등포구 문래로 164 SK리더스뷰 2층 TEL 02-332-9000 홈페이지 가기 Unjeong 규수당 운정점 경기도 파주시 와석순환로 511 덕진프라자 7~9층 TEL 031-943-0999 홈페이지 가기 오직 두 사람을 위"
+        },
+        {
+          "phone": "031-943-0999",
+          "context": "32-9000 홈페이지 가기 Unjeong 규수당 운정점 경기도 파주시 와석순환로 511 덕진프라자 7~9층 TEL 031-943-0999 홈페이지 가기 오직 두 사람을 위한 단아한 예식, 규수당 규수당 문래점 서울특별시 영등포구 문래로 164 SK리더스뷰 2층 T. 02-332-9000 규수당"
+        },
+        {
+          "phone": "02-332-9000",
+          "context": " 오직 두 사람을 위한 단아한 예식, 규수당 규수당 문래점 서울특별시 영등포구 문래로 164 SK리더스뷰 2층 T. 02-332-9000 규수당 | 사업자 등록번호 : 526-87-02215 규수당 운정점 경기도 파주시 와석순환로 511 덕진프라자 7~9층 T. 031-943-0999 규수당웨딩"
+        },
+        {
+          "phone": "031-943-0999",
+          "context": " 사업자 등록번호 : 526-87-02215 규수당 운정점 경기도 파주시 와석순환로 511 덕진프라자 7~9층 T. 031-943-0999 규수당웨딩&앨리스뷔페 | 사업자 등록번호 : 176-16-00079 &copy; KYU SOO DANG ALL RIGHTS RESERVED."
+        }
+      ],
+      "parking": [],
+      "anchors": [
+        {
+          "url": "http://m.kyusoodang.co.kr/",
+          "title": "Mullae 규수당 문래점 서울특별시 영등포구 문래로 164 SK리더스뷰 2층 TEL 02-332-9000 홈페이지 가기",
+          "raw": "http://m.kyusoodang.co.kr"
+        },
+        {
+          "url": "http://u.kyusoodang.co.kr/",
+          "title": "Unjeong 규수당 운정점 경기도 파주시 와석순환로 511 덕진프라자 7~9층 TEL 031-943-0999 홈페이지 가기",
+          "raw": "http://u.kyusoodang.co.kr"
+        },
+        {
+          "url": "https://kyusoodang.co.kr/",
+          "title": "",
+          "raw": "/"
+        },
+        {
+          "url": "https://m.kyusoodang.co.kr/",
+          "title": "규수당 문래점",
+          "raw": "//m.kyusoodang.co.kr"
+        },
+        {
+          "url": null,
+          "title": "T. 02-332-9000",
+          "raw": "tel:02-332-9000"
+        },
+        {
+          "url": "https://u.kyusoodang.co.kr/",
+          "title": "규수당 운정점",
+          "raw": "//u.kyusoodang.co.kr"
+        },
+        {
+          "url": null,
+          "title": "T. 031-943-0999",
+          "raw": "tel:031-943-0999"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://kyusoodang.co.kr/attachList/upload/main/m20241203125444960.jpg",
+          "sourcePage": "https://kyusoodang.co.kr/",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://kyusoodang.co.kr/attachList/upload/main/m20241025133741100.jpg",
+          "sourcePage": "https://kyusoodang.co.kr/",
+          "alt": "",
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "url": "https://kyusoodang.co.kr/visit/",
+      "text": "",
+      "phones": [],
+      "matches": [],
+      "parking": [],
+      "anchors": [],
+      "images": []
+    }
+  ],
+  "errors": []
+}

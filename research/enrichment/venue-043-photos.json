@@ -1,0 +1,74 @@
+{
+  "id": "venue-043",
+  "name": "루이비스컨벤션 강서점",
+  "officialWebsite": "https://lvgs.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://lvgs.co.kr/img/visual01.jpg",
+      "sourcePage": "https://lvgs.co.kr/main.php",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-043-1.jpg",
+      "width": 2000,
+      "height": 1407,
+      "sha256": "19a12fff0469b7ae6f220ec64f456822101101758cc7cb38a6f2fe1502b6725c",
+      "bytes": 2611302,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://lvgs.co.kr/img/visual02.jpg",
+      "sourcePage": "https://lvgs.co.kr/main.php",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-043-2.jpg",
+      "width": 2000,
+      "height": 1407,
+      "sha256": "4008f8901c4f60e312038dc94597da939e5aed1f4496779f28dfda14ce4c2235",
+      "bytes": 2619281,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://lvgs.co.kr/img/visual03.jpg",
+      "sourcePage": "https://lvgs.co.kr/main.php",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-043-3.jpg",
+      "width": 2000,
+      "height": 1407,
+      "sha256": "f633f81bfdebd68f044262dd1a873731b5e2732bc18f2062929ba28bfe4afb55",
+      "bytes": 2221808,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://lvgs.co.kr/img/visual04.jpg",
+      "sourcePage": "https://lvgs.co.kr/main.php",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-043-4.jpg",
+      "width": 2000,
+      "height": 1407,
+      "sha256": "77501481b25bee1b36d5155011b6f6d7852c74ba03693ed4210278fd592ed1f5",
+      "bytes": 910836,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://lvgs.co.kr/img/about/img1.jpg",
+      "sourcePage": "https://lvgs.co.kr/main.php",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-043-5.jpg",
+      "width": 1920,
+      "height": 1200,
+      "sha256": "8637e883d80554ff6735c3c50d31ac6af96ebb2f87f7cc6ea4e3f309a27a862a",
+      "bytes": 2209903,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 21,
+  "errors": []
+}

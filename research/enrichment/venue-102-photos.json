@@ -1,0 +1,74 @@
+{
+  "id": "venue-102",
+  "name": "망원 루프탑 웨딩홀",
+  "officialWebsite": "https://wedding.seoulwomen.or.kr/facilities/3193",
+  "photos": [
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/2%EB%B2%88.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3193",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-102-1.jpg",
+      "width": 4178,
+      "height": 5571,
+      "sha256": "c19c1f07726ef6e8ee621642a6dc405f18982507e7aa592eb22c5ca66039798f",
+      "bytes": 8576800,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/6%EB%B2%88.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3193",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-102-2.jpg",
+      "width": 4284,
+      "height": 5712,
+      "sha256": "3d6a7faed82acb6816ca9488e90b7f877ebb3b2be4f9c6b87b9a0cf2499625a8",
+      "bytes": 9356606,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/7%EB%B2%88.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3193",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-102-3.jpg",
+      "width": 3024,
+      "height": 4032,
+      "sha256": "996f9cd9c990052891dcd3e6aa7d38e6795f7da2db561ed9a9a14e087ec77610",
+      "bytes": 6749833,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/9%EB%B2%88.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3193",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-102-4.jpg",
+      "width": 4284,
+      "height": 5712,
+      "sha256": "3abcda755379883fbcfec7ded814950f8530211d94fe8371b4368707128241e3",
+      "bytes": 10382808,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/11%EB%B2%88.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3193",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-102-5.jpg",
+      "width": 3024,
+      "height": 4032,
+      "sha256": "be1129433451a9b99191079aca03b15538c0bb1e64b4c86ac02139f548a74482",
+      "bytes": 6838646,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 17,
+  "errors": []
+}

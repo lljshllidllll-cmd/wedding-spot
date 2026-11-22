@@ -1,0 +1,708 @@
+{
+  "id": "venue-072",
+  "name": "허스예식장",
+  "query": "허스예식장 덕양구 홈페이지 전화 주차",
+  "checkedAt": "2026-11-22",
+  "engines": {
+    "google": {
+      "url": "https://www.google.com/search?q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "loading-or-empty",
+      "text": "주요 콘텐츠로 이동\n접근성 도움말\n로그인\nAI 모드\n전체\n이미지\n뉴스\n쇼핑\n동영상\n짧은 동영상\n더보기\n도구\n검색결과\n생각 중\n웹 검색결과\n허스예식장 주차·오시는 길·화환 – 하객 안내 | 기억온\n\n엑스부고\nhttps://xbugo.com › 경기 고양시 웨딩홀\n허스예식장 하객 안내. 주소 경기 고양시 덕양구 토당로 130, 대표 전화 031-974-1122. 가까운 역, 주차, 축하화환 보내는 법을 정리했어요.\n누락된 검색어: 덕양구 ‎홈페이지 ‎전화\n관련 검색어\n고양특례시청 홈페이지\n고양시 환경정책과\n고양 시청 조직도\n고양시 푸른 도시사업소\n고양시 도로 관리과\n고양시 기후 에너지과\n고양 시청 도시개발과\n고양 시청 자원 순환 과\n필터링된 결과 알림\n\n관련성이 가장 높은 결과를 표시하기 위해 이미 표시된 1개와 매우 유사한 일부 항목을 생략했습니다.\n원하시면 생략된 결과를 포함하여 다시 검색하실 수 있습니다.\n\n바닥글 링크\n대한민국\n일산동구 경기도 고양시 - IP 주소 기반\n - 위치 업데이트\n도움말\n의견 보내기\n개인정보처리방침\n약관",
+      "snapshot": "- link \"주요 콘텐츠로 이동\"\n- link \"접근성 도움말\":\n  - /url: https://support.google.com/websearch/answer/181196?hl=ko\n- search:\n  - link \"Google 홈페이지로 이동\":\n    - /url: https://www.google.com/webhp?hl=ko&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQPHoECAYQBA\n  - status\n  - alert\n  - combobox \"검색\": 허스예식장 덕양구 홈페이지 전화 주차 허스예식장 덕양구 홈페이지 전화 주차\n  - button \"지우기\":\n  - button \"입력 도구\":\n  - button \"음성 검색\":\n  - button \"이미지로 검색\":\n- button \"설정\":\n- button \"공유\":\n- button \"Google 앱\":\n- link \"로그인\":\n  - /url: https://accounts.google.com/ServiceLogin?hl=ko&passive=true&continue=https://www.google.com/search%3Fq%3D%25ED%2597%2588%25EC%258A%25A4%25EC%2598%2588%25EC%258B%259D%25EC%259E%25A5%2520%25EB%258D%2595%25EC%2596%2591%25EA%25B5%25AC%2520%25ED%2599%2588%25ED%258E%2598%25EC%259D%25B4%25EC%25A7%2580%2520%25EC%25A0%2584%25ED%2599%2594%2520%25EC%25A3%25BC%25EC%25B0%25A8&ec=futura_srp_og_si_72236_p\n  - generic: 로그인\n- navigation:\n  - list:\n    - link \"AI 모드\":\n      - /url: /search?q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&udm=50&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hU7xab_SkuJGKk3JVJTRkWF62Mkh7ZSM5d-f_hnzaDAKmliFp7tutInp_ylBkK5nLzB8NDFJeDhqBzmdmkIc1dK-icg5PxFEnMdJjtTB5vzCdjYXn0&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ2J8OegQIGRAD\n      - generic: AI 모드\n    - link \"전체\" [disabled]:\n      - generic: 전체\n    - link \"이미지\":\n      - /url: /search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&udm=2&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hU7xab_SkuJGKk3JVJTRkWF62Mkh7ZSM5d-f_hnzaDAKmliFp7tutInp_ylBkK5nLzB8NDFJeDhqBzmdmkIc1dK-icg5PxFEnMdJjtTB5vzCdjYXn0&q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQtKgLegQIIRAB\n      - generic: 이미지\n    - link \"뉴스\":\n      - /url: /search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&tbm=nws&source=lnms&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hU7xab_SkuJGKk3JVJTRkWF62Mkh7ZSM5d-f_hnzaDAKmliFp7tutInp_ylBkK5nLzB8NDFJeDhqBzmdmkIc1dK-icg5PxFEnMdJjtTB5vzCdjYXn0&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ0pQJegQIIBAB\n      - generic: 뉴스\n    - link \"쇼핑\":\n      - /url: /search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&udm=28&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hU7xab_SkuJGKk3JVJTRkWF62Mkh7ZSM5d-f_hnzaDAKmliFp7tutInp_ylBkK5nLzB8NDFJeDhqBzmdmkIc1dK-icg5PxFEnMdJjtTB5vzCdjYXn0&q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&ved=1t:220175&ictx=111\n      - generic: 쇼핑\n    - link \"동영상\":\n      - /url: /search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&udm=vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hU7xab_SkuJGKk3JVJTRkWF62Mkh7ZSM5d-f_hnzaDAKmliFp7tutInp_ylBkK5nLzB8NDFJeDhqBzmdmkIc1dK-icg5PxFEnMdJjtTB5vzCdjYXn0&q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQtKgLegQIHhAB\n      - generic: 동영상\n    - link \"짧은 동영상\":\n      - /url: /search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&udm=short_vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hU7xab_SkuJGKk3JVJTRkWF62Mkh7ZSM5d-f_hnzaDAKmliFp7tutInp_ylBkK5nLzB8NDFJeDhqBzmdmkIc1dK-icg5PxFEnMdJjtTB5vzCdjYXn0&q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQs6gLegQIHRAB\n      - generic: 짧은 동영상\n    - button \"필터 더보기\":\n      - generic \"필터 더보기\":\n        - generic: 더보기\n  - button \"도구\":\n    - generic: 도구\n- heading \"검색결과\" [level=1]\n- main:\n  - heading \"생각 중\" [level=2]:\n    - generic: 생각 중\n  - progressbar \"생성 중\"\n  - heading \"웹 검색결과\" [level=2]\n  - link \"허스예식장 주차·오시는 길·화환 – 하객 안내 | 기억온 엑스부고 https://xbugo.com › 경기 고양시 웨딩홀\":\n    - /url: /goto?url=CAESiAEBxCJF12vVZLGXmUM3KGmTGjSV7HspXadPMetOh3ejgOWmUfGW8qt7Tt7rLCSyiq2uex4OnH1F6tyUhNa0t7eCsJY25-GbDS9Ubs7kio54UdDQq5znr7OQzzKe8L8Nq7Z7ZJOhhOx9pTIbVZWnXiWAuu4BiYHbo_krMR79du-ErwwFwuithCOO&gsessionid=v7EEzNiqrmS2LYFrDjglFCs_t-Mv4uIWLAxXG9CwXtllK61WxFHuVw\n    - heading \"허스예식장 주차·오시는 길·화환 – 하객 안내 | 기억온\" [level=3]\n    - generic: 엑스부고\n    - generic: https://xbugo.com › 경기 고양시 웨딩홀\n  - button \"검색결과에 관한 정보\":\n  - text: 허스예식장 하객 안내. 주소 경기 고양시 덕양구 토당로 130, 대표 전화\n  - emphasis: 031-974-1122\n  - text: . 가까운 역, 주차, 축하화환 보내는 법을 정리했어요.\n  - generic: \"누락된 검색어: 덕양구 ‎홈페이지 ‎전화\"\n  - heading \"관련 검색어\" [level=2]\n  - link \"고양특례시청 홈페이지\":\n    - /url: /search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91%ED%8A%B9%EB%A1%80%EC%8B%9C%EC%B2%AD+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgUEAE\n    - generic: 고양특례시청 홈페이지\n  - link \"고양시 환경정책과\":\n    - /url: /search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91%EC%8B%9C+%ED%99%98%EA%B2%BD%EC%A0%95%EC%B1%85%EA%B3%BC&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgbEAE\n    - generic: 고양시 환경정책과\n  - link \"고양 시청 조직도\":\n    - /url: /search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91+%EC%8B%9C%EC%B2%AD+%EC%A1%B0%EC%A7%81%EB%8F%84&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgcEAE\n    - generic: 고양 시청 조직도\n  - link \"고양시 푸른 도시사업소\":\n    - /url: /search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91%EC%8B%9C+%ED%91%B8%EB%A5%B8+%EB%8F%84%EC%8B%9C%EC%82%AC%EC%97%85%EC%86%8C&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgYEAE\n    - generic: 고양시 푸른 도시사업소\n  - link \"고양시 도로 관리과\":\n    - /url: /search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91%EC%8B%9C+%EB%8F%84%EB%A1%9C+%EA%B4%80%EB%A6%AC%EA%B3%BC&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgXEAE\n    - generic: 고양시 도로 관리과\n  - link \"고양시 기후 에너지과\":\n    - /url: /search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91%EC%8B%9C+%EA%B8%B0%ED%9B%84+%EC%97%90%EB%84%88%EC%A7%80%EA%B3%BC&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgVEAE\n    - generic: 고양시 기후 에너지과\n  - link \"고양 시청 도시개발과\":\n    - /url: /search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91+%EC%8B%9C%EC%B2%AD+%EB%8F%84%EC%8B%9C%EA%B0%9C%EB%B0%9C%EA%B3%BC&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgTEAE\n    - generic: 고양 시청 도시개발과\n  - link \"고양 시청 자원 순환 과\":\n    - /url: /search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91+%EC%8B%9C%EC%B2%AD+%EC%9E%90%EC%9B%90+%EC%88%9C%ED%99%98+%EA%B3%BC&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgWEAE\n    - generic: 고양 시청 자원 순환 과\n  - heading \"필터링된 결과 알림\" [level=2]\n  - paragraph:\n    - text: 관련성이 가장 높은 결과를 표시하기 위해 이미 표시된 1개와 매우 유사한 일부 항목을 생략했습니다.\n    - text: 원하시면\n    - link \"생략된 결과를 포함하여 다시 검색\":\n      - /url: /search?q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&filter=0&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ880BegQIJxAC\n    - text: 하실 수 있습니다.\n  - navigation\n  - navigation\n- contentinfo:\n  - heading \"바닥글 링크\" [level=1]\n  - text: 대한민국\n  - button \"일산동구 경기도 고양시 - IP 주소 기반\":\n    - generic: 일산동구 경기도 고양시\n    - text: \"-\"\n    - generic: IP 주소 기반\n  - text: \"-\"\n  - button \"위치 업데이트\": 위치 업데이트\n  - link \"도움말\":\n    - /url: https://support.google.com/websearch/?p=ws_results_help&hl=ko&fg=1\n  - button \"의견 보내기\":\n    - generic: 의견 보내기\n  - link \"개인정보처리방침\":\n    - /url: https://policies.google.com/privacy?hl=ko&fg=1\n  - link \"약관\":\n    - /url: https://policies.google.com/terms?hl=ko&fg=1",
+      "links": [
+        {
+          "title": "접근성 도움말",
+          "url": "https://support.google.com/websearch/answer/181196?hl=ko"
+        },
+        {
+          "title": "Google 홈페이지로 이동",
+          "url": "https://www.google.com/webhp?hl=ko&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQPHoECAYQBA"
+        },
+        {
+          "title": "로그인",
+          "url": "https://accounts.google.com/ServiceLogin?hl=ko&passive=true&continue=https://www.google.com/search%3Fq%3D%25ED%2597%2588%25EC%258A%25A4%25EC%2598%2588%25EC%258B%259D%25EC%259E%25A5%2520%25EB%258D%2595%25EC%2596%2591%25EA%25B5%25AC%2520%25ED%2599%2588%25ED%258E%2598%25EC%259D%25B4%25EC%25A7%2580%2520%25EC%25A0%2584%25ED%2599%2594%2520%25EC%25A3%25BC%25EC%25B0%25A8&ec=futura_srp_og_si_72236_p"
+        },
+        {
+          "title": "AI 모드",
+          "url": "/search?q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&udm=50&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hU7xab_SkuJGKk3JVJTRkWF62Mkh7ZSM5d-f_hnzaDAKmliFp7tutInp_ylBkK5nLzB8NDFJeDhqBzmdmkIc1dK-icg5PxFEnMdJjtTB5vzCdjYXn0&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ2J8OegQIGRAD"
+        },
+        {
+          "title": "이미지",
+          "url": "/search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&udm=2&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hU7xab_SkuJGKk3JVJTRkWF62Mkh7ZSM5d-f_hnzaDAKmliFp7tutInp_ylBkK5nLzB8NDFJeDhqBzmdmkIc1dK-icg5PxFEnMdJjtTB5vzCdjYXn0&q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQtKgLegQIIRAB"
+        },
+        {
+          "title": "뉴스",
+          "url": "/search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&tbm=nws&source=lnms&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hU7xab_SkuJGKk3JVJTRkWF62Mkh7ZSM5d-f_hnzaDAKmliFp7tutInp_ylBkK5nLzB8NDFJeDhqBzmdmkIc1dK-icg5PxFEnMdJjtTB5vzCdjYXn0&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ0pQJegQIIBAB"
+        },
+        {
+          "title": "쇼핑",
+          "url": "/search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&udm=28&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hU7xab_SkuJGKk3JVJTRkWF62Mkh7ZSM5d-f_hnzaDAKmliFp7tutInp_ylBkK5nLzB8NDFJeDhqBzmdmkIc1dK-icg5PxFEnMdJjtTB5vzCdjYXn0&q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&ved=1t:220175&ictx=111"
+        },
+        {
+          "title": "동영상",
+          "url": "/search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&udm=vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hU7xab_SkuJGKk3JVJTRkWF62Mkh7ZSM5d-f_hnzaDAKmliFp7tutInp_ylBkK5nLzB8NDFJeDhqBzmdmkIc1dK-icg5PxFEnMdJjtTB5vzCdjYXn0&q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQtKgLegQIHhAB"
+        },
+        {
+          "title": "짧은 동영상",
+          "url": "/search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&udm=short_vids&fbs=ACAhTvx3ZLlbdllkCGV4rg7y_2q3oGZCiUBEpFhlxhQvT0D7mLyqNz8RmOxGBwwThYEgAUIb-yQomqdx3-VspZ-FW-yPDYnud2okkHkpjI2_Ygi710PPjWXKGpPQrkp5DKzH3hU7xab_SkuJGKk3JVJTRkWF62Mkh7ZSM5d-f_hnzaDAKmliFp7tutInp_ylBkK5nLzB8NDFJeDhqBzmdmkIc1dK-icg5PxFEnMdJjtTB5vzCdjYXn0&q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQs6gLegQIHRAB"
+        },
+        {
+          "title": "허스예식장 주차·오시는 길·화환 – 하객 안내 | 기억온\n\n엑스부고\nhttps://xbugo.com › 경기 고양시 웨딩홀",
+          "url": "/goto?url=CAESiAEBxCJF12vVZLGXmUM3KGmTGjSV7HspXadPMetOh3ejgOWmUfGW8qt7Tt7rLCSyiq2uex4OnH1F6tyUhNa0t7eCsJY25-GbDS9Ubs7kio54UdDQq5znr7OQzzKe8L8Nq7Z7ZJOhhOx9pTIbVZWnXiWAuu4BiYHbo_krMR79du-ErwwFwuithCOO&gsessionid=v7EEzNiqrmS2LYFrDjglFCs_t-Mv4uIWLAxXG9CwXtllK61WxFHuVw"
+        },
+        {
+          "title": "고양특례시청 홈페이지",
+          "url": "/search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91%ED%8A%B9%EB%A1%80%EC%8B%9C%EC%B2%AD+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgUEAE"
+        },
+        {
+          "title": "고양시 환경정책과",
+          "url": "/search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91%EC%8B%9C+%ED%99%98%EA%B2%BD%EC%A0%95%EC%B1%85%EA%B3%BC&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgbEAE"
+        },
+        {
+          "title": "고양 시청 조직도",
+          "url": "/search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91+%EC%8B%9C%EC%B2%AD+%EC%A1%B0%EC%A7%81%EB%8F%84&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgcEAE"
+        },
+        {
+          "title": "고양시 푸른 도시사업소",
+          "url": "/search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91%EC%8B%9C+%ED%91%B8%EB%A5%B8+%EB%8F%84%EC%8B%9C%EC%82%AC%EC%97%85%EC%86%8C&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgYEAE"
+        },
+        {
+          "title": "고양시 도로 관리과",
+          "url": "/search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91%EC%8B%9C+%EB%8F%84%EB%A1%9C+%EA%B4%80%EB%A6%AC%EA%B3%BC&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgXEAE"
+        },
+        {
+          "title": "고양시 기후 에너지과",
+          "url": "/search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91%EC%8B%9C+%EA%B8%B0%ED%9B%84+%EC%97%90%EB%84%88%EC%A7%80%EA%B3%BC&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgVEAE"
+        },
+        {
+          "title": "고양 시청 도시개발과",
+          "url": "/search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91+%EC%8B%9C%EC%B2%AD+%EB%8F%84%EC%8B%9C%EA%B0%9C%EB%B0%9C%EA%B3%BC&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgTEAE"
+        },
+        {
+          "title": "고양 시청 자원 순환 과",
+          "url": "/search?sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&q=%EA%B3%A0%EC%96%91+%EC%8B%9C%EC%B2%AD+%EC%9E%90%EC%9B%90+%EC%88%9C%ED%99%98+%EA%B3%BC&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ1QJ6BAgWEAE"
+        },
+        {
+          "title": "생략된 결과를 포함하여 다시 검색",
+          "url": "/search?q=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sca_esv=adcfb22fa71e6ef1&sxsrf=AKL5yDiQ1ZBfO89betJw_JR2JWik5c-Clw:1795332952116&filter=0&sa=X&ved=2ahUKEwih4_S2iJuYAxXlia8BHfBUDYEQ880BegQIJxAC"
+        },
+        {
+          "title": "도움말",
+          "url": "https://support.google.com/websearch/?p=ws_results_help&hl=ko&fg=1"
+        },
+        {
+          "title": "개인정보처리방침",
+          "url": "https://policies.google.com/privacy?hl=ko&fg=1"
+        },
+        {
+          "title": "약관",
+          "url": "https://policies.google.com/terms?hl=ko&fg=1"
+        }
+      ]
+    },
+    "naver": {
+      "url": "https://search.naver.com/search.naver?query=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "results",
+      "text": "메뉴 영역으로 바로가기\n본문 영역으로 바로가기\nNAVER\n한글 입력기\n검색\nAI\nnew\n블로그\n카페\n클립\n이미지\n지식iN\n동영상\n쇼핑\n새 창 열림\n뉴스\n어학사전\n새 창 열림\n더보기\n공유\n허스예식장 덕양구 홈페이지 전화 주차 검색 결과\n새 창 열림\n초이스홀\n새 창 열림\n3주 전\n새 창 열림\nchoicehalls.com›raffijuweddingwonheung\n새 창 열림\n새 창 열림\n라피쥬웨딩 원흥점\n새 창 열림\n라피쥬웨딩 원흥점은 경기 고양시 덕양구 서삼릉길 120에 자리한 야외 하우스웨딩 공간이다. 웨딩숲N라피쥬 야외 가든 단독홀에서 예식을 치른 뒤, 같은 공간에서 피로연을 이어간다. 피로연 음식은 한식과 스테이크를 결합한 세미뷔페다. 스몰웨딩과 가족웨딩에 맞춰 공간 구성과 예식 순서를 조율한다. 지하철역 셔틀버스를 운행하고 별도 주차장을 함께 운영한다.\n새 창 열림\n새 창 열림\n인기순위 순위닷\n새 창 열림\nsoonwidot.co.kr›rank\n새 창 열림\n허스예식장 : 일산 결혼식장 추천\n새 창 열림\n신혼부부 극찬 베뉴지웨딩홀 ; 블랑해리아뜰리에 ; 포장이사 역시 홍반장! ; 저렴한 이사비용! 이사플러스\n새 창 열림\n새 창 열림\nKylie의 결혼준비\n새 창 열림\n2026.08.14.\n새 창 열림\n라비앙루미 웨딩홀 계약완료, 직접 둘러보고 결정한 이유\n새 창 열림\n장소명 라비앙루미 하우스웨딩 위치 경기 고양시 덕양구 호국로1873번길 28 연락처 0507-1373-7310 주차 건물 바로 앞 주차장 완비 분위기 하우스웨딩을 위한 프라이빗한 예식 공간 ✨ 장소 특징 ✅ 단독 공간에서 진행하는 하우스웨딩 ✅ 예식 상담... 하는 느낌이 들더라구요ㅋㅋ 하객들도 예식장에 도착해서, 사진 한 장씩 남기기, 좋아 보였어요. 처음 찾아올 때는, 위치...\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n아이웨딩\n새 창 열림\nwww.iwedding.co.kr›enterprise\n새 창 열림\n새 창 열림\n웨딩홀 아네뜨 아이웨딩\n새 창 열림\n홀 기본정보 ; 홀타입 : 일반홀, 하우스, 야외, 메뉴 종류 : 뷔페,양식, 식사 비용 : 88,000원 ~ 140,000원, 보증 인원 : 최소 보증 인원 150명, 최대 수용 인원 500명, 가능 행사 : 웨딩, 주소 : 경기 고양시 일산동구 공릉천로187번길 36-47 · 자세히 보기 · 주소 복사, 주차 형태 : 주차 수용 대수 : 100\n새 창 열림\n새 창 열림\n웨딩크라우드\n새 창 열림\nwww.weddingcrowd.kr›hall\n새 창 열림\n새 창 열림\n관세비스타 - 웨딩크라우드\n새 창 열림\n홀타입 : 일반웨딩홀, 하우스, 레스토랑, 야외예식, 메뉴 종류 : 양식, 뷔페, 주소 : 경기 고양시 덕양구 북한산로 436 (효자동), 주차 형태 : 120대\n새 창 열림\ncreatorlink.net\nloegarden.creatorlink.net›스몰웨딩\n새 창 열림\n새 창 열림\n스몰웨딩 - 로에정원 파티하우스\n새 창 열림\nLOE GARDEN WEDDING 프라이빗한 야외 정원에서 열리는 영화같은 결혼식 당신을 빛나게 해 줄 장소입니다\n새 창 열림\n새 창 열림\n웨딩북\n새 창 열림\nwww.weddingbook.com›weddinghall\n새 창 열림\n새 창 열림\n너른마당_고양 - 웨딩북\n새 창 열림\n주소 : 경기 고양시 덕양구 서삼릉길 233-4 (원당동) 너른마당 청첩장용 주소, 주차 : 내부 0대 외부 30대 주변에 다른 건물이 없어서 갓길 주차가 가능합니다. 대절버스 주차가능(건물 외부 갓길에 주차 가능), 운영시간 : 토요일 00:00 ~ 00:00\n새 창 열림\njangnyewon.com\njangnyewon.com›경기도›고양시›원당연세장례식장\n새 창 열림\n원당연세장례식장 - 고양시 성사동 장례식장 비용 | 장례원\n새 창 열림\n주소 : 경기도 고양시 덕양구 고양대로 1359 (성사동), 시설 형태 : 사설 장례식장, 안치 : 6구, 주차 : 0대, 전화 : 031-966-4444\n새 창 열림\n새 창 열림\n웨딩크라우드\n새 창 열림\nweddingcrowd.kr›hall\n새 창 열림\n새 창 열림\n킨텍스신세계그래머스\n새 창 열림\n경기도 고양시 일산서구 대화동 킨텍스종합전시장 내에 위치한 킨텍스플라자는 고품격의 초대형 호텔웨딩을 선보인다. 예식을 통해 신랑신부의 자존감을 높이고 하객들의 품위를 고취시키고자 한다면 적절한 선택이 될 것이다. 총 800명까지 수용 가능한 그랜드볼룸 뿐만 아니라 소규모 하우스웨딩을 진행할 수 있는 160석 규모의 라벤더 홀도 운영 중이다. 지하철 3호선 대화역.....\n새 창 열림\n새 창 열림\nWOW웨딩\n새 창 열림\n2026.10.06.\n새 창 열림\nwow-wedding.co.kr›posijeuneodei-goyang\n새 창 열림\n새 창 열림\n고양 웨딩홀·예식장·결혼식장 | 포시즌어데이\n새 창 열림\n고양 웨딩홀·예식장·결혼식장 | 포시즌어데이 고양 웨딩홀 예식장 결혼식장 포시즌어데이은 경기도 고양시 덕양구 북한산로 451-9에 위치해 있습니다. 예식 일정과 보증 인원, 식사, 가격 등 주요 조건과 예약 가능 일정을 확인할 수 있습니다.\n새 창 열림\n새 창 열림\nG4MARRY\n새 창 열림\n2025.10.22.\n새 창 열림\ng4marry.com›고양-결혼식장\n새 창 열림\n새 창 열림\n고양 결혼식장 어디로? 일반홀 vs 공공예식장 입지부터 조건까지 총정리\n새 창 열림\n한눈에 답: 고양 결혼식장은 일산동구·일산서구 3호선 역세권 컨벤션 웨딩홀 과 덕양구 하우스·야외웨딩홀, 그리고 고양특례시가 무료로 개방하는 일산호수공원 작은결혼식(하객 50명 이하)으로 나뉩니다. 중대형 실내 예식이면 주엽역 신규 오픈 예정 홀(베뉴지1995)을 포함한 역세권 일반 웨딩홀을, 소규모 야외 예식이면 일산호수공원 3개소 무료 대관을 선택할 수 있습니다. (....\n새 창 열림\n새 창 열림\n다이렉트웨딩결혼준비WOW\n새 창 열림\n2026.08.20.\n새 창 열림\n덕양구 결혼식장 추천 직접 비교해본 결혼식장\n새 창 열림\n답답했던 덕양구 결혼식장 날짜 잡고 상견례 끝내고 탐색 드디어 양가 부모님들께 정식으로 인사를 드리고 예식 일정을... 저희 예비부부는 찾아주실 하객분들이 대체로 자차를 몰고 오시거나 대중교통 지하철을 이용하실 계획이라 주차 시설이... 플래너없이 홀 담당자와 상담하며 받은 덕양구 결혼식장 견적 비교 후기 혼자 힘으로 식장마다 일일이 전화를 걸어 스케줄을...\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n하객으로 갔었는데 화정역에서 가까운 곳은 교통이 편해서 좋더라구요!\n새 창 열림\njwedding.co.kr\njwedding.co.kr›hall\n새 창 열림\n새 창 열림\n웨딩홀 | 라비앙 루미 | 제이웨딩\n새 창 열림\n예식장 소개 ; 정형화된 결혼식이 아닌, 두 사람의 진정한 이야기를 담는 하우스 웨딩 전문 공간입니다. 아늑한 장소, 정성스런 서비스, 세심한 연출로 당신의 인생 최고의 하루를 완성합니다 전문 웨딩 디렉터는 첫 상담부터 결혼식 당일까지 모든 과정을 함께합니다. 두 분의 취향과 스토리를 담은 컨셉을 기획하고, 플라워, 케이터링, 스냅 촬영 등 각 분야의 전문 팀을 연결하.....\n새 창 열림\n새 창 열림\n하늘끝라이프\n새 창 열림\n하늘끝라이프.com›..›원당연세장례식장\n새 창 열림\n원당연세장례식장 빈소 | 고양시 덕양구 장례식장\n새 창 열림\n경기도 고양시 덕양구에 위치한 원당연세장례식장은 사설 전문 장례식장입니다. 빈소 2개(안치 6구) 규모로 운영되며, 임대 방식으로 운영되고 있습니다. 주차 관련 사항은 방문 전 직접 문의해 확인하시기 바랍니다.\n새 창 열림\nkakaocdn.net\nXLS\n새 창 열림\nblog.kakaocdn.net›4. 의료기관별상세정보서비스 02세부정보 2022.6.xlsx\n새 창 열림\n4. 의료기관별상세정보서비스 02세부정보 2022.6.xlsx\n새 창 열림\n의료기관별상세정보서비스 02세부정보 2022.6 암호화요양기호 요양기관명 위치_공공건물(장소)명 위치_방향 위치_거리 주차가능대수 주차비용부담여부 주차_기타안내사항 일요일 휴진안내 공휴일 휴진안내 응급실 주간운영여부 응급실 주간전화번호1 응급실 주간전화번호2...\n새 창 열림\n3MB\n새 창 열림\n새 창 열림\n전국 장례식장 정보\n새 창 열림\nfuneral.3minhealth.com›..›고양시›원당장례식장(주)고양베스트\n새 창 열림\n새 창 열림\n원당장례식장(주)고양베스트 주차·가는길\n새 창 열림\n원당장례식장(주)고양베스트 시설 ; 빈소 : 7실, 안치 가능 : 14구, 식당 : 있음, 매점 : 있음, 유족 대기실 : 있음, 장애인 편의시설 : 있음, 운영 : 사설 · 전문\n새 창 열림\n새 창 열림\n꿀팁이당대표의 블로그입니다~\n새 창 열림\n2024.12.29.\n새 창 열림\n2025 설 명절 연휴 버스 예매 알림!!(12월 30일 오전 10시부터 시행!!!)\n새 창 열림\n해당 게시물은 티머니 고, 일부 지자체 홈페이지, 백과사전 등을 참고해 만들었습니다! 상세한 예매 일정 및 공지사항과 노선들 잘 참고하셔서 이번 명절 버스 예매도 성공적으로... 영등포 전화국, 영림초등학교(신라스테이 구로), 영천시장, 오금동, 오금역, 오목교역, 옥수 삼성 아파트, 옥정중학교, 올림픽 선수촌 아파트, 왕십리역, 용두동 사거리, 용산구청...\n새 창 열림\n새 창 열림\n로컬비즈\n새 창 열림\nlocalbiz.kr›이름 검색›경기›스마일웨딩홀\n새 창 열림\n스마일웨딩홀 경기 고양시 예식장\n새 창 열림\n스마일웨딩홀은 경기 고양시에 위치한 예식장입니다. 사업장 주소는 경기 고양시 덕양구 토당로42번길 13-15, 전화번호는 031-973-3344입니다.\n새 창 열림\n새 창 열림\nSOLMONTI\n새 창 열림\n2026.05.13.\n새 창 열림\n덕양구 웨딩홀 대관으로 완성하는 나만의 특별한 하루\n새 창 열림\n대부분의 예식장이 정해진 패키지 안에서만 움직이다 보니, 내가 원하는 분위기나 소소한 디테일 하나도 마음대로... 주차 공간도 넉넉하게 마련되어 있어 하객분들이나 참석자분들이 불편 없이 이동하실 수 있도록 구성되어 있어요. 우리만의... 정형화된 예식이 아닌 나답고 특별한 하루를 원하시는 분들께 솔몬티가 잘 맞을 거예요. 솔몬티에서 덕양구 웨딩홀 대관을...\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\n새 창 열림\neasybugo.com\nblog.easybugo.com›장례식장›경기도›고양시\n새 창 열림\n경기도 고양시 장례식장 8곳 — 주소·전화·주차 | 이지부고\n새 창 열림\n원당장례식장(주)고양베스트 경기도 고양시 덕양구 고양대로 1359-5 (성사동) 사설 · 빈소 7실 · 안치 14구 · 주차 20면 · 식당, 주차장, 유족대기실, 장애인편의시설\n새 창 열림\n이전\n1\n페이지\n 2\n페이지\n 3\n페이지\n다음\n샤넬·구찌·프라다 중고 특가\n\nN플리마켓 프리미엄 리세일 위크\n\n새 창 링크\n참여 누르고 쇼핑하면\n\n최대 3만3천P 추가 적립!\n\n새 창 링크\n적립적인 멤버십 전용카드\n\n네이버 현대카드 Ed.3\n\n새 창 링크\n네이버 에듀\n\n학교·진로·입시 정보를 한눈에!\n\n새 창 링크\n맨위로\n전체서비스\n새 창 열림\n이용약관\n새 창 열림\n개인정보처리방침\n새 창 열림\n검색 고객센터\n새 창 열림\n© NAVER Corp.\n새 창 열림",
+      "snapshot": "- link \"메뉴 영역으로 바로가기\":\n  - /url: \"#lnb\"\n  - generic: 메뉴 영역으로 바로가기\n- link \"본문 영역으로 바로가기\":\n  - /url: \"#content\"\n  - generic: 본문 영역으로 바로가기\n- heading \"NAVER\" [level=1]:\n  - link \"NAVER\":\n    - /url: https://www.naver.com\n    - generic: NAVER\n- search:\n  - group \"검색\":\n    - combobox \"검색어를 입력해 주세요.\": 허스예식장 덕양구 홈페이지 전화 주차\n    - button \"한글 입력기\":\n      - generic: 한글 입력기\n    - button \"검색\":\n      - generic: 검색\n- tab \"AI new\":\n  - text: AI\n  - generic: new\n- tab \"블로그\"\n- tab \"카페\"\n- tab \"클립\"\n- tab \"이미지\"\n- tab \"지식iN\"\n- tab \"동영상\"\n- tab \"쇼핑 새 창 열림\":\n  - text: 쇼핑\n  - generic: 새 창 열림\n- tab \"뉴스\"\n- tab \"어학사전 새 창 열림\":\n  - text: 어학사전\n  - generic: 새 창 열림\n- button \"더보기\":\n  - generic: 더보기\n- list:\n  - button \"공유\"\n- main:\n  - heading \"허스예식장 덕양구 홈페이지 전화 주차 검색 결과\" [level=1]\n  - link \"새 창 열림\":\n    - /url: https://choicehalls.com/\n    - generic: 새 창 열림\n  - link \"초이스홀 새 창 열림\":\n    - /url: https://choicehalls.com/\n    - text: 초이스홀\n    - generic: 새 창 열림\n  - link \"3주 전 새 창 열림\":\n    - /url: https://choicehalls.com/raffijuweddingwonheung/\n    - generic: 3주 전\n    - generic: 새 창 열림\n  - link \"choicehalls.com›raffijuweddingwonheung 새 창 열림\":\n    - /url: https://choicehalls.com/raffijuweddingwonheung/\n    - generic: choicehalls.com›raffijuweddingwonheung\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"라피쥬웨딩 원흥점의 이미지 새 창 열림\":\n    - /url: https://choicehalls.com/raffijuweddingwonheung/\n    - img \"라피쥬웨딩 원흥점의 이미지\"\n    - generic: 새 창 열림\n  - link \"라피쥬웨딩 원흥점 새 창 열림\":\n    - /url: https://choicehalls.com/raffijuweddingwonheung/\n    - generic: 라피쥬웨딩 원흥점\n    - generic: 새 창 열림\n  - link \"라피쥬웨딩 원흥점은 경기 고양시 덕양구 서삼릉길 120에 자리한 야외 하우스웨딩 공간이다. 웨딩숲N라피쥬 야외 가든 단독홀에서 예식을 치른 뒤, 같은 공간에서 피로연을 이어간다. 피로연 음식은 한식과 스테이크를 결합한 세미뷔페다. 스몰웨딩과 가족웨딩에 맞춰 공간 구성과 예식 순서를 조율한다. 지하철역 셔틀버스를 운행하고 별도 주차장을 함께 운영한다. 새 창 열림\":\n    - /url: https://choicehalls.com/raffijuweddingwonheung/\n    - text: 라피쥬웨딩 원흥점은 경기 고양시\n    - mark: 덕양구\n    - text: 서삼릉길 120에 자리한 야외 하우스웨딩 공간이다. 웨딩숲N라피쥬 야외 가든 단독홀에서\n    - mark: 예식\n    - text: 을 치른 뒤, 같은 공간에서 피로연을 이어간다. 피로연 음식은 한식과 스테이크를 결합한 세미뷔페다. 스몰웨딩과 가족웨딩에 맞춰 공간 구성과\n    - mark: 예식\n    - text: 순서를 조율한다. 지하철역 셔틀버스를 운행하고 별도\n    - mark: 주차\n    - text: 장을 함께 운영한다.\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://soonwidot.co.kr/\n    - generic: 새 창 열림\n  - link \"인기순위 순위닷 새 창 열림\":\n    - /url: https://soonwidot.co.kr/\n    - text: 인기순위 순위닷\n    - generic: 새 창 열림\n  - link \"soonwidot.co.kr›rank 새 창 열림\":\n    - /url: https://soonwidot.co.kr/rank/detail.php?stx=%25EC%259D%25BC%25EC%2582%25B0%2520%25EA%25B2%25B0%25ED%2598%25BC%25EC%258B%259D%25EC%259E%25A5&id=22039244&rcid=48343\n    - generic: soonwidot.co.kr›rank\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - 'link \"허스예식장 : 일산 결혼식장 추천 새 창 열림\"':\n    - /url: https://soonwidot.co.kr/rank/detail.php?stx=%25EC%259D%25BC%25EC%2582%25B0%2520%25EA%25B2%25B0%25ED%2598%25BC%25EC%258B%259D%25EC%259E%25A5&id=22039244&rcid=48343\n    - mark: 허스예식장\n    - text: \": 일산 결혼식장 추천\"\n    - generic: 새 창 열림\n  - link \"신혼부부 극찬 베뉴지웨딩홀 ; 블랑해리아뜰리에 ; 포장이사 역시 홍반장! ; 저렴한 이사비용! 이사플러스 새 창 열림\":\n    - /url: https://soonwidot.co.kr/rank/detail.php?stx=%25EC%259D%25BC%25EC%2582%25B0%2520%25EA%25B2%25B0%25ED%2598%25BC%25EC%258B%259D%25EC%259E%25A5&id=22039244&rcid=48343\n    - generic: 신혼부부 극찬 베뉴지웨딩홀 ; 블랑해리아뜰리에 ; 포장이사 역시 홍반장! ; 저렴한 이사비용! 이사플러스\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/lifeofjudy\n    - generic: 새 창 열림\n  - link \"Kylie의 결혼준비 새 창 열림\":\n    - /url: https://blog.naver.com/lifeofjudy\n    - generic: Kylie의 결혼준비\n    - generic: 새 창 열림\n  - link \"2026.08.14. 새 창 열림\":\n    - /url: https://blog.naver.com/lifeofjudy/224378782253\n    - generic: 2026.08.14.\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"라비앙루미 웨딩홀 계약완료, 직접 둘러보고 결정한 이유 새 창 열림\":\n    - /url: https://blog.naver.com/lifeofjudy/224378782253\n    - generic: 라비앙루미 웨딩홀 계약완료, 직접 둘러보고 결정한 이유\n    - generic: 새 창 열림\n  - link \"장소명 라비앙루미 하우스웨딩 위치 경기 고양시 덕양구 호국로1873번길 28 연락처 0507-1373-7310 주차 건물 바로 앞 주차장 완비 분위기 하우스웨딩을 위한 프라이빗한 예식 공간 ✨ 장소 특징 ✅ 단독 공간에서 진행하는 하우스웨딩 ✅ 예식 상담... 하는 느낌이 들더라구요ㅋㅋ 하객들도 예식장에 도착해서, 사진 한 장씩 남기기, 좋아 보였어요. 처음 찾아올 때는, 위치... 새 창 열림\":\n    - /url: https://blog.naver.com/lifeofjudy/224378782253\n    - text: 장소명 라비앙루미 하우스웨딩 위치 경기 고양시\n    - mark: 덕양구\n    - text: 호국로1873번길 28 연락처 0507-1373-7310\n    - mark: 주차\n    - text: 건물 바로 앞\n    - mark: 주차\n    - text: 장 완비 분위기 하우스웨딩을 위한 프라이빗한\n    - mark: 예식\n    - text: 공간 ✨ 장소 특징 ✅ 단독 공간에서 진행하는 하우스웨딩 ✅\n    - mark: 예식\n    - text: 상담... 하는 느낌이 들더라구요ㅋㅋ 하객들도\n    - mark: 예식장\n    - text: 에 도착해서, 사진 한 장씩 남기기, 좋아 보였어요. 처음 찾아올 때는, 위치...\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/lifeofjudy/224378782253\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/lifeofjudy/224378782253\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/lifeofjudy/224378782253\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/lifeofjudy/224378782253\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/lifeofjudy/224378782253\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/lifeofjudy/224378782253\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/lifeofjudy/224378782253\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/lifeofjudy/224378782253\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/lifeofjudy/224378782253\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/lifeofjudy/224378782253\n    - generic: 새 창 열림\n  - button \"다음\":\n  - link \"새 창 열림\":\n    - /url: https://www.iwedding.co.kr/main/index\n    - generic: 새 창 열림\n  - link \"아이웨딩 새 창 열림\":\n    - /url: https://www.iwedding.co.kr/main/index\n    - text: 아이웨딩\n    - generic: 새 창 열림\n  - link \"www.iwedding.co.kr›enterprise 새 창 열림\":\n    - /url: https://www.iwedding.co.kr/enterprise/info/1783404710\n    - generic: www.iwedding.co.kr›enterprise\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"웨딩홀 아네뜨 아이웨딩의 이미지 새 창 열림\":\n    - /url: https://www.iwedding.co.kr/enterprise/info/1783404710\n    - img \"웨딩홀 아네뜨 아이웨딩의 이미지\"\n    - generic: 새 창 열림\n  - link \"웨딩홀 아네뜨 아이웨딩 새 창 열림\":\n    - /url: https://www.iwedding.co.kr/enterprise/info/1783404710\n    - generic: 웨딩홀 아네뜨 아이웨딩\n    - generic: 새 창 열림\n  - 'link \"홀 기본정보 ; 홀타입 : 일반홀, 하우스, 야외, 메뉴 종류 : 뷔페,양식, 식사 비용 : 88,000원 ~ 140,000원, 보증 인원 : 최소 보증 인원 150명, 최대 수용 인원 500명, 가능 행사 : 웨딩, 주소 : 경기 고양시 일산동구 공릉천로187번길 36-47 · 자세히 보기 · 주소 복사, 주차 형태 : 주차 수용 대수 : 100 새 창 열림\"':\n    - /url: https://www.iwedding.co.kr/enterprise/info/1783404710\n    - text: \"홀 기본정보 ; 홀타입 : 일반홀, 하우스, 야외, 메뉴 종류 : 뷔페,양식, 식사 비용 : 88,000원 ~ 140,000원, 보증 인원 : 최소 보증 인원 150명, 최대 수용 인원 500명, 가능 행사 : 웨딩, 주소 : 경기 고양시 일산동구 공릉천로187번길 36-47 · 자세히 보기 · 주소 복사,\"\n    - mark: 주차\n    - text: \"형태 :\"\n    - mark: 주차\n    - text: \"수용 대수 : 100\"\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://www.weddingcrowd.kr/\n    - generic: 새 창 열림\n  - link \"웨딩크라우드 새 창 열림\":\n    - /url: https://www.weddingcrowd.kr/\n    - text: 웨딩크라우드\n    - generic: 새 창 열림\n  - link \"www.weddingcrowd.kr›hall 새 창 열림\":\n    - /url: https://www.weddingcrowd.kr/hall/view.php?idx=1700\n    - generic: www.weddingcrowd.kr›hall\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"관세비스타 - 웨딩크라우드의 이미지 새 창 열림\":\n    - /url: https://www.weddingcrowd.kr/hall/view.php?idx=1700\n    - img \"관세비스타 - 웨딩크라우드의 이미지\"\n    - generic: 새 창 열림\n  - link \"관세비스타 - 웨딩크라우드 새 창 열림\":\n    - /url: https://www.weddingcrowd.kr/hall/view.php?idx=1700\n    - generic: 관세비스타 - 웨딩크라우드\n    - generic: 새 창 열림\n  - 'link \"홀타입 : 일반웨딩홀, 하우스, 레스토랑, 야외예식, 메뉴 종류 : 양식, 뷔페, 주소 : 경기 고양시 덕양구 북한산로 436 (효자동), 주차 형태 : 120대 새 창 열림\"':\n    - /url: https://www.weddingcrowd.kr/hall/view.php?idx=1700\n    - text: \"홀타입 : 일반웨딩홀, 하우스, 레스토랑, 야외\"\n    - mark: 예식\n    - text: \", 메뉴 종류 : 양식, 뷔페, 주소 : 경기 고양시\"\n    - mark: 덕양구\n    - text: 북한산로 436 (효자동),\n    - mark: 주차\n    - text: \"형태 : 120대\"\n    - generic: 새 창 열림\n  - generic: creatorlink.net\n  - link \"loegarden.creatorlink.net›스몰웨딩 새 창 열림\":\n    - /url: https://loegarden.creatorlink.net/%EC%8A%A4%EB%AA%B0%EC%9B%A8%EB%94%A9\n    - generic: loegarden.creatorlink.net›스몰웨딩\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"스몰웨딩 - 로에정원 파티하우스의 이미지 새 창 열림\":\n    - /url: https://loegarden.creatorlink.net/%EC%8A%A4%EB%AA%B0%EC%9B%A8%EB%94%A9\n    - img \"스몰웨딩 - 로에정원 파티하우스의 이미지\"\n    - generic: 새 창 열림\n  - link \"스몰웨딩 - 로에정원 파티하우스 새 창 열림\":\n    - /url: https://loegarden.creatorlink.net/%EC%8A%A4%EB%AA%B0%EC%9B%A8%EB%94%A9\n    - generic: 스몰웨딩 - 로에정원 파티하우스\n    - generic: 새 창 열림\n  - link \"LOE GARDEN WEDDING 프라이빗한 야외 정원에서 열리는 영화같은 결혼식 당신을 빛나게 해 줄 장소입니다 새 창 열림\":\n    - /url: https://loegarden.creatorlink.net/%EC%8A%A4%EB%AA%B0%EC%9B%A8%EB%94%A9\n    - generic: LOE GARDEN WEDDING 프라이빗한 야외 정원에서 열리는 영화같은 결혼식 당신을 빛나게 해 줄 장소입니다\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://www.weddingbook.com/home\n    - generic: 새 창 열림\n  - link \"웨딩북 새 창 열림\":\n    - /url: https://www.weddingbook.com/home\n    - text: 웨딩북\n    - generic: 새 창 열림\n  - link \"www.weddingbook.com›weddinghall 새 창 열림\":\n    - /url: https://www.weddingbook.com/weddinghall/20d00b2f-e1e8-11ef-9d4f-023379a10fd2?tabId=1\n    - generic: www.weddingbook.com›weddinghall\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"너른마당_고양 - 웨딩북의 이미지 새 창 열림\":\n    - /url: https://www.weddingbook.com/weddinghall/20d00b2f-e1e8-11ef-9d4f-023379a10fd2?tabId=1\n    - img \"너른마당_고양 - 웨딩북의 이미지\"\n    - generic: 새 창 열림\n  - link \"너른마당_고양 - 웨딩북 새 창 열림\":\n    - /url: https://www.weddingbook.com/weddinghall/20d00b2f-e1e8-11ef-9d4f-023379a10fd2?tabId=1\n    - generic: 너른마당_고양 - 웨딩북\n    - generic: 새 창 열림\n  - 'link \"주소 : 경기 고양시 덕양구 서삼릉길 233-4 (원당동) 너른마당 청첩장용 주소, 주차 : 내부 0대 외부 30대 주변에 다른 건물이 없어서 갓길 주차가 가능합니다. 대절버스 주차가능(건물 외부 갓길에 주차 가능), 운영시간 : 토요일 00:00 ~ 00:00 새 창 열림\"':\n    - /url: https://www.weddingbook.com/weddinghall/20d00b2f-e1e8-11ef-9d4f-023379a10fd2?tabId=1\n    - text: \"주소 : 경기 고양시\"\n    - mark: 덕양구\n    - text: 서삼릉길 233-4 (원당동) 너른마당 청첩장용 주소,\n    - mark: 주차\n    - text: \": 내부 0대 외부 30대 주변에 다른 건물이 없어서 갓길\"\n    - mark: 주차\n    - text: 가 가능합니다. 대절버스\n    - mark: 주차\n    - text: 가능(건물 외부 갓길에\n    - mark: 주차\n    - text: \"가능), 운영시간 : 토요일 00:00 ~ 00:00\"\n    - generic: 새 창 열림\n  - generic: jangnyewon.com\n  - link \"jangnyewon.com›경기도›고양시›원당연세장례식장 새 창 열림\":\n    - /url: https://jangnyewon.com/funeral-halls/5778\n    - generic: jangnyewon.com›경기도›고양시›원당연세장례식장\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"원당연세장례식장 - 고양시 성사동 장례식장 비용 | 장례원 새 창 열림\":\n    - /url: https://jangnyewon.com/funeral-halls/5778\n    - generic: 원당연세장례식장 - 고양시 성사동 장례식장 비용 | 장례원\n    - generic: 새 창 열림\n  - 'link \"주소 : 경기도 고양시 덕양구 고양대로 1359 (성사동), 시설 형태 : 사설 장례식장, 안치 : 6구, 주차 : 0대, 전화 : 031-966-4444 새 창 열림\"':\n    - /url: https://jangnyewon.com/funeral-halls/5778\n    - text: \"주소 : 경기도 고양시\"\n    - mark: 덕양구\n    - text: \"고양대로 1359 (성사동), 시설 형태 : 사설 장례식장, 안치 : 6구,\"\n    - mark: 주차\n    - text: \": 0대,\"\n    - mark: 전화\n    - text: \": 031-966-4444\"\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://weddingcrowd.kr/\n    - generic: 새 창 열림\n  - link \"웨딩크라우드 새 창 열림\":\n    - /url: https://weddingcrowd.kr/\n    - text: 웨딩크라우드\n    - generic: 새 창 열림\n  - link \"weddingcrowd.kr›hall 새 창 열림\":\n    - /url: https://weddingcrowd.kr/hall/view.php?idx=1227\n    - generic: weddingcrowd.kr›hall\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"킨텍스신세계그래머스의 이미지 새 창 열림\":\n    - /url: https://weddingcrowd.kr/hall/view.php?idx=1227\n    - img \"킨텍스신세계그래머스의 이미지\"\n    - generic: 새 창 열림\n  - link \"킨텍스신세계그래머스 새 창 열림\":\n    - /url: https://weddingcrowd.kr/hall/view.php?idx=1227\n    - generic: 킨텍스신세계그래머스\n    - generic: 새 창 열림\n  - link \"경기도 고양시 일산서구 대화동 킨텍스종합전시장 내에 위치한 킨텍스플라자는 고품격의 초대형 호텔웨딩을 선보인다. 예식을 통해 신랑신부의 자존감을 높이고 하객들의 품위를 고취시키고자 한다면 적절한 선택이 될 것이다. 총 800명까지 수용 가능한 그랜드볼룸 뿐만 아니라 소규모 하우스웨딩을 진행할 수 있는 160석 규모의 라벤더 홀도 운영 중이다. 지하철 3호선 대화역..... 새 창 열림\":\n    - /url: https://weddingcrowd.kr/hall/view.php?idx=1227\n    - text: 경기도 고양시 일산서구 대화동 킨텍스종합전시장 내에 위치한 킨텍스플라자는 고품격의 초대형 호텔웨딩을 선보인다.\n    - mark: 예식\n    - text: 을 통해 신랑신부의 자존감을 높이고 하객들의 품위를 고취시키고자 한다면 적절한 선택이 될 것이다. 총 800명까지 수용 가능한 그랜드볼룸 뿐만 아니라 소규모 하우스웨딩을 진행할 수 있는 160석 규모의 라벤더 홀도 운영 중이다. 지하철 3호선 대화역.....\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://wow-wedding.co.kr/\n    - generic: 새 창 열림\n  - link \"WOW웨딩 새 창 열림\":\n    - /url: https://wow-wedding.co.kr/\n    - text: WOW웨딩\n    - generic: 새 창 열림\n  - link \"2026.10.06. 새 창 열림\":\n    - /url: https://wow-wedding.co.kr/hall/posijeuneodei-goyang/\n    - generic: 2026.10.06.\n    - generic: 새 창 열림\n  - link \"wow-wedding.co.kr›posijeuneodei-goyang 새 창 열림\":\n    - /url: https://wow-wedding.co.kr/hall/posijeuneodei-goyang/\n    - generic: wow-wedding.co.kr›posijeuneodei-goyang\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"고양 웨딩홀·<mark>예식장</mark>·결혼식장 | 포시즌어데이의 이미지 새 창 열림\":\n    - /url: https://wow-wedding.co.kr/hall/posijeuneodei-goyang/\n    - img \"고양 웨딩홀·<mark>예식장</mark>·결혼식장 | 포시즌어데이의 이미지\"\n    - generic: 새 창 열림\n  - link \"고양 웨딩홀·예식장·결혼식장 | 포시즌어데이 새 창 열림\":\n    - /url: https://wow-wedding.co.kr/hall/posijeuneodei-goyang/\n    - text: 고양 웨딩홀·\n    - mark: 예식장\n    - text: ·결혼식장 | 포시즌어데이\n    - generic: 새 창 열림\n  - link \"고양 웨딩홀·예식장·결혼식장 | 포시즌어데이 고양 웨딩홀 예식장 결혼식장 포시즌어데이은 경기도 고양시 덕양구 북한산로 451-9에 위치해 있습니다. 예식 일정과 보증 인원, 식사, 가격 등 주요 조건과 예약 가능 일정을 확인할 수 있습니다. 새 창 열림\":\n    - /url: https://wow-wedding.co.kr/hall/posijeuneodei-goyang/\n    - text: 고양 웨딩홀·\n    - mark: 예식장\n    - text: ·결혼식장 | 포시즌어데이 고양 웨딩홀\n    - mark: 예식장\n    - text: 결혼식장 포시즌어데이은 경기도 고양시\n    - mark: 덕양구\n    - text: 북한산로 451-9에 위치해 있습니다.\n    - mark: 예식\n    - text: 일정과 보증 인원, 식사, 가격 등 주요 조건과 예약 가능 일정을 확인할 수 있습니다.\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://g4marry.com/\n    - generic: 새 창 열림\n  - link \"G4MARRY 새 창 열림\":\n    - /url: https://g4marry.com/\n    - text: G4MARRY\n    - generic: 새 창 열림\n  - link \"2025.10.22. 새 창 열림\":\n    - /url: https://g4marry.com/%EA%B3%A0%EC%96%91-%EA%B2%B0%ED%98%BC%EC%8B%9D%EC%9E%A5/\n    - generic: 2025.10.22.\n    - generic: 새 창 열림\n  - link \"g4marry.com›고양-결혼식장 새 창 열림\":\n    - /url: https://g4marry.com/%EA%B3%A0%EC%96%91-%EA%B2%B0%ED%98%BC%EC%8B%9D%EC%9E%A5/\n    - generic: g4marry.com›고양-결혼식장\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"고양 결혼식장 어디로? 일반홀 vs 공공<mark>예식장</mark> 입지부터 조건까지 총정리의 이미지 새 창 열림\":\n    - /url: https://g4marry.com/%EA%B3%A0%EC%96%91-%EA%B2%B0%ED%98%BC%EC%8B%9D%EC%9E%A5/\n    - img \"고양 결혼식장 어디로? 일반홀 vs 공공<mark>예식장</mark> 입지부터 조건까지 총정리의 이미지\"\n    - generic: 새 창 열림\n  - link \"고양 결혼식장 어디로? 일반홀 vs 공공예식장 입지부터 조건까지 총정리 새 창 열림\":\n    - /url: https://g4marry.com/%EA%B3%A0%EC%96%91-%EA%B2%B0%ED%98%BC%EC%8B%9D%EC%9E%A5/\n    - text: 고양 결혼식장 어디로? 일반홀 vs 공공\n    - mark: 예식장\n    - text: 입지부터 조건까지 총정리\n    - generic: 새 창 열림\n  - 'link \"한눈에 답: 고양 결혼식장은 일산동구·일산서구 3호선 역세권 컨벤션 웨딩홀 과 덕양구 하우스·야외웨딩홀, 그리고 고양특례시가 무료로 개방하는 일산호수공원 작은결혼식(하객 50명 이하)으로 나뉩니다. 중대형 실내 예식이면 주엽역 신규 오픈 예정 홀(베뉴지1995)을 포함한 역세권 일반 웨딩홀을, 소규모 야외 예식이면 일산호수공원 3개소 무료 대관을 선택할 수 있습니다. (.... 새 창 열림\"':\n    - /url: https://g4marry.com/%EA%B3%A0%EC%96%91-%EA%B2%B0%ED%98%BC%EC%8B%9D%EC%9E%A5/\n    - text: \"한눈에 답: 고양 결혼식장은 일산동구·일산서구 3호선 역세권 컨벤션 웨딩홀 과\"\n    - mark: 덕양구\n    - text: 하우스·야외웨딩홀, 그리고 고양특례시가 무료로 개방하는 일산호수공원 작은결혼식(하객 50명 이하)으로 나뉩니다. 중대형 실내\n    - mark: 예식\n    - text: 이면 주엽역 신규 오픈 예정 홀(베뉴지1995)을 포함한 역세권 일반 웨딩홀을, 소규모 야외\n    - mark: 예식\n    - text: 이면 일산호수공원 3개소 무료 대관을 선택할 수 있습니다. (....\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://cafe.naver.com/truesolcar\n    - generic: 새 창 열림\n  - link \"다이렉트웨딩결혼준비WOW 새 창 열림\":\n    - /url: https://cafe.naver.com/truesolcar\n    - generic: 다이렉트웨딩결혼준비WOW\n    - generic: 새 창 열림\n  - link \"2026.08.20. 새 창 열림\":\n    - /url: https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg\n    - generic: 2026.08.20.\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"덕양구 결혼식장 추천 직접 비교해본 결혼식장 새 창 열림\":\n    - /url: https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg\n    - mark: 덕양구\n    - text: 결혼식장 추천 직접 비교해본 결혼식장\n    - generic: 새 창 열림\n  - link \"답답했던 덕양구 결혼식장 날짜 잡고 상견례 끝내고 탐색 드디어 양가 부모님들께 정식으로 인사를 드리고 예식 일정을... 저희 예비부부는 찾아주실 하객분들이 대체로 자차를 몰고 오시거나 대중교통 지하철을 이용하실 계획이라 주차 시설이... 플래너없이 홀 담당자와 상담하며 받은 덕양구 결혼식장 견적 비교 후기 혼자 힘으로 식장마다 일일이 전화를 걸어 스케줄을... 새 창 열림\":\n    - /url: https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg\n    - text: 답답했던\n    - mark: 덕양구\n    - text: 결혼식장 날짜 잡고 상견례 끝내고 탐색 드디어 양가 부모님들께 정식으로 인사를 드리고\n    - mark: 예식\n    - text: 일정을... 저희 예비부부는 찾아주실 하객분들이 대체로 자차를 몰고 오시거나 대중교통 지하철을 이용하실 계획이라\n    - mark: 주차\n    - text: 시설이... 플래너없이 홀 담당자와 상담하며 받은\n    - mark: 덕양구\n    - text: 결혼식장 견적 비교 후기 혼자 힘으로 식장마다 일일이\n    - mark: 전화\n    - text: 를 걸어 스케줄을...\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg\n    - generic: 새 창 열림\n  - button \"다음\":\n  - link \"하객으로 갔었는데 화정역에서 가까운 곳은 교통이 편해서 좋더라구요! 새 창 열림\":\n    - /url: https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg\n    - generic: 하객으로 갔었는데 화정역에서 가까운 곳은 교통이 편해서 좋더라구요!\n    - generic: 새 창 열림\n  - generic: jwedding.co.kr\n  - link \"jwedding.co.kr›hall 새 창 열림\":\n    - /url: https://jwedding.co.kr/hall/hall_view.html?uid=426\n    - generic: jwedding.co.kr›hall\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"웨딩홀 | 라비앙 루미 | 제이웨딩의 이미지 새 창 열림\":\n    - /url: https://jwedding.co.kr/hall/hall_view.html?uid=426\n    - img \"웨딩홀 | 라비앙 루미 | 제이웨딩의 이미지\"\n    - generic: 새 창 열림\n  - link \"웨딩홀 | 라비앙 루미 | 제이웨딩 새 창 열림\":\n    - /url: https://jwedding.co.kr/hall/hall_view.html?uid=426\n    - generic: 웨딩홀 | 라비앙 루미 | 제이웨딩\n    - generic: 새 창 열림\n  - link \"예식장 소개 ; 정형화된 결혼식이 아닌, 두 사람의 진정한 이야기를 담는 하우스 웨딩 전문 공간입니다. 아늑한 장소, 정성스런 서비스, 세심한 연출로 당신의 인생 최고의 하루를 완성합니다 전문 웨딩 디렉터는 첫 상담부터 결혼식 당일까지 모든 과정을 함께합니다. 두 분의 취향과 스토리를 담은 컨셉을 기획하고, 플라워, 케이터링, 스냅 촬영 등 각 분야의 전문 팀을 연결하..... 새 창 열림\":\n    - /url: https://jwedding.co.kr/hall/hall_view.html?uid=426\n    - mark: 예식장\n    - text: 소개 ; 정형화된 결혼식이 아닌, 두 사람의 진정한 이야기를 담는 하우스 웨딩 전문 공간입니다. 아늑한 장소, 정성스런 서비스, 세심한 연출로 당신의 인생 최고의 하루를 완성합니다 전문 웨딩 디렉터는 첫 상담부터 결혼식 당일까지 모든 과정을 함께합니다. 두 분의 취향과 스토리를 담은 컨셉을 기획하고, 플라워, 케이터링, 스냅 촬영 등 각 분야의 전문 팀을 연결하.....\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://xn--l00b85bm3gh4t94pjoa.com/\n    - generic: 새 창 열림\n  - link \"하늘끝라이프 새 창 열림\":\n    - /url: https://xn--l00b85bm3gh4t94pjoa.com/\n    - text: 하늘끝라이프\n    - generic: 새 창 열림\n  - link \"하늘끝라이프.com›..›원당연세장례식장 새 창 열림\":\n    - /url: https://xn--l00b85bm3gh4t94pjoa.com/halls/769\n    - generic: 하늘끝라이프.com›..›원당연세장례식장\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"원당연세장례식장 빈소 | 고양시 덕양구 장례식장 새 창 열림\":\n    - /url: https://xn--l00b85bm3gh4t94pjoa.com/halls/769\n    - text: 원당연세장례식장 빈소 | 고양시\n    - mark: 덕양구\n    - text: 장례식장\n    - generic: 새 창 열림\n  - link \"경기도 고양시 덕양구에 위치한 원당연세장례식장은 사설 전문 장례식장입니다. 빈소 2개(안치 6구) 규모로 운영되며, 임대 방식으로 운영되고 있습니다. 주차 관련 사항은 방문 전 직접 문의해 확인하시기 바랍니다. 새 창 열림\":\n    - /url: https://xn--l00b85bm3gh4t94pjoa.com/halls/769\n    - text: 경기도 고양시\n    - mark: 덕양구\n    - text: 에 위치한 원당연세장례식장은 사설 전문 장례식장입니다. 빈소 2개(안치 6구) 규모로 운영되며, 임대 방식으로 운영되고 있습니다.\n    - mark: 주차\n    - text: 관련 사항은 방문 전 직접 문의해 확인하시기 바랍니다.\n    - generic: 새 창 열림\n  - generic: kakaocdn.net\n  - link \"XLS 새 창 열림\":\n    - /url: https://blog.kakaocdn.net/dn/mtNmy/btrR4Go1eLP/VYFFUc2Zq9zsroKh31wW01/4.%20%EC%9D%98%EB%A3%8C%EA%B8%B0%EA%B4%80%EB%B3%84%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%EC%84%9C%EB%B9%84%EC%8A%A4%2002%EC%84%B8%EB%B6%80%EC%A0%95%EB%B3%B4%202022.6.xlsx?attach=1&knm=tfile.xlsx\n    - generic: XLS\n    - generic: 새 창 열림\n  - link \"blog.kakaocdn.net›4. 의료기관별상세정보서비스 02세부정보 2022.6.xlsx 새 창 열림\":\n    - /url: https://blog.kakaocdn.net/dn/mtNmy/btrR4Go1eLP/VYFFUc2Zq9zsroKh31wW01/4.%20%EC%9D%98%EB%A3%8C%EA%B8%B0%EA%B4%80%EB%B3%84%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%EC%84%9C%EB%B9%84%EC%8A%A4%2002%EC%84%B8%EB%B6%80%EC%A0%95%EB%B3%B4%202022.6.xlsx?attach=1&knm=tfile.xlsx\n    - generic: blog.kakaocdn.net›4. 의료기관별상세정보서비스 02세부정보 2022.6.xlsx\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"4. 의료기관별상세정보서비스 02세부정보 2022.6.xlsx 새 창 열림\":\n    - /url: https://blog.kakaocdn.net/dn/mtNmy/btrR4Go1eLP/VYFFUc2Zq9zsroKh31wW01/4.%20%EC%9D%98%EB%A3%8C%EA%B8%B0%EA%B4%80%EB%B3%84%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%EC%84%9C%EB%B9%84%EC%8A%A4%2002%EC%84%B8%EB%B6%80%EC%A0%95%EB%B3%B4%202022.6.xlsx?attach=1&knm=tfile.xlsx\n    - generic: 4. 의료기관별상세정보서비스 02세부정보 2022.6.xlsx\n    - generic: 새 창 열림\n  - link \"의료기관별상세정보서비스 02세부정보 2022.6 암호화요양기호 요양기관명 위치_공공건물(장소)명 위치_방향 위치_거리 주차가능대수 주차비용부담여부 주차_기타안내사항 일요일 휴진안내 공휴일 휴진안내 응급실 주간운영여부 응급실 주간전화번호1 응급실 주간전화번호2... 새 창 열림\":\n    - /url: https://blog.kakaocdn.net/dn/mtNmy/btrR4Go1eLP/VYFFUc2Zq9zsroKh31wW01/4.%20%EC%9D%98%EB%A3%8C%EA%B8%B0%EA%B4%80%EB%B3%84%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%EC%84%9C%EB%B9%84%EC%8A%A4%2002%EC%84%B8%EB%B6%80%EC%A0%95%EB%B3%B4%202022.6.xlsx?attach=1&knm=tfile.xlsx\n    - text: 의료기관별상세정보서비스 02세부정보 2022.6 암호화요양기호 요양기관명 위치_공공건물(장소)명 위치_방향 위치_거리\n    - mark: 주차\n    - text: 가능대수\n    - mark: 주차\n    - text: 비용부담여부\n    - mark: 주차\n    - text: _기타안내사항 일요일 휴진안내 공휴일 휴진안내 응급실 주간운영여부 응급실 주간\n    - mark: 전화\n    - text: 번호1 응급실 주간\n    - mark: 전화\n    - text: 번호2...\n    - generic: 새 창 열림\n  - link \"3MB 새 창 열림\":\n    - /url: https://blog.kakaocdn.net/dn/mtNmy/btrR4Go1eLP/VYFFUc2Zq9zsroKh31wW01/4.%20%EC%9D%98%EB%A3%8C%EA%B8%B0%EA%B4%80%EB%B3%84%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%EC%84%9C%EB%B9%84%EC%8A%A4%2002%EC%84%B8%EB%B6%80%EC%A0%95%EB%B3%B4%202022.6.xlsx?attach=1&knm=tfile.xlsx\n    - generic: 3MB\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://funeral.3minhealth.com/\n    - generic: 새 창 열림\n  - link \"전국 장례식장 정보 새 창 열림\":\n    - /url: https://funeral.3minhealth.com/\n    - text: 전국 장례식장 정보\n    - generic: 새 창 열림\n  - link \"funeral.3minhealth.com›..›고양시›원당장례식장(주)고양베스트 새 창 열림\":\n    - /url: https://funeral.3minhealth.com/gyeonggi/goyang-si/f8a5bb495/\n    - generic: funeral.3minhealth.com›..›고양시›원당장례식장(주)고양베스트\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"원당장례식장(주)고양베스트 <mark>주차</mark>·가는길의 이미지 새 창 열림\":\n    - /url: https://funeral.3minhealth.com/gyeonggi/goyang-si/f8a5bb495/\n    - img \"원당장례식장(주)고양베스트 <mark>주차</mark>·가는길의 이미지\"\n    - generic: 새 창 열림\n  - link \"원당장례식장(주)고양베스트 주차·가는길 새 창 열림\":\n    - /url: https://funeral.3minhealth.com/gyeonggi/goyang-si/f8a5bb495/\n    - text: 원당장례식장(주)고양베스트\n    - mark: 주차\n    - text: ·가는길\n    - generic: 새 창 열림\n  - 'link \"원당장례식장(주)고양베스트 시설 ; 빈소 : 7실, 안치 가능 : 14구, 식당 : 있음, 매점 : 있음, 유족 대기실 : 있음, 장애인 편의시설 : 있음, 운영 : 사설 · 전문 새 창 열림\"':\n    - /url: https://funeral.3minhealth.com/gyeonggi/goyang-si/f8a5bb495/\n    - generic: \"원당장례식장(주)고양베스트 시설 ; 빈소 : 7실, 안치 가능 : 14구, 식당 : 있음, 매점 : 있음, 유족 대기실 : 있음, 장애인 편의시설 : 있음, 운영 : 사설 · 전문\"\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/yckim0521\n    - generic: 새 창 열림\n  - link \"꿀팁이당대표의 블로그입니다~ 새 창 열림\":\n    - /url: https://blog.naver.com/yckim0521\n    - generic: 꿀팁이당대표의 블로그입니다~\n    - generic: 새 창 열림\n  - link \"2024.12.29. 새 창 열림\":\n    - /url: https://blog.naver.com/yckim0521/223708771699\n    - generic: 2024.12.29.\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"2025 설 명절 연휴 버스 예매 알림!!(12월 30일 오전 10시부터 시행!!!) 새 창 열림\":\n    - /url: https://blog.naver.com/yckim0521/223708771699\n    - generic: 2025 설 명절 연휴 버스 예매 알림!!(12월 30일 오전 10시부터 시행!!!)\n    - generic: 새 창 열림\n  - link \"해당 게시물은 티머니 고, 일부 지자체 홈페이지, 백과사전 등을 참고해 만들었습니다! 상세한 예매 일정 및 공지사항과 노선들 잘 참고하셔서 이번 명절 버스 예매도 성공적으로... 영등포 전화국, 영림초등학교(신라스테이 구로), 영천시장, 오금동, 오금역, 오목교역, 옥수 삼성 아파트, 옥정중학교, 올림픽 선수촌 아파트, 왕십리역, 용두동 사거리, 용산구청... 새 창 열림\":\n    - /url: https://blog.naver.com/yckim0521/223708771699\n    - text: 해당 게시물은 티머니 고, 일부 지자체\n    - mark: 홈페이지\n    - text: \", 백과사전 등을 참고해 만들었습니다! 상세한 예매 일정 및 공지사항과 노선들 잘 참고하셔서 이번 명절 버스 예매도 성공적으로... 영등포\"\n    - mark: 전화\n    - text: 국, 영림초등학교(신라스테이 구로), 영천시장, 오금동, 오금역, 오목교역, 옥수 삼성 아파트, 옥정중학교, 올림픽 선수촌 아파트, 왕십리역, 용두동 사거리, 용산구청...\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://localbiz.kr/\n    - generic: 새 창 열림\n  - link \"로컬비즈 새 창 열림\":\n    - /url: https://localbiz.kr/\n    - text: 로컬비즈\n    - generic: 새 창 열림\n  - link \"localbiz.kr›이름 검색›경기›스마일웨딩홀 새 창 열림\":\n    - /url: https://localbiz.kr/find/place/%EC%8A%A4%EB%A7%88%EC%9D%BC%EC%9B%A8%EB%94%A9%ED%99%80-8414754\n    - generic: localbiz.kr›이름 검색›경기›스마일웨딩홀\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"스마일웨딩홀 경기 고양시 예식장 새 창 열림\":\n    - /url: https://localbiz.kr/find/place/%EC%8A%A4%EB%A7%88%EC%9D%BC%EC%9B%A8%EB%94%A9%ED%99%80-8414754\n    - text: 스마일웨딩홀 경기 고양시\n    - mark: 예식장\n    - generic: 새 창 열림\n  - link \"스마일웨딩홀은 경기 고양시에 위치한 예식장입니다. 사업장 주소는 경기 고양시 덕양구 토당로42번길 13-15, 전화번호는 031-973-3344입니다. 새 창 열림\":\n    - /url: https://localbiz.kr/find/place/%EC%8A%A4%EB%A7%88%EC%9D%BC%EC%9B%A8%EB%94%A9%ED%99%80-8414754\n    - text: 스마일웨딩홀은 경기 고양시에 위치한\n    - mark: 예식장\n    - text: 입니다. 사업장 주소는 경기 고양시\n    - mark: 덕양구\n    - text: 토당로42번길 13-15,\n    - mark: 전화\n    - text: 번호는 031-973-3344입니다.\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/thevista1\n    - generic: 새 창 열림\n  - link \"SOLMONTI 새 창 열림\":\n    - /url: https://blog.naver.com/thevista1\n    - generic: SOLMONTI\n    - generic: 새 창 열림\n  - link \"2026.05.13. 새 창 열림\":\n    - /url: https://blog.naver.com/thevista1/224284149424\n    - generic: 2026.05.13.\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"덕양구 웨딩홀 대관으로 완성하는 나만의 특별한 하루 새 창 열림\":\n    - /url: https://blog.naver.com/thevista1/224284149424\n    - mark: 덕양구\n    - text: 웨딩홀 대관으로 완성하는 나만의 특별한 하루\n    - generic: 새 창 열림\n  - link \"대부분의 예식장이 정해진 패키지 안에서만 움직이다 보니, 내가 원하는 분위기나 소소한 디테일 하나도 마음대로... 주차 공간도 넉넉하게 마련되어 있어 하객분들이나 참석자분들이 불편 없이 이동하실 수 있도록 구성되어 있어요. 우리만의... 정형화된 예식이 아닌 나답고 특별한 하루를 원하시는 분들께 솔몬티가 잘 맞을 거예요. 솔몬티에서 덕양구 웨딩홀 대관을... 새 창 열림\":\n    - /url: https://blog.naver.com/thevista1/224284149424\n    - text: 대부분의\n    - mark: 예식장\n    - text: 이 정해진 패키지 안에서만 움직이다 보니, 내가 원하는 분위기나 소소한 디테일 하나도 마음대로...\n    - mark: 주차\n    - text: 공간도 넉넉하게 마련되어 있어 하객분들이나 참석자분들이 불편 없이 이동하실 수 있도록 구성되어 있어요. 우리만의... 정형화된\n    - mark: 예식\n    - text: 이 아닌 나답고 특별한 하루를 원하시는 분들께 솔몬티가 잘 맞을 거예요. 솔몬티에서\n    - mark: 덕양구\n    - text: 웨딩홀 대관을...\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/thevista1/224284149424\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/thevista1/224284149424\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/thevista1/224284149424\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/thevista1/224284149424\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/thevista1/224284149424\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/thevista1/224284149424\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/thevista1/224284149424\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/thevista1/224284149424\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/thevista1/224284149424\n    - generic: 새 창 열림\n  - link \"새 창 열림\":\n    - /url: https://blog.naver.com/thevista1/224284149424\n    - generic: 새 창 열림\n  - button \"다음\":\n  - generic: easybugo.com\n  - link \"blog.easybugo.com›장례식장›경기도›고양시 새 창 열림\":\n    - /url: https://blog.easybugo.com/%EC%9E%A5%EB%A1%80%EC%8B%9D%EC%9E%A5/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EA%B3%A0%EC%96%91%EC%8B%9C/\n    - generic: blog.easybugo.com›장례식장›경기도›고양시\n    - generic: 새 창 열림\n  - button \"옵션 메뉴 열기\":\n  - link \"경기도 고양시 장례식장 8곳 — 주소·전화·주차 | 이지부고 새 창 열림\":\n    - /url: https://blog.easybugo.com/%EC%9E%A5%EB%A1%80%EC%8B%9D%EC%9E%A5/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EA%B3%A0%EC%96%91%EC%8B%9C/\n    - text: 경기도 고양시 장례식장 8곳 — 주소·\n    - mark: 전화\n    - text: ·\n    - mark: 주차\n    - text: \"| 이지부고\"\n    - generic: 새 창 열림\n  - link \"원당장례식장(주)고양베스트 경기도 고양시 덕양구 고양대로 1359-5 (성사동) 사설 · 빈소 7실 · 안치 14구 · 주차 20면 · 식당, 주차장, 유족대기실, 장애인편의시설 새 창 열림\":\n    - /url: https://blog.easybugo.com/%EC%9E%A5%EB%A1%80%EC%8B%9D%EC%9E%A5/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EA%B3%A0%EC%96%91%EC%8B%9C/\n    - text: 원당장례식장(주)고양베스트 경기도 고양시\n    - mark: 덕양구\n    - text: 고양대로 1359-5 (성사동) 사설 · 빈소 7실 · 안치 14구 ·\n    - mark: 주차\n    - text: 20면 · 식당,\n    - mark: 주차\n    - text: 장, 유족대기실, 장애인편의시설\n    - generic: 새 창 열림\n  - generic: 이전\n  - generic \"페이지 탐색\":\n    - link \"1 페이지\":\n      - /url: \"?nso=&qdt=0&query=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sm=tab_pge&ssc=tab.nx.all\"\n      - text: \"1\"\n      - generic: 페이지\n    - link \"2 페이지\":\n      - /url: \"?nso=&page=2&qdt=0&query=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sm=tab_pge&ssc=tab.ur.all&start=1\"\n      - text: \"2\"\n      - generic: 페이지\n    - link \"3 페이지\":\n      - /url: \"?nso=&page=3&qdt=0&query=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sm=tab_pge&ssc=tab.ur.all&start=21\"\n      - text: \"3\"\n      - generic: 페이지\n  - link \"다음\":\n    - /url: \"?nso=&page=2&qdt=0&query=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sm=tab_pge&ssc=tab.ur.all&start=1\"\n    - generic: 다음\n  - link \"샤넬·구찌·프라다 중고 특가 N플리마켓 프리미엄 리세일 위크 새 창 링크\":\n    - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2611-fleamarket-001&material=chanel1&target=https%3A%2F%2Ffleamarket.naver.com%2F%3Fhero%3D01M6N6A362RJSE7BMD4X9ZQHAT%26dtm_detail%3Dchanel1%26dtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2611-fleamarket-001%26tc%3Dpromotion_store_202611_fashion_naver_pcsearchmktbanner_traffic_chanel1_all\n    - strong: 샤넬·구찌·프라다 중고 특가\n    - paragraph: N플리마켓 프리미엄 리세일 위크\n    - generic: 새 창 링크\n  - link \"참여 누르고 쇼핑하면 최대 3만3천P 추가 적립! 새 창 링크\":\n    - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2610-shopping-008&target=https%3A%2F%2Fmkt.naver.com%2Fplusmission%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2610-shopping-008\n    - strong: 참여 누르고 쇼핑하면\n    - paragraph: 최대 3만3천P 추가 적립!\n    - generic: 새 창 링크\n  - link \"적립적인 멤버십 전용카드 네이버 현대카드 Ed.3 새 창 링크\":\n    - /url: https://mkt.naver.com/naverhyundaicard3?eventCode=NAVHJ&dtm_source=naver_pcsearchmktbanner&dtm_medium=display&dtm_campaign=hyundaicard3mkt\n    - strong: 적립적인 멤버십 전용카드\n    - paragraph: 네이버 현대카드 Ed.3\n    - generic: 새 창 링크\n  - link \"네이버 에듀 학교·진로·입시 정보를 한눈에! 새 창 링크\":\n    - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2611-naver_edu-001&target=https%3A%2F%2Fedu.naver.com%2F%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2611-naver_edu-001\n    - strong: 네이버 에듀\n    - paragraph: 학교·진로·입시 정보를 한눈에!\n    - generic: 새 창 링크\n- link \"맨위로\":\n  - /url: \"#\"\n  - generic: 맨위로\n- link \"전체서비스 새 창 열림\":\n  - /url: https://www.naver.com/more.html\n  - text: 전체서비스\n  - generic: 새 창 열림\n- link \"이용약관 새 창 열림\":\n  - /url: https://policy.naver.com/policy/service.html\n  - text: 이용약관\n  - generic: 새 창 열림\n- link \"개인정보처리방침 새 창 열림\":\n  - /url: https://policy.naver.com/policy/privacy.html\n  - strong: 개인정보처리방침\n  - generic: 새 창 열림\n- link \"검색 고객센터 새 창 열림\":\n  - /url: https://help.naver.com/alias/search/integration/main.naver\n  - text: 검색 고객센터\n  - generic: 새 창 열림\n- link \"© NAVER Corp. 새 창 열림\":\n  - /url: https://www.navercorp.com/\n  - text: © NAVER Corp.\n  - generic: 새 창 열림",
+      "links": [
+        {
+          "title": "메뉴 영역으로 바로가기",
+          "url": "#lnb"
+        },
+        {
+          "title": "본문 영역으로 바로가기",
+          "url": "#content"
+        },
+        {
+          "title": "NAVER",
+          "url": "https://www.naver.com"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://choicehalls.com/"
+        },
+        {
+          "title": "초이스홀\n새 창 열림",
+          "url": "https://choicehalls.com/"
+        },
+        {
+          "title": "3주 전\n새 창 열림",
+          "url": "https://choicehalls.com/raffijuweddingwonheung/"
+        },
+        {
+          "title": "choicehalls.com›raffijuweddingwonheung\n새 창 열림",
+          "url": "https://choicehalls.com/raffijuweddingwonheung/"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://choicehalls.com/raffijuweddingwonheung/"
+        },
+        {
+          "title": "라피쥬웨딩 원흥점\n새 창 열림",
+          "url": "https://choicehalls.com/raffijuweddingwonheung/"
+        },
+        {
+          "title": "라피쥬웨딩 원흥점은 경기 고양시 덕양구 서삼릉길 120에 자리한 야외 하우스웨딩 공간이다. 웨딩숲N라피쥬 야외 가든 단독홀에서 예식을 치른 뒤, 같은 공간에서 피로연을 이어간다. 피로연 음식은 한식과 스테이크를 결합한 세미뷔페다. 스몰웨딩과 가족웨딩에 맞춰 공간 구성과 예식 순서를 조율한다. 지하철역 셔틀버스를 운행하고 ",
+          "url": "https://choicehalls.com/raffijuweddingwonheung/"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://soonwidot.co.kr/"
+        },
+        {
+          "title": "인기순위 순위닷\n새 창 열림",
+          "url": "https://soonwidot.co.kr/"
+        },
+        {
+          "title": "soonwidot.co.kr›rank\n새 창 열림",
+          "url": "https://soonwidot.co.kr/rank/detail.php?stx=%25EC%259D%25BC%25EC%2582%25B0%2520%25EA%25B2%25B0%25ED%2598%25BC%25EC%258B%259D%25EC%259E%25A5&id=22039244&rcid=48343"
+        },
+        {
+          "title": "허스예식장 : 일산 결혼식장 추천\n새 창 열림",
+          "url": "https://soonwidot.co.kr/rank/detail.php?stx=%25EC%259D%25BC%25EC%2582%25B0%2520%25EA%25B2%25B0%25ED%2598%25BC%25EC%258B%259D%25EC%259E%25A5&id=22039244&rcid=48343"
+        },
+        {
+          "title": "신혼부부 극찬 베뉴지웨딩홀 ; 블랑해리아뜰리에 ; 포장이사 역시 홍반장! ; 저렴한 이사비용! 이사플러스\n새 창 열림",
+          "url": "https://soonwidot.co.kr/rank/detail.php?stx=%25EC%259D%25BC%25EC%2582%25B0%2520%25EA%25B2%25B0%25ED%2598%25BC%25EC%258B%259D%25EC%259E%25A5&id=22039244&rcid=48343"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/lifeofjudy"
+        },
+        {
+          "title": "Kylie의 결혼준비\n새 창 열림",
+          "url": "https://blog.naver.com/lifeofjudy"
+        },
+        {
+          "title": "2026.08.14.\n새 창 열림",
+          "url": "https://blog.naver.com/lifeofjudy/224378782253"
+        },
+        {
+          "title": "라비앙루미 웨딩홀 계약완료, 직접 둘러보고 결정한 이유\n새 창 열림",
+          "url": "https://blog.naver.com/lifeofjudy/224378782253"
+        },
+        {
+          "title": "장소명 라비앙루미 하우스웨딩 위치 경기 고양시 덕양구 호국로1873번길 28 연락처 0507-1373-7310 주차 건물 바로 앞 주차장 완비 분위기 하우스웨딩을 위한 프라이빗한 예식 공간 ✨ 장소 특징 ✅ 단독 공간에서 진행하는 하우스웨딩 ✅ 예식 상담... 하는 느낌이 들더라구요ㅋㅋ 하객들도 예식장에 도착해서, 사진 ",
+          "url": "https://blog.naver.com/lifeofjudy/224378782253"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/lifeofjudy/224378782253"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/lifeofjudy/224378782253"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/lifeofjudy/224378782253"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/lifeofjudy/224378782253"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/lifeofjudy/224378782253"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/lifeofjudy/224378782253"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/lifeofjudy/224378782253"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/lifeofjudy/224378782253"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/lifeofjudy/224378782253"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/lifeofjudy/224378782253"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://www.iwedding.co.kr/main/index"
+        },
+        {
+          "title": "아이웨딩\n새 창 열림",
+          "url": "https://www.iwedding.co.kr/main/index"
+        },
+        {
+          "title": "www.iwedding.co.kr›enterprise\n새 창 열림",
+          "url": "https://www.iwedding.co.kr/enterprise/info/1783404710"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://www.iwedding.co.kr/enterprise/info/1783404710"
+        },
+        {
+          "title": "웨딩홀 아네뜨 아이웨딩\n새 창 열림",
+          "url": "https://www.iwedding.co.kr/enterprise/info/1783404710"
+        },
+        {
+          "title": "홀 기본정보 ; 홀타입 : 일반홀, 하우스, 야외, 메뉴 종류 : 뷔페,양식, 식사 비용 : 88,000원 ~ 140,000원, 보증 인원 : 최소 보증 인원 150명, 최대 수용 인원 500명, 가능 행사 : 웨딩, 주소 : 경기 고양시 일산동구 공릉천로187번길 36-47 · 자세히 보기 · 주소 복사, 주차 형태 :",
+          "url": "https://www.iwedding.co.kr/enterprise/info/1783404710"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://www.weddingcrowd.kr/"
+        },
+        {
+          "title": "웨딩크라우드\n새 창 열림",
+          "url": "https://www.weddingcrowd.kr/"
+        },
+        {
+          "title": "www.weddingcrowd.kr›hall\n새 창 열림",
+          "url": "https://www.weddingcrowd.kr/hall/view.php?idx=1700"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://www.weddingcrowd.kr/hall/view.php?idx=1700"
+        },
+        {
+          "title": "관세비스타 - 웨딩크라우드\n새 창 열림",
+          "url": "https://www.weddingcrowd.kr/hall/view.php?idx=1700"
+        },
+        {
+          "title": "홀타입 : 일반웨딩홀, 하우스, 레스토랑, 야외예식, 메뉴 종류 : 양식, 뷔페, 주소 : 경기 고양시 덕양구 북한산로 436 (효자동), 주차 형태 : 120대\n새 창 열림",
+          "url": "https://www.weddingcrowd.kr/hall/view.php?idx=1700"
+        },
+        {
+          "title": "loegarden.creatorlink.net›스몰웨딩\n새 창 열림",
+          "url": "https://loegarden.creatorlink.net/%EC%8A%A4%EB%AA%B0%EC%9B%A8%EB%94%A9"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://loegarden.creatorlink.net/%EC%8A%A4%EB%AA%B0%EC%9B%A8%EB%94%A9"
+        },
+        {
+          "title": "스몰웨딩 - 로에정원 파티하우스\n새 창 열림",
+          "url": "https://loegarden.creatorlink.net/%EC%8A%A4%EB%AA%B0%EC%9B%A8%EB%94%A9"
+        },
+        {
+          "title": "LOE GARDEN WEDDING 프라이빗한 야외 정원에서 열리는 영화같은 결혼식 당신을 빛나게 해 줄 장소입니다\n새 창 열림",
+          "url": "https://loegarden.creatorlink.net/%EC%8A%A4%EB%AA%B0%EC%9B%A8%EB%94%A9"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://www.weddingbook.com/home"
+        },
+        {
+          "title": "웨딩북\n새 창 열림",
+          "url": "https://www.weddingbook.com/home"
+        },
+        {
+          "title": "www.weddingbook.com›weddinghall\n새 창 열림",
+          "url": "https://www.weddingbook.com/weddinghall/20d00b2f-e1e8-11ef-9d4f-023379a10fd2?tabId=1"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://www.weddingbook.com/weddinghall/20d00b2f-e1e8-11ef-9d4f-023379a10fd2?tabId=1"
+        },
+        {
+          "title": "너른마당_고양 - 웨딩북\n새 창 열림",
+          "url": "https://www.weddingbook.com/weddinghall/20d00b2f-e1e8-11ef-9d4f-023379a10fd2?tabId=1"
+        },
+        {
+          "title": "주소 : 경기 고양시 덕양구 서삼릉길 233-4 (원당동) 너른마당 청첩장용 주소, 주차 : 내부 0대 외부 30대 주변에 다른 건물이 없어서 갓길 주차가 가능합니다. 대절버스 주차가능(건물 외부 갓길에 주차 가능), 운영시간 : 토요일 00:00 ~ 00:00\n새 창 열림",
+          "url": "https://www.weddingbook.com/weddinghall/20d00b2f-e1e8-11ef-9d4f-023379a10fd2?tabId=1"
+        },
+        {
+          "title": "jangnyewon.com›경기도›고양시›원당연세장례식장\n새 창 열림",
+          "url": "https://jangnyewon.com/funeral-halls/5778"
+        },
+        {
+          "title": "원당연세장례식장 - 고양시 성사동 장례식장 비용 | 장례원\n새 창 열림",
+          "url": "https://jangnyewon.com/funeral-halls/5778"
+        },
+        {
+          "title": "주소 : 경기도 고양시 덕양구 고양대로 1359 (성사동), 시설 형태 : 사설 장례식장, 안치 : 6구, 주차 : 0대, 전화 : 031-966-4444\n새 창 열림",
+          "url": "https://jangnyewon.com/funeral-halls/5778"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://weddingcrowd.kr/"
+        },
+        {
+          "title": "웨딩크라우드\n새 창 열림",
+          "url": "https://weddingcrowd.kr/"
+        },
+        {
+          "title": "weddingcrowd.kr›hall\n새 창 열림",
+          "url": "https://weddingcrowd.kr/hall/view.php?idx=1227"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://weddingcrowd.kr/hall/view.php?idx=1227"
+        },
+        {
+          "title": "킨텍스신세계그래머스\n새 창 열림",
+          "url": "https://weddingcrowd.kr/hall/view.php?idx=1227"
+        },
+        {
+          "title": "경기도 고양시 일산서구 대화동 킨텍스종합전시장 내에 위치한 킨텍스플라자는 고품격의 초대형 호텔웨딩을 선보인다. 예식을 통해 신랑신부의 자존감을 높이고 하객들의 품위를 고취시키고자 한다면 적절한 선택이 될 것이다. 총 800명까지 수용 가능한 그랜드볼룸 뿐만 아니라 소규모 하우스웨딩을 진행할 수 있는 160석 규모의 라벤더",
+          "url": "https://weddingcrowd.kr/hall/view.php?idx=1227"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://wow-wedding.co.kr/"
+        },
+        {
+          "title": "WOW웨딩\n새 창 열림",
+          "url": "https://wow-wedding.co.kr/"
+        },
+        {
+          "title": "2026.10.06.\n새 창 열림",
+          "url": "https://wow-wedding.co.kr/hall/posijeuneodei-goyang/"
+        },
+        {
+          "title": "wow-wedding.co.kr›posijeuneodei-goyang\n새 창 열림",
+          "url": "https://wow-wedding.co.kr/hall/posijeuneodei-goyang/"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://wow-wedding.co.kr/hall/posijeuneodei-goyang/"
+        },
+        {
+          "title": "고양 웨딩홀·예식장·결혼식장 | 포시즌어데이\n새 창 열림",
+          "url": "https://wow-wedding.co.kr/hall/posijeuneodei-goyang/"
+        },
+        {
+          "title": "고양 웨딩홀·예식장·결혼식장 | 포시즌어데이 고양 웨딩홀 예식장 결혼식장 포시즌어데이은 경기도 고양시 덕양구 북한산로 451-9에 위치해 있습니다. 예식 일정과 보증 인원, 식사, 가격 등 주요 조건과 예약 가능 일정을 확인할 수 있습니다.\n새 창 열림",
+          "url": "https://wow-wedding.co.kr/hall/posijeuneodei-goyang/"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://g4marry.com/"
+        },
+        {
+          "title": "G4MARRY\n새 창 열림",
+          "url": "https://g4marry.com/"
+        },
+        {
+          "title": "2025.10.22.\n새 창 열림",
+          "url": "https://g4marry.com/%EA%B3%A0%EC%96%91-%EA%B2%B0%ED%98%BC%EC%8B%9D%EC%9E%A5/"
+        },
+        {
+          "title": "g4marry.com›고양-결혼식장\n새 창 열림",
+          "url": "https://g4marry.com/%EA%B3%A0%EC%96%91-%EA%B2%B0%ED%98%BC%EC%8B%9D%EC%9E%A5/"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://g4marry.com/%EA%B3%A0%EC%96%91-%EA%B2%B0%ED%98%BC%EC%8B%9D%EC%9E%A5/"
+        },
+        {
+          "title": "고양 결혼식장 어디로? 일반홀 vs 공공예식장 입지부터 조건까지 총정리\n새 창 열림",
+          "url": "https://g4marry.com/%EA%B3%A0%EC%96%91-%EA%B2%B0%ED%98%BC%EC%8B%9D%EC%9E%A5/"
+        },
+        {
+          "title": "한눈에 답: 고양 결혼식장은 일산동구·일산서구 3호선 역세권 컨벤션 웨딩홀 과 덕양구 하우스·야외웨딩홀, 그리고 고양특례시가 무료로 개방하는 일산호수공원 작은결혼식(하객 50명 이하)으로 나뉩니다. 중대형 실내 예식이면 주엽역 신규 오픈 예정 홀(베뉴지1995)을 포함한 역세권 일반 웨딩홀을, 소규모 야외 예식이면 일산호",
+          "url": "https://g4marry.com/%EA%B3%A0%EC%96%91-%EA%B2%B0%ED%98%BC%EC%8B%9D%EC%9E%A5/"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://cafe.naver.com/truesolcar"
+        },
+        {
+          "title": "다이렉트웨딩결혼준비WOW\n새 창 열림",
+          "url": "https://cafe.naver.com/truesolcar"
+        },
+        {
+          "title": "2026.08.20.\n새 창 열림",
+          "url": "https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg"
+        },
+        {
+          "title": "덕양구 결혼식장 추천 직접 비교해본 결혼식장\n새 창 열림",
+          "url": "https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg"
+        },
+        {
+          "title": "답답했던 덕양구 결혼식장 날짜 잡고 상견례 끝내고 탐색 드디어 양가 부모님들께 정식으로 인사를 드리고 예식 일정을... 저희 예비부부는 찾아주실 하객분들이 대체로 자차를 몰고 오시거나 대중교통 지하철을 이용하실 계획이라 주차 시설이... 플래너없이 홀 담당자와 상담하며 받은 덕양구 결혼식장 견적 비교 후기 혼자 힘으로 식",
+          "url": "https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg"
+        },
+        {
+          "title": "하객으로 갔었는데 화정역에서 가까운 곳은 교통이 편해서 좋더라구요!\n새 창 열림",
+          "url": "https://cafe.naver.com/truesolcar/9464?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6InRydWVzb2xjYXIiLCJhcnRpY2xlSWQiOjk0NjQsImlzc3VlZEF0IjoxNzk1MzMyOTUzMTYwfQ.Hjhzsdkq164XGQqW4RE0ynZwYLyW3o4Ciu9RnlabMzg"
+        },
+        {
+          "title": "jwedding.co.kr›hall\n새 창 열림",
+          "url": "https://jwedding.co.kr/hall/hall_view.html?uid=426"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://jwedding.co.kr/hall/hall_view.html?uid=426"
+        },
+        {
+          "title": "웨딩홀 | 라비앙 루미 | 제이웨딩\n새 창 열림",
+          "url": "https://jwedding.co.kr/hall/hall_view.html?uid=426"
+        },
+        {
+          "title": "예식장 소개 ; 정형화된 결혼식이 아닌, 두 사람의 진정한 이야기를 담는 하우스 웨딩 전문 공간입니다. 아늑한 장소, 정성스런 서비스, 세심한 연출로 당신의 인생 최고의 하루를 완성합니다 전문 웨딩 디렉터는 첫 상담부터 결혼식 당일까지 모든 과정을 함께합니다. 두 분의 취향과 스토리를 담은 컨셉을 기획하고, 플라워, 케이",
+          "url": "https://jwedding.co.kr/hall/hall_view.html?uid=426"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://xn--l00b85bm3gh4t94pjoa.com/"
+        },
+        {
+          "title": "하늘끝라이프\n새 창 열림",
+          "url": "https://xn--l00b85bm3gh4t94pjoa.com/"
+        },
+        {
+          "title": "하늘끝라이프.com›..›원당연세장례식장\n새 창 열림",
+          "url": "https://xn--l00b85bm3gh4t94pjoa.com/halls/769"
+        },
+        {
+          "title": "원당연세장례식장 빈소 | 고양시 덕양구 장례식장\n새 창 열림",
+          "url": "https://xn--l00b85bm3gh4t94pjoa.com/halls/769"
+        },
+        {
+          "title": "경기도 고양시 덕양구에 위치한 원당연세장례식장은 사설 전문 장례식장입니다. 빈소 2개(안치 6구) 규모로 운영되며, 임대 방식으로 운영되고 있습니다. 주차 관련 사항은 방문 전 직접 문의해 확인하시기 바랍니다.\n새 창 열림",
+          "url": "https://xn--l00b85bm3gh4t94pjoa.com/halls/769"
+        },
+        {
+          "title": "XLS\n새 창 열림",
+          "url": "https://blog.kakaocdn.net/dn/mtNmy/btrR4Go1eLP/VYFFUc2Zq9zsroKh31wW01/4.%20%EC%9D%98%EB%A3%8C%EA%B8%B0%EA%B4%80%EB%B3%84%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%EC%84%9C%EB%B9%84%EC%8A%A4%2002%EC%84%B8%EB%B6%80%EC%A0%95%EB%B3%B4%202022.6.xlsx?attach=1&knm=tfile.xlsx"
+        },
+        {
+          "title": "blog.kakaocdn.net›4. 의료기관별상세정보서비스 02세부정보 2022.6.xlsx\n새 창 열림",
+          "url": "https://blog.kakaocdn.net/dn/mtNmy/btrR4Go1eLP/VYFFUc2Zq9zsroKh31wW01/4.%20%EC%9D%98%EB%A3%8C%EA%B8%B0%EA%B4%80%EB%B3%84%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%EC%84%9C%EB%B9%84%EC%8A%A4%2002%EC%84%B8%EB%B6%80%EC%A0%95%EB%B3%B4%202022.6.xlsx?attach=1&knm=tfile.xlsx"
+        },
+        {
+          "title": "4. 의료기관별상세정보서비스 02세부정보 2022.6.xlsx\n새 창 열림",
+          "url": "https://blog.kakaocdn.net/dn/mtNmy/btrR4Go1eLP/VYFFUc2Zq9zsroKh31wW01/4.%20%EC%9D%98%EB%A3%8C%EA%B8%B0%EA%B4%80%EB%B3%84%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%EC%84%9C%EB%B9%84%EC%8A%A4%2002%EC%84%B8%EB%B6%80%EC%A0%95%EB%B3%B4%202022.6.xlsx?attach=1&knm=tfile.xlsx"
+        },
+        {
+          "title": "의료기관별상세정보서비스 02세부정보 2022.6 암호화요양기호 요양기관명 위치_공공건물(장소)명 위치_방향 위치_거리 주차가능대수 주차비용부담여부 주차_기타안내사항 일요일 휴진안내 공휴일 휴진안내 응급실 주간운영여부 응급실 주간전화번호1 응급실 주간전화번호2...\n새 창 열림",
+          "url": "https://blog.kakaocdn.net/dn/mtNmy/btrR4Go1eLP/VYFFUc2Zq9zsroKh31wW01/4.%20%EC%9D%98%EB%A3%8C%EA%B8%B0%EA%B4%80%EB%B3%84%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%EC%84%9C%EB%B9%84%EC%8A%A4%2002%EC%84%B8%EB%B6%80%EC%A0%95%EB%B3%B4%202022.6.xlsx?attach=1&knm=tfile.xlsx"
+        },
+        {
+          "title": "3MB\n새 창 열림",
+          "url": "https://blog.kakaocdn.net/dn/mtNmy/btrR4Go1eLP/VYFFUc2Zq9zsroKh31wW01/4.%20%EC%9D%98%EB%A3%8C%EA%B8%B0%EA%B4%80%EB%B3%84%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%EC%84%9C%EB%B9%84%EC%8A%A4%2002%EC%84%B8%EB%B6%80%EC%A0%95%EB%B3%B4%202022.6.xlsx?attach=1&knm=tfile.xlsx"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://funeral.3minhealth.com/"
+        },
+        {
+          "title": "전국 장례식장 정보\n새 창 열림",
+          "url": "https://funeral.3minhealth.com/"
+        },
+        {
+          "title": "funeral.3minhealth.com›..›고양시›원당장례식장(주)고양베스트\n새 창 열림",
+          "url": "https://funeral.3minhealth.com/gyeonggi/goyang-si/f8a5bb495/"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://funeral.3minhealth.com/gyeonggi/goyang-si/f8a5bb495/"
+        },
+        {
+          "title": "원당장례식장(주)고양베스트 주차·가는길\n새 창 열림",
+          "url": "https://funeral.3minhealth.com/gyeonggi/goyang-si/f8a5bb495/"
+        },
+        {
+          "title": "원당장례식장(주)고양베스트 시설 ; 빈소 : 7실, 안치 가능 : 14구, 식당 : 있음, 매점 : 있음, 유족 대기실 : 있음, 장애인 편의시설 : 있음, 운영 : 사설 · 전문\n새 창 열림",
+          "url": "https://funeral.3minhealth.com/gyeonggi/goyang-si/f8a5bb495/"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/yckim0521"
+        },
+        {
+          "title": "꿀팁이당대표의 블로그입니다~\n새 창 열림",
+          "url": "https://blog.naver.com/yckim0521"
+        },
+        {
+          "title": "2024.12.29.\n새 창 열림",
+          "url": "https://blog.naver.com/yckim0521/223708771699"
+        },
+        {
+          "title": "2025 설 명절 연휴 버스 예매 알림!!(12월 30일 오전 10시부터 시행!!!)\n새 창 열림",
+          "url": "https://blog.naver.com/yckim0521/223708771699"
+        },
+        {
+          "title": "해당 게시물은 티머니 고, 일부 지자체 홈페이지, 백과사전 등을 참고해 만들었습니다! 상세한 예매 일정 및 공지사항과 노선들 잘 참고하셔서 이번 명절 버스 예매도 성공적으로... 영등포 전화국, 영림초등학교(신라스테이 구로), 영천시장, 오금동, 오금역, 오목교역, 옥수 삼성 아파트, 옥정중학교, 올림픽 선수촌 아파트, ",
+          "url": "https://blog.naver.com/yckim0521/223708771699"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://localbiz.kr/"
+        },
+        {
+          "title": "로컬비즈\n새 창 열림",
+          "url": "https://localbiz.kr/"
+        },
+        {
+          "title": "localbiz.kr›이름 검색›경기›스마일웨딩홀\n새 창 열림",
+          "url": "https://localbiz.kr/find/place/%EC%8A%A4%EB%A7%88%EC%9D%BC%EC%9B%A8%EB%94%A9%ED%99%80-8414754"
+        },
+        {
+          "title": "스마일웨딩홀 경기 고양시 예식장\n새 창 열림",
+          "url": "https://localbiz.kr/find/place/%EC%8A%A4%EB%A7%88%EC%9D%BC%EC%9B%A8%EB%94%A9%ED%99%80-8414754"
+        },
+        {
+          "title": "스마일웨딩홀은 경기 고양시에 위치한 예식장입니다. 사업장 주소는 경기 고양시 덕양구 토당로42번길 13-15, 전화번호는 031-973-3344입니다.\n새 창 열림",
+          "url": "https://localbiz.kr/find/place/%EC%8A%A4%EB%A7%88%EC%9D%BC%EC%9B%A8%EB%94%A9%ED%99%80-8414754"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/thevista1"
+        },
+        {
+          "title": "SOLMONTI\n새 창 열림",
+          "url": "https://blog.naver.com/thevista1"
+        },
+        {
+          "title": "2026.05.13.\n새 창 열림",
+          "url": "https://blog.naver.com/thevista1/224284149424"
+        },
+        {
+          "title": "덕양구 웨딩홀 대관으로 완성하는 나만의 특별한 하루\n새 창 열림",
+          "url": "https://blog.naver.com/thevista1/224284149424"
+        },
+        {
+          "title": "대부분의 예식장이 정해진 패키지 안에서만 움직이다 보니, 내가 원하는 분위기나 소소한 디테일 하나도 마음대로... 주차 공간도 넉넉하게 마련되어 있어 하객분들이나 참석자분들이 불편 없이 이동하실 수 있도록 구성되어 있어요. 우리만의... 정형화된 예식이 아닌 나답고 특별한 하루를 원하시는 분들께 솔몬티가 잘 맞을 거예요.",
+          "url": "https://blog.naver.com/thevista1/224284149424"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/thevista1/224284149424"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/thevista1/224284149424"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/thevista1/224284149424"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/thevista1/224284149424"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/thevista1/224284149424"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/thevista1/224284149424"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/thevista1/224284149424"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/thevista1/224284149424"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/thevista1/224284149424"
+        },
+        {
+          "title": "새 창 열림",
+          "url": "https://blog.naver.com/thevista1/224284149424"
+        },
+        {
+          "title": "blog.easybugo.com›장례식장›경기도›고양시\n새 창 열림",
+          "url": "https://blog.easybugo.com/%EC%9E%A5%EB%A1%80%EC%8B%9D%EC%9E%A5/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EA%B3%A0%EC%96%91%EC%8B%9C/"
+        },
+        {
+          "title": "경기도 고양시 장례식장 8곳 — 주소·전화·주차 | 이지부고\n새 창 열림",
+          "url": "https://blog.easybugo.com/%EC%9E%A5%EB%A1%80%EC%8B%9D%EC%9E%A5/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EA%B3%A0%EC%96%91%EC%8B%9C/"
+        },
+        {
+          "title": "원당장례식장(주)고양베스트 경기도 고양시 덕양구 고양대로 1359-5 (성사동) 사설 · 빈소 7실 · 안치 14구 · 주차 20면 · 식당, 주차장, 유족대기실, 장애인편의시설\n새 창 열림",
+          "url": "https://blog.easybugo.com/%EC%9E%A5%EB%A1%80%EC%8B%9D%EC%9E%A5/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EA%B3%A0%EC%96%91%EC%8B%9C/"
+        },
+        {
+          "title": "1\n페이지",
+          "url": "?nso=&qdt=0&query=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sm=tab_pge&ssc=tab.nx.all"
+        },
+        {
+          "title": "2\n페이지",
+          "url": "?nso=&page=2&qdt=0&query=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sm=tab_pge&ssc=tab.ur.all&start=1"
+        },
+        {
+          "title": "3\n페이지",
+          "url": "?nso=&page=3&qdt=0&query=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sm=tab_pge&ssc=tab.ur.all&start=21"
+        },
+        {
+          "title": "다음",
+          "url": "?nso=&page=2&qdt=0&query=%ED%97%88%EC%8A%A4%EC%98%88%EC%8B%9D%EC%9E%A5+%EB%8D%95%EC%96%91%EA%B5%AC+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80+%EC%A0%84%ED%99%94+%EC%A3%BC%EC%B0%A8&sm=tab_pge&ssc=tab.ur.all&start=1"
+        },
+        {
+          "title": "샤넬·구찌·프라다 중고 특가\n\nN플리마켓 프리미엄 리세일 위크\n\n새 창 링크",
+          "url": "https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2611-fleamarket-001&material=chanel1&target=https%3A%2F%2Ffleamarket.naver.com%2F%3Fhero%3D01M6N6A362RJSE7BMD4X9ZQHAT%26dtm_detail%3Dchanel1%26dtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2611-fleamarket-001%26tc%3Dpromotion_store_202611_fashion_naver_pcsearchmktbanner_traffic_chanel1_all"
+        },
+        {
+          "title": "참여 누르고 쇼핑하면\n\n최대 3만3천P 추가 적립!\n\n새 창 링크",
+          "url": "https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2610-shopping-008&target=https%3A%2F%2Fmkt.naver.com%2Fplusmission%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2610-shopping-008"
+        },
+        {
+          "title": "적립적인 멤버십 전용카드\n\n네이버 현대카드 Ed.3\n\n새 창 링크",
+          "url": "https://mkt.naver.com/naverhyundaicard3?eventCode=NAVHJ&dtm_source=naver_pcsearchmktbanner&dtm_medium=display&dtm_campaign=hyundaicard3mkt"
+        },
+        {
+          "title": "네이버 에듀\n\n학교·진로·입시 정보를 한눈에!\n\n새 창 링크",
+          "url": "https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2611-naver_edu-001&target=https%3A%2F%2Fedu.naver.com%2F%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2611-naver_edu-001"
+        },
+        {
+          "title": "맨위로",
+          "url": "#"
+        },
+        {
+          "title": "전체서비스\n새 창 열림",
+          "url": "https://www.naver.com/more.html"
+        },
+        {
+          "title": "이용약관\n새 창 열림",
+          "url": "https://policy.naver.com/policy/service.html"
+        },
+        {
+          "title": "개인정보처리방침\n새 창 열림",
+          "url": "https://policy.naver.com/policy/privacy.html"
+        },
+        {
+          "title": "검색 고객센터\n새 창 열림",
+          "url": "https://help.naver.com/alias/search/integration/main.naver"
+        },
+        {
+          "title": "© NAVER Corp.\n새 창 열림",
+          "url": "https://www.navercorp.com/"
+        }
+      ]
+    }
+  }
+}

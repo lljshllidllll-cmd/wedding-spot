@@ -1,0 +1,30 @@
+{
+  "id": "venue-114",
+  "name": "문화비축기지",
+  "query": "문화비축기지 마포구 홈페이지 전화 주차",
+  "checkedAt": "2026-11-22",
+  "engines": {
+    "naver": {
+      "url": "https://search.naver.com/search.naver?query=%EB%AC%B8%ED%99%94%EB%B9%84%EC%B6%95%EA%B8%B0%EC%A7%80%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    "google": {
+      "url": "https://www.google.com/search?q=%EB%AC%B8%ED%99%94%EB%B9%84%EC%B6%95%EA%B8%B0%EC%A7%80%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "javascript-required",
+      "httpStatus": 200,
+      "title": "Google Search",
+      "text": "Google Search Google 검색에 액세스하는 데 문제가 있으면 여기를 클릭 하거나 의견 을 보내 주세요.",
+      "links": [
+        {
+          "url": "https://www.google.com/httpservice/retry/enablejs?sei=oJkCa9iqAuLDvr0P2q_qiAo",
+          "title": "여기"
+        },
+        {
+          "url": "https://support.google.com/websearch",
+          "title": "의견"
+        }
+      ]
+    }
+  }
+}

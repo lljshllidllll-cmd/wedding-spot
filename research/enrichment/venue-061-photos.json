@@ -1,0 +1,74 @@
+{
+  "id": "venue-061",
+  "name": "켄싱턴호텔 여의도",
+  "officialWebsite": "https://m.kensington.co.kr/hyd/wedding_party/detail?idx=73&type=wedding",
+  "photos": [
+    {
+      "imageUrl": "https://m.kensington.co.kr/files/img/contents_wedding_party/202604/f27616d123a8987bc17b67fe4b6a54fc_M_thumb.png",
+      "sourcePage": "https://m.kensington.co.kr/hyd/wedding_party/detail?idx=73&type=wedding",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-061-1.png",
+      "width": 665,
+      "height": 419,
+      "sha256": "f44f7fefe444219719c6286b7b99f33cfd77cf9d3361aa3573a53059a9900c8b",
+      "bytes": 441857,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://m.kensington.co.kr/files/img/contents_wedding_party/202604/a4891864e5dc72feb515ceaf0b05e547_M_thumb.png",
+      "sourcePage": "https://m.kensington.co.kr/hyd/wedding_party/detail?idx=73&type=wedding",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-061-2.png",
+      "width": 665,
+      "height": 419,
+      "sha256": "8b2bb86f7a62209e3f15cc06f94f5382f987f5d3409d7d87013014de4a0b471e",
+      "bytes": 464588,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://m.kensington.co.kr/files/img/contents_wedding_party/202604/e3fd0f538b97a3d5641246afa0c71334_M_thumb.png",
+      "sourcePage": "https://m.kensington.co.kr/hyd/wedding_party/detail?idx=73&type=wedding",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-061-3.png",
+      "width": 665,
+      "height": 419,
+      "sha256": "e67889a6b7d074205217cedeefc49bf7300956c913376c2ff1841d270fa9a204",
+      "bytes": 397034,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://m.kensington.co.kr/files/img/contents_wedding_party/202604/684c86f66e22788c261afe57e6501d97_M_thumb.png",
+      "sourcePage": "https://m.kensington.co.kr/hyd/wedding_party/detail?idx=73&type=wedding",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-061-4.png",
+      "width": 665,
+      "height": 419,
+      "sha256": "e264bc2a738a862e1841a84c86872395a16201c6edc1b4420920d402b1a22947",
+      "bytes": 408148,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://m.kensington.co.kr/files/img/contents_wedding_party/202604/12b57fa37e5b2182c27de988ccebaad8_M_thumb.png",
+      "sourcePage": "https://m.kensington.co.kr/hyd/wedding_party/detail?idx=73&type=wedding",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-061-5.png",
+      "width": 665,
+      "height": 419,
+      "sha256": "7f1f5b4b9dc2eb802209e881c77bb49b4094921225dc839cf48e7235c7f6f7c2",
+      "bytes": 373016,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 43,
+  "errors": []
+}

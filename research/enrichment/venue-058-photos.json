@@ -1,0 +1,13 @@
+{
+  "id": "venue-058",
+  "name": "콘래드 서울",
+  "officialWebsite": "https://www.conradseoul.co.kr/hub/ko/gather/wedding.do",
+  "photos": [],
+  "candidateCount": 3,
+  "errors": [
+    {
+      "url": "https://www.conradseoul.co.kr/hub/ko/gather/@%7BWEDDING-IMG1%7D",
+      "error": "HTTP 404"
+    }
+  ]
+}

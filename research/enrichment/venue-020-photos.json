@@ -1,0 +1,83 @@
+{
+  "id": "venue-020",
+  "name": "더테라스웨딩앤파티",
+  "officialWebsite": "http://www.theterrace.co/",
+  "photos": [
+    {
+      "imageUrl": "http://www.theterrace.co/upload/top/wedding_%EB%AC%B4%EB%8C%80.jpg",
+      "sourcePage": "http://www.theterrace.co/wedding_banquet.asp",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-020-1.jpg",
+      "width": 1920,
+      "height": 637,
+      "sha256": "0d13f42469e81220a67ff940c05cf46a53fd440f93e22cecac91466af9d1565a",
+      "bytes": 798847,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.theterrace.co/upload/top/wedding_%ED%8F%90%EB%B0%B1.jpg",
+      "sourcePage": "http://www.theterrace.co/wedding_banquet.asp",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-020-2.jpg",
+      "width": 1920,
+      "height": 637,
+      "sha256": "a0e09a9f2a5347b775a7bb3f1c637f2cbd77b45212ab7c828b56336937fa23c9",
+      "bytes": 966753,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.theterrace.co/upload/top/gallery_main.jpg",
+      "sourcePage": "http://www.theterrace.co/gallery.asp",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-020-3.jpg",
+      "width": 1920,
+      "height": 637,
+      "sha256": "54ab271423e87e4955c943209bb03e0533d693c6f39238f5bf80977fa02bc538",
+      "bytes": 691325,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.theterrace.co/common/images/img_gallery.jpg",
+      "sourcePage": "http://www.theterrace.co/gallery.asp",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-020-4.jpg",
+      "width": 1000,
+      "height": 667,
+      "sha256": "b45eea49abc741d09cf06fd35bb122e7a9cb322c58b653df150b6a8fc0dae587",
+      "bytes": 204864,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.theterrace.co/upload/img/95851.jpg",
+      "sourcePage": "http://www.theterrace.co/wedding_banquet_sub.asp?gubun=wedding&idx=1",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-020-5.jpg",
+      "width": 1108,
+      "height": 637,
+      "sha256": "e12830646f6f9b2e4e4617036d7232f20feebb649430f93e2bbcc3b354cd3637",
+      "bytes": 583968,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 37,
+  "errors": [
+    {
+      "url": "http://www.theterrace.co/upload/top/64530918pwj_0038%202.jpg",
+      "error": "oversize"
+    },
+    {
+      "url": "http://www.theterrace.co/upload/top/0918pwj_0500%203.jpg",
+      "error": "oversize"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "venue-003",
+  "name": "소노캄 고양",
+  "officialWebsite": "https://www.sonohotelsresorts.com/calm_gy/wedding",
+  "photos": [
+    {
+      "alt": "소노캄_고양_웨딩홀_01_세로.jpg",
+      "height": 1140,
+      "hint": "browser-dom",
+      "imageUrl": "https://www.sonohotelsresorts.com/api/hms/system/file/editor/preview/sgr2gEp1LQEnp303dHnixA==",
+      "width": 1024,
+      "sourcePage": "https://www.sonohotelsresorts.com/calm_gy/wedding",
+      "localPath": "public/photos/venue-003-1.jpg",
+      "sha256": "4f1d358785cd924f5b4d79fcbae1c4aa1e85362ab07a0033e0ba510db77bc829",
+      "bytes": 254104,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "alt": "소노캄_고양_웨딩홀_03_세로.jpg",
+      "height": 1140,
+      "hint": "browser-dom",
+      "imageUrl": "https://www.sonohotelsresorts.com/api/hms/system/file/editor/preview/WLzn9OOis5wuEinjOpJhhg==",
+      "width": 1024,
+      "sourcePage": "https://www.sonohotelsresorts.com/calm_gy/wedding",
+      "localPath": "public/photos/venue-003-2.jpg",
+      "sha256": "87bce5441df4df8b718b9de552417caa662015876915047de4a019ac8cf0faaa",
+      "bytes": 272705,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "alt": "소노캄_고양_웨딩홀_02_세로.jpg",
+      "height": 1140,
+      "hint": "browser-dom",
+      "imageUrl": "https://www.sonohotelsresorts.com/api/hms/system/file/editor/preview/S3xlp5g4suX7Fh1XyGAdYQ==",
+      "width": 1024,
+      "sourcePage": "https://www.sonohotelsresorts.com/calm_gy/wedding",
+      "localPath": "public/photos/venue-003-3.jpg",
+      "sha256": "38ab4c4964c16194007716413a6a4a636a3835e30c108a3788cb34f4cb326cfd",
+      "bytes": 400147,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 3,
+  "errors": []
+}

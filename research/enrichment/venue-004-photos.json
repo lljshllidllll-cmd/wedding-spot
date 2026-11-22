@@ -1,0 +1,74 @@
+{
+  "id": "venue-004",
+  "name": "웨스턴빌리프",
+  "officialWebsite": "https://westernbelief.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://westernbelief.kr/wp-content/uploads/2026/08/new_sl_01-768x420.jpg",
+      "sourcePage": "https://westernbelief.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-004-1.jpg",
+      "width": 768,
+      "height": 420,
+      "sha256": "b4964e0d3ab42972678c4c84e83aebd4ff8822c7372fb0f9184a0acc71633905",
+      "bytes": 97758,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://westernbelief.kr/wp-content/uploads/2026/08/new_sl_03-768x420.jpg",
+      "sourcePage": "https://westernbelief.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-004-2.jpg",
+      "width": 768,
+      "height": 420,
+      "sha256": "fdebb7cc8d9ba0368c59de64fd7ea835fd5e0087aa16aa509021a65135de5cde",
+      "bytes": 96021,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://westernbelief.kr/wp-content/uploads/2026/08/new_sl_02-768x420.jpg",
+      "sourcePage": "https://westernbelief.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-004-3.jpg",
+      "width": 768,
+      "height": 420,
+      "sha256": "4bfbc2ce499346da2dedc66eb7edea1619de0d4c3b3c9b278881e709a5e88e34",
+      "bytes": 85327,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://westernbelief.kr/wp-content/uploads/2026/08/new_sl_04-768x420.jpg",
+      "sourcePage": "https://westernbelief.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-004-4.jpg",
+      "width": 768,
+      "height": 420,
+      "sha256": "b7ae42142933af3533cad814d6ad4da4939041bbe92a4b9b290c75094e45d03e",
+      "bytes": 92706,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://westernbelief.kr/wp-content/uploads/2026/08/new_dre06-1536x1024.jpg",
+      "sourcePage": "https://westernbelief.kr/lounge/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-004-5.jpg",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "129d6f05c1cb65872d1184b4090983b064c6321279ffa140e8c348b71b0e331d",
+      "bytes": 207315,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 15,
+  "errors": []
+}

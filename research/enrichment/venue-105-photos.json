@@ -1,0 +1,48 @@
+{
+  "id": "venue-105",
+  "name": "서교생활문화센터 서교스퀘어",
+  "officialWebsite": "https://wedding.seoulwomen.or.kr/facilities/3210",
+  "photos": [
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EC%84%9C%EA%B5%90%EC%8A%A4%ED%80%98%EC%96%B4.png",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3210",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-105-1.png",
+      "width": 859,
+      "height": 481,
+      "sha256": "ea89d4e16de4387f3ce0f0347d2cd34f5dc4a16ec620a3c9e6ba2eb677e2cc7f",
+      "bytes": 223836,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/2608001_20261021145141000.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3210",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-105-2.jpg",
+      "width": 837,
+      "height": 796,
+      "sha256": "10af01e087b1410ec72526a7b08708968b27e1f2d65ef21417d8c129ad4b611b",
+      "bytes": 54779,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/2608001_20261021145124000.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3210",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-105-3.jpg",
+      "width": 639,
+      "height": 794,
+      "sha256": "ca45707cbe6a27b06cec4f3aba522d435b8c440920f67666aea692d23d26cd4a",
+      "bytes": 62150,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 3,
+  "errors": []
+}

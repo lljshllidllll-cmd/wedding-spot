@@ -1,0 +1,74 @@
+{
+  "id": "venue-050",
+  "name": "JK아트컨벤션",
+  "officialWebsite": "https://www.jkart.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://www.jkart.co.kr/attachList/upload/hall/c20181202132955450/p20181202202647770/img20250613203811683.jpg",
+      "sourcePage": "https://www.jkart.co.kr/wedding/grand/",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-050-1.jpg",
+      "width": 1200,
+      "height": 800,
+      "sha256": "20a7e1411c6b82b87f3c2203b8fc4227d52c41ccf334a9db0348340f7e210156",
+      "bytes": 275278,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.jkart.co.kr/attachList/upload/hall/c20181202132955450/p20181202202647770/img20250613203811900.jpg",
+      "sourcePage": "https://www.jkart.co.kr/wedding/grand/",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-050-2.jpg",
+      "width": 1200,
+      "height": 800,
+      "sha256": "bf57c7c3d4be76bf1eddec830f152fd1c88573b47e8356e9e8f38e7ba5e0a298",
+      "bytes": 148217,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.jkart.co.kr/attachList/upload/hall/c20181202132955450/p20181202202647770/img20250613203812113.jpg",
+      "sourcePage": "https://www.jkart.co.kr/wedding/grand/",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-050-3.jpg",
+      "width": 1200,
+      "height": 800,
+      "sha256": "8d312cda6461b271c03d38de93d1a5ee7e6da4097cfed86a6b0165ac4d913adb",
+      "bytes": 259633,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.jkart.co.kr/attachList/upload/hall/c20181202132955450/p20181202202647770/img20250613203812333.jpg",
+      "sourcePage": "https://www.jkart.co.kr/wedding/grand/",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-050-4.jpg",
+      "width": 1200,
+      "height": 800,
+      "sha256": "8d99241732295693518ad7e3ded05ab921165bc37d667b11cd4ccf430bd99e55",
+      "bytes": 265924,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.jkart.co.kr/attachList/upload/hall/c20181202132955450/p20181202202647770/img20250613203812560.jpg",
+      "sourcePage": "https://www.jkart.co.kr/wedding/grand/",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-050-5.jpg",
+      "width": 1200,
+      "height": 800,
+      "sha256": "9d99132312885718cab7db874d3d84b75cec28022e6f5e9db83563243c5e95db",
+      "bytes": 109557,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 108,
+  "errors": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "venue-087",
+  "name": "국회 예식장",
+  "officialWebsite": "https://assemblywedding.or.kr/?p=8",
+  "photos": [
+    {
+      "imageUrl": "https://assemblywedding.or.kr/inc/img/sub/s0103_a1.jpg",
+      "sourcePage": "https://assemblywedding.or.kr/?p=8",
+      "alt": "헌정기념관 신부대기실",
+      "hint": "",
+      "localPath": "public/photos/venue-087-1.jpg",
+      "width": 406,
+      "height": 286,
+      "sha256": "4c5bcd9e415efd75f9857693366c790dcb83a6e01c8aaf88d21edb7c08a74151",
+      "bytes": 42619,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://assemblywedding.or.kr/inc/img/sub/s0103_a2.jpg",
+      "sourcePage": "https://assemblywedding.or.kr/?p=8",
+      "alt": "헌정기념관1",
+      "hint": "",
+      "localPath": "public/photos/venue-087-2.jpg",
+      "width": 406,
+      "height": 286,
+      "sha256": "3ecbf2e3e69cc6e2a16bb9e2609745ac923cbcfbf4413ca6ab097d8d571d1fc2",
+      "bytes": 39407,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://assemblywedding.or.kr/inc/img/sub/s0103_a3.jpg",
+      "sourcePage": "https://assemblywedding.or.kr/?p=8",
+      "alt": "헌정기념관3",
+      "hint": "",
+      "localPath": "public/photos/venue-087-3.jpg",
+      "width": 406,
+      "height": 286,
+      "sha256": "958a710e7b1f3c2a1d41a89b2016bcb16ca855108380cf9b91262d48fc1cf42f",
+      "bytes": 64458,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 3,
+  "errors": []
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-22",
+  "regionChecks": [
+    {
+      "name": "일산서구 4",
+      "cards": 4
+    },
+    {
+      "name": "일산동구 9",
+      "cards": 9
+    },
+    {
+      "name": "덕양구 11",
+      "cards": 11
+    },
+    {
+      "name": "은평구 8",
+      "cards": 8
+    },
+    {
+      "name": "마포구 19",
+      "cards": 19
+    },
+    {
+      "name": "서대문구 7",
+      "cards": 7
+    },
+    {
+      "name": "강서구 16",
+      "cards": 16
+    },
+    {
+      "name": "양천구 3",
+      "cards": 3
+    },
+    {
+      "name": "영등포구 41",
+      "cards": 41
+    }
+  ],
+  "aliasSearch": {
+    "query": "로운",
+    "result": "아르떼서울"
+  },
+  "statusFilter": {
+    "region": "서대문구",
+    "pending": 4
+  },
+  "parkingFilter": {
+    "region": "서대문구",
+    "cards": 0,
+    "excludedNoParking": true
+  },
+  "excludedPage": {
+    "cards": 7,
+    "fields": [
+      "name",
+      "address",
+      "reason"
+    ]
+  },
+  "mobileViewport": {
+    "requestedWidth": 390,
+    "clientWidth": 375,
+    "scrollWidth": 375
+  },
+  "liveSourcesTelephoneChecked": false
+}

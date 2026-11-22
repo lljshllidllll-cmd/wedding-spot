@@ -1,0 +1,30 @@
+{
+  "id": "venue-111",
+  "name": "어울림플라자 공연장",
+  "query": "어울림플라자 공연장 강서구 홈페이지 전화 주차",
+  "checkedAt": "2026-11-22",
+  "engines": {
+    "naver": {
+      "url": "https://search.naver.com/search.naver?query=%EC%96%B4%EC%9A%B8%EB%A6%BC%ED%94%8C%EB%9D%BC%EC%9E%90%20%EA%B3%B5%EC%97%B0%EC%9E%A5%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    "google": {
+      "url": "https://www.google.com/search?q=%EC%96%B4%EC%9A%B8%EB%A6%BC%ED%94%8C%EB%9D%BC%EC%9E%90%20%EA%B3%B5%EC%97%B0%EC%9E%A5%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "javascript-required",
+      "httpStatus": 200,
+      "title": "Google Search",
+      "text": "Google Search Google 검색에 액세스하는 데 문제가 있으면 여기를 클릭 하거나 의견 을 보내 주세요.",
+      "links": [
+        {
+          "url": "https://www.google.com/httpservice/retry/enablejs?sei=n5kCa-2xOpin0PEPvqONoA0",
+          "title": "여기"
+        },
+        {
+          "url": "https://support.google.com/websearch",
+          "title": "의견"
+        }
+      ]
+    }
+  }
+}

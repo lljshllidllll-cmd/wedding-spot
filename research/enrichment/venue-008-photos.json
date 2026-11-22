@@ -1,0 +1,74 @@
+{
+  "id": "venue-008",
+  "name": "웨딩시그니처",
+  "officialWebsite": "https://signatureconvention.com/",
+  "photos": [
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260512/0c1235d6003e8.jpg",
+      "sourcePage": "https://signatureconvention.com/weddingculture",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-008-1.jpg",
+      "width": 1920,
+      "height": 1280,
+      "sha256": "3a2a700d58704c846aab7619e9790cf776da2eb310fa34bb763f6637e9dde46c",
+      "bytes": 819739,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20250822/a0468545ddef8.jpg",
+      "sourcePage": "https://signatureconvention.com/weddingculture",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-008-2.jpg",
+      "width": 1920,
+      "height": 1524,
+      "sha256": "f29b46b8704bb91352dc7d87920fa1ce6ce166c0a53030fc18dad0c6c21a46a9",
+      "bytes": 460516,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20210416/cc9b3e9ad1f77.jpg",
+      "sourcePage": "https://signatureconvention.com/weddingculture",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-008-3.jpg",
+      "width": 1350,
+      "height": 900,
+      "sha256": "fa880e0c80c8112cdc7d9c79e3ac9b05c28fd403bd07d44cabb2b09276a3aab8",
+      "bytes": 96854,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20210416/4ccf54b99b815.jpg",
+      "sourcePage": "https://signatureconvention.com/weddingculture",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-008-4.jpg",
+      "width": 1352,
+      "height": 900,
+      "sha256": "6b233bab760b15cbc11579a47ae5fd5bc338cbfb6a0136f7260b7e448de6652d",
+      "bytes": 132346,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20241223/56b7350599746.jpg",
+      "sourcePage": "https://signatureconvention.com/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-008-5.jpg",
+      "width": 1920,
+      "height": 915,
+      "sha256": "722e21507d28f318e5dc481227fc751db37bbb7a14decd2e820009ede8fc96ff",
+      "bytes": 532143,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 70,
+  "errors": []
+}

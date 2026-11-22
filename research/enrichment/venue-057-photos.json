@@ -1,0 +1,74 @@
+{
+  "id": "venue-057",
+  "name": "FKI플라자",
+  "officialWebsite": "https://www.plazawedding.co.kr/info2/weddinghall.do",
+  "photos": [
+    {
+      "imageUrl": "https://www.plazawedding.co.kr/img/user/wedding/obj_weddinghall2_01.jpg",
+      "sourcePage": "https://www.plazawedding.co.kr/info2/weddinghall.do",
+      "alt": "웨딩홀 상세 이미지",
+      "hint": "",
+      "localPath": "public/photos/venue-057-1.jpg",
+      "width": 1280,
+      "height": 680,
+      "sha256": "e9fca241954bae203af64be4714116b4de296fc31ef8fc4d98a7bcf4d1c96100",
+      "bytes": 799343,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.plazawedding.co.kr/img/user/wedding/obj_weddinghall2_02.jpg",
+      "sourcePage": "https://www.plazawedding.co.kr/info2/weddinghall.do",
+      "alt": "웨딩홀 상세 이미지",
+      "hint": "",
+      "localPath": "public/photos/venue-057-2.jpg",
+      "width": 1280,
+      "height": 680,
+      "sha256": "a4941ec2167de758857f76cabe5599de2f290bb6a18a4e2bdeee03cce0a1664f",
+      "bytes": 998348,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.plazawedding.co.kr/img/user/wedding/obj_weddinghall2_03.jpg",
+      "sourcePage": "https://www.plazawedding.co.kr/info2/weddinghall.do",
+      "alt": "웨딩홀 상세 이미지",
+      "hint": "",
+      "localPath": "public/photos/venue-057-3.jpg",
+      "width": 1280,
+      "height": 680,
+      "sha256": "f6d931a96bfc03d873a6859190e73c50558dffee5991b3885099ca7d0efd6ba0",
+      "bytes": 725965,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.plazawedding.co.kr/img/user/wedding/obj_weddinghall2_04.jpg",
+      "sourcePage": "https://www.plazawedding.co.kr/info2/weddinghall.do",
+      "alt": "웨딩홀 상세 이미지",
+      "hint": "",
+      "localPath": "public/photos/venue-057-4.jpg",
+      "width": 1280,
+      "height": 680,
+      "sha256": "98ac1dc35a8443b899cfaa1f61a45c64f7ee460b282608619e7dddeb9428f123",
+      "bytes": 531879,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.plazawedding.co.kr/img/user/wedding/obj_weddinghall2_05.jpg",
+      "sourcePage": "https://www.plazawedding.co.kr/info2/weddinghall.do",
+      "alt": "웨딩홀 상세 이미지",
+      "hint": "",
+      "localPath": "public/photos/venue-057-5.jpg",
+      "width": 1278,
+      "height": 680,
+      "sha256": "34c52c8895d66326da6864f9d08c846df48049c13b7ed361382a162703f998b6",
+      "bytes": 151779,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 9,
+  "errors": []
+}

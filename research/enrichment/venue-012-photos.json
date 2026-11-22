@@ -1,0 +1,74 @@
+{
+  "id": "venue-012",
+  "name": "로프트가든344",
+  "officialWebsite": "https://www.loftgarden344.com/mainhall",
+  "photos": [
+    {
+      "alt": "메인홀-(4)-보정.jpg",
+      "height": 613,
+      "hint": "browser-dom",
+      "imageUrl": "https://static.wixstatic.com/media/898cdd_f1c61775cc76498c933a4c84621c2ed8~mv2.jpg/v1/fill/w_1225,h_613,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/898cdd_f1c61775cc76498c933a4c84621c2ed8~mv2.jpg",
+      "width": 1225,
+      "sourcePage": "https://www.loftgarden344.com/mainhall",
+      "localPath": "public/photos/venue-012-1.jpg",
+      "sha256": "ac5de7ef218aec57ad6406796e7c818084002de1931ca37080bf2ea94f75cd24",
+      "bytes": 300159,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "alt": "메인홀 (2).JPG",
+      "height": 411,
+      "hint": "browser-dom",
+      "imageUrl": "https://static.wixstatic.com/media/898cdd_e9d9a7f355c04399808a5a4ddbe6f786~mv2.jpg/v1/fill/w_675,h_411,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/898cdd_e9d9a7f355c04399808a5a4ddbe6f786~mv2.jpg",
+      "width": 675,
+      "sourcePage": "https://www.loftgarden344.com/mainhall",
+      "localPath": "public/photos/venue-012-2.jpg",
+      "sha256": "e82a0459ecd8f77371d778f0be8fd0e757885adb5980061e0d89a733e842d4e4",
+      "bytes": 126536,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "alt": "메인홀-(3).jpg-보정.jpg",
+      "height": 411,
+      "hint": "browser-dom",
+      "imageUrl": "https://static.wixstatic.com/media/898cdd_b21409786b6d47f5870b6b460169f93b~mv2.jpg/v1/fill/w_675,h_411,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/898cdd_b21409786b6d47f5870b6b460169f93b~mv2.jpg",
+      "width": 675,
+      "sourcePage": "https://www.loftgarden344.com/mainhall",
+      "localPath": "public/photos/venue-012-3.jpg",
+      "sha256": "599bf882aed5867b0db79e40147faf4923c855b1122af96f19a902749c2305fa",
+      "bytes": 114712,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "alt": "KakaoTalk_20220825_173718675_01.jpg",
+      "height": 411,
+      "hint": "browser-dom",
+      "imageUrl": "https://static.wixstatic.com/media/898cdd_7119bb18787b4dd9b1b1f52bc45b95bc~mv2.jpg/v1/fill/w_675,h_411,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/898cdd_7119bb18787b4dd9b1b1f52bc45b95bc~mv2.jpg",
+      "width": 675,
+      "sourcePage": "https://www.loftgarden344.com/mainhall",
+      "localPath": "public/photos/venue-012-4.jpg",
+      "sha256": "bfc5bd40d308f72ece5879eb67a85c1c1605872a418d342d05adfde01c5927a2",
+      "bytes": 107121,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "alt": "포토테이블.jpg",
+      "height": 411,
+      "hint": "browser-dom",
+      "imageUrl": "https://static.wixstatic.com/media/898cdd_e5bf07c8cf4b418fa06f0e8f42e4616d~mv2.jpg/v1/fill/w_675,h_411,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/898cdd_e5bf07c8cf4b418fa06f0e8f42e4616d~mv2.jpg",
+      "width": 675,
+      "sourcePage": "https://www.loftgarden344.com/mainhall",
+      "localPath": "public/photos/venue-012-5.jpg",
+      "sha256": "55f4a82fa28d6f95f2c3f67b7d62810a9154c1306801a2863e625571447ca126",
+      "bytes": 112445,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 5,
+  "errors": []
+}

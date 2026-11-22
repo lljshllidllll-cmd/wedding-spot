@@ -1,0 +1,74 @@
+{
+  "id": "venue-052",
+  "name": "더베르G",
+  "officialWebsite": "https://www.theverde-g.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://cdn.imweb.me/upload/S20250509166c5ad4f8d79/78f9a77a20686.jpg",
+      "sourcePage": "https://www.theverde-g.kr/weddinghall",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-052-1.jpg",
+      "width": 1280,
+      "height": 820,
+      "sha256": "f03280f341981e7b5432ce2d5cce6e1cd4ed40c336f9e1feb08c0fae7d031ce3",
+      "bytes": 1088870,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/upload/S20250509166c5ad4f8d79/01086ad99a21f.jpg",
+      "sourcePage": "https://www.theverde-g.kr/weddinghall",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-052-2.jpg",
+      "width": 1280,
+      "height": 820,
+      "sha256": "24269929dfa8fcb6394d287be5037c494974e02e8629d4b5ff686bf0eebac15c",
+      "bytes": 1085945,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/upload/S20250509166c5ad4f8d79/2e37d899ff53c.jpg",
+      "sourcePage": "https://www.theverde-g.kr/weddinghall",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-052-3.jpg",
+      "width": 1280,
+      "height": 820,
+      "sha256": "5a2f15b01511b977d131a560df718eaae9521e3459b8b93ab829ea68bce8a6f5",
+      "bytes": 1124419,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/upload/S20250509166c5ad4f8d79/080942b558be2.jpg",
+      "sourcePage": "https://www.theverde-g.kr/weddinghall",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-052-4.jpg",
+      "width": 1280,
+      "height": 820,
+      "sha256": "9741ffab30eb3ec4304357f3b0c63dbfed94191d8b2e94e2e36ae0b3a8558ee2",
+      "bytes": 1064952,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/upload/S20250509166c5ad4f8d79/f7741b5aacd9f.jpg",
+      "sourcePage": "https://www.theverde-g.kr/weddinghall",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-052-5.jpg",
+      "width": 1280,
+      "height": 820,
+      "sha256": "166ab0a2e68d526515e56835347ec2371d35c6e45289c60a9386054beb6c7cc1",
+      "bytes": 571489,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 67,
+  "errors": []
+}

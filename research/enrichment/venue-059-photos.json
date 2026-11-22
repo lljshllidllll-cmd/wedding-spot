@@ -1,0 +1,74 @@
+{
+  "id": "venue-059",
+  "name": "페어몬트 앰배서더 서울",
+  "officialWebsite": "https://fairmont-seoul.com/",
+  "photos": [
+    {
+      "imageUrl": "https://fairmont-seoul.com/wp-content/uploads/sites/254/2021/06/230308_FAS_0013-1_Fin_Small-1-scaled.jpg",
+      "sourcePage": "https://fairmont-seoul.com/dining/gallery-7/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-059-1.jpg",
+      "width": 2560,
+      "height": 1708,
+      "sha256": "a831a0b54fcba4e1d048aaf64a1d4953e8cd38eb0ee6633cef93cd47cbab6035",
+      "bytes": 567049,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://fairmont-seoul.com/wp-content/uploads/sites/254/2021/06/240821_FAS_0323-scaled.jpg",
+      "sourcePage": "https://fairmont-seoul.com/dining/gallery-7/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-059-2.jpg",
+      "width": 2560,
+      "height": 1708,
+      "sha256": "31eaf0c6fd3057e0387461a67e5bf8ff0ef2ba0169c89add5dad8c5e0f9b2b60",
+      "bytes": 361079,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/254/2024/12/19073150/%EC%A0%9C%EB%AA%A9-%EC%97%86%EC%9D%8C-7.jpg",
+      "sourcePage": "https://fairmont-seoul.com/dining/gallery-7/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-059-3.jpg",
+      "width": 900,
+      "height": 610,
+      "sha256": "4639e701f92750a1b67390dccd62ad191bb04ba64a1961ab06f4a5b38502bab4",
+      "bytes": 127811,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/254/2024/12/19073144/%EC%A0%9C%EB%AA%A9-%EC%97%86%EC%9D%8C-5.jpg",
+      "sourcePage": "https://fairmont-seoul.com/dining/gallery-7/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-059-4.jpg",
+      "width": 900,
+      "height": 610,
+      "sha256": "dc04b8e66cb808d3fcc277623d0f0787e8edaffd7347c88d67088c41485e7ab6",
+      "bytes": 138163,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/254/2024/12/19073142/%EC%A0%9C%EB%AA%A9-%EC%97%86%EC%9D%8C-4.jpg",
+      "sourcePage": "https://fairmont-seoul.com/dining/gallery-7/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-059-5.jpg",
+      "width": 900,
+      "height": 610,
+      "sha256": "6149b14cbb84781487dc24dacf163d387178d8d68e81a68e3c122c66646391de",
+      "bytes": 101893,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 59,
+  "errors": []
+}

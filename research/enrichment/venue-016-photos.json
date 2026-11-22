@@ -1,0 +1,74 @@
+{
+  "id": "venue-016",
+  "name": "여의도웨딩컨벤션",
+  "officialWebsite": "https://ywedding.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://ywedding.co.kr/imgs/about/style03.jpg",
+      "sourcePage": "https://ywedding.co.kr/about/",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-016-1.jpg",
+      "width": 640,
+      "height": 360,
+      "sha256": "a1097a3829c5642d15b89f8e640827d76bd81dc38040415dc36c23c7b4e656d5",
+      "bytes": 105257,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://ywedding.co.kr/imgs/about/style02.jpg",
+      "sourcePage": "https://ywedding.co.kr/about/",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-016-2.jpg",
+      "width": 640,
+      "height": 360,
+      "sha256": "f4577096187dc1d8c483f71d0a8162c432eb6e2dc240af966440a0d262d0e080",
+      "bytes": 39859,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.ywedding.co.kr/attachList/upload/hall/c20170925144356127/p20170925145444973/img20220727145656213.jpg",
+      "sourcePage": "https://ywedding.co.kr/wedding/grand/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-016-3.jpg",
+      "width": 1200,
+      "height": 740,
+      "sha256": "2e98dbb1408d564d0b1cd54bcb303c2b35b46e5d5bcc1743dc1daa0261e266b3",
+      "bytes": 242133,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.ywedding.co.kr/attachList/upload/hall/c20170925144356127/p20170925165214933/img20250925140944853.jpg",
+      "sourcePage": "https://ywedding.co.kr/wedding/bride/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-016-4.jpg",
+      "width": 1200,
+      "height": 740,
+      "sha256": "3a6f6847a99e9d3c001870f4cd51988a74bdaa89174659d88877237f212815ea",
+      "bytes": 126301,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.ywedding.co.kr/attachList/upload/hall/c20170925144356127/p20170927120006973/img20250925140758540.jpg",
+      "sourcePage": "https://ywedding.co.kr/wedding/lobby/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-016-5.jpg",
+      "width": 1200,
+      "height": 740,
+      "sha256": "f5f8bff56934f986d9b31aa7f0178367f3699934c5a3a71a75049ce8ea9fdf70",
+      "bytes": 108459,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 66,
+  "errors": []
+}

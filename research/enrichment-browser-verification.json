@@ -1,0 +1,39 @@
+{
+  "checkedAt": "2026-11-22",
+  "pass": true,
+  "desktop": {
+    "regions": 9,
+    "totalCards": 118,
+    "photoOnlyFilter": "4→2",
+    "modal": "open/next/thumbnail/wrap/Escape/close passed",
+    "keyboard": "ArrowLeft passed; thumbnail focus retained",
+    "singlePhoto": "1/1, both navigation buttons disabled",
+    "sources": "per-photo source page and original URL displayed",
+    "consoleErrors": []
+  },
+  "mobile": {
+    "width": 390,
+    "height": 844,
+    "horizontalOverflow": false,
+    "photoLoaded": true,
+    "modal": "open/next/close passed"
+  },
+  "excluded": {
+    "count": 7,
+    "fields": "name,address,reason",
+    "images": 0,
+    "links": 0
+  },
+  "data": {
+    "naver": 118,
+    "google": 118,
+    "photos": 312,
+    "completeGalleries": 52,
+    "partialGalleries": 23,
+    "missingGalleries": 43
+  },
+  "screenshots": [
+    "research/gallery-desktop.jpg",
+    "research/gallery-mobile.jpg"
+  ]
+}

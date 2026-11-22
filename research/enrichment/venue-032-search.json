@@ -1,0 +1,30 @@
+{
+  "id": "venue-032",
+  "name": "아펠가모 공덕",
+  "query": "아펠가모 공덕 마포구 홈페이지 전화 주차",
+  "checkedAt": "2026-11-22",
+  "engines": {
+    "naver": {
+      "url": "https://search.naver.com/search.naver?query=%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    "google": {
+      "url": "https://www.google.com/search?q=%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "javascript-required",
+      "httpStatus": 200,
+      "title": "Google Search",
+      "text": "Google Search Google 검색에 액세스하는 데 문제가 있으면 여기를 클릭 하거나 의견 을 보내 주세요.",
+      "links": [
+        {
+          "url": "https://www.google.com/httpservice/retry/enablejs?sei=m5kCa9SCCtv91e8PrcTImQI",
+          "title": "여기"
+        },
+        {
+          "url": "https://support.google.com/websearch",
+          "title": "의견"
+        }
+      ]
+    }
+  }
+}

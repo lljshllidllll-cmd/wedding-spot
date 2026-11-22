@@ -1,0 +1,22 @@
+{
+  "id": "venue-047",
+  "name": "코트야드 메리어트 서울 보타닉파크",
+  "officialWebsite": "https://www.marriott.com/ko/hotels/selcs-courtyard-seoul-botanic-park/overview/",
+  "photos": [
+    {
+      "imageUrl": "https://cache.marriott.com/is/image/marriotts7prod/cy-selcs-botanic-forest-wedding-20255:Pano-Hor",
+      "sourcePage": "https://www.marriott.com/ko/offers/2026-botanic-wedding-promotion-OFF-132975/SELCS-courtyard-seoul-botanic-park",
+      "alt": "보타닉 포레스트 웨딩",
+      "hint": "hero-img",
+      "localPath": "public/photos/venue-047-1.jpg",
+      "width": 4000,
+      "height": 1333,
+      "sha256": "b831eb4fb3dca05e0c6c209af91fad92260e7dfe1b89be6a5db263e6d65ff339",
+      "bytes": 560265,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 1,
+  "errors": []
+}

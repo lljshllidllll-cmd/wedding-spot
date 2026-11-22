@@ -1,0 +1,7 @@
+import fs from 'node:fs';
+const c=JSON.parse(fs.readFileSync('catalog.json','utf8'));
+if(process.argv[2])c.venues=c.venues.filter(v=>process.argv[2].split(',').includes(v.id));
+const rows=c.venues.map(v=>{const p='research/enrichment/'+v.id+'-photos.json';return {...v,photos:fs.existsSync(p)?JSON.parse(fs.readFileSync(p,'utf8')).photos:[]};}).filter(v=>v.photos.length);
+const escape=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('"','&quot;');
+fs.writeFileSync('research/photo-review.html',`<!doctype html><meta charset="utf-8"><title>사진 수집 검토</title><style>body{margin:12px;font:14px sans-serif;background:#eef1f3}section{display:grid;grid-template-columns:130px repeat(5,1fr);gap:5px;margin:7px 0;height:135px}img{width:100%;height:108px;object-fit:cover}figure{margin:0;background:white;min-width:0}figcaption{font-size:10px}h2{font-size:13px}a{color:#17344b}</style><main id="content"></main><script>const rows=${JSON.stringify(rows)};const start=Number(new URLSearchParams(location.search).get('start')||0);document.querySelector('#content').innerHTML=rows.slice(start,start+5).map(v=>'<section><h2>'+v.id+'<br>'+v.name+'</h2>'+v.photos.map((p,i)=>'<figure><img src="../'+p.localPath+'"><figcaption>'+(i+1)+' '+p.width+'×'+p.height+' <a href="'+p.sourcePage+'">출처</a></figcaption></figure>').join('')+'</section>').join('');</script>`);
+console.log(rows.map((v,i)=>({index:i,id:v.id,name:v.name,count:v.photos.length})));

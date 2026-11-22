@@ -1,0 +1,35 @@
+{
+  "id": "venue-111",
+  "name": "어울림플라자 공연장",
+  "officialWebsite": "https://wedding.seoulwomen.or.kr/facilities/3214",
+  "photos": [
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EC%96%B4%EC%9A%B8%EB%A6%BC%ED%94%8C%EB%9D%BC%EC%9E%90.png",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3214",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-111-1.png",
+      "width": 934,
+      "height": 372,
+      "sha256": "c17587d765c5848f6fc82acd8519de870bd14be48473782119eadcb1fee84097",
+      "bytes": 251051,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/12.%EC%96%B4%EC%9A%B8%EB%A6%BC%ED%94%8C%EB%9D%BC%EC%9E%90-1.png",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3214",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-111-2.png",
+      "width": 521,
+      "height": 258,
+      "sha256": "50fd4b052108263b3015203e914144d86a2d733a3bb675357f9eb4526cec8f7e",
+      "bytes": 73846,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 2,
+  "errors": []
+}

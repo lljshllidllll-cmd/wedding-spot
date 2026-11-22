@@ -1,0 +1,74 @@
+{
+  "id": "venue-056",
+  "name": "루나미엘레",
+  "officialWebsite": "http://www.lunamiele.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "http://www.lunamiele.co.kr/attachList/upload/hall/c20200922154832183/p20200922155117660/img20260116121032640.jpg",
+      "sourcePage": "http://www.lunamiele.co.kr/wedding/grand/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-056-1.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "1d184fae39b6532d60f7011c81a19a3fb48574100a3f2ebf1d2e8315be523e5a",
+      "bytes": 774395,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.lunamiele.co.kr/attachList/upload/hall/c20200922154832183/p20200922155117660/img20260116121033400.jpg",
+      "sourcePage": "http://www.lunamiele.co.kr/wedding/grand/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-056-2.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d999a7457b4ef7f3a0a15367ab16b5ee684fd77aa08f13644e7c82464afdfa26",
+      "bytes": 692131,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.lunamiele.co.kr/attachList/upload/hall/c20200922154832183/p20200922155117660/img20260116121033797.jpg",
+      "sourcePage": "http://www.lunamiele.co.kr/wedding/grand/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-056-3.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d7d6cf2c84b604a03b30c6b0a911585f3c6e529d57e273cebdb01b26197c7213",
+      "bytes": 673722,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.lunamiele.co.kr/attachList/upload/hall/c20200922154832183/p20200922155117660/img20260116121034987.jpg",
+      "sourcePage": "http://www.lunamiele.co.kr/wedding/grand/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-056-4.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "276d9cdcd2ea5ee4e7d1e04fe93f781451fa9fb808b9c0e98168f17e97595bd9",
+      "bytes": 464746,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.lunamiele.co.kr/attachList/upload/hall/c20200922154832183/p20200922155117660/img20260116121028303.jpg",
+      "sourcePage": "http://www.lunamiele.co.kr/wedding/grand/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-056-5.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "bb50f28581297909d12aa9117aaf5b2beb33f6fceafcc2ecb71b21cc9f52eecd",
+      "bytes": 521936,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 120,
+  "errors": []
+}

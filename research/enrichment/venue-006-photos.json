@@ -1,0 +1,74 @@
+{
+  "id": "venue-006",
+  "name": "베네치아웨딩부페",
+  "officialWebsite": "https://www.veneziawedding.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://www.veneziawedding.co.kr/attachList/upload/main/m20260828170345617.jpg",
+      "sourcePage": "https://www.veneziawedding.co.kr/view/banquet",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-006-1.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0d8581a26d90ce072cd65adc5f5642195193cf65fd25d30b57ac2e052452913c",
+      "bytes": 525036,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.veneziawedding.co.kr/attachList/upload/main/m20260828170334700.jpg",
+      "sourcePage": "https://www.veneziawedding.co.kr/view/banquet",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-006-2.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "704870ceef3f371ed53f3284dacb9622e0e1fa937471d165240de081519c8397",
+      "bytes": 398865,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.veneziawedding.co.kr/attachList/upload/main/m20260828170357930.jpg",
+      "sourcePage": "https://www.veneziawedding.co.kr/view/banquet",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-006-3.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6e78b91bc6a22ef5ad447975cf24b1d675c2ec44bf50da279eff558c5693d834",
+      "bytes": 587093,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.veneziawedding.co.kr/attachList/upload/main/m20260828170409133.jpg",
+      "sourcePage": "https://www.veneziawedding.co.kr/view/banquet",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-006-4.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7f56b0eb47eb7b60884752c657cb55ec381f3a5daafe73702247ffb932a89839",
+      "bytes": 644332,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.veneziawedding.co.kr/attachList/upload/main/m20260828170428280.jpg",
+      "sourcePage": "https://www.veneziawedding.co.kr/view/banquet",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-006-5.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0b36aefeb7140b439afdc468cdcc0b681f942c4f7cc2d4c2549a60fa5b1d6bb1",
+      "bytes": 399340,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 33,
+  "errors": []
+}

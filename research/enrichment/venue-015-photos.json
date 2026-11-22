@@ -1,0 +1,74 @@
+{
+  "id": "venue-015",
+  "name": "그랜드컨벤션센터",
+  "officialWebsite": "https://www.grandconvention.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://www.grandconvention.co.kr/attachList/upload/hall/c20200531121410330/p20200531170948523/img20261004195218900.jpg",
+      "sourcePage": "https://www.grandconvention.co.kr/wedding/grand/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-015-1.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e0fc3ce4e954ff9fa4858a7fd807ebc9e3e704a33cf9ade895eed30e2ac92494",
+      "bytes": 402283,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.grandconvention.co.kr/attachList/upload/hall/c20200531121410330/p20200531170948523/img20261004195219137.jpg",
+      "sourcePage": "https://www.grandconvention.co.kr/wedding/grand/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-015-2.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f189514b373275f11ce078c98262092d10ddb1d7ffbe6e647852104bedd71f03",
+      "bytes": 387725,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.grandconvention.co.kr/attachList/upload/hall/c20200531121410330/p20200531192406220/img20261004195018740.jpg",
+      "sourcePage": "https://www.grandconvention.co.kr/wedding/regency/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-015-3.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e916b45728d9271947a6b37ff603ab23f5f88d92daaa221454627062c8d909cd",
+      "bytes": 429812,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.grandconvention.co.kr/attachList/upload/hall/c20200531121410330/p20200531170948523/img20261004195252067.jpg",
+      "sourcePage": "https://www.grandconvention.co.kr/wedding/grand/",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-015-4.jpg",
+      "width": 1200,
+      "height": 675,
+      "sha256": "a6c40d3a8c97b75c1e4e20fb30dd54c35ef9a201a469364543f9578a83740142",
+      "bytes": 369680,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.grandconvention.co.kr/attachList/upload/hall/c20200531121410330/p20200531170948523/img20261004195252227.jpg",
+      "sourcePage": "https://www.grandconvention.co.kr/wedding/grand/",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-015-5.jpg",
+      "width": 1200,
+      "height": 675,
+      "sha256": "a91129629052007532aafa60dbd1368917a119874e8436e35bd67f668f9f85da",
+      "bytes": 499900,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 71,
+  "errors": []
+}

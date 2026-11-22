@@ -1,0 +1,35 @@
+{
+  "id": "venue-051",
+  "name": "규수당 문래점",
+  "officialWebsite": "https://kyusoodang.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://kyusoodang.co.kr/attachList/upload/main/m20241203125444960.jpg",
+      "sourcePage": "https://kyusoodang.co.kr/",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-051-1.jpg",
+      "width": 900,
+      "height": 600,
+      "sha256": "24f14487de9da7eaa72573f9bf8a8d88a7ab62d77d0a733adfd5c782d0e10aef",
+      "bytes": 249701,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://kyusoodang.co.kr/attachList/upload/main/m20241025133741100.jpg",
+      "sourcePage": "https://kyusoodang.co.kr/",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-051-2.jpg",
+      "width": 900,
+      "height": 600,
+      "sha256": "7fb53348d58b4c4b5bc657f2a58345c08d46736609d49cd80ae62812c65bd717",
+      "bytes": 193953,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 2,
+  "errors": []
+}

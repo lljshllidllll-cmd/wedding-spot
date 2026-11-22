@@ -1,0 +1,22 @@
+{
+  "id": "venue-104",
+  "name": "청년예술청 SAPY",
+  "officialWebsite": "https://wedding.seoulwomen.or.kr/facilities/3211",
+  "photos": [
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EC%B2%AD%EB%85%84%EC%98%88%EC%88%A0%EC%B2%AD-1.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3211",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-104-1.jpg",
+      "width": 1920,
+      "height": 1283,
+      "sha256": "3b17b62fb5451d26c22e44d44c6e0c7ac0a3b61f666b5d1d56cbd823a26588d1",
+      "bytes": 200091,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 1,
+  "errors": []
+}

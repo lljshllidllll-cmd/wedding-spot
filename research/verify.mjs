@@ -1,0 +1,26 @@
+import fs from 'node:fs';
+import vm from 'node:vm';
+import assert from 'node:assert/strict';
+const c=JSON.parse(fs.readFileSync('catalog.json','utf8'));
+const serialized=vm.runInNewContext(fs.readFileSync('catalog.js','utf8')+';JSON.stringify(venueCatalog)');
+assert.deepEqual(JSON.parse(serialized),c,'브라우저 데이터와 JSON 일치');
+assert.equal(c.regions.length,9);
+assert.equal(new Set(c.venues.map(v=>v.id)).size,c.venues.length);
+assert.equal(new Set(c.venues.map(v=>v.region+'|'+v.name)).size,c.venues.length);
+for(const v of c.venues){assert(c.regions.some(r=>r.id===v.region));assert(c.statusLabels[v.status]);assert(v.name&&v.address&&v.parking&&v.source);assert(['http:','https:'].includes(new URL(v.source).protocol));if(v.website)assert(['http:','https:'].includes(new URL(v.website).protocol));if(v.phone)assert.match(v.phone,/^[0-9+-]+$/);}
+const publicRows=JSON.parse(fs.readFileSync('research/public-venues.json','utf8'));
+assert.equal(publicRows.total,73);
+assert.equal(publicRows.venues.length,18);
+for(const v of publicRows.venues)assert.equal(c.venues.filter(x=>x.source===v.url).length,1,'공공 상세 한 건씩 수록');
+for(const v of c.excluded)assert(!c.venues.some(x=>x.name===v.name),'제외 시설은 본목록에 없음');
+for(const name of ['이룸웨딩컨벤션','더파티움 여의도'])assert(c.venues.some(v=>v.name===name),'잘못 제외한 시설 복원');
+assert.equal(c.venues.filter(v=>v.aliases.includes('더힐파노라마')).length,1);
+assert.equal(c.venues.filter(v=>v.name==='더힐파노라마').length,0);
+assert.equal(c.venues.filter(v=>v.aliases.includes('로운아뜨리움')).length,1);
+const html=fs.readFileSync('index.html','utf8');
+assert(html.indexOf('src="catalog.js"')<html.indexOf('src="script.js"'));
+assert(!fs.readFileSync('script.js','utf8').includes('原文'));
+assert.equal(c.venues.filter(v=>v.status==='official').length+ c.venues.filter(v=>v.status==='listed').length+c.venues.filter(v=>v.status==='pending').length+c.venues.filter(v=>v.status==='planned').length,c.venues.length);
+const result={checkedAt:c.checkedAt,pass:true,venues:c.venues.length,excluded:c.excluded.length,regions:c.regions.length,publicRows:18,statuses:Object.fromEntries(Object.keys(c.statusLabels).map(s=>[s,c.venues.filter(v=>v.status===s).length]))};
+fs.writeFileSync('research/verification.json',JSON.stringify(result,null,2));
+console.log(JSON.stringify(result,null,2));

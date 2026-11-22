@@ -1,0 +1,74 @@
+{
+  "id": "venue-055",
+  "name": "베뉴비안",
+  "officialWebsite": "http://www.venuevian.com/",
+  "photos": [
+    {
+      "imageUrl": "http://www.venuevian.com/skin/page_sample/default/img/2-02_1.jpg",
+      "sourcePage": "http://www.venuevian.com/skin/page/sapphirehall.html",
+      "alt": "...",
+      "hint": "",
+      "localPath": "public/photos/venue-055-1.jpg",
+      "width": 1920,
+      "height": 900,
+      "sha256": "1cb934204bc6730514ed3f9c25ae78d302239bbda3b881bcb3fad0f93dfc79af",
+      "bytes": 762894,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.venuevian.com/skin/page_sample/default/img/2-03_1.jpg",
+      "sourcePage": "http://www.venuevian.com/skin/page/sapphirehall.html",
+      "alt": "...",
+      "hint": "",
+      "localPath": "public/photos/venue-055-2.jpg",
+      "width": 1920,
+      "height": 900,
+      "sha256": "79eae9b07fa72d44803faab69a0e0f713ca54c661a4a351906ff8954d95aed53",
+      "bytes": 665696,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.venuevian.com/skin/page_sample/default/img/2-04_1.jpg",
+      "sourcePage": "http://www.venuevian.com/skin/page/sapphirehall.html",
+      "alt": "...",
+      "hint": "",
+      "localPath": "public/photos/venue-055-3.jpg",
+      "width": 1920,
+      "height": 900,
+      "sha256": "c578a74a0f946a425709fb7d93aec69fd0c88295939a278b739cc0cad277102d",
+      "bytes": 787108,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.venuevian.com/skin/page_sample/default/img/2-05_1.jpg",
+      "sourcePage": "http://www.venuevian.com/skin/page/sapphirehall.html",
+      "alt": "...",
+      "hint": "",
+      "localPath": "public/photos/venue-055-4.jpg",
+      "width": 1920,
+      "height": 900,
+      "sha256": "44ad39e0315bc88227c5568139a4a5693a0f62a7bbe9ed6934dcef2446681a10",
+      "bytes": 387385,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.venuevian.com/skin/page_sample/default/img/2-06_1.jpg",
+      "sourcePage": "http://www.venuevian.com/skin/page/sapphirehall.html",
+      "alt": "...",
+      "hint": "",
+      "localPath": "public/photos/venue-055-5.jpg",
+      "width": 1920,
+      "height": 900,
+      "sha256": "aacc41d98e9b61af3707de0e49d583059ac979accc54587c990bb1aa2620594c",
+      "bytes": 462651,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 47,
+  "errors": []
+}

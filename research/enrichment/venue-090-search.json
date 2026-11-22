@@ -1,0 +1,30 @@
+{
+  "id": "venue-090",
+  "name": "서울씨티클럽",
+  "query": "서울씨티클럽 영등포구 홈페이지 전화 주차",
+  "checkedAt": "2026-11-22",
+  "engines": {
+    "naver": {
+      "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%EC%94%A8%ED%8B%B0%ED%81%B4%EB%9F%BD%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    "google": {
+      "url": "https://www.google.com/search?q=%EC%84%9C%EC%9A%B8%EC%94%A8%ED%8B%B0%ED%81%B4%EB%9F%BD%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "javascript-required",
+      "httpStatus": 200,
+      "title": "Google Search",
+      "text": "Google Search Google 검색에 액세스하는 데 문제가 있으면 여기를 클릭 하거나 의견 을 보내 주세요.",
+      "links": [
+        {
+          "url": "https://www.google.com/httpservice/retry/enablejs?sei=npkCa5X_H6akvr0P7cL_2AY",
+          "title": "여기"
+        },
+        {
+          "url": "https://support.google.com/websearch",
+          "title": "의견"
+        }
+      ]
+    }
+  }
+}

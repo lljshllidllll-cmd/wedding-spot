@@ -1,0 +1,30 @@
+{
+  "id": "venue-075",
+  "name": "한국웨딩문화원",
+  "query": "한국웨딩문화원 은평구 홈페이지 전화 주차",
+  "checkedAt": "2026-11-22",
+  "engines": {
+    "naver": {
+      "url": "https://search.naver.com/search.naver?query=%ED%95%9C%EA%B5%AD%EC%9B%A8%EB%94%A9%EB%AC%B8%ED%99%94%EC%9B%90%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    "google": {
+      "url": "https://www.google.com/search?q=%ED%95%9C%EA%B5%AD%EC%9B%A8%EB%94%A9%EB%AC%B8%ED%99%94%EC%9B%90%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "javascript-required",
+      "httpStatus": 200,
+      "title": "Google Search",
+      "text": "Google Search Google 검색에 액세스하는 데 문제가 있으면 여기를 클릭 하거나 의견 을 보내 주세요.",
+      "links": [
+        {
+          "url": "https://www.google.com/httpservice/retry/enablejs?sei=nZkCa4z5KvGevr0Pqt2_iQY",
+          "title": "여기"
+        },
+        {
+          "url": "https://support.google.com/websearch",
+          "title": "의견"
+        }
+      ]
+    }
+  }
+}

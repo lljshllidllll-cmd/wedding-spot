@@ -1,0 +1,74 @@
+{
+  "id": "venue-115",
+  "name": "마곡광장 썬큰마당",
+  "officialWebsite": "https://wedding.seoulwomen.or.kr/facilities/758",
+  "photos": [
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2024/06/KakaoTalk_20240901_222232391-scaled.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/758",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-115-1.jpg",
+      "width": 2560,
+      "height": 1706,
+      "sha256": "4dfe5854594c447250c88b759b52c345fe8ce314fb956d19904291d45f3ca075",
+      "bytes": 307938,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2024/06/KakaoTalk_20240901_222355313.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/758",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-115-2.jpg",
+      "width": 1344,
+      "height": 896,
+      "sha256": "b10004ba1a7efb1d1911558b8d6247ec15bbca72ea80117de5f3bd65f2e7fbcb",
+      "bytes": 532876,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2024/06/KakaoTalk_20240901_221952496.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/758",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-115-3.jpg",
+      "width": 1496,
+      "height": 1496,
+      "sha256": "37951f13ec13803e83c9f7bb74e0877663ad83a47757007d2b37a7497e0c88c2",
+      "bytes": 1059988,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2024/06/KakaoTalk_20240901_221752653-1.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/758",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-115-4.jpg",
+      "width": 1496,
+      "height": 1496,
+      "sha256": "bacefd467c2424b46e8e93fc19b8709f166cb18969ec42bf428d4ba311aa55e1",
+      "bytes": 837562,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2024/06/KakaoTalk_20240901_221722975.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/758",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-115-5.jpg",
+      "width": 1344,
+      "height": 896,
+      "sha256": "d73d255ac53ec19bf2a2f4455eeb37bf36ef0da86205a7411c1a96b6f71592b9",
+      "bytes": 273983,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 5,
+  "errors": []
+}

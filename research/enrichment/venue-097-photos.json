@@ -1,0 +1,83 @@
+{
+  "id": "venue-097",
+  "name": "플로렌스 오목교점",
+  "officialWebsite": "https://www.onulin.co.kr/branches/omokgyo/",
+  "photos": [
+    {
+      "imageUrl": "https://www.onulin.co.kr/wp-content/uploads/2025/08/KakaoTalk_20260428_232934502_05-1-scaled.jpg",
+      "sourcePage": "https://www.onulin.co.kr/branches/omokgyo/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-097-1.jpg",
+      "width": 2560,
+      "height": 1819,
+      "sha256": "f3867845b53a63850e267fe128c54dfddde52edb16021b9035865e35ab613106",
+      "bytes": 427276,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.onulin.co.kr/wp-content/uploads/2025/08/KakaoTalk_20260109_111858104_19-2048x1536.jpg",
+      "sourcePage": "https://www.onulin.co.kr/branches/omokgyo/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-097-2.jpg",
+      "width": 2048,
+      "height": 1536,
+      "sha256": "80252604818c81be1e7cb404b2cc882b4585b910a2b37c7907f411c5948eaecb",
+      "bytes": 290505,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.onulin.co.kr/wp-content/uploads/2025/08/KakaoTalk_20260109_111858104_17-2048x1536.jpg",
+      "sourcePage": "https://www.onulin.co.kr/branches/omokgyo/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-097-3.jpg",
+      "width": 2048,
+      "height": 1536,
+      "sha256": "19b006cce6969a70f4789dacd1e4ba71e6c24c92b1e53195c5fec874de99ca22",
+      "bytes": 304240,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.onulin.co.kr/wp-content/uploads/2025/08/KakaoTalk_20260109_111858104_16-2048x1536.jpg",
+      "sourcePage": "https://www.onulin.co.kr/branches/omokgyo/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-097-4.jpg",
+      "width": 2048,
+      "height": 1536,
+      "sha256": "8765e72fe7905ad217303c59173206b368dcaacae166e918953d85263afd03bd",
+      "bytes": 289817,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.onulin.co.kr/wp-content/uploads/2025/08/KakaoTalk_20260109_111858104_04-2048x1536.jpg",
+      "sourcePage": "https://www.onulin.co.kr/branches/omokgyo/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-097-5.jpg",
+      "width": 2048,
+      "height": 1536,
+      "sha256": "d896808377887b199572c3e6c4e167f6e153819485233d974654de7518ef6107",
+      "bytes": 435462,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 59,
+  "errors": [
+    {
+      "url": "https://www.onulin.co.kr/branches/omokgyo/r",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.onulin.co.kr/tuning/r",
+      "error": "HTTP 404"
+    }
+  ]
+}

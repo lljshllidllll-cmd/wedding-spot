@@ -1,0 +1,74 @@
+{
+  "id": "venue-024",
+  "name": "포시즌어데이",
+  "officialWebsite": "https://www.fourseasonaday.com/",
+  "photos": [
+    {
+      "imageUrl": "https://lh3.googleusercontent.com/-PAjqNkBuqH0ln6tMOgHwRNVKNaMENv3PNxjBDchyoFlL-p1KWUmdhiIt0fLN_rjDpQMYubi81Msvv7eX4Pka1XHZXzaRcQ-9TP-p-H5PoLHkyLUNQQ1=s0?gpos=35.0000",
+      "sourcePage": "https://www.fourseasonaday.com/%ED%8F%AC%EC%8B%9C%EC%A6%8C-%EA%B0%A4%EB%9F%AC%EB%A6%AC",
+      "alt": "웨딩 풍경",
+      "hint": "official-linked-gallery",
+      "localPath": "public/photos/venue-024-1.jpg",
+      "width": 2384,
+      "height": 3000,
+      "sha256": "c1a623f42d68d344d9a15115bd827003f303ddf4362db20a8ba9996033fa8911",
+      "bytes": 6061136,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://lh3.googleusercontent.com/M-fhIJcPnemrfsrsXctaVaFG5XlWujdXhvCw2H7WA77IVpEi0sqe7J2J2kkPpuvmbpN0wu2g8GKU41YE-qIHJW3U1vhs0gQLsforaULRSsQP7xK-oMIvnCs=s0?gpos=65.0000",
+      "sourcePage": "https://www.fourseasonaday.com/%ED%8F%AC%EC%8B%9C%EC%A6%8C-%EA%B0%A4%EB%9F%AC%EB%A6%AC",
+      "alt": "웨딩 버진로드",
+      "hint": "official-linked-gallery",
+      "localPath": "public/photos/venue-024-2.jpg",
+      "width": 2400,
+      "height": 1347,
+      "sha256": "4bec56ec22ebcd75d15ea3047b5e4ac7a8de31e2c704fe97d5956d4e816fd962",
+      "bytes": 4311895,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://lh3.googleusercontent.com/vdQ47M3LK3HebXInDgkjiPmFY7NyWumC1tQ0wFDBTvOilhQHedsFMTEUCi-MB2QU2YLnM2lxwJDrC-4yHY_mveY98kgwkTWHRg5eO41Qkvx0tdgyv5XCWQ=s0?gpos=55.0000",
+      "sourcePage": "https://www.fourseasonaday.com/%ED%8F%AC%EC%8B%9C%EC%A6%8C-%EA%B0%A4%EB%9F%AC%EB%A6%AC",
+      "alt": "웨딩 아치 장식",
+      "hint": "official-linked-gallery",
+      "localPath": "public/photos/venue-024-3.jpg",
+      "width": 2400,
+      "height": 1671,
+      "sha256": "298429a2f8a5ac1eafefca96b713fa9da38da38bf6b05fbbeecd897c1d72f865",
+      "bytes": 3715056,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://lh3.googleusercontent.com/izYd5jJwI1mZG9Yf9xaDI63-HjBVxZT4vA_BmuYmUvC1aUqvMGTCapRT8jEnTqJTYGbhgiqcqj6dBM-rHiW07CagX7MgV_ZBTOexSgDx5dyQ2743LdGsgQ=s0?gpos=53.0000",
+      "sourcePage": "https://www.fourseasonaday.com/%ED%8F%AC%EC%8B%9C%EC%A6%8C-%EA%B0%A4%EB%9F%AC%EB%A6%AC",
+      "alt": "웨딩 식장 셋팅",
+      "hint": "official-linked-gallery",
+      "localPath": "public/photos/venue-024-4.jpg",
+      "width": 2400,
+      "height": 1490,
+      "sha256": "7b337671923f50efa6a272c5137a142e17bf30ee22ed250d40c5842ac3ca5247",
+      "bytes": 5037319,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://lh3.googleusercontent.com/gZx6jh-MGPTTp8cHzPA6IjQsgo7u1kNkVH-sYXRxt2rFPDXL0u5DsRjjwkCpKtDVQlImMBQbPod6BKUXW186g3JwPHFXMQSmHW3YE-s5wSdPZaIrklGj=s0?gpos=58.0000",
+      "sourcePage": "https://www.fourseasonaday.com/%ED%8F%AC%EC%8B%9C%EC%A6%8C-%EA%B0%A4%EB%9F%AC%EB%A6%AC",
+      "alt": "웨딩 버진로드",
+      "hint": "official-linked-gallery",
+      "localPath": "public/photos/venue-024-5.jpg",
+      "width": 2400,
+      "height": 1374,
+      "sha256": "1b48b0ccd705e86424435a8e8513fbc85f5ea528f807e625c561ee10102dd850",
+      "bytes": 6028738,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 136,
+  "errors": []
+}

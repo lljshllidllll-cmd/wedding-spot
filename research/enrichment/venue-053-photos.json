@@ -1,0 +1,74 @@
+{
+  "id": "venue-053",
+  "name": "웨딩여율리",
+  "officialWebsite": "https://www.yyrwed.com/",
+  "photos": [
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260520/881e674617ae2.png",
+      "sourcePage": "https://www.yyrwed.com/main/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-053-1.png",
+      "width": 1920,
+      "height": 2400,
+      "sha256": "e58d220d1a1dce7f2fd70c647fa9e289bf708522cd1d3846407095ef9bc3c2e7",
+      "bytes": 10204449,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260520/f2a403fc5f9e0.png",
+      "sourcePage": "https://www.yyrwed.com/main/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-053-2.png",
+      "width": 1920,
+      "height": 2400,
+      "sha256": "6f75a44b627b3eb2b6f3549e4f5879691d6bbbe8b9939d868647d821763c3a16",
+      "bytes": 9393151,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260520/e1a5e9f761bd8.png",
+      "sourcePage": "https://www.yyrwed.com/main/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-053-3.png",
+      "width": 1280,
+      "height": 1280,
+      "sha256": "628c487b92f0cbd2e0bf4c15ab1e97a06cf6a3d41c90394eb0447754260acad9",
+      "bytes": 4561265,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260520/fbd703305fd84.png",
+      "sourcePage": "https://www.yyrwed.com/main/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-053-4.png",
+      "width": 1280,
+      "height": 1280,
+      "sha256": "ecb7914c11c781bb3ecba088a66cc592270bc34122a69b6181884b0193c3817e",
+      "bytes": 3767326,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260520/3e64f89f117e2.png",
+      "sourcePage": "https://www.yyrwed.com/main/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-053-5.png",
+      "width": 1280,
+      "height": 640,
+      "sha256": "5101ed6f00d3bc6c0ecb24a57686a49b793adf510784b485bf9703c4085acda9",
+      "bytes": 1784680,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 120,
+  "errors": []
+}

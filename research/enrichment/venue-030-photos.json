@@ -1,0 +1,171 @@
+{
+  "id": "venue-030",
+  "name": "일루와유 달보루",
+  "officialWebsite": "https://www.ilwy.kr/space",
+  "photos": [
+    {
+      "imageUrl": "https://static.wixstatic.com/media/1ca1df_018e1b80aa5842d6b4ab5701447cef22~mv2_d_2000_1334_s_2.jpg",
+      "sourcePage": "https://www.ilwy.kr/space",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-030-1.jpg",
+      "width": 2000,
+      "height": 1334,
+      "sha256": "1f99d49b7e6fb2fb07ed424a961314721ec40134e203f9a259a36eac64fa04a5",
+      "bytes": 758715,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/1ca1df_4d317adc8f8445eb9eea2e358b5fb78a~mv2_d_2000_1334_s_2.jpg",
+      "sourcePage": "https://www.ilwy.kr/space",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-030-2.jpg",
+      "width": 2000,
+      "height": 1334,
+      "sha256": "8c7c1d859a06757f0dd232f87f57191423a967c6abe5582e44f888f9af4d09e9",
+      "bytes": 986646,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/1ca1df_ccdaa6544c1445a7af711d0220c0c961~mv2_d_2000_1334_s_2.jpg",
+      "sourcePage": "https://www.ilwy.kr/space",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-030-3.jpg",
+      "width": 2000,
+      "height": 1334,
+      "sha256": "92b02c25d272106de44c63ce98799a339f6821ecd20cd33b2a720a505227fc13",
+      "bytes": 948682,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/1ca1df_f0deae12cd964834be3423b0588e3f98~mv2_d_2000_1334_s_2.jpg",
+      "sourcePage": "https://www.ilwy.kr/space",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-030-4.jpg",
+      "width": 2000,
+      "height": 1334,
+      "sha256": "a4b1ba8cbc83a7c28e796f38ea3ed0e1eebd58998663d525f7b13f041f7e8cb6",
+      "bytes": 760321,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://static.wixstatic.com/media/1ca1df_e7816679cee74ea1865f9b2362bc07a2~mv2_d_2000_1334_s_2.jpg",
+      "sourcePage": "https://www.ilwy.kr/space",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-030-5.jpg",
+      "width": 2000,
+      "height": 1334,
+      "sha256": "421b4fbb01dcb37a42ffc9c8135e393b2aec844d2646ad0edbe9d7f0ab531505",
+      "bytes": 960397,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 81,
+  "errors": [
+    {
+      "url": "https://www.ilwy.kr/e",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/t",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://static.wixstatic.com/ufonts/1ca1df_69837b91576a446ca7db31c07475d601/ttf/file.ttf",
+      "error": "oversize"
+    },
+    {
+      "url": "https://static.wixstatic.com/ufonts/1ca1df_759bf68092da4c10853c69165475c5fc/ttf/file.ttf",
+      "error": "oversize"
+    },
+    {
+      "url": "https://www.ilwy.kr/$%7Bs.uri%7D",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/h_44",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/al_c",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/q_85",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/usm_0.66_1.00_0.01",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/enc_avif",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/quality_auto/%EC%9D%BC%EB%A3%A8%EC%99%80%EC%9C%A0%EB%8B%AC%EB%B3%B4%EB%A3%A8(long%20square%2Benglish%2Bgray).png",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/h_88",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/h_657",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/quality_auto/W_DSC8805-HDR.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/h_1314",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/q_90",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/h_658",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/quality_auto/W_DSC8709-HDR.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/h_1316",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/h_403",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/q_80",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/quality_auto/W_DSC8631-HDR.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/h_806",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.ilwy.kr/quality_auto/W_DSC8655-HDR.jpg",
+      "error": "HTTP 404"
+    }
+  ]
+}

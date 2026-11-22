@@ -1,0 +1,30 @@
+{
+  "id": "venue-060",
+  "name": "글래드 여의도",
+  "query": "글래드 여의도 영등포구 홈페이지 전화 주차",
+  "checkedAt": "2026-11-22",
+  "engines": {
+    "naver": {
+      "url": "https://search.naver.com/search.naver?query=%EA%B8%80%EB%9E%98%EB%93%9C%20%EC%97%AC%EC%9D%98%EB%8F%84%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    "google": {
+      "url": "https://www.google.com/search?q=%EA%B8%80%EB%9E%98%EB%93%9C%20%EC%97%AC%EC%9D%98%EB%8F%84%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "javascript-required",
+      "httpStatus": 200,
+      "title": "Google Search",
+      "text": "Google Search Google 검색에 액세스하는 데 문제가 있으면 여기를 클릭 하거나 의견 을 보내 주세요.",
+      "links": [
+        {
+          "url": "https://www.google.com/httpservice/retry/enablejs?sei=nJkCa_H5NLSV1e8P4MPO4Qk",
+          "title": "여기"
+        },
+        {
+          "url": "https://support.google.com/websearch",
+          "title": "의견"
+        }
+      ]
+    }
+  }
+}

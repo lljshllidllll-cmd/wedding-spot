@@ -1,0 +1,74 @@
+{
+  "id": "venue-064",
+  "name": "마리앤코 영등포역점",
+  "officialWebsite": "https://www.marieenco.co.kr/place/38",
+  "photos": [
+    {
+      "imageUrl": "https://marieenco.co.kr/upload/marieenco/1722419779980960.jpg",
+      "sourcePage": "https://marieenco.co.kr/place/38",
+      "alt": "마리앤코 마리앤코 영등포역점 웨딩홀 사진 2",
+      "hint": "position_relative display_inline_block left cover_img",
+      "localPath": "public/photos/venue-064-1.jpg",
+      "width": 4528,
+      "height": 3016,
+      "sha256": "5538250f9f3dbae61826694ed31aba62b9a588e3d5e6eee04ccb29b12455e231",
+      "bytes": 1137171,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://marieenco.co.kr/upload/marieenco/1722419953030750.jpg",
+      "sourcePage": "https://marieenco.co.kr/place/38",
+      "alt": "마리앤코 마리앤코 영등포역점 웨딩홀 사진 3",
+      "hint": "position_relative display_inline_block left cover_img",
+      "localPath": "public/photos/venue-064-2.jpg",
+      "width": 4528,
+      "height": 3016,
+      "sha256": "375a102c636c16e3dda2e1deb53cac62e6dae4b4dedf8bc83f89049c8dc258df",
+      "bytes": 880130,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://marieenco.co.kr/upload/marieenco/1722419961905946.jpg",
+      "sourcePage": "https://marieenco.co.kr/place/38",
+      "alt": "마리앤코 마리앤코 영등포역점 웨딩홀 사진 4",
+      "hint": "position_relative display_inline_block left cover_img",
+      "localPath": "public/photos/venue-064-3.jpg",
+      "width": 4528,
+      "height": 3016,
+      "sha256": "0a89e08441a68e27aee1e7828f4f32acfad34e3d75f9aa9a33099e461d820c77",
+      "bytes": 812775,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://marieenco.co.kr/upload/marieenco/1792224390502715.jpg",
+      "sourcePage": "https://marieenco.co.kr/place/38",
+      "alt": "마리앤코 마리앤코 영등포역점 웨딩홀 사진 5",
+      "hint": "position_relative display_inline_block left cover_img",
+      "localPath": "public/photos/venue-064-4.jpg",
+      "width": 1310,
+      "height": 873,
+      "sha256": "0287831ac2a1f52ca921957ccefae107a4ef35d422c4b2840ee9b82365ed5ddd",
+      "bytes": 210399,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://marieenco.co.kr/upload/marieenco/1792224408165023.jpg",
+      "sourcePage": "https://marieenco.co.kr/place/38",
+      "alt": "마리앤코 마리앤코 영등포역점 웨딩홀 사진 7",
+      "hint": "position_relative display_inline_block left cover_img",
+      "localPath": "public/photos/venue-064-5.jpg",
+      "width": 1205,
+      "height": 873,
+      "sha256": "c4834945effe0e14e8ec848c28731ad07f4c1bf2514636c986dfcc8b890e93a3",
+      "bytes": 275096,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 94,
+  "errors": []
+}

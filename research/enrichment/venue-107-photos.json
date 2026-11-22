@@ -1,0 +1,74 @@
+{
+  "id": "venue-107",
+  "name": "월드컵공원 새록결혼식",
+  "officialWebsite": "https://wedding.seoulwomen.or.kr/facilities/3206",
+  "photos": [
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EA%B2%8C%EC%8B%9C.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3206",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-107-1.jpg",
+      "width": 1496,
+      "height": 1496,
+      "sha256": "da16a2755b397e007dfddeecf0558346f4a1a2279870f83f5f0b1edf4510e04b",
+      "bytes": 513325,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EA%B2%8C%EC%8B%9C2.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3206",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-107-2.jpg",
+      "width": 1050,
+      "height": 1400,
+      "sha256": "8d9b82e81a85c1801c577cccee24a456931c490aff7b0ef022d9d8a4ffd01aab",
+      "bytes": 320623,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EA%B2%8C%EC%8B%9C3.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3206",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-107-3.jpg",
+      "width": 811,
+      "height": 1440,
+      "sha256": "0331f28f98d9ec4ef499b12bd241073510176dc9ea1eba7b3d85e8bd1b2aa175",
+      "bytes": 223085,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EC%83%88%EB%A1%9D%EA%B2%B0%ED%98%BC%EC%8B%9D%EC%9E%A5.jpeg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3206",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-107-4.jpg",
+      "width": 1092,
+      "height": 1456,
+      "sha256": "b940d69bef84d8b218a74e4d5ad9de64d959100b72318ddc7dfcb148b4d443bb",
+      "bytes": 209111,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/KakaoTalk_20251206_143125627.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3206",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-107-5.jpg",
+      "width": 1400,
+      "height": 1050,
+      "sha256": "39f02430bcbf3c06086faa55ff7d9ef2784f20b5ae4aa90ba73720e921367280",
+      "bytes": 280428,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 6,
+  "errors": []
+}

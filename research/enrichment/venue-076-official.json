@@ -1,0 +1,13 @@
+{
+  "id": "venue-076",
+  "name": "향림도시농업체험원",
+  "website": "https://www.syteam.kr/",
+  "checkedAt": "2026-11-22",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://www.syteam.kr/",
+      "error": "fetch failed"
+    }
+  ]
+}

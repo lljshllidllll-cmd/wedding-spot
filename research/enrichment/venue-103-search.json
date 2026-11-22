@@ -1,0 +1,30 @@
+{
+  "id": "venue-103",
+  "name": "서울수상레포츠센터 루프탑 웨딩홀",
+  "query": "서울수상레포츠센터 루프탑 웨딩홀 마포구 홈페이지 전화 주차",
+  "checkedAt": "2026-11-22",
+  "engines": {
+    "naver": {
+      "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%EC%88%98%EC%83%81%EB%A0%88%ED%8F%AC%EC%B8%A0%EC%84%BC%ED%84%B0%20%EB%A3%A8%ED%94%84%ED%83%91%20%EC%9B%A8%EB%94%A9%ED%99%80%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    "google": {
+      "url": "https://www.google.com/search?q=%EC%84%9C%EC%9A%B8%EC%88%98%EC%83%81%EB%A0%88%ED%8F%AC%EC%B8%A0%EC%84%BC%ED%84%B0%20%EB%A3%A8%ED%94%84%ED%83%91%20%EC%9B%A8%EB%94%A9%ED%99%80%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+      "status": "javascript-required",
+      "httpStatus": 200,
+      "title": "Google Search",
+      "text": "Google Search Google 검색에 액세스하는 데 문제가 있으면 여기를 클릭 하거나 의견 을 보내 주세요.",
+      "links": [
+        {
+          "url": "https://www.google.com/httpservice/retry/enablejs?sei=n5kCa9WaFqS-vr0Pie3s6Qg",
+          "title": "여기"
+        },
+        {
+          "url": "https://support.google.com/websearch",
+          "title": "의견"
+        }
+      ]
+    }
+  }
+}

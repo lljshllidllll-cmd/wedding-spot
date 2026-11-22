@@ -1,0 +1,35 @@
+{
+  "id": "venue-060",
+  "name": "글래드 여의도",
+  "officialWebsite": "https://www.glad-hotels.com/yeouido/wedding/wedding.do",
+  "photos": [
+    {
+      "imageUrl": "https://www.glad-hotels.com/revolution/content/fileImage.do?fileId=673975&cntntsSn=59",
+      "sourcePage": "https://www.glad-hotels.com/hub/wedding/weddingList.do",
+      "alt": "",
+      "hint": "image-objet-500x700",
+      "localPath": "public/photos/venue-060-1.jpg",
+      "width": 570,
+      "height": 760,
+      "sha256": "7ce17ec1ec7afb4fd76c0663627b619a5607d73447d4b53306db003b2895ab8a",
+      "bytes": 241341,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.calt.co.kr/images/common/6103_time.png",
+      "sourcePage": "https://www.glad-hotels.com/gangnamcoex/hotel/location.do",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-060-2.png",
+      "width": 3315,
+      "height": 5847,
+      "sha256": "6de3f13ec7d318f97c091dbbb9bad9f3c6b5c76dab944fa533a56d3c9cae79ff",
+      "bytes": 832219,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 3,
+  "errors": []
+}

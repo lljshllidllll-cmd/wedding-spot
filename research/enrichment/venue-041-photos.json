@@ -1,0 +1,74 @@
+{
+  "id": "venue-041",
+  "name": "키나웨딩홀",
+  "officialWebsite": "https://www.kinaflower.com/",
+  "photos": [
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260720/1bc1a5ba96769.png",
+      "sourcePage": "https://www.kinaflower.com/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-041-1.png",
+      "width": 1080,
+      "height": 1350,
+      "sha256": "63797518594f0be383b2657869e2a1da528d15f92d6a0961b82b958579fdd169",
+      "bytes": 1711153,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260629/4344ac0a1d47d.png",
+      "sourcePage": "https://www.kinaflower.com/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-041-2.png",
+      "width": 960,
+      "height": 1200,
+      "sha256": "1ec0a5287948f5b63bcf1b4e0c84ba0763dfaa2bd9f5d234ee512fa8cf20071b",
+      "bytes": 1508033,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn-optimized.imweb.me/upload/S2026060687f2a8bf6a1fb/a8c326d08cb4e.png?w=800%22}",
+      "sourcePage": "https://www.kinaflower.com/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-041-3.png",
+      "width": 3000,
+      "height": 3000,
+      "sha256": "801c24ffe80bc0ec37ef8eee990b68d2229c20346538034f725bc8193a995676",
+      "bytes": 2828174,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn-optimized.imweb.me/upload/S2026060687f2a8bf6a1fb/240d6335ad359.png?w=800%22}",
+      "sourcePage": "https://www.kinaflower.com/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-041-4.png",
+      "width": 3000,
+      "height": 3000,
+      "sha256": "52b220bc9d962de7530e35c2f8f9d3de0453bf8f27a79ddc768c9df9fead20df",
+      "bytes": 10584312,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/upload/S2026060687f2a8bf6a1fb/27ea64fa5dd0e.png",
+      "sourcePage": "https://www.kinaflower.com/VENUE",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-041-5.png",
+      "width": 668,
+      "height": 384,
+      "sha256": "5adfabbb411d54e2c8b2457daff2331b5ed5ebdaf750fcc66b203512b29be17d",
+      "bytes": 16307,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 102,
+  "errors": []
+}

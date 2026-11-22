@@ -1,0 +1,35 @@
+{
+  "id": "venue-101",
+  "name": "여의도 루프탑 웨딩홀",
+  "officialWebsite": "https://wedding.seoulwomen.or.kr/facilities/3194",
+  "photos": [
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/36.%EC%97%AC%EC%9D%98%EB%8F%84%EB%A3%A8%ED%94%84%ED%83%91%EC%9B%A8%EB%94%A9%ED%99%80.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3194",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-101-1.jpg",
+      "width": 1411,
+      "height": 1058,
+      "sha256": "3953ae92e731edf45d311e737a1dfdac635ae9544a6b495d8f12f08987ebd9e7",
+      "bytes": 110585,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/KakaoTalk_20250804_173348018_01-scaled.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3194",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-101-2.jpg",
+      "width": 2560,
+      "height": 1408,
+      "sha256": "87aba4385cd09fec199b8b18c7e2fd16971a808b634aed5f391c9d5b1f156453",
+      "bytes": 314544,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 2,
+  "errors": []
+}

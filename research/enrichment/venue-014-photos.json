@@ -1,0 +1,79 @@
+{
+  "id": "venue-014",
+  "name": "더컨벤션 영등포",
+  "officialWebsite": "https://ydp.theconvention.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://cdn.imweb.me/upload/S20250624dfb00b4428953/96d19461ee1d9.jpeg",
+      "sourcePage": "https://ydp.theconvention.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-014-1.jpg",
+      "width": 2048,
+      "height": 1366,
+      "sha256": "d65e0a3156e74d1dfee836290eaa3dd8fd87e7f35655f9c50c4b03d79b5c0555",
+      "bytes": 210365,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/upload/S20250624dfb00b4428953/8e55caf4d5645.jpeg",
+      "sourcePage": "https://ydp.theconvention.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-014-2.jpg",
+      "width": 2048,
+      "height": 1366,
+      "sha256": "e6f05833f135580c96839c4f43a61645b523f8d60d6d6d9b9725be4b1cebf12e",
+      "bytes": 507768,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/upload/S20250624dfb00b4428953/9a18b3d77482f.jpeg",
+      "sourcePage": "https://ydp.theconvention.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-014-3.jpg",
+      "width": 2048,
+      "height": 1366,
+      "sha256": "86f3520d005c20a1a50cf4aedc4eb8db3b418a681c7858c6556ffa8b0fd8bb7d",
+      "bytes": 503889,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20250703/5ae19cda69d16.png",
+      "sourcePage": "https://ydp.theconvention.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-014-4.png",
+      "width": 1920,
+      "height": 1281,
+      "sha256": "e39d925d96b792644a8e5812107ad88713d6d6ba93529a83b4486f173b8e4803",
+      "bytes": 3350150,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20250709/2a14aa193dbe8.png",
+      "sourcePage": "https://ydp.theconvention.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-014-5.png",
+      "width": 1920,
+      "height": 1281,
+      "sha256": "dcbae27984dc8f21678538c65faac6b7bafd1f5e67a0217f74bce3fab07531b5",
+      "bytes": 3673895,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 40,
+  "errors": [
+    {
+      "url": "https://cdn.imweb.me/upload/S20250624dfb00b4428953/dd7f2dabeb4eb.jpg",
+      "error": "oversize"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "venue-035",
+  "name": "서울가든호텔",
+  "officialWebsite": "https://www.seoulgarden.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://www.seoulgarden.co.kr/SeoulGarden_common/images/homepage/wedding/wedding01.jpg",
+      "sourcePage": "https://www.seoulgarden.co.kr/view/viewLink.do?page=homepage/KOR/facilities/wedding",
+      "alt": "웨딩 (Wedding)",
+      "hint": "",
+      "localPath": "public/photos/venue-035-1.jpg",
+      "width": 1200,
+      "height": 570,
+      "sha256": "77678ac2c7c2b1edd1ab1c3a51203696d0d03a13733edf58ef30a75cad56abef",
+      "bytes": 348574,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.seoulgarden.co.kr/SeoulGarden_common/images/homepage/wedding/wedding02.jpg",
+      "sourcePage": "https://www.seoulgarden.co.kr/view/viewLink.do?page=homepage/KOR/facilities/wedding",
+      "alt": "웨딩 (Wedding)",
+      "hint": "",
+      "localPath": "public/photos/venue-035-2.jpg",
+      "width": 1200,
+      "height": 570,
+      "sha256": "de996f033fccc67ba3e1b6dbbb81e92bf942f7c57007315877b9b6678d45e919",
+      "bytes": 333588,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.seoulgarden.co.kr/SeoulGarden_common/images/homepage/wedding/wedding03.jpg",
+      "sourcePage": "https://www.seoulgarden.co.kr/view/viewLink.do?page=homepage/KOR/facilities/wedding",
+      "alt": "웨딩 (Wedding)",
+      "hint": "",
+      "localPath": "public/photos/venue-035-3.jpg",
+      "width": 1200,
+      "height": 570,
+      "sha256": "4cbc9e259e7926b670229c7b939854a06369f7bc0fc90b85c13aeef734c85381",
+      "bytes": 249077,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.seoulgarden.co.kr/SeoulGarden_common/images/homepage/wedding/wedding05.jpg",
+      "sourcePage": "https://www.seoulgarden.co.kr/view/viewLink.do?page=homepage/KOR/facilities/wedding",
+      "alt": "웨딩 (Wedding)",
+      "hint": "",
+      "localPath": "public/photos/venue-035-4.jpg",
+      "width": 1200,
+      "height": 570,
+      "sha256": "f88fcfa2e28978bdb5cc934b46c58618be56c371c2be7a4fe9fe7e9d4bf8b663",
+      "bytes": 468895,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.seoulgarden.co.kr/SeoulGarden_common/images/homepage/wedding/wedding06.jpg",
+      "sourcePage": "https://www.seoulgarden.co.kr/view/viewLink.do?page=homepage/KOR/facilities/wedding",
+      "alt": "웨딩 (Wedding)",
+      "hint": "",
+      "localPath": "public/photos/venue-035-5.jpg",
+      "width": 1200,
+      "height": 570,
+      "sha256": "ea890582594d91658d6784d35e580ff00b2e310d475f97be74de078b6b3823e7",
+      "bytes": 109990,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 14,
+  "errors": []
+}

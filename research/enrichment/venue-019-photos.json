@@ -1,0 +1,74 @@
+{
+  "id": "venue-019",
+  "name": "천년컨벤션웨딩홀",
+  "officialWebsite": "http://m.cnilsan.com/",
+  "photos": [
+    {
+      "imageUrl": "http://m.cnilsan.com/img_up/shop_pds/cnilsan/build/option/2-1.-me-in-pe-i-ji--mi-hol1754627489.jpg",
+      "sourcePage": "http://m.cnilsan.com/",
+      "alt": "Mielle Hall",
+      "hint": "",
+      "localPath": "public/photos/venue-019-1.jpg",
+      "width": 1000,
+      "height": 1500,
+      "sha256": "8bb35cfac9eef90d87028f2dab9b3d2520bcdf29b04e25790cdfe65c6301b2d9",
+      "bytes": 1770519,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://m.cnilsan.com/img_up/shop_pds/cnilsan/build/option/2-2.-me-in-pe-i-ji--geu-ri-da-hol1754627508.jpg",
+      "sourcePage": "http://m.cnilsan.com/",
+      "alt": "Grida Hall",
+      "hint": "",
+      "localPath": "public/photos/venue-019-2.jpg",
+      "width": 590,
+      "height": 472,
+      "sha256": "4c3b6038b5695e047a3c4d9c98c541cacc429a8a1fb0f87cb76bdea0740cb07c",
+      "bytes": 270443,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://m.cnilsan.com/img_up/shop_pds/cnilsan/build/block_set/me-in-hwa-myeon-baek-geu-ra-un-deu1678754554.jpg",
+      "sourcePage": "http://m.cnilsan.com/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-019-3.jpg",
+      "width": 1920,
+      "height": 761,
+      "sha256": "ca9f1f129023975dbc8b7389aa877d5ff86fc88b16dfd4ec8942113838729e20",
+      "bytes": 711034,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://m.cnilsan.com/img_up/shop_pds/cnilsan/build/option/lounge51777601521.jpg",
+      "sourcePage": "http://m.cnilsan.com/",
+      "alt": "Lounge",
+      "hint": "",
+      "localPath": "public/photos/venue-019-4.jpg",
+      "width": 1873,
+      "height": 1249,
+      "sha256": "fcda2dc893cd0788bb4aba993731f993ff3e64db1cc97f53b6a31388df4ca53d",
+      "bytes": 1073141,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://m.cnilsan.com/img_up/shop_pds/cnilsan/build/option/dressroommobile1677815196.jpg",
+      "sourcePage": "http://m.cnilsan.com/",
+      "alt": "Dress Room",
+      "hint": "",
+      "localPath": "public/photos/venue-019-5.jpg",
+      "width": 668,
+      "height": 344,
+      "sha256": "c3de9daaf9693438d8291dd391366d8012155f2d9fa1d0e31e44ef68df6f2b96",
+      "bytes": 113964,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 35,
+  "errors": []
+}

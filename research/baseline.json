@@ -1,0 +1,307 @@
+{
+  "regions": [
+    {
+      "id": "ilsan-west",
+      "name": "일산서구",
+      "area": "경기도 고양시",
+      "note": "탄현·킨텍스 일대"
+    },
+    {
+      "id": "ilsan-east",
+      "name": "일산동구",
+      "area": "경기도 고양시",
+      "note": "장항·백석 일대"
+    },
+    {
+      "id": "deogyang",
+      "name": "덕양구",
+      "area": "경기도 고양시",
+      "note": "벽제·화정 일대"
+    },
+    {
+      "id": "eunpyeong",
+      "name": "은평구",
+      "area": "서울특별시",
+      "note": "한옥마을·수색 일대"
+    },
+    {
+      "id": "mapo",
+      "name": "마포구",
+      "area": "서울특별시",
+      "note": "상암·합정 일대"
+    },
+    {
+      "id": "seodaemun",
+      "name": "서대문구",
+      "area": "서울특별시",
+      "note": "충정로·연희 일대"
+    },
+    {
+      "id": "gangseo",
+      "name": "강서구",
+      "area": "서울특별시",
+      "note": "마곡·발산 일대"
+    },
+    {
+      "id": "yangcheon",
+      "name": "양천구",
+      "area": "서울특별시",
+      "note": "목동 일대"
+    },
+    {
+      "id": "yeongdeungpo",
+      "name": "영등포구",
+      "area": "서울특별시",
+      "note": "영등포·여의도 일대"
+    }
+  ],
+  "venues": [
+    {
+      "region": "ilsan-west",
+      "name": "더블유페스타 일산점",
+      "type": "컨벤션",
+      "address": "경기 고양시 일산서구 일현로 97-11, 두산위브더제니스 B2·B4",
+      "phone": "031-919-1100",
+      "parking": "약 500대 · 상가 지하 2층",
+      "website": "https://www.wfesta.com/",
+      "source": "https://www.wfesta.com/about/"
+    },
+    {
+      "region": "ilsan-west",
+      "name": "그래머시 킨텍스",
+      "type": "컨벤션",
+      "address": "경기 고양시 일산서구 킨텍스로 217-60, 킨텍스 제1전시장 1층",
+      "phone": "031-995-8700",
+      "parking": "킨텍스 전시장 주차장 · 대수·요금 확인 필요",
+      "website": null,
+      "source": "https://www.kintex.com/download/formatModal/Meeting%20Organizer%20Manual.pdf"
+    },
+    {
+      "region": "ilsan-east",
+      "name": "소노캄 고양",
+      "type": "호텔",
+      "address": "경기 고양시 일산동구 태극로 20",
+      "phone": "031-927-7720",
+      "parking": "호텔 무료 주차장 · 대수 확인 필요",
+      "website": "https://www.sonohotelsresorts.com/calm_gy/wedding",
+      "source": "https://www.sonohotelsresorts.com/calm_gy/wedding"
+    },
+    {
+      "region": "ilsan-east",
+      "name": "웨스턴빌리프",
+      "type": "하우스",
+      "address": "경기 고양시 일산동구 정발산로 24, 웨스턴타워 3차 9층",
+      "phone": "031-815-8588",
+      "parking": "주차 대수·요금 확인 필요",
+      "website": null,
+      "source": "https://www.weddingo.kr/wedding-hall"
+    },
+    {
+      "region": "deogyang",
+      "name": "라비앙루미",
+      "type": "하우스",
+      "address": "경기 고양시 덕양구 호국로1873번길 28",
+      "phone": "031-969-2226",
+      "parking": "현장 주차 가능 · 대수·요금 확인 필요",
+      "website": "https://www.lavieenlumi.co.kr/About",
+      "source": "https://www.lavieenlumi.co.kr/About"
+    },
+    {
+      "region": "deogyang",
+      "name": "베네치아웨딩부페",
+      "type": "컨벤션",
+      "address": "경기 고양시 덕양구 화신로272번길 58, 영프라자빌딩",
+      "phone": "031-971-3000",
+      "parking": "약 1,000대 · 이용 조건 확인 필요",
+      "website": null,
+      "source": "https://audi-design.co.kr/wedding/halls/04e22575"
+    },
+    {
+      "region": "eunpyeong",
+      "name": "은평역사한옥박물관 은평마당",
+      "type": "공공 예식",
+      "address": "서울 은평구 연서로50길 8",
+      "phone": "1899-2154",
+      "parking": "도보 약 5분 공영주차장 이용",
+      "website": "https://wedding.seoulwomen.or.kr/facilities/1519",
+      "source": "https://wedding.seoulwomen.or.kr/facilities/1519"
+    },
+    {
+      "region": "eunpyeong",
+      "name": "서울문화예술교육센터 은평",
+      "type": "공공 예식",
+      "address": "서울 은평구 수색로 322-2, 1층 블랙박스공연장",
+      "phone": "1899-2154",
+      "parking": "주차 불가",
+      "website": "https://wedding.seoulwomen.or.kr/facilities/3213",
+      "source": "https://wedding.seoulwomen.or.kr/facilities/3213"
+    },
+    {
+      "region": "mapo",
+      "name": "DMC타워웨딩",
+      "type": "컨벤션",
+      "address": "서울 마포구 성암로 189, 중소기업DMC타워 2층",
+      "phone": "1899-1221",
+      "parking": "건물·인근 주차장 이용 · 대수 확인 필요",
+      "website": "https://www.dmcwedding.co.kr/",
+      "source": "https://www.dmcwedding.co.kr/location/"
+    },
+    {
+      "region": "mapo",
+      "name": "웨딩시그니처",
+      "type": "컨벤션",
+      "address": "서울 마포구 양화로 87",
+      "phone": "02-335-5400",
+      "parking": "주차 대수·요금 확인 필요",
+      "website": "https://signatureconvention.com/",
+      "source": "https://signatureconvention.com/"
+    },
+    {
+      "region": "mapo",
+      "name": "서교생활문화센터 서교스퀘어",
+      "type": "공공 예식",
+      "address": "서울 마포구 양화로 72, 지하 1·2층",
+      "phone": "1899-2154",
+      "parking": "461대 · 유료",
+      "website": "https://wedding.seoulwomen.or.kr/facilities/3210",
+      "source": "https://wedding.seoulwomen.or.kr/facilities/3210"
+    },
+    {
+      "region": "seodaemun",
+      "name": "청년예술청 SAPY",
+      "type": "공공 예식",
+      "address": "서울 서대문구 경기대로 26-26, 지하 2층 그레이룸",
+      "phone": "1899-2154",
+      "parking": "주차 불가",
+      "website": "https://wedding.seoulwomen.or.kr/facilities/3211",
+      "source": "https://wedding.seoulwomen.or.kr/facilities/3211"
+    },
+    {
+      "region": "seodaemun",
+      "name": "서대문 안산 잔디마당",
+      "type": "공공 예식",
+      "address": "서울 서대문구 연희로32길 134",
+      "phone": "1899-2154",
+      "parking": "주차 불가",
+      "website": "https://wedding.seoulwomen.or.kr/facilities/3203",
+      "source": "https://wedding.seoulwomen.or.kr/facilities/3203"
+    },
+    {
+      "region": "gangseo",
+      "name": "보타닉파크웨딩",
+      "type": "컨벤션",
+      "address": "서울 강서구 마곡중앙5로 6, 마곡나루역보타닉푸르지오시티",
+      "phone": null,
+      "parking": "주차 대수·요금 확인 필요",
+      "website": "https://botanicparkwedding.com/",
+      "source": "https://botanicparkwedding.com/"
+    },
+    {
+      "region": "gangseo",
+      "name": "더베뉴지서울",
+      "type": "컨벤션",
+      "address": "서울 강서구 강서로 388",
+      "phone": null,
+      "parking": "주차 대수·요금 확인 필요",
+      "website": "https://venueg.co.kr/",
+      "source": "https://venueg.co.kr/"
+    },
+    {
+      "region": "gangseo",
+      "name": "메이필드호텔 서울",
+      "type": "호텔",
+      "address": "서울 강서구 방화대로 94",
+      "phone": "02-2660-9200",
+      "parking": "호텔 주차장 · 대수·이용 조건 확인 필요",
+      "website": "https://mayfield.co.kr/wedding/grand.html",
+      "source": "https://mayfield.co.kr/wedding/grand.html"
+    },
+    {
+      "region": "yangcheon",
+      "name": "로프트가든344",
+      "type": "하우스",
+      "address": "서울 양천구 오목로 344, 청학빌딩",
+      "phone": "02-2644-7823",
+      "parking": "전용·공영주차장 합계 약 800대",
+      "website": "https://www.loftgarden344.com/",
+      "source": "https://www.loftgarden344.com/_files/ugd/898cdd_465f365bdda9492d9cdf2ba031fece43.pdf"
+    },
+    {
+      "region": "yeongdeungpo",
+      "name": "웨딩그룹위더스 영등포",
+      "type": "컨벤션",
+      "address": "서울 영등포구 영중로 55",
+      "phone": "02-6418-3000",
+      "parking": "건물 지하 1~8층 · 대수 확인 필요",
+      "website": "https://withus.kr/",
+      "source": "https://www.withus.kr/wedding/"
+    },
+    {
+      "region": "yeongdeungpo",
+      "name": "더컨벤션 영등포",
+      "type": "컨벤션",
+      "address": "서울 영등포구 국회대로38길 2",
+      "phone": "02-6426-5000",
+      "parking": "지하 1·2층 및 맞은편 공영주차장",
+      "website": "https://ydp.theconvention.co.kr/",
+      "source": "https://ydp.theconvention.co.kr/"
+    },
+    {
+      "region": "yeongdeungpo",
+      "name": "그랜드컨벤션센터",
+      "type": "컨벤션",
+      "address": "서울 영등포구 양평로 58",
+      "phone": "02-3667-9000",
+      "parking": "본관 200대·이레빌딩 450대",
+      "website": "https://www.grandconvention.co.kr/",
+      "source": "https://www.grandconvention.co.kr/guide/checkList/default.asp"
+    },
+    {
+      "region": "yeongdeungpo",
+      "name": "여의도웨딩컨벤션",
+      "type": "컨벤션",
+      "address": "서울 영등포구 여의대로 14, KT빌딩",
+      "phone": null,
+      "parking": "주차 가능 · 대수·요금 확인 필요",
+      "website": "https://ywedding.co.kr/",
+      "source": "https://ywedding.co.kr/"
+    },
+    {
+      "region": "yeongdeungpo",
+      "name": "영중종합사회복지관",
+      "type": "공공 예식",
+      "address": "서울 영등포구 양산로 232, 5층 체육관",
+      "phone": "1899-2154",
+      "parking": "64대 · 유료",
+      "website": "https://wedding.seoulwomen.or.kr/facilities/3215",
+      "source": "https://wedding.seoulwomen.or.kr/facilities/3215"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "연세대학교 동문회관",
+      "address": "서울 서대문구 연세로 50",
+      "reason": "대학 운영 동문회관"
+    },
+    {
+      "name": "이룸웨딩컨벤션",
+      "address": "서울 마포구 마포대로 78, 경찰공제회 자람빌딩",
+      "reason": "기관 공제회 건물 예식장"
+    },
+    {
+      "name": "더파티움 여의도",
+      "address": "서울 영등포구 은행로 30, 중소기업중앙회관",
+      "reason": "기관 회관 건물 예식장"
+    },
+    {
+      "name": "공군호텔 웨딩홀",
+      "address": "서울 영등포구 여의대방로 259",
+      "reason": "군 관련 회관·호텔"
+    },
+    {
+      "name": "해군호텔 W웨딩홀",
+      "address": "서울 영등포구 가마산로 538",
+      "reason": "군 관련 회관·호텔"
+    }
+  ]
+}

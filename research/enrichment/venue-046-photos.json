@@ -1,0 +1,74 @@
+{
+  "id": "venue-046",
+  "name": "JK블라썸호텔",
+  "officialWebsite": "http://www.jkblossom.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "http://www.jkblossom.co.kr/assets/images/space/wedding/wedding1.png",
+      "sourcePage": "http://www.jkblossom.co.kr/space/wedding.php",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-046-1.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9a2430732dff61d1e5276b42142e5b17b8cb76bd1d51c38d0d5f0ad57170561d",
+      "bytes": 3141493,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.jkblossom.co.kr/assets/images/space/wedding/wedding4.png",
+      "sourcePage": "http://www.jkblossom.co.kr/space/wedding.php",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-046-2.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "76ca533b34e0647d50c17a7e2e3db330552faab89eec0eaf4372168422a2fa80",
+      "bytes": 3408237,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.jkblossom.co.kr/assets/images/space/wedding/wedding5.jpg",
+      "sourcePage": "http://www.jkblossom.co.kr/space/wedding.php",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-046-3.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "cf9400aa5305b00efdf86a3034f6f235adb8184b142b5274472601aec9c0a86a",
+      "bytes": 1469242,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.jkblossom.co.kr/assets/images/space/wedding/wedding6.jpg",
+      "sourcePage": "http://www.jkblossom.co.kr/space/wedding.php",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-046-4.jpg",
+      "width": 1920,
+      "height": 1081,
+      "sha256": "c61751db22bfffbb47ec9ff4e501cfe21a409c1fc5d2e4039267a14bc7415ed5",
+      "bytes": 1635120,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "http://www.jkblossom.co.kr/assets/images/space/wedding/Rectangle%2069.png",
+      "sourcePage": "http://www.jkblossom.co.kr/space/wedding.php",
+      "alt": "",
+      "hint": "",
+      "localPath": "public/photos/venue-046-5.png",
+      "width": 660,
+      "height": 400,
+      "sha256": "d05560f605e1cb52a9fa3fcc295361861abea7102441a508d138482757901617",
+      "bytes": 496350,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 30,
+  "errors": []
+}

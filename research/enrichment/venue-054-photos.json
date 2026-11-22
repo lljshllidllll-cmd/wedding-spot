@@ -1,0 +1,74 @@
+{
+  "id": "venue-054",
+  "name": "웨스턴베니비스 영등포",
+  "officialWebsite": "https://ydp.thebennevis.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://cdn.imweb.me/upload/S2025052214c4cccd1e0e4/aae6af1f32e63.png",
+      "sourcePage": "https://ydp.thebennevis.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-054-1.png",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "c773dbb97f3e6f64ea949fadd54a7e7ec4c603d62435d1600f436c736a8d3223",
+      "bytes": 6105968,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/upload/S2025052214c4cccd1e0e4/2eb21d0df2b7c.png",
+      "sourcePage": "https://ydp.thebennevis.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-054-2.png",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "f24a68afa74fe061d78340f2272128d791a6746fe36d6e7f3d1f885e2b3c0f41",
+      "bytes": 6826302,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/upload/S2025052214c4cccd1e0e4/98d3eb3156e46.png",
+      "sourcePage": "https://ydp.thebennevis.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-054-3.png",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "00ccef3374c3b22ff6192360cb6c4883ed20a00e62c0ae5888cf127f30e1b979",
+      "bytes": 5330242,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/upload/S2025052214c4cccd1e0e4/ff49b6d01872c.png",
+      "sourcePage": "https://ydp.thebennevis.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-054-4.png",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "e6208b88afaaa34007ef4992583762d11b6d2e2e00dd00d4495c6f6800b9bd41",
+      "bytes": 6366924,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/upload/S2025052214c4cccd1e0e4/11d2975dfba17.png",
+      "sourcePage": "https://ydp.thebennevis.co.kr/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-054-5.png",
+      "width": 2048,
+      "height": 2048,
+      "sha256": "c8b9b32d90f1396714b524f65b915433318532d39d275c8dac787c7a930e5a1d",
+      "bytes": 5594083,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 54,
+  "errors": []
+}

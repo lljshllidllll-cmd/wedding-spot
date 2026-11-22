@@ -1,0 +1,74 @@
+{
+  "id": "venue-032",
+  "name": "아펠가모 공덕",
+  "officialWebsite": "https://apelgamo.com/home/wedding5",
+  "photos": [
+    {
+      "alt": "photo-0",
+      "height": 1080,
+      "hint": "browser-dom",
+      "imageUrl": "https://d1b8ovf9vuwu72.cloudfront.net/public/images/wedding5_1/carousel/gongdeok/AP_gongdeok_larobe_weddinghall_01.jpg",
+      "width": 1619,
+      "sourcePage": "https://apelgamo.com/home/wedding5",
+      "localPath": "public/photos/venue-032-1.jpg",
+      "sha256": "a04bc91556af77d4ef2b8e8a7dff0a4b36aa3536bb366af62d6abdf06366c26c",
+      "bytes": 618913,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "alt": "photo-1",
+      "height": 1080,
+      "hint": "browser-dom",
+      "imageUrl": "https://d1b8ovf9vuwu72.cloudfront.net/public/images/wedding5_1/carousel/gongdeok/AP_gongdeok_larobe_weddinghall_02.jpg",
+      "width": 1619,
+      "sourcePage": "https://apelgamo.com/home/wedding5",
+      "localPath": "public/photos/venue-032-2.jpg",
+      "sha256": "86942e64874325a7a0b95cb53b458f7b3206c32979b5c629ac7baa5d0a43bd75",
+      "bytes": 488770,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "alt": "photo-2",
+      "height": 1080,
+      "hint": "browser-dom",
+      "imageUrl": "https://d1b8ovf9vuwu72.cloudfront.net/public/images/wedding5_1/carousel/gongdeok/AP_gongdeok_larobe_weddinghall_03.jpg",
+      "width": 1619,
+      "sourcePage": "https://apelgamo.com/home/wedding5",
+      "localPath": "public/photos/venue-032-3.jpg",
+      "sha256": "783dcd435d2df8587baab8e9fd43e35c00afd6d99f88cb6a18796aae9ed6b62c",
+      "bytes": 527174,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "alt": "photo-3",
+      "height": 1080,
+      "hint": "browser-dom",
+      "imageUrl": "https://d1b8ovf9vuwu72.cloudfront.net/public/images/wedding5_1/carousel/gongdeok/AP_gongdeok_larobe_weddinghall_04.jpg",
+      "width": 1619,
+      "sourcePage": "https://apelgamo.com/home/wedding5",
+      "localPath": "public/photos/venue-032-4.jpg",
+      "sha256": "9a01857fa7a106c713bdcbd4ea11cde9add771c47becece47ee3c2c1796d93dc",
+      "bytes": 497331,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "alt": "photo-4",
+      "height": 1080,
+      "hint": "browser-dom",
+      "imageUrl": "https://d1b8ovf9vuwu72.cloudfront.net/public/images/wedding5_1/carousel/gongdeok/AP_gongdeok_larobe_weddinghall_05.jpg",
+      "width": 1619,
+      "sourcePage": "https://apelgamo.com/home/wedding5",
+      "localPath": "public/photos/venue-032-5.jpg",
+      "sha256": "88769091b5fb13d720c48db8aa97e76181490f2a5f6cf81e10cf1dcdbcdad84a",
+      "bytes": 441423,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 13,
+  "errors": []
+}

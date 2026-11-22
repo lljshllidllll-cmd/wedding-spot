@@ -1,0 +1,74 @@
+{
+  "id": "venue-033",
+  "name": "케이터틀",
+  "officialWebsite": "https://www.k-turtle.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://www.k-turtle.co.kr/attachList/upload/hall/c20230516095444707/p20230516101607473/img20251223153334550.jpg",
+      "sourcePage": "https://www.k-turtle.co.kr/wedding/convention/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-033-1.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6d0d9aec16ce91eeb2aaf81285175104e129f5637bb8504bd251f9f120cf495e",
+      "bytes": 760128,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.k-turtle.co.kr/attachList/upload/hall/c20230516095444707/p20230516101607473/img20251223135647980.jpg",
+      "sourcePage": "https://www.k-turtle.co.kr/wedding/convention/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-033-2.jpg",
+      "width": 1200,
+      "height": 675,
+      "sha256": "d35f7e2755c2f7c7d71df0f93241a2629eb88c463eeaa0e1d3d724541f987cc2",
+      "bytes": 270322,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.k-turtle.co.kr/attachList/upload/hall/c20230516095444707/p20230516101607473/img20251223153334940.jpg",
+      "sourcePage": "https://www.k-turtle.co.kr/wedding/convention/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-033-3.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7224cd7f24330d14dcf64839650b61c3fbaebced726fd982f70bf1a78225ba25",
+      "bytes": 668013,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.k-turtle.co.kr/attachList/upload/hall/c20230516095444707/p20230517162118060/img20251218141702157.jpg",
+      "sourcePage": "https://www.k-turtle.co.kr/wedding/laFenetre/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-033-4.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "64530a2c892521a895f02044006fd9ff7d2f13e891953dd1e91d1ab4fa839296",
+      "bytes": 738749,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.k-turtle.co.kr/attachList/upload/hall/c20230516095444707/p20230517162118060/img20251218141701013.jpg",
+      "sourcePage": "https://www.k-turtle.co.kr/wedding/laFenetre/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-033-5.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9f8bdd506cc53b9d7f2bff977a1244587374d09ac7da165d0dcaac8f7f85c4de",
+      "bytes": 749375,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 168,
+  "errors": []
+}

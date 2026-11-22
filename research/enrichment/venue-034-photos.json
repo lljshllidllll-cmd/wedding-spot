@@ -1,0 +1,74 @@
+{
+  "id": "venue-034",
+  "name": "월드컵컨벤션",
+  "officialWebsite": "https://wocon.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://wocon.co.kr/public/img/slide/mainSlide02.png",
+      "sourcePage": "https://wocon.co.kr/",
+      "alt": "slide1",
+      "hint": "",
+      "localPath": "public/photos/venue-034-1.png",
+      "width": 1902,
+      "height": 1048,
+      "sha256": "97c6d1aec8076042c78d4d11bf13c85cabf4839498397b15788bf248a095bae7",
+      "bytes": 3843866,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wocon.co.kr/public/img/slide/mainSlide01.png",
+      "sourcePage": "https://wocon.co.kr/",
+      "alt": "slide2",
+      "hint": "",
+      "localPath": "public/photos/venue-034-2.png",
+      "width": 1902,
+      "height": 1037,
+      "sha256": "8afd2c44e68767ee4a5d13479691d60dfb684a226e52b533948e53605bce6679",
+      "bytes": 180618,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wocon.co.kr/public/img/main/imperial-2023-01.png",
+      "sourcePage": "https://wocon.co.kr/",
+      "alt": "",
+      "hint": "img-responsive center-block",
+      "localPath": "public/photos/venue-034-3.png",
+      "width": 1001,
+      "height": 608,
+      "sha256": "decb0894852747fc91a1638413683e64847fe840322efc2be7e95f5710fe17ed",
+      "bytes": 1198432,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wocon.co.kr/public/img/main/imperial-2023-02.png",
+      "sourcePage": "https://wocon.co.kr/",
+      "alt": "",
+      "hint": "img-responsive center-block",
+      "localPath": "public/photos/venue-034-4.png",
+      "width": 1001,
+      "height": 608,
+      "sha256": "b130943c115c93c40b8793c4d1dd61f02c128fcaf383e48652bc971753b8d8af",
+      "bytes": 1211525,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wocon.co.kr/public/img/main/imperial-2023-03.png",
+      "sourcePage": "https://wocon.co.kr/",
+      "alt": "",
+      "hint": "img-responsive center-block",
+      "localPath": "public/photos/venue-034-5.png",
+      "width": 1001,
+      "height": 608,
+      "sha256": "218e7a21bedd19be085b20a4bdf62faf64db7ec6b4388705e1b90026b776b401",
+      "bytes": 1104827,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 39,
+  "errors": []
+}

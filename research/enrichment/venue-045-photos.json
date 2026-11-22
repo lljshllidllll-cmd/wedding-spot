@@ -1,0 +1,35 @@
+{
+  "id": "venue-045",
+  "name": "그래머시 코엑스마곡",
+  "officialWebsite": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
+  "photos": [
+    {
+      "imageUrl": "https://coexmagok.co.kr/wp-content/uploads/2024/06/prs-bgs1-min.jpg",
+      "sourcePage": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-045-1.jpg",
+      "width": 1980,
+      "height": 1320,
+      "sha256": "493b857d72ccdbc9a5ff4e05d45703e8e77ad74d273d27c7720ef63ae5eb31b1",
+      "bytes": 133067,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://coexmagok.co.kr/wp-content/uploads/2024/06/prs-bgs4-min.jpg",
+      "sourcePage": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-045-2.jpg",
+      "width": 2000,
+      "height": 1326,
+      "sha256": "9756dc81e43b74f71f23cd4f27da54444eaa6902758c69962d65334893fefff6",
+      "bytes": 232738,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 2,
+  "errors": []
+}

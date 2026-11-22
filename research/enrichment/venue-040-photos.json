@@ -1,0 +1,74 @@
+{
+  "id": "venue-040",
+  "name": "온즈드롬 합정",
+  "officialWebsite": "https://www.onze-droom.com/",
+  "photos": [
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20210429/295cc3643faf2.png",
+      "sourcePage": "https://www.onze-droom.com/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-040-1.png",
+      "width": 1126,
+      "height": 2221,
+      "sha256": "f75c8c9c71bf5aaf30e34a4448a6a9bd5fb3513b8bd4f7f96a783f74f3816fe9",
+      "bytes": 187572,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20210416/77642d7cc1844.png",
+      "sourcePage": "https://www.onze-droom.com/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-040-2.png",
+      "width": 1919,
+      "height": 1080,
+      "sha256": "b8345426b484e2897dfb8a573b8eec2b0397f437d3240f6f27f232e0f60631f6",
+      "bytes": 133084,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20161122/5833a46f477f8.jpg",
+      "sourcePage": "https://www.onze-droom.com/42",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-040-3.jpg",
+      "width": 700,
+      "height": 524,
+      "sha256": "79050f4729b67047943ac00909725a2fe8d85f67498cadad42a80927c5282ec0",
+      "bytes": 50594,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20161122/5833a46f6615b.jpg",
+      "sourcePage": "https://www.onze-droom.com/42",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-040-4.jpg",
+      "width": 700,
+      "height": 525,
+      "sha256": "2058948883637e07c9d7ef2ee03744e631c81cba0938ba486501b5883794549d",
+      "bytes": 63055,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20161122/5833a46fa9da6.jpg",
+      "sourcePage": "https://www.onze-droom.com/42",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-040-5.jpg",
+      "width": 700,
+      "height": 525,
+      "sha256": "c6e2c083858a62fce8de74c3e0c14c3d1f890fc3b781bc83f85cdc4b89144f9b",
+      "bytes": 50459,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 91,
+  "errors": []
+}

@@ -1,0 +1,29 @@
+{
+  "venue-006": {
+    "allowCommon": true
+  },
+  "venue-009": {
+    "allowSourcePattern": "/(calla|orchid)(?:/|$)"
+  },
+  "venue-010": {
+    "allowSourcePattern": "/TheMariaCallas"
+  },
+  "venue-012": {
+    "allowSourcePattern": "/mainhall"
+  },
+  "venue-024": {
+    "allowSourcePattern": "%ED%8F%AC%EC%8B%9C%EC%A6%8C|포시즌"
+  },
+  "venue-027": {
+    "allowSourcePattern": "/place/hill-house"
+  },
+  "venue-028": {
+    "allowSourcePattern": "/(37|28)(?:[/?#]|$)"
+  },
+  "venue-091": {
+    "allowSourcePattern": "/main2[34]\\.php"
+  },
+  "venue-092": {
+    "allowSourcePattern": "/main2[01]\\.php"
+  }
+}

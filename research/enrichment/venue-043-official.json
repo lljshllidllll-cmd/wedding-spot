@@ -1,0 +1,912 @@
+{
+  "id": "venue-043",
+  "name": "루이비스컨벤션 강서점",
+  "website": "https://lvgs.co.kr/",
+  "checkedAt": "2026-11-22",
+  "pages": [
+    {
+      "url": "https://lvgs.co.kr/",
+      "title": "루이비스컨벤션",
+      "text": "루이비스컨벤션 -->",
+      "phones": [],
+      "matches": [],
+      "parking": [],
+      "anchors": [
+        {
+          "url": "http://www.lvwedding.co.kr/new/index.html",
+          "title": "",
+          "raw": "http://www.lvwedding.co.kr/new/index.html"
+        },
+        {
+          "url": "https://lvgs.co.kr/intro04.html",
+          "title": "",
+          "raw": "intro04.html"
+        },
+        {
+          "url": "https://lvgs.co.kr/intro01.html",
+          "title": "",
+          "raw": "intro01.html"
+        },
+        {
+          "url": "http://lvgs.co.kr/main.php",
+          "title": "",
+          "raw": "http://lvgs.co.kr/main.php"
+        },
+        {
+          "url": "http://lvay.co.kr/main.php",
+          "title": "",
+          "raw": "http://lvay.co.kr/main.php"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://lvgs.co.kr/img/intro_go01.png",
+          "sourcePage": "https://lvgs.co.kr/",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/intro_go02.png",
+          "sourcePage": "https://lvgs.co.kr/",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/intro_go03.png",
+          "sourcePage": "https://lvgs.co.kr/",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/intro_go04.png",
+          "sourcePage": "https://lvgs.co.kr/",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/intro_go05.png",
+          "sourcePage": "https://lvgs.co.kr/",
+          "alt": "",
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "url": "https://lvgs.co.kr/main.php",
+      "title": "루이비스컨벤션",
+      "text": "루이비스컨벤션 About Louisvis 웨딩홀 소개 찾아오시는길 Guide 자료실 Wedding Hall 세인트그레이스홀 부대시설 신부대기실 포토테이블 Banquet VIP룸 뷔페메뉴 연회장 오늘하루 열지않음 닫기 오늘하루 열지않음 닫기 오늘하루 열지않음 닫기 오늘하루 열지않음 닫기 오늘하루 열지않음 닫기 PREMIUM WEDDING HALL 격이 다른 순간, 루이비스컨벤션 한 순간도 흐트러짐 없는 품격, 그 시작을 루이비스에서 DESIGNED FOR YOUR MOMENT 완벽을 위한 공간, 완성된 하루 하루의 모든 순간이 당신을 위해 정교하게 완성됩니다 TAILORED FOR YOU 당신을 위한 단 하나의 예식 세상 하나뿐인 당신의 이야기를 예식에 담아드립니다 BEYOND A CEREMONY 기억에 남는 하루, 마음에 남는 공간 단순한 예식을 넘어, 진심이 머무는 공간을 만듭니다 --> SCROLL DOWN LOUISVIS CONVENTION 루이비스컨벤션 강서점은 오랜 시간 신뢰를 쌓아온 루이비스의 품격을 그대로 담아낸 프리미엄 웨딩 공간입니다. 여유로운 동선과 섬세한 공간 구성, 한층 정제된 서비스로 예식의 순간을 가장 완벽하게 기록합니다. ABOUT Wedding Hall 웨딩홀 Wedding Hall 신부대기실 Photo table 포토테이블 VIP room VIP룸 banquet hall 연회장 LOCATION 루이비스컨벤션 강서점 오시는 길 루이비스컨벤션 강서점은 서울 강서구 양천로 476 7층, 8층에 위치하고 있습니다. 약도 다운로드 주소 : 서울특별시 강서구 양천로 476 7층, 8층 / 전화번호 · 예약안내 : 02-2658-1002 사업자등록번호 : 899-88-03195 / 대표자명 : 위종내 Copyrightⓒ 루이비스컨벤션. All Rights Reserved.",
+      "phones": [],
+      "matches": [
+        {
+          "phone": "02-2658-1002",
+          "context": "위치하고 있습니다. 약도 다운로드 주소 : 서울특별시 강서구 양천로 476 7층, 8층 / 전화번호 · 예약안내 : 02-2658-1002 사업자등록번호 : 899-88-03195 / 대표자명 : 위종내 Copyrightⓒ 루이비스컨벤션. All Rights Reserved."
+        }
+      ],
+      "parking": [],
+      "anchors": [
+        {
+          "url": "https://lvgs.co.kr/main.php",
+          "title": "",
+          "raw": "/main.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_01.php",
+          "title": "About Louisvis",
+          "raw": "/sub/sub01_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_01.php",
+          "title": "웨딩홀 소개",
+          "raw": "/sub/sub01_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_02.php",
+          "title": "찾아오시는길",
+          "raw": "/sub/sub01_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_03.php",
+          "title": "Guide",
+          "raw": "/sub/sub01_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_03.php",
+          "title": "자료실",
+          "raw": "/sub/sub01_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_01.php",
+          "title": "Wedding Hall",
+          "raw": "/sub/sub02_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_01.php",
+          "title": "세인트그레이스홀",
+          "raw": "/sub/sub02_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_02.php",
+          "title": "부대시설",
+          "raw": "/sub/sub02_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_03.php",
+          "title": "신부대기실",
+          "raw": "/sub/sub02_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_04.php",
+          "title": "포토테이블",
+          "raw": "/sub/sub02_04.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_01.php",
+          "title": "Banquet",
+          "raw": "/sub/sub03_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_01.php",
+          "title": "VIP룸",
+          "raw": "/sub/sub03_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_02.php",
+          "title": "뷔페메뉴",
+          "raw": "/sub/sub03_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_03.php",
+          "title": "연회장",
+          "raw": "/sub/sub03_03.php"
+        },
+        {
+          "url": "https://www.instagram.com/louisvis_gangseo",
+          "title": "",
+          "raw": "https://www.instagram.com/louisvis_gangseo"
+        },
+        {
+          "url": "https://lvgs.co.kr/main.php",
+          "title": "닫기"
+        },
+        {
+          "url": "https://lvgs.co.kr/main.php",
+          "title": "닫기"
+        },
+        {
+          "url": "https://lvgs.co.kr/main.php",
+          "title": "닫기"
+        },
+        {
+          "url": "https://lvgs.co.kr/main.php",
+          "title": "닫기"
+        },
+        {
+          "url": "https://lvgs.co.kr/main.php",
+          "title": "닫기"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_01.php",
+          "title": "ABOUT",
+          "raw": "/sub/sub01_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/map.jpg",
+          "title": "약도 다운로드",
+          "raw": "/map.jpg"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://lvgs.co.kr/adm/data/webedit/20260209112013531213917.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/adm/data/webedit/202603121627301530061583.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/adm/data/webedit/20260609164744657788317.png",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/adm/data/webedit/20260717224014273060098.png",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/adm/data/webedit/202610231046361420855731.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/visual01.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/visual02.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/visual03.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/visual04.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/about/img1.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/about/img2.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/about/img3.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/about/img4.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/about/img5.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/ogimg.png",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": "social-cover"
+        }
+      ]
+    },
+    {
+      "url": "https://lvgs.co.kr/main.php",
+      "title": "루이비스컨벤션",
+      "text": "루이비스컨벤션 About Louisvis 웨딩홀 소개 찾아오시는길 Guide 자료실 Wedding Hall 세인트그레이스홀 부대시설 신부대기실 포토테이블 Banquet VIP룸 뷔페메뉴 연회장 오늘하루 열지않음 닫기 오늘하루 열지않음 닫기 오늘하루 열지않음 닫기 오늘하루 열지않음 닫기 오늘하루 열지않음 닫기 PREMIUM WEDDING HALL 격이 다른 순간, 루이비스컨벤션 한 순간도 흐트러짐 없는 품격, 그 시작을 루이비스에서 DESIGNED FOR YOUR MOMENT 완벽을 위한 공간, 완성된 하루 하루의 모든 순간이 당신을 위해 정교하게 완성됩니다 TAILORED FOR YOU 당신을 위한 단 하나의 예식 세상 하나뿐인 당신의 이야기를 예식에 담아드립니다 BEYOND A CEREMONY 기억에 남는 하루, 마음에 남는 공간 단순한 예식을 넘어, 진심이 머무는 공간을 만듭니다 --> SCROLL DOWN LOUISVIS CONVENTION 루이비스컨벤션 강서점은 오랜 시간 신뢰를 쌓아온 루이비스의 품격을 그대로 담아낸 프리미엄 웨딩 공간입니다. 여유로운 동선과 섬세한 공간 구성, 한층 정제된 서비스로 예식의 순간을 가장 완벽하게 기록합니다. ABOUT Wedding Hall 웨딩홀 Wedding Hall 신부대기실 Photo table 포토테이블 VIP room VIP룸 banquet hall 연회장 LOCATION 루이비스컨벤션 강서점 오시는 길 루이비스컨벤션 강서점은 서울 강서구 양천로 476 7층, 8층에 위치하고 있습니다. 약도 다운로드 주소 : 서울특별시 강서구 양천로 476 7층, 8층 / 전화번호 · 예약안내 : 02-2658-1002 사업자등록번호 : 899-88-03195 / 대표자명 : 위종내 Copyrightⓒ 루이비스컨벤션. All Rights Reserved.",
+      "phones": [],
+      "matches": [
+        {
+          "phone": "02-2658-1002",
+          "context": "위치하고 있습니다. 약도 다운로드 주소 : 서울특별시 강서구 양천로 476 7층, 8층 / 전화번호 · 예약안내 : 02-2658-1002 사업자등록번호 : 899-88-03195 / 대표자명 : 위종내 Copyrightⓒ 루이비스컨벤션. All Rights Reserved."
+        }
+      ],
+      "parking": [],
+      "anchors": [
+        {
+          "url": "https://lvgs.co.kr/main.php",
+          "title": "",
+          "raw": "/main.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_01.php",
+          "title": "About Louisvis",
+          "raw": "/sub/sub01_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_01.php",
+          "title": "웨딩홀 소개",
+          "raw": "/sub/sub01_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_02.php",
+          "title": "찾아오시는길",
+          "raw": "/sub/sub01_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_03.php",
+          "title": "Guide",
+          "raw": "/sub/sub01_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_03.php",
+          "title": "자료실",
+          "raw": "/sub/sub01_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_01.php",
+          "title": "Wedding Hall",
+          "raw": "/sub/sub02_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_01.php",
+          "title": "세인트그레이스홀",
+          "raw": "/sub/sub02_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_02.php",
+          "title": "부대시설",
+          "raw": "/sub/sub02_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_03.php",
+          "title": "신부대기실",
+          "raw": "/sub/sub02_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_04.php",
+          "title": "포토테이블",
+          "raw": "/sub/sub02_04.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_01.php",
+          "title": "Banquet",
+          "raw": "/sub/sub03_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_01.php",
+          "title": "VIP룸",
+          "raw": "/sub/sub03_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_02.php",
+          "title": "뷔페메뉴",
+          "raw": "/sub/sub03_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_03.php",
+          "title": "연회장",
+          "raw": "/sub/sub03_03.php"
+        },
+        {
+          "url": "https://www.instagram.com/louisvis_gangseo",
+          "title": "",
+          "raw": "https://www.instagram.com/louisvis_gangseo"
+        },
+        {
+          "url": "https://lvgs.co.kr/main.php",
+          "title": "닫기"
+        },
+        {
+          "url": "https://lvgs.co.kr/main.php",
+          "title": "닫기"
+        },
+        {
+          "url": "https://lvgs.co.kr/main.php",
+          "title": "닫기"
+        },
+        {
+          "url": "https://lvgs.co.kr/main.php",
+          "title": "닫기"
+        },
+        {
+          "url": "https://lvgs.co.kr/main.php",
+          "title": "닫기"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_01.php",
+          "title": "ABOUT",
+          "raw": "/sub/sub01_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/map.jpg",
+          "title": "약도 다운로드",
+          "raw": "/map.jpg"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://lvgs.co.kr/adm/data/webedit/20260209112013531213917.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/adm/data/webedit/202603121627301530061583.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/adm/data/webedit/20260609164744657788317.png",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/adm/data/webedit/20260717224014273060098.png",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/adm/data/webedit/202610231046361420855731.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/visual01.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/visual02.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/visual03.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/visual04.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/about/img1.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/about/img2.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/about/img3.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/about/img4.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/about/img5.jpg",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/ogimg.png",
+          "sourcePage": "https://lvgs.co.kr/main.php",
+          "alt": "",
+          "hint": "social-cover"
+        }
+      ]
+    },
+    {
+      "url": "https://lvgs.co.kr/sub/sub01_01.php",
+      "title": "루이비스컨벤션",
+      "text": "루이비스컨벤션 About Louisvis 웨딩홀 소개 찾아오시는길 Guide 자료실 Wedding Hall 세인트그레이스홀 부대시설 신부대기실 포토테이블 Banquet VIP룸 뷔페메뉴 연회장 루이비스컨벤션 소개 ABOUT LOUISVIS 프리미엄 웨딩 문화를 선도하는 루이비스컨벤션을 소개합니다. 웨딩홀 소개 찾아오시는길 웨딩홀 소개 LOUISVIS STORY 당신만을 위한 웨딩이 루이비스강서점에서 펼쳐집니다. ‘For Your Luxury Wedding’ LOUISVIS CONVENTION WEDDING HALL 자연광이 고요히 머무는 공간, 루이비스 컨벤션 웨딩홀은 두 사람의 특별한 순간을 우아한 품격 속에 담아냅니다. 섬세하게 조율된 디테일과 정제된 감성, 그리고 공간에서 흐르는 깊은 여유는 예식의 시작부터 끝까지 한 폭의 장면처럼 펼쳐집니다. 프라이빗한 단독 공간은 신랑·신부님의 감정을 따뜻하게 감싸 안으며, 그날의 의미를 더욱 깊고 아름답게 완성합니다. 루이비스 컨벤션은 정성과 진심을 담아 당신의 웨딩에 우아한 빛을 더해드립니다. 주소 : 서울특별시 강서구 양천로 476 7층, 8층 / 전화번호 · 예약안내 : 02-2658-1002 사업자등록번호 : 899-88-03195 / 대표자명 : 위종내 Copyrightⓒ 루이비스컨벤션. All Rights Reserved.",
+      "phones": [],
+      "matches": [
+        {
+          "phone": "02-2658-1002",
+          "context": "웨딩에 우아한 빛을 더해드립니다. 주소 : 서울특별시 강서구 양천로 476 7층, 8층 / 전화번호 · 예약안내 : 02-2658-1002 사업자등록번호 : 899-88-03195 / 대표자명 : 위종내 Copyrightⓒ 루이비스컨벤션. All Rights Reserved."
+        }
+      ],
+      "parking": [],
+      "anchors": [
+        {
+          "url": "https://lvgs.co.kr/main.php",
+          "title": "",
+          "raw": "/main.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_01.php",
+          "title": "About Louisvis",
+          "raw": "/sub/sub01_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_01.php",
+          "title": "웨딩홀 소개",
+          "raw": "/sub/sub01_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_02.php",
+          "title": "찾아오시는길",
+          "raw": "/sub/sub01_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_03.php",
+          "title": "Guide",
+          "raw": "/sub/sub01_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_03.php",
+          "title": "자료실",
+          "raw": "/sub/sub01_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_01.php",
+          "title": "Wedding Hall",
+          "raw": "/sub/sub02_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_01.php",
+          "title": "세인트그레이스홀",
+          "raw": "/sub/sub02_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_02.php",
+          "title": "부대시설",
+          "raw": "/sub/sub02_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_03.php",
+          "title": "신부대기실",
+          "raw": "/sub/sub02_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_04.php",
+          "title": "포토테이블",
+          "raw": "/sub/sub02_04.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_01.php",
+          "title": "Banquet",
+          "raw": "/sub/sub03_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_01.php",
+          "title": "VIP룸",
+          "raw": "/sub/sub03_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_02.php",
+          "title": "뷔페메뉴",
+          "raw": "/sub/sub03_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_03.php",
+          "title": "연회장",
+          "raw": "/sub/sub03_03.php"
+        },
+        {
+          "url": "https://www.instagram.com/louisvis_gangseo",
+          "title": "",
+          "raw": "https://www.instagram.com/louisvis_gangseo"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_01.php",
+          "title": "웨딩홀 소개",
+          "raw": "sub01_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_02.php",
+          "title": "찾아오시는길",
+          "raw": "sub01_02.php"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://lvgs.co.kr/img/sub_about.jpg",
+          "sourcePage": "https://lvgs.co.kr/sub/sub01_01.php",
+          "alt": "웨딩홀소개",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/ogimg.png",
+          "sourcePage": "https://lvgs.co.kr/sub/sub01_01.php",
+          "alt": "",
+          "hint": "social-cover"
+        }
+      ]
+    },
+    {
+      "url": "https://lvgs.co.kr/sub/sub01_02.php",
+      "title": "루이비스컨벤션",
+      "text": "루이비스컨벤션 About Louisvis 웨딩홀 소개 찾아오시는길 Guide 자료실 Wedding Hall 세인트그레이스홀 부대시설 신부대기실 포토테이블 Banquet VIP룸 뷔페메뉴 연회장 루이비스컨벤션 소개 ABOUT LOUISVIS 프리미엄 웨딩 문화를 선도하는 루이비스컨벤션을 소개합니다. 웨딩홀 소개 찾아오시는길 찾아오시는길 LOCATION 고객의 편안한 방문을 위한 위치 정보를 안내합니다. 약도 다운로드 주소 : 서울특별시 강서구 양천로 476 7층, 8층 / 전화번호 · 예약안내 : 02-2658-1002 사업자등록번호 : 899-88-03195 / 대표자명 : 위종내 Copyrightⓒ 루이비스컨벤션. All Rights Reserved.",
+      "phones": [],
+      "matches": [
+        {
+          "phone": "02-2658-1002",
+          "context": "정보를 안내합니다. 약도 다운로드 주소 : 서울특별시 강서구 양천로 476 7층, 8층 / 전화번호 · 예약안내 : 02-2658-1002 사업자등록번호 : 899-88-03195 / 대표자명 : 위종내 Copyrightⓒ 루이비스컨벤션. All Rights Reserved."
+        }
+      ],
+      "parking": [],
+      "anchors": [
+        {
+          "url": "https://lvgs.co.kr/main.php",
+          "title": "",
+          "raw": "/main.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_01.php",
+          "title": "About Louisvis",
+          "raw": "/sub/sub01_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_01.php",
+          "title": "웨딩홀 소개",
+          "raw": "/sub/sub01_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_02.php",
+          "title": "찾아오시는길",
+          "raw": "/sub/sub01_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_03.php",
+          "title": "Guide",
+          "raw": "/sub/sub01_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_03.php",
+          "title": "자료실",
+          "raw": "/sub/sub01_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_01.php",
+          "title": "Wedding Hall",
+          "raw": "/sub/sub02_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_01.php",
+          "title": "세인트그레이스홀",
+          "raw": "/sub/sub02_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_02.php",
+          "title": "부대시설",
+          "raw": "/sub/sub02_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_03.php",
+          "title": "신부대기실",
+          "raw": "/sub/sub02_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_04.php",
+          "title": "포토테이블",
+          "raw": "/sub/sub02_04.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_01.php",
+          "title": "Banquet",
+          "raw": "/sub/sub03_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_01.php",
+          "title": "VIP룸",
+          "raw": "/sub/sub03_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_02.php",
+          "title": "뷔페메뉴",
+          "raw": "/sub/sub03_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_03.php",
+          "title": "연회장",
+          "raw": "/sub/sub03_03.php"
+        },
+        {
+          "url": "https://www.instagram.com/louisvis_gangseo",
+          "title": "",
+          "raw": "https://www.instagram.com/louisvis_gangseo"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_01.php",
+          "title": "웨딩홀 소개",
+          "raw": "sub01_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_02.php",
+          "title": "찾아오시는길",
+          "raw": "sub01_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/map.jpg",
+          "title": "약도 다운로드",
+          "raw": "/map.jpg"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://lvgs.co.kr/ogimg.png",
+          "sourcePage": "https://lvgs.co.kr/sub/sub01_02.php",
+          "alt": "",
+          "hint": "social-cover"
+        }
+      ]
+    },
+    {
+      "url": "https://lvgs.co.kr/sub/sub02_01.php",
+      "title": "루이비스컨벤션",
+      "text": "루이비스컨벤션 About Louisvis 웨딩홀 소개 찾아오시는길 Guide 자료실 Wedding Hall 세인트그레이스홀 부대시설 신부대기실 포토테이블 Banquet VIP룸 뷔페메뉴 연회장 루이비스컨벤션 소개 ABOUT LOUISVIS 프리미엄 웨딩 문화를 선도하는 루이비스컨벤션을 소개합니다. 세인트그레이스홀 부대시설 신부대기실 포토테이블 웨딩홀 Wedding Hall 가장 눈부신 날, 두 사람만의 찬란한 순간이 완성되는 공간 주소 : 서울특별시 강서구 양천로 476 7층, 8층 / 전화번호 · 예약안내 : 02-2658-1002 사업자등록번호 : 899-88-03195 / 대표자명 : 위종내 Copyrightⓒ 루이비스컨벤션. All Rights Reserved.",
+      "phones": [],
+      "matches": [
+        {
+          "phone": "02-2658-1002",
+          "context": "만의 찬란한 순간이 완성되는 공간 주소 : 서울특별시 강서구 양천로 476 7층, 8층 / 전화번호 · 예약안내 : 02-2658-1002 사업자등록번호 : 899-88-03195 / 대표자명 : 위종내 Copyrightⓒ 루이비스컨벤션. All Rights Reserved."
+        }
+      ],
+      "parking": [],
+      "anchors": [
+        {
+          "url": "https://lvgs.co.kr/main.php",
+          "title": "",
+          "raw": "/main.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_01.php",
+          "title": "About Louisvis",
+          "raw": "/sub/sub01_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_01.php",
+          "title": "웨딩홀 소개",
+          "raw": "/sub/sub01_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_02.php",
+          "title": "찾아오시는길",
+          "raw": "/sub/sub01_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_03.php",
+          "title": "Guide",
+          "raw": "/sub/sub01_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub01_03.php",
+          "title": "자료실",
+          "raw": "/sub/sub01_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_01.php",
+          "title": "Wedding Hall",
+          "raw": "/sub/sub02_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_01.php",
+          "title": "세인트그레이스홀",
+          "raw": "/sub/sub02_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_02.php",
+          "title": "부대시설",
+          "raw": "/sub/sub02_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_03.php",
+          "title": "신부대기실",
+          "raw": "/sub/sub02_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_04.php",
+          "title": "포토테이블",
+          "raw": "/sub/sub02_04.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_01.php",
+          "title": "Banquet",
+          "raw": "/sub/sub03_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_01.php",
+          "title": "VIP룸",
+          "raw": "/sub/sub03_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_02.php",
+          "title": "뷔페메뉴",
+          "raw": "/sub/sub03_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub03_03.php",
+          "title": "연회장",
+          "raw": "/sub/sub03_03.php"
+        },
+        {
+          "url": "https://www.instagram.com/louisvis_gangseo",
+          "title": "",
+          "raw": "https://www.instagram.com/louisvis_gangseo"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_01.php",
+          "title": "세인트그레이스홀",
+          "raw": "sub02_01.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_02.php",
+          "title": "부대시설",
+          "raw": "sub02_02.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_03.php",
+          "title": "신부대기실",
+          "raw": "sub02_03.php"
+        },
+        {
+          "url": "https://lvgs.co.kr/sub/sub02_04.php",
+          "title": "포토테이블",
+          "raw": "sub02_04.php"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://lvgs.co.kr/img/sub/sub02_01/img1.jpg",
+          "sourcePage": "https://lvgs.co.kr/sub/sub02_01.php",
+          "alt": "썸네일 1",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/sub/sub02_01/img2.jpg",
+          "sourcePage": "https://lvgs.co.kr/sub/sub02_01.php",
+          "alt": "썸네일 2",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/sub/sub02_01/img3.jpg",
+          "sourcePage": "https://lvgs.co.kr/sub/sub02_01.php",
+          "alt": "썸네일 3",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/sub/sub02_01/img4.jpg",
+          "sourcePage": "https://lvgs.co.kr/sub/sub02_01.php",
+          "alt": "썸네일 4",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/sub/sub02_01/img5.jpg",
+          "sourcePage": "https://lvgs.co.kr/sub/sub02_01.php",
+          "alt": "썸네일 5",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/sub/sub02_01/img6.jpg",
+          "sourcePage": "https://lvgs.co.kr/sub/sub02_01.php",
+          "alt": "썸네일 6",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/img/sub/sub02_01/img7.jpg",
+          "sourcePage": "https://lvgs.co.kr/sub/sub02_01.php",
+          "alt": "썸네일 7",
+          "hint": ""
+        },
+        {
+          "imageUrl": "https://lvgs.co.kr/ogimg.png",
+          "sourcePage": "https://lvgs.co.kr/sub/sub02_01.php",
+          "alt": "",
+          "hint": "social-cover"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

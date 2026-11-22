@@ -1,0 +1,74 @@
+{
+  "id": "venue-036",
+  "name": "아만티호텔 서울",
+  "officialWebsite": "https://www.hotelamanti.com/",
+  "photos": [
+    {
+      "imageUrl": "https://www.hotelamanti.com/AmantiHotel_common/images/mobile/visual/Wedding1.jpg",
+      "sourcePage": "https://www.hotelamanti.com/view/viewLink.do?page=mobile%2FKOR%2Fbanquet%2Fwedding",
+      "alt": "The Park Dining",
+      "hint": "",
+      "localPath": "public/photos/venue-036-1.jpg",
+      "width": 1200,
+      "height": 600,
+      "sha256": "8771666df5cfab00c8287892314777b175b37c5d752dfd0a74642756db06c64a",
+      "bytes": 296962,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.hotelamanti.com/AmantiHotel_common/images/mobile/visual/Wedding2.jpg",
+      "sourcePage": "https://www.hotelamanti.com/view/viewLink.do?page=mobile%2FKOR%2Fbanquet%2Fwedding",
+      "alt": "Wedding",
+      "hint": "",
+      "localPath": "public/photos/venue-036-2.jpg",
+      "width": 1200,
+      "height": 600,
+      "sha256": "a651bdb4a58c4113b751ea8bd5f1b8e3cfa617d64d63b542194d5996b96cd460",
+      "bytes": 350490,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.hotelamanti.com/AmantiHotel_common/images/mobile/visual/Wedding3.jpg",
+      "sourcePage": "https://www.hotelamanti.com/view/viewLink.do?page=mobile%2FKOR%2Fbanquet%2Fwedding",
+      "alt": "Wedding",
+      "hint": "",
+      "localPath": "public/photos/venue-036-3.jpg",
+      "width": 1200,
+      "height": 600,
+      "sha256": "981973dd29c50d6f0f1f17c9d24ef8a96fd1717b70b89edc081ea4f69d77a04b",
+      "bytes": 274008,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.hotelamanti.com/AmantiHotel_common/images/mobile/visual/Wedding4.jpg",
+      "sourcePage": "https://www.hotelamanti.com/view/viewLink.do?page=mobile%2FKOR%2Fbanquet%2Fwedding",
+      "alt": "Wedding",
+      "hint": "",
+      "localPath": "public/photos/venue-036-4.jpg",
+      "width": 1200,
+      "height": 600,
+      "sha256": "91f0c3fa4040756ef53d944bf3a305603bda29866752f8e8671840614f20b749",
+      "bytes": 272920,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.hotelamanti.com/AmantiHotel_common/images/mobile/visual/Wedding5.jpg",
+      "sourcePage": "https://www.hotelamanti.com/view/viewLink.do?page=mobile%2FKOR%2Fbanquet%2Fwedding",
+      "alt": "Wedding",
+      "hint": "",
+      "localPath": "public/photos/venue-036-5.jpg",
+      "width": 1200,
+      "height": 600,
+      "sha256": "e87c3d363c3053715c1aa0e1ca43f954035255eb9aac63655423a29c78e843a4",
+      "bytes": 325768,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 24,
+  "errors": []
+}

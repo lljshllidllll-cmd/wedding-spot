@@ -1,0 +1,74 @@
+{
+  "id": "venue-001",
+  "name": "더블유페스타 일산점",
+  "officialWebsite": "https://www.wfesta.com/",
+  "photos": [
+    {
+      "imageUrl": "https://www.wfesta.com/attachList/upload/hall/c20260628142306497/p20260628153803247/img20260628154116050.jpg",
+      "sourcePage": "https://www.wfesta.com/wedding/theArdel/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-001-1.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "641840641dfcaf260f0322024b127b9bf9c436f1acf29089afff102489d17e26",
+      "bytes": 719307,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.wfesta.com/attachList/upload/hall/c20260628142306497/p20260628153803247/img20260628154115903.jpg",
+      "sourcePage": "https://www.wfesta.com/wedding/theArdel/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-001-2.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0c705de68fd79f474780626d8b5bee9a7c81b7a20e17d48b2cac288e9962773f",
+      "bytes": 694432,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.wfesta.com/attachList/upload/hall/c20260628142306497/p20260628153803247/img20260628154116200.jpg",
+      "sourcePage": "https://www.wfesta.com/wedding/theArdel/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-001-3.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e4210694d07bf8b72ffd8459aa95249568d3fadf4b5939e9ebe25d5830f66e2f",
+      "bytes": 618940,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.wfesta.com/attachList/upload/hall/c20260628142306497/p20260628153803247/img20260628154116343.jpg",
+      "sourcePage": "https://www.wfesta.com/wedding/theArdel/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-001-4.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0a0d2fc59627016bb4d287d9e144f02a33ed68d7db1c456831d0b7a3f0f41d9d",
+      "bytes": 577808,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.wfesta.com/attachList/upload/hall/c20260628142306497/p20260628155826163/img20260628155929913.jpg",
+      "sourcePage": "https://www.wfesta.com/wedding/gardenAvenue/",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-001-5.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "58d09b847eed114af267a44e70c2b07af46a33cd0cfca11d5bc23bc02b2b0d86",
+      "bytes": 531406,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 86,
+  "errors": []
+}

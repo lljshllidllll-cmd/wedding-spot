@@ -1,0 +1,13 @@
+{
+  "id": "venue-037",
+  "name": "스탠포드호텔 서울",
+  "website": "https://www.stanfordseoul.com/",
+  "checkedAt": "2026-11-22",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://www.stanfordseoul.com/",
+      "error": "fetch failed"
+    }
+  ]
+}

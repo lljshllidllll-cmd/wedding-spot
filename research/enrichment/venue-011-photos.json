@@ -1,0 +1,74 @@
+{
+  "id": "venue-011",
+  "name": "메이필드호텔 서울",
+  "officialWebsite": "https://mayfield.co.kr/wedding/grand.html",
+  "photos": [
+    {
+      "imageUrl": "https://mayfield.co.kr/assets/images/wedding/wedding_ballroom_pc_01.png",
+      "sourcePage": "https://mayfield.co.kr/wedding/grand.html",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-011-1.png",
+      "width": 1920,
+      "height": 1000,
+      "sha256": "b716a43c294ffccd75344b4a63c6068e3e302dca56c57faf7da10831393a2bbc",
+      "bytes": 2228958,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://mayfield.co.kr/assets/images/wedding/wedding_ballroom_pc_02.png",
+      "sourcePage": "https://mayfield.co.kr/wedding/grand.html",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-011-2.png",
+      "width": 1920,
+      "height": 1000,
+      "sha256": "47789d2d9c4365171d7326be798ef38ee8dbc889c54b7fd9f1eb006408557896",
+      "bytes": 2085039,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://mayfield.co.kr/assets/images/wedding/wedding_visual_01_2.png",
+      "sourcePage": "https://mayfield.co.kr/wedding/grand.html",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-011-3.png",
+      "width": 1920,
+      "height": 1000,
+      "sha256": "e95915e52a3b195bb2461ac687ea07e9205c401d8f2445c21960a16b0534b0e3",
+      "bytes": 1736298,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://mayfield.co.kr/assets/images/wedding/CALLA_pc_01.jpg",
+      "sourcePage": "https://mayfield.co.kr/wedding/private.html",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-011-4.jpg",
+      "width": 1920,
+      "height": 1000,
+      "sha256": "7f8fee45b3046a61641dc81a9248e1fd66d054165b9b78ca051d10619e13203e",
+      "bytes": 1182742,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://mayfield.co.kr/assets/images/wedding/CALLA_pc_02.jpg",
+      "sourcePage": "https://mayfield.co.kr/wedding/private.html",
+      "alt": "",
+      "hint": "background",
+      "localPath": "public/photos/venue-011-5.jpg",
+      "width": 1920,
+      "height": 1000,
+      "sha256": "e7e5c3e5d364c29c9e596800ce779ae0307fe0e6c62ffb9fa2a7fd92ac528399",
+      "bytes": 1404219,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 18,
+  "errors": []
+}

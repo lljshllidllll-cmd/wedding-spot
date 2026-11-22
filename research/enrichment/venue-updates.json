@@ -1,0 +1,604 @@
+{
+  "venue-004": {
+    "status": "official",
+    "note": "현재 운영사 공식 사이트에서 예식·연회 공간과 대표번호 확인.",
+    "fieldSources": {
+      "parking": {
+        "url": "https://westernbelief.kr/",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "parking": "주차 전담팀 상주 · 정확한 대수·무료 시간 미공개",
+    "parkingKnown": true
+  },
+  "venue-005": {
+    "website": "https://lavieenlumi.co.kr/",
+    "source": "https://lavieenlumi.co.kr/Location/",
+    "note": "정확한 공식 도메인과 주차 안내로 보완.",
+    "fieldSources": {
+      "parking": {
+        "url": "https://lavieenlumi.co.kr/Location/",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "parking": "건물 내 무료주차 약 100대 · 대절버스 주차 가능",
+    "parkingKnown": true
+  },
+  "venue-006": {
+    "status": "official",
+    "phone": "031-971-3000",
+    "note": "운영사 공식 사이트의 웨딩홀·연회 안내 확인. 수용 대수는 자료가 상충하여 공식 안내의 주차 가능 여부만 표시.",
+    "fieldSources": {
+      "phone": {
+        "url": "https://www.veneziawedding.co.kr/",
+        "type": "official-search-index",
+        "checkedAt": "2026-11-22"
+      },
+      "parking": {
+        "url": "https://www.veneziawedding.co.kr/",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "parking": "주차장 이용 가능 · 공식 사이트에 대수·무료 시간 미공개",
+    "parkingKnown": true
+  },
+  "venue-007": {
+    "parking": "건물 지하 6~2층 주차장 · 정확한 대수·무료 시간 미공개",
+    "parkingKnown": true,
+    "fieldSources": {
+      "parking": {
+        "url": "https://www.dmcwedding.co.kr/about/",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-003": {
+    "parking": "호텔 무료 주차장 · 공식 웨딩 안내의 수용 대수 미공개",
+    "parkingKnown": true,
+    "fieldSources": {
+      "parking": {
+        "url": "https://www.sonohotelsresorts.com/calm_gy/wedding",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-013": {
+    "parking": "지하 1~8층 주차 전용 공간 · 부속 영남주차장 동선은 원문 확인",
+    "parkingKnown": true,
+    "fieldSources": {
+      "parking": {
+        "url": "https://withus.kr/location/",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-015": {
+    "parking": "본관 200대 2시간 무료 / 이레빌딩 신관 450대 3시간 무료 · 1층 셀프 등록",
+    "parkingKnown": true,
+    "fieldSources": {
+      "parking": {
+        "url": "https://www.grandconvention.co.kr/guide/checkList/default.asp",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-017": {
+    "website": "https://www.kintex.com/",
+    "status": "official",
+    "note": "제2전시장 아네스홀. 킨텍스 공식 매뉴얼의 그래머시 결혼식·가족연 공용 문의번호를 표시.",
+    "fieldSources": {
+      "phone": {
+        "url": "https://www.kintex.com/download/formatModal/Meeting%20Organizer%20Manual.pdf",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "phone": "031-995-8700",
+    "phoneLabel": "그래머시 결혼식·가족연 공용 예약",
+    "phoneSourceType": "official"
+  },
+  "venue-002": {
+    "website": "https://www.kintex.com/",
+    "fieldSources": {}
+  },
+  "venue-020": {
+    "status": "official",
+    "note": "공식 사이트에서 일산 주소와 대표번호 확인.",
+    "fieldSources": {
+      "phone": {
+        "url": "http://www.theterrace.co/",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "phone": "031-905-1001",
+    "phoneLabel": "예식장 공식 대표번호",
+    "phoneSourceType": "official"
+  },
+  "venue-021": {
+    "phone": "031-903-3242",
+    "phoneLabel": "외부 예약 목록 번호 · 현재 연결 미확인",
+    "phoneSourceType": "external",
+    "fieldSources": {
+      "phone": {
+        "url": "https://yozmwedding.co.kr/",
+        "type": "external",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-023": {
+    "phone": "02-357-9090",
+    "phoneLabel": "외부 장소·예약 목록 번호 · 현재 연결 미확인",
+    "phoneSourceType": "external",
+    "fieldSources": {
+      "phone": {
+        "url": "https://wow-wedding.co.kr/",
+        "type": "external",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-025": {
+    "phone": "031-962-6655",
+    "phoneLabel": "식당 대표번호 · 웨딩 전용 상담 여부 확인 필요",
+    "phoneSourceType": "external",
+    "fieldSources": {
+      "phone": {
+        "url": "https://www.google.com/search?q=%EB%84%88%EB%A5%B8%EB%A7%88%EB%8B%B9%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+        "type": "external",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-026": {
+    "phone": "02-511-4804",
+    "phoneLabel": "라피쥬 통합 상담 · 원흥 공간 연결 여부 확인 필요",
+    "phoneSourceType": "external",
+    "fieldSources": {
+      "phone": {
+        "url": "https://www.google.com/search?q=%EB%9D%BC%ED%94%BC%EC%A5%AC%EC%9B%A8%EB%94%A9%20%EC%9B%90%ED%9D%A5%EC%A0%90%20%EB%8D%95%EC%96%91%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
+        "type": "external",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-027": {
+    "phone": "010-3355-1147",
+    "phoneLabel": "해피뉴데이 공식 웨딩 상담",
+    "phoneSourceType": "official",
+    "fieldSources": {
+      "phone": {
+        "url": "https://happynewday.co.kr/place/hill-house",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      },
+      "parking": {
+        "url": "https://happynewday.co.kr/place/hill-house",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "parking": "약 70대 주차 가능 · 무료 시간·대절버스 조건 확인 필요",
+    "parkingKnown": true,
+    "source": "https://happynewday.co.kr/place/hill-house",
+    "note": "공식 일산 힐하우스 상세 안내를 기준으로 보완. 다른 지점의 사진과 구분."
+  },
+  "venue-030": {
+    "phone": "0507-1322-8432",
+    "phoneLabel": "운영사 공개 안심번호 · 웨딩 상담 가능 여부 확인 필요",
+    "phoneSourceType": "official",
+    "fieldSources": {
+      "phone": {
+        "url": "https://www.ilwy.kr/space",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      },
+      "parking": {
+        "url": "https://www.ilwy.kr/reservation",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "parking": "은평 한문화 공영주차장 · 도보 약 5분, 유료",
+    "parkingKnown": true
+  },
+  "venue-037": {
+    "phone": "02-6016-0001",
+    "phoneLabel": "호텔 대표번호 · 웨딩 담당 연결 문의",
+    "phoneSourceType": "external",
+    "fieldSources": {
+      "phone": {
+        "url": "https://access.visitkorea.or.kr/main/main.do",
+        "type": "external",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-039": {
+    "source": "https://rysehotel.com/ko/events/wedding",
+    "note": "현재 공식 사이트의 웨딩 페이지 확인. 구형 페이지의 404 안내를 갱신.",
+    "fieldSources": {
+      "phone": {
+        "url": "https://rysehotel.com/ko/events/wedding",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      },
+      "parking": {
+        "url": "https://rysehotel.com/ko/events/wedding",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "phone": "02-330-7700",
+    "phoneLabel": "호텔 대표전화 · 웨딩 담당 연결 문의",
+    "phoneSourceType": "official",
+    "parking": "공식 웨딩 패키지: 차량 10대 무료 · 전체 주차면수·추가 차량 조건 미공개",
+    "parkingKnown": true
+  },
+  "venue-040": {
+    "status": "official",
+    "note": "운영사 공식 사이트 확인. 합정 공간의 예식일·주차 조건은 통합 상담처에 확인 필요.",
+    "fieldSources": {
+      "phone": {
+        "url": "https://www.onze-droom.com/",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "phone": "02-6936-6060",
+    "phoneLabel": "온즈드롬 통합 상담",
+    "phoneSourceType": "official"
+  },
+  "venue-045": {
+    "status": "official",
+    "source": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
+    "note": "코엑스마곡 운영기관이 공개한 웨딩·가족연 전용 번호 사용. 일반 케이터링 번호와 구분.",
+    "fieldSources": {
+      "phone": {
+        "url": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "phone": "02-767-6032",
+    "phoneLabel": "웨딩·가족연 담당",
+    "phoneSourceType": "official"
+  },
+  "venue-046": {
+    "status": "official",
+    "note": "호텔 공식 사이트에 웨딩 안내가 남아 있음. 실제 신규 예식 예약은 전화 확인 필요.",
+    "fieldSources": {
+      "phone": {
+        "url": "http://www.jkblossom.co.kr/",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "phone": "02-2138-0987",
+    "phoneLabel": "호텔 대표번호 · 웨딩 담당 연결 문의",
+    "phoneSourceType": "official"
+  },
+  "venue-049": {
+    "website": "https://www.thepartyum.com/",
+    "source": "https://www.thepartyum.com/sub/location.html",
+    "fieldSources": {}
+  },
+  "venue-055": {
+    "status": "official",
+    "source": "http://www.venuevian.com/",
+    "note": "공식 사이트에서 신길동 주소·웨딩홀 안내 및 대표번호 확인. 실제 신규 예약은 재확인 필요.",
+    "fieldSources": {
+      "phone": {
+        "url": "http://www.venuevian.com/",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "phone": "02-842-7200",
+    "phoneLabel": "공식 사이트 표기 대표번호",
+    "phoneSourceType": "official"
+  },
+  "venue-056": {
+    "status": "official",
+    "source": "http://www.lunamiele.co.kr/location/",
+    "note": "접속 가능한 공식 주소와 현 사이트의 연락처로 보완.",
+    "fieldSources": {
+      "phone": {
+        "url": "http://www.lunamiele.co.kr/",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      },
+      "parking": {
+        "url": "http://www.lunamiele.co.kr/about/",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "phone": "02-783-8811",
+    "phoneLabel": "예식장 공식 대표번호",
+    "phoneSourceType": "official",
+    "parking": "약 700대 동시 주차 · 무료 시간·혼주 조건 재확인 필요",
+    "parkingKnown": true
+  },
+  "venue-057": {
+    "source": "https://www.plazawedding.co.kr/info2/weddinghall.do",
+    "fieldSources": {
+      "phone": {
+        "url": "https://www.plazawedding.co.kr/info2/weddinghall.do",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      },
+      "parking": {
+        "url": "https://www.plazawedding.co.kr/info2/weddinghall.do",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "phone": "02-2055-4780",
+    "phoneLabel": "FKI플라자 예약실",
+    "phoneSourceType": "official",
+    "parking": "700대 · 하객 3시간 무료, 혼주·가족 차량 8시간 무료",
+    "parkingKnown": true
+  },
+  "venue-063": {
+    "phone": "02-541-2111",
+    "phoneLabel": "마리앤코 전 지점 통합 상담·예약",
+    "phoneSourceType": "official",
+    "fieldSources": {
+      "phone": {
+        "url": "https://marieenco.co.kr/contact",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      },
+      "parking": {
+        "url": "https://marieenco.co.kr/place/43",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "parking": "기계식 약 40대 · 하객 3시간, 혼주 6시간 무료",
+    "parkingKnown": true
+  },
+  "venue-064": {
+    "phone": "02-541-2111",
+    "phoneLabel": "마리앤코 전 지점 통합 상담·예약",
+    "phoneSourceType": "official",
+    "fieldSources": {
+      "phone": {
+        "url": "https://marieenco.co.kr/contact",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      },
+      "parking": {
+        "url": "https://marieenco.co.kr/place/38",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "parking": "지하 약 100대 · 하객 3시간, 혼주 6시간 무료",
+    "parkingKnown": true,
+    "note": "외부 플랫폼의 700대 표기와 달라, 운영사 지점 상세의 100대·3시간 안내를 우선 반영."
+  },
+  "venue-068": {
+    "phone": "02-761-2307",
+    "phoneLabel": "외부 예식 소개 번호 · 현재 운영처·연결 미확인",
+    "phoneSourceType": "external",
+    "fieldSources": {
+      "phone": {
+        "url": "https://blog.naver.com/xo_xo0",
+        "type": "external",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-070": {
+    "phone": "031-931-9000",
+    "phoneLabel": "과거 장소 안내 번호 · 현재 연결·운영 미확인",
+    "phoneSourceType": "historical",
+    "fieldSources": {
+      "phone": {
+        "url": "https://weddingcrowd.kr/",
+        "type": "historical",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-072": {
+    "phone": "031-974-1122",
+    "phoneLabel": "외부 주소록 번호 · 현재 연결·운영 미확인",
+    "phoneSourceType": "historical",
+    "fieldSources": {
+      "phone": {
+        "url": "https://wow-wedding.co.kr/",
+        "type": "historical",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-075": {
+    "phone": "02-385-0033",
+    "phoneLabel": "과거 청첩장 약도 번호 · 현재 연결·운영 미확인",
+    "phoneSourceType": "historical",
+    "fieldSources": {
+      "phone": {
+        "url": "https://www.naraecard.co.kr/location1_pop1.php?copt=&ml_code=map3295",
+        "type": "historical",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-078": {
+    "phone": "02-6373-7500",
+    "phoneLabel": "과거 청첩장 약도 번호 · 현재 연결·운영 미확인",
+    "phoneSourceType": "historical",
+    "fieldSources": {
+      "phone": {
+        "url": "https://www.naraecard.co.kr/location1_pop.php?copt=&keycode=&keyword=&page=243",
+        "type": "historical",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-079": {
+    "phone": "02-333-2727",
+    "phoneLabel": "과거 청첩장 약도 번호 · 현재 연결·운영 미확인",
+    "phoneSourceType": "historical",
+    "fieldSources": {
+      "phone": {
+        "url": "https://www.cardmaul.com/location.php?ml_addr=&ml_kind=&page=380&wedding_opt=&wedding_value=",
+        "type": "historical",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-080": {
+    "phone": "02-3140-8350",
+    "phoneLabel": "2018년 공공예식 안내 번호 · 현행 담당 확인 필요",
+    "phoneSourceType": "historical",
+    "fieldSources": {
+      "phone": {
+        "url": "https://familyseoul.or.kr/node/5692",
+        "type": "historical",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-083": {
+    "phone": "02-3664-6006",
+    "phoneLabel": "과거 예식 안내 번호 · 현재 연결·운영 미확인",
+    "phoneSourceType": "historical",
+    "fieldSources": {
+      "phone": {
+        "url": "https://www.itwed.co.kr/",
+        "type": "historical",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-084": {
+    "phone": "02-3660-2148",
+    "phoneLabel": "서울물재생체험관 대표번호 · 현행 예식 대관 담당 확인 필요",
+    "phoneSourceType": "official",
+    "fieldSources": {
+      "phone": {
+        "url": "https://www.swr.or.kr/museum/cpage.do",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-086": {
+    "phone": "02-789-5700",
+    "phoneLabel": "서울 MICE 시설 소개 번호 · 현행 웨딩 담당 확인 필요",
+    "phoneSourceType": "external",
+    "fieldSources": {
+      "phone": {
+        "url": "https://korean.miceseoul.com/kor/pgm/smaMng/miceVenueView.do?fcltySn=51&menuNo=800010&smaSn=53",
+        "type": "external",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-087": {
+    "phone": "02-6788-3965",
+    "phoneLabel": "국회 예식 공용 담당 · 공간별 예약 자격 확인",
+    "phoneSourceType": "official",
+    "fieldSources": {
+      "phone": {
+        "url": "https://assemblywedding.or.kr/?p=6",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "status": "official",
+    "source": "https://assemblywedding.or.kr/?p=8",
+    "note": "공식 대관 사이트에서 국회소통관·의원동산 안내 확인. 이용 자격·일정은 별도 확인."
+  },
+  "venue-088": {
+    "phone": "02-6788-3965",
+    "phoneLabel": "국회 예식 공용 담당 · 공간별 예약 자격 확인",
+    "phoneSourceType": "official",
+    "fieldSources": {
+      "phone": {
+        "url": "https://assemblywedding.or.kr/?p=6",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "note": "국회 공식 공용 대관 사이트와 전화는 찾았지만 사랑재의 현행 별도 대관 조건·사진은 미확인."
+  },
+  "venue-091": {
+    "status": "official",
+    "source": "http://ybwedding.net/",
+    "note": "운영사 사이트에서 2호점의 주소와 번호 확인. 1호점과 전화·사진을 구분.",
+    "fieldSources": {
+      "phone": {
+        "url": "http://ybwedding.net/",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "phone": "02-844-8836",
+    "phoneLabel": "연변웨딩홀 2호점",
+    "phoneSourceType": "official"
+  },
+  "venue-092": {
+    "status": "official",
+    "source": "http://ybwedding.net/",
+    "note": "운영사 사이트에서 1호점의 주소와 번호 확인. 2호점과 전화·사진을 구분.",
+    "fieldSources": {
+      "phone": {
+        "url": "http://ybwedding.net/",
+        "type": "official",
+        "checkedAt": "2026-11-22"
+      }
+    },
+    "phone": "02-844-5544",
+    "phoneLabel": "연변웨딩홀 1호점",
+    "phoneSourceType": "official"
+  },
+  "venue-094": {
+    "phone": "02-787-8338",
+    "phoneLabel": "외부 장소 안내 번호 · 현재 연결·예약 미확인",
+    "phoneSourceType": "external",
+    "fieldSources": {
+      "phone": {
+        "url": "https://fiance.co.kr/wedding-halls/seoul/yangcheon-gu/%ED%95%9C%EC%A0%84%EC%9B%A8%EB%94%A9%EC%97%AC%EC%9D%98%ED%94%84%EB%9D%BC%EC%9E%90-233/",
+        "type": "external",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-098": {
+    "phone": "02-2090-8000",
+    "phoneLabel": "호텔 대표번호 · 웨딩 상품 운영 여부 미확인",
+    "phoneSourceType": "external",
+    "fieldSources": {
+      "phone": {
+        "url": "https://access.visitkorea.or.kr/main/main.do",
+        "type": "external",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  },
+  "venue-118": {
+    "phone": "02-358-7600",
+    "phoneLabel": "과거 청첩장 약도 번호 · 현재 연결·운영 미확인",
+    "phoneSourceType": "historical",
+    "fieldSources": {
+      "phone": {
+        "url": "https://www.cardmaul.com/location_pop.php?ml_code=00521",
+        "type": "historical",
+        "checkedAt": "2026-11-22"
+      }
+    }
+  }
+}

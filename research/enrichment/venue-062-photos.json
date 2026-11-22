@@ -1,0 +1,79 @@
+{
+  "id": "venue-062",
+  "name": "하우스 오브 콩두",
+  "officialWebsite": "https://congdu.co.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://congdu.co.kr/wp-content/uploads/2024/03/savory-n-instagram-img-3.jpg",
+      "sourcePage": "https://congdu.co.kr/wedding/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-062-1.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "c052c1cf6313873bd739e439860ad95ae20ac189453c3d8e92bb91458f8134f5",
+      "bytes": 88792,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://congdu.co.kr/wp-content/uploads/2024/03/savory-n-instagram-img-4.jpg",
+      "sourcePage": "https://congdu.co.kr/wedding/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-062-2.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "8345f046c58d92b689733a37032a5e194cafef9d196e47a7c5cc2c9fa0579fb7",
+      "bytes": 81701,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://congdu.co.kr/wp-content/uploads/2024/03/savory-n-instagram-img-6.jpg",
+      "sourcePage": "https://congdu.co.kr/wedding/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-062-3.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "68110125651eb4209072b271011548f0429ddc93f2ec2ae495d6244b0a5eb2ef",
+      "bytes": 78169,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://congdu.co.kr/wp-content/uploads/2024/03/savory-n-instagram-img-2.jpg",
+      "sourcePage": "https://congdu.co.kr/wedding/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-062-4.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "50390c82b830a4d788b047b200a6070b2a1dfc221e8ee7103f43195589cc4002",
+      "bytes": 108293,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://congdu.co.kr/wp-content/uploads/2024/03/savory-n-instagram-img-1.jpg",
+      "sourcePage": "https://congdu.co.kr/wedding/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-062-5.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "0bd2b7d3444ab5ddc7f3c559d67a0eefa7a783b81d9fb07da0f1ed446abc20dd",
+      "bytes": 117452,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 51,
+  "errors": [
+    {
+      "url": "https://congdu.co.kr/wp-content/uploads/2026/04/hoc_wedding.mp4",
+      "error": "oversize"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "venue-023",
+  "name": "관세비스타",
+  "website": "https://www.kwanseivista.com/",
+  "checkedAt": "2026-11-22",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://www.kwanseivista.com/",
+      "error": "fetch failed"
+    }
+  ]
+}

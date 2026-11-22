@@ -1,0 +1,100 @@
+{
+  "id": "venue-005",
+  "name": "라비앙루미",
+  "officialWebsite": "https://lavieenlumi.co.kr/Location/",
+  "photos": [
+    {
+      "imageUrl": "https://lavieenlumi.co.kr/wp-content/uploads/2026/10/KakaoTalk_20260929_111935901_15.jpg",
+      "sourcePage": "https://lavieenlumi.co.kr/lavieen-hall/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-005-1.jpg",
+      "width": 1920,
+      "height": 1200,
+      "sha256": "30fa9fe52e7f7d12061b5b1a5af522cece4ef3e928d9ae45913707234fcf81f2",
+      "bytes": 698749,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://lavieenlumi.co.kr/wp-content/uploads/2026/10/IMG_4788-1536x960.jpg",
+      "sourcePage": "https://lavieenlumi.co.kr/lavieen-hall/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-005-2.jpg",
+      "width": 1536,
+      "height": 960,
+      "sha256": "ffe008ede9736a42889970ac468d5a4f483f34b29590b589f07d2b6f5141a9a6",
+      "bytes": 250390,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://lavieenlumi.co.kr/wp-content/uploads/2026/11/KakaoTalk_20260929_111922558_22-1-1536x2048.jpg",
+      "sourcePage": "https://lavieenlumi.co.kr/lavieen-hall/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-005-3.jpg",
+      "width": 1536,
+      "height": 2048,
+      "sha256": "b366b56fbf3dff3458b382dea924d54c5c54a7edb65dddb450e1f562148f2bc9",
+      "bytes": 539198,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://lavieenlumi.co.kr/wp-content/uploads/2026/10/IMG_4822-1536x960.jpg",
+      "sourcePage": "https://lavieenlumi.co.kr/lavieen-hall/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-005-4.jpg",
+      "width": 1536,
+      "height": 960,
+      "sha256": "a93f53431f966c1643c8e24b20cfa87525bab90b620cbde2cadb7610767ee7fa",
+      "bytes": 110777,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://lavieenlumi.co.kr/wp-content/uploads/2026/10/IMG_4699.jpg",
+      "sourcePage": "https://lavieenlumi.co.kr/location",
+      "alt": "",
+      "hint": "embedded",
+      "sourceStylesheet": "https://lavieenlumi.co.kr/wp-content/uploads/elementor/css/post-144.css?ver=1795200380",
+      "localPath": "public/photos/venue-005-5.jpg",
+      "width": 1920,
+      "height": 1200,
+      "sha256": "5a12be0482426427e23164a42913e6ee3d8f479a819bc999cdfb0660658c8b56",
+      "bytes": 442550,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 24,
+  "errors": [
+    {
+      "url": "https://lavieenlumi.co.kr/lavieen-hall/r",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://lavieenlumi.co.kr/bridal-room/r",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://lavieenlumi.co.kr/space/r",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://lavieenlumi.co.kr/blob",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://lavieenlumi.co.kr/objectUrl",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://lavieenlumi.co.kr/r",
+      "error": "HTTP 404"
+    }
+  ]
+}

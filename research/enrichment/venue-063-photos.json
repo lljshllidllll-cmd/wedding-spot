@@ -1,0 +1,74 @@
+{
+  "id": "venue-063",
+  "name": "마리앤코 코지가든",
+  "officialWebsite": "https://marieenco.co.kr/place/43",
+  "photos": [
+    {
+      "imageUrl": "https://marieenco.co.kr/upload/marieenco/1728630787840514.jpg",
+      "sourcePage": "https://marieenco.co.kr/place/43",
+      "alt": "마리앤코 마리앤코 코지가든 웨딩홀 사진 1",
+      "hint": "position_relative display_inline_block left cover_img",
+      "localPath": "public/photos/venue-063-1.jpg",
+      "width": 1168,
+      "height": 777,
+      "sha256": "c63e404f71d8e72e4e95188976e90869415adf9b0300e61110882a64cf235d38",
+      "bytes": 383362,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://marieenco.co.kr/upload/marieenco/1728630243740413.png",
+      "sourcePage": "https://marieenco.co.kr/place/43",
+      "alt": "마리앤코 마리앤코 코지가든 웨딩홀 사진 2",
+      "hint": "position_relative display_inline_block left cover_img",
+      "localPath": "public/photos/venue-063-2.png",
+      "width": 1209,
+      "height": 655,
+      "sha256": "0e12e4fcdb99a2b5dc1380446cbd9d87fca00ab2a58921fcb4fe2bcd6d5b57b3",
+      "bytes": 1649602,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://marieenco.co.kr/upload/marieenco/1728630138839142.png",
+      "sourcePage": "https://marieenco.co.kr/place/43",
+      "alt": "마리앤코 마리앤코 코지가든 웨딩홀 사진 3",
+      "hint": "position_relative display_inline_block left cover_img",
+      "localPath": "public/photos/venue-063-3.png",
+      "width": 967,
+      "height": 643,
+      "sha256": "6de5baf2a152630c2d8a373269e39db9caa9b90119eabbaaca6da88a353500e3",
+      "bytes": 1096605,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://marieenco.co.kr/upload/marieenco/1728630152442182.png",
+      "sourcePage": "https://marieenco.co.kr/place/43",
+      "alt": "마리앤코 마리앤코 코지가든 웨딩홀 사진 4",
+      "hint": "position_relative display_inline_block left cover_img",
+      "localPath": "public/photos/venue-063-4.png",
+      "width": 967,
+      "height": 643,
+      "sha256": "4d2c8b11987d8e06fabd2ddca568f4467c19684d62507a387b82bf6bcf69eb95",
+      "bytes": 1287200,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://marieenco.co.kr/upload/marieenco/1728630936468962.jpg",
+      "sourcePage": "https://marieenco.co.kr/place/43",
+      "alt": "마리앤코 마리앤코 코지가든 웨딩홀 사진 6",
+      "hint": "position_relative display_inline_block left cover_img",
+      "localPath": "public/photos/venue-063-5.jpg",
+      "width": 3024,
+      "height": 2012,
+      "sha256": "e22edce25a68217aaf1457f0265d285fbedadd8c8e73d0a20211ebe2c9e4aca6",
+      "bytes": 1813325,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 52,
+  "errors": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "venue-066",
+  "name": "코트야드 메리어트 서울 타임스퀘어",
+  "officialWebsite": "https://www.marriott.com/ko/hotels/selcy-courtyard-seoul-times-square/events/",
+  "photos": [
+    {
+      "imageUrl": "https://cache.marriott.com/content/dam/marriott-renditions/SELCY/selcy-junior-ballroom-2307-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+      "sourcePage": "https://www.marriott.com/ko/hotels/selcy-courtyard-seoul-times-square/photos/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-066-1.jpg",
+      "width": 1336,
+      "height": 751,
+      "sha256": "9c31cd1f1537608729e0736d1cc0dade3994df038ff7096e4d0f274b463f60ed",
+      "bytes": 284810,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cache.marriott.com/content/dam/marriott-renditions/SELCY/selcy-junior-ballroom-2305-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+      "sourcePage": "https://www.marriott.com/ko/hotels/selcy-courtyard-seoul-times-square/photos/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-066-2.jpg",
+      "width": 1336,
+      "height": 751,
+      "sha256": "af45804bcea502e33b1e8e01270298dd9591c84986260581ea39f62e254619d9",
+      "bytes": 292037,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cache.marriott.com/content/dam/marriott-renditions/SELCY/selcy-junior-ballroom-2309-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+      "sourcePage": "https://www.marriott.com/ko/hotels/selcy-courtyard-seoul-times-square/photos/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-066-3.jpg",
+      "width": 1336,
+      "height": 751,
+      "sha256": "92d61f0ccbde4564b23046543c6bb6455ac837e2b399df2e842dad73d45cefc6",
+      "bytes": 309945,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cache.marriott.com/content/dam/marriott-renditions/SELCY/selcy-junior-ballroom-2308-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+      "sourcePage": "https://www.marriott.com/ko/hotels/selcy-courtyard-seoul-times-square/photos/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-066-4.jpg",
+      "width": 1336,
+      "height": 751,
+      "sha256": "0f89044482b0db0ba3f529069a46badb7ad58b4dde4b20f1668f0f1c6cbe664b",
+      "bytes": 312278,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cache.marriott.com/content/dam/marriott-renditions/SELCY/selcy-junior-ballroom-2306-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+      "sourcePage": "https://www.marriott.com/ko/hotels/selcy-courtyard-seoul-times-square/photos/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-066-5.jpg",
+      "width": 1336,
+      "height": 751,
+      "sha256": "f0e328f22b288029fb010c981d622143a0471672546996a8e39b159da7770aea",
+      "bytes": 203477,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 152,
+  "errors": []
+}

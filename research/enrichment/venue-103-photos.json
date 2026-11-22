@@ -1,0 +1,74 @@
+{
+  "id": "venue-103",
+  "name": "서울수상레포츠센터 루프탑 웨딩홀",
+  "officialWebsite": "https://wedding.seoulwomen.or.kr/facilities/3192",
+  "photos": [
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/KakaoTalk_20250825_113739498-1-scaled.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3192",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-103-1.jpg",
+      "width": 2560,
+      "height": 1920,
+      "sha256": "631903083dd027e54a168006bce92711260a6728f87b54a8e1e563924ecd18d8",
+      "bytes": 451578,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/KakaoTalk_20250825_113739498_06-scaled.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3192",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-103-2.jpg",
+      "width": 1920,
+      "height": 2560,
+      "sha256": "172e0fec48a13f2480059d35e84b55e16d9b125de9b919656913ce14d82a9e8e",
+      "bytes": 425121,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/KakaoTalk_20250825_113739498_07-scaled.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3192",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-103-3.jpg",
+      "width": 1920,
+      "height": 2560,
+      "sha256": "49d419f656e6fcc38d26c994814cb6e565f4299dc9de7ec21b7f264e0396f9ce",
+      "bytes": 393634,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/KakaoTalk_20250825_113739498_10-scaled.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3192",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-103-4.jpg",
+      "width": 1920,
+      "height": 2560,
+      "sha256": "9c0c01c339bf8c3fb4db3101a142969a1125f7e91deef54f35e3a9da1cb009f8",
+      "bytes": 281701,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/KakaoTalk_20250825_113739498_08-scaled.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3192",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-103-5.jpg",
+      "width": 2560,
+      "height": 1920,
+      "sha256": "1af74aa50ed88c8250a77b4578daff0ee23db861777cf6dadd068d01e4c25152",
+      "bytes": 456344,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 32,
+  "errors": []
+}

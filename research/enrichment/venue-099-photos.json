@@ -1,0 +1,74 @@
+{
+  "id": "venue-099",
+  "name": "월드컵공원 평화잔디광장",
+  "officialWebsite": "https://wedding.seoulwomen.or.kr/facilities/3480",
+  "photos": [
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EC%9B%94%EB%93%9C%EC%BB%B5%EA%B3%B5%EC%9B%90-%ED%8F%89%ED%99%94%EC%9E%94%EB%94%94%EA%B4%91%EC%9E%A5-scaled.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3480",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-099-1.jpg",
+      "width": 2560,
+      "height": 1707,
+      "sha256": "55fbafd4af05c088303302b3ac2c2f11159ec082ac36f289603e93fe40c9892d",
+      "bytes": 502787,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EC%9B%94%EB%93%9C%EC%BB%B5%EA%B3%B5%EC%9B%90-%ED%8F%89%ED%99%94%EC%9E%94%EB%94%94%EA%B4%91%EC%9E%A5%EC%B2%AB%EC%98%88%EC%8B%9D%EC%9D%B4%EB%B2%A4%ED%8A%B81-scaled.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3480",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-099-2.jpg",
+      "width": 1707,
+      "height": 2560,
+      "sha256": "e4f07935f02575e7e1c4cf17aacda4a52fd3d0d626ae3269f0462ea306752897",
+      "bytes": 428559,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EC%9B%94%EB%93%9C%EC%BB%B5%EA%B3%B5%EC%9B%90-%ED%8F%89%ED%99%94%EC%9E%94%EB%94%94%EA%B4%91%EC%9E%A5%EC%B2%AB%EC%98%88%EC%8B%9D%EC%9D%B4%EB%B2%A4%ED%8A%B82-scaled.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3480",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-099-3.jpg",
+      "width": 1707,
+      "height": 2560,
+      "sha256": "6bb7deb6fc74e3d4642592fe5fb5d30e0727bd1dad4eb5a178353dafcac7af9f",
+      "bytes": 354877,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EC%9B%94%EB%93%9C%EC%BB%B5%EA%B3%B5%EC%9B%90-%ED%8F%89%ED%99%94%EC%9E%94%EB%94%94%EA%B4%91%EC%9E%A5%EC%B2%AB%EC%98%88%EC%8B%9D%EC%9D%B4%EB%B2%A4%ED%8A%B83-scaled.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3480",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-099-4.jpg",
+      "width": 1707,
+      "height": 2560,
+      "sha256": "2477d16c61b1765f39bca255862e72a327f1e5ecc2a334a79a5f467673aa234c",
+      "bytes": 277193,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2025/06/%EC%9B%94%EB%93%9C%EC%BB%B5%EA%B3%B5%EC%9B%90-%ED%8F%89%ED%99%94%EC%9E%94%EB%94%94%EA%B4%91%EC%9E%A5%EC%B2%AB%EC%98%88%EC%8B%9D%EC%9D%B4%EB%B2%A4%ED%8A%B84-scaled.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/3480",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-099-5.jpg",
+      "width": 1707,
+      "height": 2560,
+      "sha256": "742782ef5b4a7367c96ae6f962fa3a50a5835037c8639607d876e324dc262dcb",
+      "bytes": 288946,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 8,
+  "errors": []
+}

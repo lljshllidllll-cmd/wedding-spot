@@ -1,0 +1,74 @@
+{
+  "id": "venue-018",
+  "name": "베뉴지1995",
+  "officialWebsite": "https://venueg1995.com/",
+  "photos": [
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20261021/f22cce447f034.png",
+      "sourcePage": "https://venueg1995.com/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-018-1.png",
+      "width": 1920,
+      "height": 960,
+      "sha256": "71a5a9371f1d38a4328dda5032c66b6f9a9a405ce88b9f1146629c222e1bfe25",
+      "bytes": 4369734,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260922/32d8f122eea4c.jpg",
+      "sourcePage": "https://venueg1995.com/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-018-2.jpg",
+      "width": 1920,
+      "height": 960,
+      "sha256": "cda4440b148263ec61605af763a7ae18a30f0c40f9397e5d58191cb9355073c3",
+      "bytes": 740430,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260922/3411864cb0536.jpg",
+      "sourcePage": "https://venueg1995.com/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-018-3.jpg",
+      "width": 1920,
+      "height": 960,
+      "sha256": "3ad5acb4b9d7c84c8a2963c82dde88aacf4d97cdeba39c85f099df7315148761",
+      "bytes": 822604,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20261021/da59c4a749224.png",
+      "sourcePage": "https://venueg1995.com/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-018-4.png",
+      "width": 1000,
+      "height": 2000,
+      "sha256": "a30e529a7c4bb25ae9404a50111734adfba93e06152c4779e43271bb100c94e9",
+      "bytes": 3458913,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260922/9446d6a8fe074.jpg",
+      "sourcePage": "https://venueg1995.com/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-018-5.jpg",
+      "width": 1000,
+      "height": 2000,
+      "sha256": "59fff890ccf9ea2b574dc30fa2923a59949a90fe3fab67e4d67992de7b279810",
+      "bytes": 1527319,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 55,
+  "errors": []
+}

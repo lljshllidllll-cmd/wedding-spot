@@ -1,0 +1,74 @@
+{
+  "id": "venue-038",
+  "name": "호텔 나루 서울 엠갤러리",
+  "officialWebsite": "https://www.hotelnaruseoul.com/",
+  "photos": [
+    {
+      "imageUrl": "https://www.hotelnaruseoul.com/wp-content/uploads/sites/18/2026/07/%EA%B0%A4%EB%9F%AC%EB%A6%AC%EB%A9%94%EC%9D%B8-1000x502.jpg",
+      "sourcePage": "https://www.hotelnaruseoul.com/meetings-events/wedding-family-party/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-038-1.jpg",
+      "width": 1000,
+      "height": 502,
+      "sha256": "0c2639cd77f3de494941ca91436841c6da7cbacdfca819ae9e37e124248c8219",
+      "bytes": 109428,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.hotelnaruseoul.com/wp-content/uploads/sites/18/2026/07/%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%A0%84%EC%B2%B4-1000x1292.jpg",
+      "sourcePage": "https://www.hotelnaruseoul.com/meetings-events/wedding-family-party/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-038-2.jpg",
+      "width": 1000,
+      "height": 1292,
+      "sha256": "d2e384f95a9ac359b60512bf91d682fe48be038ef54241fbac97b1f67cff3835",
+      "bytes": 255139,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.hotelnaruseoul.com/wp-content/uploads/sites/18/2023/02/NR-MG-Gallery-1_round_low.jpg",
+      "sourcePage": "https://www.hotelnaruseoul.com/meetings-events/gallery-1/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-038-3.jpg",
+      "width": 2560,
+      "height": 1706,
+      "sha256": "71551f536f898db75d2204a7ccb56376326ce914ae77bd9b4586e3f91bb3189c",
+      "bytes": 482269,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.hotelnaruseoul.com/wp-content/uploads/sites/18/2023/02/NR-MG-Gallery-2_class-_low.jpg",
+      "sourcePage": "https://www.hotelnaruseoul.com/meetings-events/gallery-2/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-038-4.jpg",
+      "width": 2560,
+      "height": 1707,
+      "sha256": "fa9dd90552ec1d295c7d4bd9dc4f93e17661712a6b956fa7926f803ecf21e2ea",
+      "bytes": 476618,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://www.hotelnaruseoul.com/wp-content/uploads/sites/18/2023/04/NR-MG-Gallery-3_Classroom_Black.jpg",
+      "sourcePage": "https://www.hotelnaruseoul.com/meetings-events/gallery-3/",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-038-5.jpg",
+      "width": 2560,
+      "height": 1707,
+      "sha256": "60a99871d04906a88aefe5ab3e42cb23e0ccb6ef9a704ecd135bf7ea6d15b50c",
+      "bytes": 2722296,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 100,
+  "errors": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "venue-112",
+  "name": "은평역사한옥박물관 은평마당",
+  "officialWebsite": "https://wedding.seoulwomen.or.kr/facilities/1519",
+  "photos": [
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2024/08/KakaoTalk_20240823_115758600.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/1519",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-112-1.jpg",
+      "width": 1496,
+      "height": 1496,
+      "sha256": "4de0595de0026dc4a735d7fc454ed979117ef663a5de621f14b1774fb82e1ac1",
+      "bytes": 1314586,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2024/08/image01.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/1519",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-112-2.jpg",
+      "width": 615,
+      "height": 511,
+      "sha256": "ccd76c94c5e153a0702c9daca7229281e185f5d2ed61a5915147cd3d25d5ca23",
+      "bytes": 35994,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2024/08/KakaoTalk_20240827_175408421_05-scaled.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/1519",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-112-3.jpg",
+      "width": 2560,
+      "height": 1920,
+      "sha256": "104026e7456f69eb319c99279d952551d80c9eae5a50219e3a250e230919d27a",
+      "bytes": 741916,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2024/08/KakaoTalk_20240823_115758600_04.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/1519",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-112-4.jpg",
+      "width": 1496,
+      "height": 1496,
+      "sha256": "631ee594a00c71961920a2b022338b0c57a7011c7ffb072b85a29572f3e2725a",
+      "bytes": 876639,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://wedding.seoulwomen.or.kr/app/uploads/2024/08/KakaoTalk_20240827_175408421_12-1-scaled.jpg",
+      "sourcePage": "https://wedding.seoulwomen.or.kr/facilities/1519",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-112-5.jpg",
+      "width": 2560,
+      "height": 1920,
+      "sha256": "528210d4dd536e400bd34787e5eb691f84dcd2c4c65bbaf4408049b6f917b91f",
+      "bytes": 685305,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 6,
+  "errors": []
+}

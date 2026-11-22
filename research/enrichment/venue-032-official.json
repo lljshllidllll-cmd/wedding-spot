@@ -1,0 +1,77 @@
+{
+  "id": "venue-032",
+  "name": "아펠가모 공덕",
+  "website": "https://apelgamo.com/home/wedding5",
+  "checkedAt": "2026-11-22",
+  "pages": [
+    {
+      "url": "https://apelgamo.com/home/wedding5",
+      "title": "아펠가모",
+      "text": "아펠가모",
+      "phones": [],
+      "matches": [],
+      "parking": [],
+      "anchors": [],
+      "images": [
+        {
+          "imageUrl": "https://apelgamo.com/home/kspay_wh_rcv.jsp",
+          "sourcePage": "https://apelgamo.com/home/wedding5",
+          "alt": "",
+          "hint": "background"
+        }
+      ]
+    },
+    {
+      "url": "https://apelgamo.com/home/wedding5_1",
+      "title": "아펠가모",
+      "text": "아펠가모",
+      "phones": [],
+      "matches": [],
+      "parking": [],
+      "anchors": [],
+      "images": [
+        {
+          "imageUrl": "https://apelgamo.com/home/kspay_wh_rcv.jsp",
+          "sourcePage": "https://apelgamo.com/home/wedding5_1",
+          "alt": "",
+          "hint": "background"
+        }
+      ]
+    },
+    {
+      "url": "https://apelgamo.com/home/wedding5_2",
+      "title": "아펠가모",
+      "text": "아펠가모",
+      "phones": [],
+      "matches": [],
+      "parking": [],
+      "anchors": [],
+      "images": [
+        {
+          "imageUrl": "https://apelgamo.com/home/kspay_wh_rcv.jsp",
+          "sourcePage": "https://apelgamo.com/home/wedding5_2",
+          "alt": "",
+          "hint": "background"
+        }
+      ]
+    },
+    {
+      "url": "https://apelgamo.com/home/index",
+      "title": "아펠가모",
+      "text": "아펠가모",
+      "phones": [],
+      "matches": [],
+      "parking": [],
+      "anchors": [],
+      "images": [
+        {
+          "imageUrl": "https://apelgamo.com/home/kspay_wh_rcv.jsp",
+          "sourcePage": "https://apelgamo.com/home/index",
+          "alt": "",
+          "hint": "background"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

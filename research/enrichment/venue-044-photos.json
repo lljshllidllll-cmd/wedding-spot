@@ -1,0 +1,74 @@
+{
+  "id": "venue-044",
+  "name": "더뉴컨벤션웨딩",
+  "officialWebsite": "https://thenewwed.kr/",
+  "photos": [
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20260930/d491ecf8c479c.jpg",
+      "sourcePage": "https://thenewwed.kr/RENOVHALL",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-044-1.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9bb3e96bfe4ccadf6887c671a26d8251f64c0bd57ec11710e9440b113113552c",
+      "bytes": 2022436,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20261026/756f9e07e9135.jpg",
+      "sourcePage": "https://thenewwed.kr/RENOVHALL",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-044-2.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "bf80197785c6a05258fb5cbc6139349e5692637c9b345da0b5334cc47d67b452",
+      "bytes": 1183311,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20261013/5163a6b480a89.jpg",
+      "sourcePage": "https://thenewwed.kr/RENOVHALL",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-044-3.jpg",
+      "width": 1080,
+      "height": 1440,
+      "sha256": "a03e801009dc827e92648445d310eeadf23dbf3c4b3d1644101bc30cd09f5300",
+      "bytes": 1543574,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20261013/2604704b4efe4.jpg",
+      "sourcePage": "https://thenewwed.kr/RENOVHALL",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-044-4.jpg",
+      "width": 1080,
+      "height": 1440,
+      "sha256": "59769cacb3f41efd6a61617efc23d4d593d8ab054714764a27ca4a4ed8c58e03",
+      "bytes": 1147761,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    },
+    {
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20261013/8a6bee9d674e5.jpg",
+      "sourcePage": "https://thenewwed.kr/RENOVHALL",
+      "alt": "",
+      "hint": "embedded",
+      "localPath": "public/photos/venue-044-5.jpg",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c25078e244b1311c3571d508405b49e54053d5ea9e9900ca5971f6722848cf03",
+      "bytes": 1504856,
+      "checkedAt": "2026-11-22",
+      "reviewStatus": "source-candidate"
+    }
+  ],
+  "candidateCount": 235,
+  "errors": []
+}
