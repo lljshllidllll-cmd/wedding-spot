@@ -4,6 +4,7 @@ const tabsElement = document.querySelector("#region-tabs");
 const listElement = document.querySelector("#venue-list");
 const searchElement = document.querySelector("#search");
 const statusElement = document.querySelector("#status-filter");
+const reviewSortElement = document.querySelector('#review-sort');
 const photoFilter = document.querySelector('#photo-filter');
 let selectedRegion = regions[0].id;
 
@@ -31,6 +32,29 @@ function fieldSource(venue,field) {
   const source = venue.fieldSources?.[field];
   return source ? '<a class="field-source" href="'+escapeHtml(source.url)+'" target="_blank" rel="noopener noreferrer">'+(source.type==='official'?'공식 근거':source.type==='historical'?'과거 자료':'외부 근거')+' ↗</a>' : '';
 }
+function reviewSortValue(venue, mode) {
+  const r=venue.reviews;
+  if(!r)return null;
+  if(mode==='total')return Number.isFinite(r.visitor)&&Number.isFinite(r.blog)?r.visitor+r.blog:null;
+  return r[mode];
+}
+function compareReviews(a,b,mode='visitor') {
+  const x=reviewSortValue(a,mode),y=reviewSortValue(b,mode);
+  if(Number.isFinite(x)!==Number.isFinite(y))return Number.isFinite(x)?-1:1;
+  if(Number.isFinite(x)&&x!==y)return y-x;
+  const secondary=mode==='blog'?'visitor':'blog';
+  const sx=a.reviews?.[secondary],sy=b.reviews?.[secondary];
+  if(Number.isFinite(sx)!==Number.isFinite(sy))return Number.isFinite(sx)?-1:1;
+  if(Number.isFinite(sx)&&sx!==sy)return sy-sx;
+  return a.name.localeCompare(b.name,'ko');
+}
+function reviewCount(value){return Number.isFinite(value)?value.toLocaleString('ko-KR')+'건':'미확인';}
+function renderReviews(venue){
+ const r=venue.reviews;
+ if(!r)return '';
+ return '<section class="venue-reviews" aria-label="'+escapeHtml(venue.name)+' 네이버 리뷰"><h4>네이버 리뷰</h4><div class="review-counts"><span>방문자 <strong>'+reviewCount(r.visitor)+'</strong></span><span>블로그 <strong>'+reviewCount(r.blog)+'</strong></span></div><p>'+escapeHtml(r.scope)+'</p>'+(r.note?'<p>'+escapeHtml(r.note)+'</p>':'')+'<a href="'+escapeHtml(r.sourceUrl)+'" target="_blank" rel="noopener noreferrer">네이버 집계 출처 ↗</a>'+(r.placeUrl?' · <a href="'+escapeHtml(r.placeUrl)+'" target="_blank" rel="noopener noreferrer">플레이스 리뷰 보기 ↗</a>':'')+'<p class="review-date">확인 '+escapeHtml(r.checkedAt)+' · 이후 수치는 달라질 수 있습니다.</p></section>';
+}
+
 function renderVenuePricing(venue) {
   const p=venue.pricing;if(!p)return '';
   const r=p.research,link=(url,label)=>`<a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(label)} ↗</a>`;
@@ -39,7 +63,7 @@ function renderVenuePricing(venue) {
 function renderPricingOverview(filtered) {
   const element=document.querySelector('#pricing-overview');element.hidden=false;
   const region=regions.find(r=>r.id===selectedRegion),rows=filtered.filter(v=>v.pricing),count=rows.filter(v=>v.pricing.records.length).length;
-  element.innerHTML=`<p class="heading-label">2027년 9~11월 예식 준비</p><h3>${escapeHtml(region.name)} 대관료 · 식대 비교</h3><p class="pricing-scope">${escapeHtml(venueCatalog.pricingScope.scopeNote)}</p><div class="price-coverage"><span>표시 후보 <strong>${rows.length}곳</strong></span><span>공개 가격 자료 <strong>${count}곳</strong></span><span>금액 미확보 <strong>${rows.length-count}곳</strong></span></div><p class="pricing-footnote">식장명을 누르면 홀별 가격·포함 항목·출처와 후기 확인 내역을 볼 수 있습니다. 검색·필터는 비교표와 목록에 함께 적용됩니다.</p><div class="table-scroll" role="region" aria-label="${escapeHtml(region.name)} 가격 비교표, 좁은 화면에서 좌우로 이동" tabindex="0"><table class="pricing-table"><thead><tr><th scope="col">예식장</th><th scope="col">홀 대관료</th><th scope="col">성인 1인 식대</th><th scope="col">자료 구분·적용 범위</th></tr></thead><tbody>${rows.map(v=>`<tr><th scope="row"><a href="#price-${v.id}">${escapeHtml(v.name)}</a></th><td>${escapeHtml(v.pricing.rentalSummary)}</td><td>${escapeHtml(v.pricing.mealSummary)}</td><td>${escapeHtml(v.pricing.summaryType)}</td></tr>`).join('')}</tbody></table>${rows.length?'':'<p>조건에 맞는 식장이 없습니다. 검색어나 필터를 변경해 주세요.</p>'}</div><p class="pricing-history">대관료만으로 총비용을 비교하지 마세요. 필수 꽃장식·연출비·촬영비, 음주류·VAT·봉사료와 보증인원을 함께 확인해야 합니다. 서로 다른 출처의 최저 금액을 합산하지 않았습니다.</p><p class="pricing-footnote">명칭별 개별 검색과 후보 블로그 본문 열람을 구분했습니다. 인터넷의 모든 후기 전수 열람이나 전화 견적 확인을 뜻하지 않습니다.</p><div class="report-links"><a href="PRICING_REPORT.md" target="_blank" rel="noopener">전체 지역 가격·출처 보고서</a><a href="pricing.csv" download>가격·미확보 내역 CSV</a></div>`;
+  element.innerHTML=`<p class="heading-label">2027년 9~11월 예식 준비</p><h3>${escapeHtml(region.name)} 대관료 · 식대 비교</h3><p class="pricing-scope">${escapeHtml(venueCatalog.pricingScope.scopeNote)}</p><div class="price-coverage"><span>표시 후보 <strong>${rows.length}곳</strong></span><span>공개 가격 자료 <strong>${count}곳</strong></span><span>금액 미확보 <strong>${rows.length-count}곳</strong></span></div><p class="pricing-footnote">식장명을 누르면 홀별 가격·포함 항목·출처와 후기 확인 내역을 볼 수 있습니다. 검색·필터는 비교표와 목록에 함께 적용됩니다.</p><div class="table-scroll" role="region" aria-label="${escapeHtml(region.name)} 가격 비교표, 좁은 화면에서 좌우로 이동" tabindex="0"><table class="pricing-table"><thead><tr><th scope="col">예식장</th><th scope="col">홀 대관료</th><th scope="col">성인 1인 식대</th><th scope="col">방문자리뷰</th><th scope="col">블로그 리뷰</th><th scope="col">자료 구분·적용 범위</th></tr></thead><tbody>${rows.map(v=>`<tr><th scope="row"><a href="#price-${v.id}">${escapeHtml(v.name)}</a></th><td>${escapeHtml(v.pricing.rentalSummary)}</td><td>${escapeHtml(v.pricing.mealSummary)}</td><td class="review-number">${reviewCount(v.reviews?.visitor)}</td><td class="review-number">${reviewCount(v.reviews?.blog)}<small>${escapeHtml(v.reviews?.scope??'집계 미확인')}</small></td><td>${escapeHtml(v.pricing.summaryType)}</td></tr>`).join('')}</tbody></table>${rows.length?'':'<p>조건에 맞는 식장이 없습니다. 검색어나 필터를 변경해 주세요.</p>'}</div><p class="pricing-history">대관료만으로 총비용을 비교하지 마세요. 필수 꽃장식·연출비·촬영비, 음주류·VAT·봉사료와 보증인원을 함께 확인해야 합니다. 서로 다른 출처의 최저 금액을 합산하지 않았습니다.</p><p class="pricing-footnote">명칭별 개별 검색과 후보 블로그 본문 열람을 구분했습니다. 인터넷의 모든 후기 전수 열람이나 전화 견적 확인을 뜻하지 않습니다.</p><div class="report-links"><a href="PRICING_REPORT.md" target="_blank" rel="noopener">전체 지역 가격·출처 보고서</a><a href="pricing.csv" download>가격·미확보 내역 CSV</a></div>`;
 }
 
 function renderVenues() {
@@ -51,6 +75,8 @@ function renderVenues() {
     const matchesStatus = statusElement.value === 'all' || venue.status === statusElement.value;
     return matchesText && matchesStatus && (!photoFilter.checked || venue.photos.length > 0);
   });
+  filtered.sort((a,b)=>compareReviews(a,b,reviewSortElement.value));
+  document.querySelector('#review-sort-note').textContent=({visitor:'방문자리뷰 많은 순 · 동률은 블로그 리뷰순',blog:'블로그 리뷰 많은 순 · 동률은 방문자리뷰순',total:'방문자·블로그 합계순 · 두 건수가 모두 확인된 업체 기준'})[reviewSortElement.value]+' · 건수 미확인 업체는 뒤에 표시합니다. 확인 2026. 11. 22. 호텔·뷔페는 숙박·식음·돌잔치 등 전체 리뷰가 포함되며, 리뷰 수가 예식 품질을 뜻하지 않습니다.';
   renderPricingOverview(filtered);
   document.querySelector("#region-title").textContent = region.name;
   document.querySelector("#region-subtitle").textContent = `${region.area} · ${region.note}`;
@@ -64,7 +90,7 @@ function renderVenues() {
       `<a href="${mapUrl(venue.address)}" target="_blank" rel="noopener noreferrer">지도 보기</a>`,
       venue.website ? `<a class="primary" href="${escapeHtml(venue.website)}" target="_blank" rel="noopener noreferrer">홈페이지</a>` : ""
     ].filter(Boolean).join("");
-    return `<article class="venue-card" data-status="${venue.status}"><div class="card-head"><div><span class="card-type">${escapeHtml(venue.type)}</span> <span class="status-badge status-${venue.status}">${escapeHtml(statusLabels[venue.status])}</span><h3>${escapeHtml(venue.name)}</h3></div><span class="card-index">${String(index + 1).padStart(2,"0")}</span></div>${venue.photos.length ? `<button type="button" class="venue-cover" data-gallery="${venue.id}" aria-label="${escapeHtml(venue.name)} 사진 ${venue.photos.length}장 보기"><img src="${escapeHtml(venue.photos[0].localPath)}" alt="${escapeHtml(venue.name)} 공식 사이트 대표 이미지" loading="lazy" width="640" height="360"><span>사진 ${venue.photos.length}/5장 · 확대 보기 ↗</span></button>` : `<div class="photo-unavailable">공식 사이트 사진 미확보</div>`}<dl class="info-list">${infoRow("위치", escapeHtml(venue.address))}${infoRow("전화", phone + fieldSource(venue,"phone"), venue.phone ? "" : "unknown")}${infoRow("주차", escapeHtml(venue.parking) + fieldSource(venue,"parking"), venue.parkingKnown ? "" : "unknown")}${infoRow("홈페이지", website, venue.website ? "" : "unknown")}${infoRow("정보 출처", `<a href="${escapeHtml(venue.source)}" target="_blank" rel="noopener noreferrer">원문 확인</a>`)}</dl>${renderVenuePricing(venue)}${venue.aliases.length ? `<p class="alias-note">관련·과거 표기: ${escapeHtml(venue.aliases.join(' · '))}</p>` : ''}${venue.note ? `<p class="venue-note">${escapeHtml(venue.note)}</p>` : ''}<p class="photo-note">${escapeHtml(venue.photoNote)}</p><div class="search-links">명칭 검색 <a href="${escapeHtml(venue.searchChecks.naver.url)}" target="_blank" rel="noopener noreferrer">네이버 ↗</a><a href="${escapeHtml(venue.searchChecks.google.url)}" target="_blank" rel="noopener noreferrer">구글 ↗</a></div><div class="card-actions">${links}</div></article>`;
+    return `<article class="venue-card" data-status="${venue.status}"><div class="card-head"><div><span class="card-type">${escapeHtml(venue.type)}</span> <span class="status-badge status-${venue.status}">${escapeHtml(statusLabels[venue.status])}</span><h3>${escapeHtml(venue.name)}</h3></div><span class="card-index">${String(index + 1).padStart(2,"0")}</span></div>${venue.photos.length ? `<button type="button" class="venue-cover" data-gallery="${venue.id}" aria-label="${escapeHtml(venue.name)} 사진 ${venue.photos.length}장 보기"><img src="${escapeHtml(venue.photos[0].localPath)}" alt="${escapeHtml(venue.name)} 공식 사이트 대표 이미지" loading="lazy" width="640" height="360"><span>사진 ${venue.photos.length}/5장 · 확대 보기 ↗</span></button>` : `<div class="photo-unavailable">공식 사이트 사진 미확보</div>`}<dl class="info-list">${infoRow("위치", escapeHtml(venue.address))}${infoRow("전화", phone + fieldSource(venue,"phone"), venue.phone ? "" : "unknown")}${infoRow("주차", escapeHtml(venue.parking) + fieldSource(venue,"parking"), venue.parkingKnown ? "" : "unknown")}${infoRow("홈페이지", website, venue.website ? "" : "unknown")}${infoRow("정보 출처", `<a href="${escapeHtml(venue.source)}" target="_blank" rel="noopener noreferrer">원문 확인</a>`)}</dl>${renderReviews(venue)}${renderVenuePricing(venue)}${venue.aliases.length ? `<p class="alias-note">관련·과거 표기: ${escapeHtml(venue.aliases.join(' · '))}</p>` : ''}${venue.note ? `<p class="venue-note">${escapeHtml(venue.note)}</p>` : ''}<p class="photo-note">${escapeHtml(venue.photoNote)}</p><div class="search-links">명칭 검색 <a href="${escapeHtml(venue.searchChecks.naver.url)}" target="_blank" rel="noopener noreferrer">네이버 ↗</a><a href="${escapeHtml(venue.searchChecks.google.url)}" target="_blank" rel="noopener noreferrer">구글 ↗</a></div><div class="card-actions">${links}</div></article>`;
   }).join("") : `<div class="empty-state"><strong>검색 결과가 없어요</strong>검색어 또는 주차 조건을 바꿔보세요.</div>`;
 }
 
@@ -90,8 +116,17 @@ tabsElement.addEventListener("keydown", event => {
 });
 searchElement.addEventListener("input", renderVenues);
 statusElement.addEventListener("change", renderVenues);
+reviewSortElement.addEventListener("change",renderVenues);
 
-document.querySelector("#excluded-list").innerHTML = excluded.map(item => `<article class="excluded-item"><h2>${escapeHtml(item.name)}</h2><p>${escapeHtml(item.address)}</p><p class="reason">${escapeHtml(item.reason)}</p></article>`).join("");
+const excludedSearchElement=document.querySelector('#excluded-search');
+function renderExcluded(){
+ const query=excludedSearchElement.value.trim().toLocaleLowerCase('ko').replace(/\s+/g,'');
+ const matches=excluded.filter(item=>(item.name+' '+item.address+' '+item.reason).toLocaleLowerCase('ko').replace(/\s+/g,'').includes(query));
+ document.querySelector('#excluded-result-summary').textContent='검색 결과 '+matches.length+'곳 / 제외된 예식장 '+excluded.length+'곳';
+ document.querySelector('#excluded-list').innerHTML=matches.length?matches.map(item=>'<article class="excluded-item"><h2>'+escapeHtml(item.name)+'</h2><p>'+escapeHtml(item.address)+'</p><p class="reason">'+escapeHtml(item.reason)+'</p></article>').join(''):'<p class="empty-state">검색 결과가 없습니다. 다른 이름이나 위치로 검색해 주세요.</p>';
+}
+excludedSearchElement.addEventListener('input',renderExcluded);
+renderExcluded();
 
 function renderView() {
   const view = location.hash === "#excluded" ? 'excluded' : location.hash === '#survey' ? 'survey' : 'venues';

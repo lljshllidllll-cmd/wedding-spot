@@ -236,6 +236,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 9,
+        "blog": 1437,
+        "placeId": "1326158659",
+        "placeName": "더블유페스타 일산점",
+        "placeAddress": "경기 고양시 일산서구 일현로 97-11 제니스스퀘어 상가동 B299호, B499호",
+        "category": "뷔페",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%8D%94%EB%B8%94%EC%9C%A0%ED%8E%98%EC%8A%A4%ED%83%80%20%EC%9D%BC%EC%82%B0%EC%A0%90",
+        "placeUrl": "https://m.place.naver.com/place/1326158659/home",
+        "scope": "뷔페·연회 전체 리뷰 · 돌잔치 등 포함",
+        "note": ""
       }
     },
     {
@@ -349,6 +363,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 15,
+        "blog": 32,
+        "placeId": "1435610174",
+        "placeName": "그래머시 킨텍스 그랜드볼룸",
+        "placeAddress": "경기도 고양시 일산서구 킨텍스로 217-60 킨텍스 1전시장 3층",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8B%9C%20%ED%82%A8%ED%85%8D%EC%8A%A4%20%EC%9D%BC%EC%82%B0%EC%84%9C%EA%B5%AC",
+        "placeUrl": "https://m.place.naver.com/place/1435610174/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": "제1전시장 그랜드볼룸 플레이스 기준. 예약실·아네스홀 리뷰는 합산하지 않음."
       }
     },
     {
@@ -523,6 +551,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 1584,
+        "blog": 4227,
+        "placeId": "31403330",
+        "placeName": "소노캄 고양",
+        "placeAddress": "경기도 고양시 일산동구 태극로 20 소노캄 고양",
+        "category": "콘도,리조트",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%86%8C%EB%85%B8%EC%BA%84%20%EA%B3%A0%EC%96%91%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC",
+        "placeUrl": "https://m.place.naver.com/place/31403330/home",
+        "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
+        "note": ""
       }
     },
     {
@@ -722,6 +764,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 20,
+        "blog": 1024,
+        "placeId": "757968614",
+        "placeName": "웨스턴빌리프 웨딩홀",
+        "placeAddress": "경기도 고양시 일산동구 정발산로 24 B동주차장 웨스턴타워3차 9층",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%9B%A8%EC%8A%A4%ED%84%B4%EB%B9%8C%EB%A6%AC%ED%94%84%20%EC%9D%BC%EC%82%B0%EB%8F%99%EA%B5%AC",
+        "placeUrl": "https://m.place.naver.com/place/757968614/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -911,6 +967,20 @@ const venueCatalog = {
           ]
         },
         "availabilityNote": "실내 예식 상품만 비교합니다. 야외 상품은 제외했습니다."
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 5,
+        "blog": 228,
+        "placeId": "2098541254",
+        "placeName": "라비앙루미 하우스웨딩",
+        "placeAddress": "경기도 고양시 덕양구 호국로1873번길 28 주소 내 건물",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%9D%BC%EB%B9%84%EC%95%99%EB%A3%A8%EB%AF%B8%20%EB%8D%95%EC%96%91%EA%B5%AC",
+        "placeUrl": "https://m.place.naver.com/place/2098541254/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -1086,6 +1156,20 @@ const venueCatalog = {
           ]
         },
         "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "unconfirmed",
+        "visitor": null,
+        "blog": null,
+        "placeId": null,
+        "placeName": null,
+        "placeAddress": null,
+        "category": null,
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%B2%A0%EB%84%A4%EC%B9%98%EC%95%84%EC%9B%A8%EB%94%A9%EB%B6%80%ED%8E%98%20%ED%99%94%EC%A0%95",
+        "placeUrl": null,
+        "scope": "동일 주소의 플레이스 리뷰 수 미확인",
+        "note": "송파구 동명 시설의 리뷰는 사용하지 않음."
       }
     },
     {
@@ -1324,6 +1408,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 666,
+        "blog": 3148,
+        "placeId": "36615076",
+        "placeName": "DMC타워웨딩",
+        "placeAddress": "서울특별시 마포구 성암로 189 중소기업디엠씨타워 2층",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=DMC%ED%83%80%EC%9B%8C%EC%9B%A8%EB%94%A9%20%EB%A7%88%ED%8F%AC%EA%B5%AC",
+        "placeUrl": "https://m.place.naver.com/place/36615076/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -1501,6 +1599,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 81,
+        "blog": 3195,
+        "placeId": "1542904899",
+        "placeName": "웨딩시그니처",
+        "placeAddress": "서울특별시 마포구 양화로 87",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%9B%A8%EB%94%A9%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98%20%EB%A7%88%ED%8F%AC%EA%B5%AC",
+        "placeUrl": "https://m.place.naver.com/place/1542904899/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -1739,6 +1851,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 2391,
+        "blog": 4630,
+        "placeId": "94306527",
+        "placeName": "보타닉파크웨딩",
+        "placeAddress": "서울특별시 강서구 마곡중앙5로 6 보타닉푸르지오시티 L층(로비층)",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%B3%B4%ED%83%80%EB%8B%89%ED%8C%8C%ED%81%AC%EC%9B%A8%EB%94%A9%20%EA%B0%95%EC%84%9C%EA%B5%AC",
+        "placeUrl": "https://m.place.naver.com/place/94306527/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -1950,6 +2076,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 684,
+        "blog": 4994,
+        "placeId": "33499928",
+        "placeName": "더베뉴지서울",
+        "placeAddress": "서울특별시 강서구 강서로 388",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%8D%94%EB%B2%A0%EB%89%B4%EC%A7%80%EC%84%9C%EC%9A%B8%20%EA%B0%95%EC%84%9C%EA%B5%AC",
+        "placeUrl": "https://m.place.naver.com/place/33499928/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -2146,6 +2286,20 @@ const venueCatalog = {
           ]
         },
         "availabilityNote": "실내 예식 상품만 비교합니다. 야외 상품은 제외했습니다."
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 2080,
+        "blog": 5094,
+        "placeId": "12219887",
+        "placeName": "메이필드호텔",
+        "placeAddress": "서울 강서구 방화대로 94",
+        "category": "호텔",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%A9%94%EC%9D%B4%ED%95%84%EB%93%9C%ED%98%B8%ED%85%94%20%EC%84%9C%EC%9A%B8",
+        "placeUrl": "https://m.place.naver.com/place/12219887/home",
+        "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
+        "note": ""
       }
     },
     {
@@ -2329,6 +2483,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 42,
+        "blog": 2133,
+        "placeId": "38262662",
+        "placeName": "로프트가든344",
+        "placeAddress": "서울특별시 양천구 오목로 344 청학빌딩 10층",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%A1%9C%ED%94%84%ED%8A%B8%EA%B0%80%EB%93%A0344",
+        "placeUrl": "https://m.place.naver.com/place/38262662/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -2498,6 +2666,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 733,
+        "blog": 2819,
+        "placeId": "36957673",
+        "placeName": "웨딩그룹위더스 영등포",
+        "placeAddress": "서울특별시 영등포구 영중로 55",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%9B%A8%EB%94%A9%EA%B7%B8%EB%A3%B9%EC%9C%84%EB%8D%94%EC%8A%A4%20%EC%98%81%EB%93%B1%ED%8F%AC",
+        "placeUrl": "https://m.place.naver.com/place/36957673/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -2703,6 +2885,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 92,
+        "blog": 3585,
+        "placeId": "1241035074",
+        "placeName": "더컨벤션 영등포",
+        "placeAddress": "서울특별시 영등포구 국회대로38길 2",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%8D%94%EC%BB%A8%EB%B2%A4%EC%85%98%20%EC%98%81%EB%93%B1%ED%8F%AC%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC",
+        "placeUrl": "https://m.place.naver.com/place/1241035074/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -2904,6 +3100,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 55,
+        "blog": 2344,
+        "placeId": "20352298",
+        "placeName": "그랜드컨벤션센터",
+        "placeAddress": "서울특별시 영등포구 양평로 58 그랜드 컨벤션 센터",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EA%B7%B8%EB%9E%9C%EB%93%9C%EC%BB%A8%EB%B2%A4%EC%85%98%EC%84%BC%ED%84%B0",
+        "placeUrl": "https://m.place.naver.com/place/20352298/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -3080,6 +3290,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 126,
+        "blog": 2297,
+        "placeId": "11865877",
+        "placeName": "여의도웨딩컨벤션",
+        "placeAddress": "서울특별시 영등포구 여의대로 14 KT",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%97%AC%EC%9D%98%EB%8F%84%EC%9B%A8%EB%94%A9%EC%BB%A8%EB%B2%A4%EC%85%98",
+        "placeUrl": "https://m.place.naver.com/place/11865877/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -3201,6 +3425,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 2,
+        "blog": 17,
+        "placeId": "1254163651",
+        "placeName": "그래머시 킨텍스 아네스홀",
+        "placeAddress": "경기도 고양시 일산서구 킨텍스로 217-59 킨텍스 제2전시장 3층 301호",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8B%9C%20%ED%82%A8%ED%85%8D%EC%8A%A4%20%EC%95%84%EB%84%A4%EC%8A%A4%ED%99%80",
+        "placeUrl": "https://m.place.naver.com/place/1254163651/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -3388,6 +3626,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 147,
+        "blog": 139,
+        "placeId": "2088902234",
+        "placeName": "베뉴지 1995",
+        "placeAddress": "경기도 고양시 일산서구 중앙로 1436 11층 임시예약실",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%B2%A0%EB%89%B4%EC%A7%801995",
+        "placeUrl": "https://m.place.naver.com/place/2088902234/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": "개장 전 상담·계약 리뷰 포함. 검색 집계 147건이며 상세 화면에서는 148건으로 확인되어 갱신 시차가 있음."
       }
     },
     {
@@ -3548,6 +3800,20 @@ const venueCatalog = {
           ]
         },
         "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 101,
+        "blog": 485,
+        "placeId": "1211868827",
+        "placeName": "천년컨벤션 웨딩홀",
+        "placeAddress": "경기도 고양시 일산동구 중앙로 1080 8, 10층",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%B2%9C%EB%85%84%EC%BB%A8%EB%B2%A4%EC%85%98%EC%9B%A8%EB%94%A9%ED%99%80",
+        "placeUrl": "https://m.place.naver.com/place/1211868827/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -3756,6 +4022,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 354,
+        "blog": 592,
+        "placeId": "12077860",
+        "placeName": "더테라스 웨딩 & 파티",
+        "placeAddress": "경기도 고양시 일산동구 강석로 9",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%8D%94%ED%85%8C%EB%9D%BC%EC%8A%A4%EC%9B%A8%EB%94%A9%EC%95%A4%ED%8C%8C%ED%8B%B0",
+        "placeUrl": "https://m.place.naver.com/place/12077860/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -3932,6 +4212,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 38,
+        "blog": 1247,
+        "placeId": "20322273",
+        "placeName": "이룸웨딩컨벤션",
+        "placeAddress": "서울특별시 마포구 마포대로 78 4~6층",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%9D%B4%EB%A3%B8%EC%9B%A8%EB%94%A9%EC%BB%A8%EB%B2%A4%EC%85%98",
+        "placeUrl": "https://m.place.naver.com/place/20322273/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -4152,6 +4446,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 70,
+        "blog": 2658,
+        "placeId": "1929913788",
+        "placeName": "아펠가모 공덕",
+        "placeAddress": "서울특별시 마포구 마포대로 92 효성해링턴스퀘어 B동 6~7층",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95",
+        "placeUrl": "https://m.place.naver.com/place/1929913788/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -4367,6 +4675,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 225,
+        "blog": 1557,
+        "placeId": "1409554573",
+        "placeName": "케이터틀",
+        "placeAddress": "서울특별시 마포구 백범로 23 케이터틀",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%BC%80%EC%9D%B4%ED%84%B0%ED%8B%80",
+        "placeUrl": "https://m.place.naver.com/place/1409554573/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -4589,6 +4911,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 50,
+        "blog": 3917,
+        "placeId": "1902387925",
+        "placeName": "월드컵컨벤션",
+        "placeAddress": "서울특별시 마포구 월드컵로 240 2층 (성산동 서울월드컵경기장 서측)",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%9B%94%EB%93%9C%EC%BB%B5%EC%BB%A8%EB%B2%A4%EC%85%98",
+        "placeUrl": "https://m.place.naver.com/place/1902387925/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -4765,6 +5101,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 920,
+        "blog": 1946,
+        "placeId": "11659089",
+        "placeName": "서울가든호텔",
+        "placeAddress": "서울 마포구 마포대로 58 가든호텔",
+        "category": "호텔",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8%EA%B0%80%EB%93%A0%ED%98%B8%ED%85%94",
+        "placeUrl": "https://m.place.naver.com/place/11659089/home",
+        "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
+        "note": ""
       }
     },
     {
@@ -4960,6 +5310,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 200,
+        "blog": 0,
+        "placeId": "37903636",
+        "placeName": "아만티 호텔 서울",
+        "placeAddress": "서울 마포구 월드컵북로 31",
+        "category": "호텔",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%95%84%EB%A7%8C%ED%8B%B0%ED%98%B8%ED%85%94%20%EC%84%9C%EC%9A%B8",
+        "placeUrl": "https://m.place.naver.com/place/37903636/home",
+        "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
+        "note": ""
       }
     },
     {
@@ -5061,6 +5425,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 747,
+        "blog": 1009,
+        "placeId": "20315170",
+        "placeName": "스탠포드호텔코리아",
+        "placeAddress": "서울 마포구 월드컵북로58길 15",
+        "category": "호텔",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%8A%A4%ED%83%A0%ED%8F%AC%EB%93%9C%ED%98%B8%ED%85%94%20%EC%84%9C%EC%9A%B8",
+        "placeUrl": "https://m.place.naver.com/place/20315170/home",
+        "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
+        "note": ""
       }
     },
     {
@@ -5208,6 +5586,20 @@ const venueCatalog = {
         },
         "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다.",
         "availabilityNote": "실내 예식 상품만 비교합니다. 야외 상품은 제외했습니다."
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 597,
+        "blog": 4876,
+        "placeId": "1923905766",
+        "placeName": "호텔 나루 서울 엠갤러리",
+        "placeAddress": "서울 마포구 마포대로 8 호텔 나루 서울 엠갤러리",
+        "category": "호텔",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%ED%98%B8%ED%85%94%20%EB%82%98%EB%A3%A8%20%EC%84%9C%EC%9A%B8%20%EC%97%A0%EA%B0%A4%EB%9F%AC%EB%A6%AC",
+        "placeUrl": "https://m.place.naver.com/place/1923905766/home",
+        "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
+        "note": ""
       }
     },
     {
@@ -5326,6 +5718,20 @@ const venueCatalog = {
           ]
         },
         "availabilityNote": "실내 예식 상품만 비교합니다. 야외 상품은 제외했습니다."
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 1211,
+        "blog": 2572,
+        "placeId": "1578505636",
+        "placeName": "라이즈오토그래프컬렉션",
+        "placeAddress": "서울 마포구 양화로 130",
+        "category": "호텔",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%9D%BC%EC%9D%B4%EC%A6%88%20%EC%98%A4%ED%86%A0%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%BB%AC%EB%A0%89%EC%85%98",
+        "placeUrl": "https://m.place.naver.com/place/1578505636/home",
+        "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
+        "note": ""
       }
     },
     {
@@ -5486,6 +5892,20 @@ const venueCatalog = {
           ]
         },
         "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 1,
+        "blog": 440,
+        "placeId": "13281724",
+        "placeName": "스위스그랜드호텔서울컨벤션센터",
+        "placeAddress": "서울특별시 서대문구 연희로 353",
+        "category": "컨벤션센터",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%8A%A4%EC%9C%84%EC%8A%A4%20%EA%B7%B8%EB%9E%9C%EB%93%9C%20%ED%98%B8%ED%85%94",
+        "placeUrl": "https://m.place.naver.com/place/13281724/home",
+        "scope": "컨벤션센터 전체 리뷰 · 행사 등 포함",
+        "note": ""
       }
     },
     {
@@ -5661,6 +6081,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 44,
+        "blog": 1062,
+        "placeId": "2036248282",
+        "placeName": "루이비스 컨벤션 강서점",
+        "placeAddress": "서울특별시 강서구 양천로 476 7층, 8층",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%A3%A8%EC%9D%B4%EB%B9%84%EC%8A%A4%EC%BB%A8%EB%B2%A4%EC%85%98%20%EA%B0%95%EC%84%9C%EC%A0%90",
+        "placeUrl": "https://m.place.naver.com/place/2036248282/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -5855,6 +6289,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 224,
+        "blog": 2370,
+        "placeId": "35751363",
+        "placeName": "더뉴컨벤션웨딩",
+        "placeAddress": "서울특별시 강서구 공항대로36길 57",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%8D%94%EB%89%B4%EC%BB%A8%EB%B2%A4%EC%85%98%EC%9B%A8%EB%94%A9",
+        "placeUrl": "https://m.place.naver.com/place/35751363/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -6011,6 +6459,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "unconfirmed",
+        "visitor": null,
+        "blog": null,
+        "placeId": null,
+        "placeName": null,
+        "placeAddress": null,
+        "category": null,
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8B%9C%20%EC%BD%94%EC%97%91%EC%8A%A4%EB%A7%88%EA%B3%A1%20%EC%9B%A8%EB%94%A9",
+        "placeUrl": null,
+        "scope": "동일 주소의 플레이스 리뷰 수 미확인",
+        "note": "강남구 코엑스 지점 리뷰는 사용하지 않음."
       }
     },
     {
@@ -6197,6 +6659,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 934,
+        "blog": 1005,
+        "placeId": "1123199555",
+        "placeName": "제이케이블라썸 호텔",
+        "placeAddress": "서울 강서구 양천로65길 41-22",
+        "category": "호텔",
+        "sourceUrl": "https://search.naver.com/search.naver?query=JK%EB%B8%94%EB%9D%BC%EC%8D%B8%ED%98%B8%ED%85%94",
+        "placeUrl": "https://m.place.naver.com/place/1123199555/home",
+        "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
+        "note": ""
       }
     },
     {
@@ -6311,6 +6787,20 @@ const venueCatalog = {
           ]
         },
         "availabilityNote": "실내 예식 상품만 비교합니다. 야외 상품은 제외했습니다."
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 1892,
+        "blog": 2919,
+        "placeId": "1343819055",
+        "placeName": "코트야드 메리어트 서울 보타닉파크 호텔",
+        "placeAddress": "서울 강서구 마곡중앙12로 10",
+        "category": "호텔",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%BD%94%ED%8A%B8%EC%95%BC%EB%93%9C%20%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8%20%EC%84%9C%EC%9A%B8%20%EB%B3%B4%ED%83%80%EB%8B%89%ED%8C%8C%ED%81%AC",
+        "placeUrl": "https://m.place.naver.com/place/1343819055/home",
+        "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
+        "note": ""
       }
     },
     {
@@ -6463,6 +6953,20 @@ const venueCatalog = {
           ]
         },
         "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 11,
+        "blog": 103,
+        "placeId": "2071576067",
+        "placeName": "아르떼서울",
+        "placeAddress": "서울특별시 양천구 목동서로 225 지하1층, 2층, 3층",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%95%84%EB%A5%B4%EB%96%BC%EC%84%9C%EC%9A%B8",
+        "placeUrl": "https://m.place.naver.com/place/2071576067/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -6712,6 +7216,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 266,
+        "blog": 4441,
+        "placeId": "1897374821",
+        "placeName": "JK아트컨벤션",
+        "placeAddress": "서울특별시 영등포구 문래로 164 SK리더스뷰 4층 JK아트컨벤션",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=JK%EC%95%84%ED%8A%B8%EC%BB%A8%EB%B2%A4%EC%85%98",
+        "placeUrl": "https://m.place.naver.com/place/1897374821/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -6838,6 +7356,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 49,
+        "blog": 2629,
+        "placeId": "20050468",
+        "placeName": "규수당 문래점",
+        "placeAddress": "서울특별시 영등포구 문래로 164 SK리더스뷰 2층",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EA%B7%9C%EC%88%98%EB%8B%B9%20%EB%AC%B8%EB%9E%98%EC%A0%90",
+        "placeUrl": "https://m.place.naver.com/place/20050468/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -7016,6 +7548,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 4,
+        "blog": 1370,
+        "placeId": "2070513853",
+        "placeName": "더베르G 웨딩",
+        "placeAddress": "서울특별시 영등포구 국회대로 612 지상2층,지하1층",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%8D%94%EB%B2%A0%EB%A5%B4G",
+        "placeUrl": "https://m.place.naver.com/place/2070513853/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -7192,6 +7738,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 63,
+        "blog": 2540,
+        "placeId": "30811749",
+        "placeName": "웨딩여율리",
+        "placeAddress": "서울특별시 영등포구 국제금융로6길 26 한국노총빌딩 5층",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%9B%A8%EB%94%A9%EC%97%AC%EC%9C%A8%EB%A6%AC",
+        "placeUrl": "https://m.place.naver.com/place/30811749/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -7378,6 +7938,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 32,
+        "blog": 2029,
+        "placeId": "1462458894",
+        "placeName": "웨스턴베니비스 영등포",
+        "placeAddress": "서울특별시 영등포구 국회대로 558",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%9B%A8%EC%8A%A4%ED%84%B4%EB%B2%A0%EB%8B%88%EB%B9%84%EC%8A%A4%20%EC%98%81%EB%93%B1%ED%8F%AC",
+        "placeUrl": "https://m.place.naver.com/place/1462458894/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -7573,6 +8147,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 84,
+        "blog": 1554,
+        "placeId": "32699755",
+        "placeName": "루나미엘레",
+        "placeAddress": "서울특별시 영등포구 여의공원로 101 CCMM빌딩 12층",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%A3%A8%EB%82%98%EB%AF%B8%EC%97%98%EB%A0%88",
+        "placeUrl": "https://m.place.naver.com/place/32699755/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -7770,6 +8358,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 9,
+        "blog": 783,
+        "placeId": "36417166",
+        "placeName": "FKI플라자",
+        "placeAddress": "서울특별시 영등포구 여의대로 24 컨퍼런스센터 1층 FKI플라자",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=FKI%ED%94%8C%EB%9D%BC%EC%9E%90",
+        "placeUrl": "https://m.place.naver.com/place/36417166/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -7886,6 +8488,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 1417,
+        "blog": 3529,
+        "placeId": "35877451",
+        "placeName": "글래드 여의도",
+        "placeAddress": "서울 영등포구 의사당대로 16",
+        "category": "호텔",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EA%B8%80%EB%9E%98%EB%93%9C%20%EC%97%AC%EC%9D%98%EB%8F%84",
+        "placeUrl": "https://m.place.naver.com/place/35877451/home",
+        "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
+        "note": ""
       }
     },
     {
@@ -8062,6 +8678,20 @@ const venueCatalog = {
             }
           ]
         }
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 1135,
+        "blog": 4658,
+        "placeId": "36769110",
+        "placeName": "켄싱턴호텔 여의도",
+        "placeAddress": "서울 영등포구 국회대로76길 16",
+        "category": "콘도,리조트",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%BC%84%EC%8B%B1%ED%84%B4%ED%98%B8%ED%85%94%20%EC%97%AC%EC%9D%98%EB%8F%84",
+        "placeUrl": "https://m.place.naver.com/place/36769110/home",
+        "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
+        "note": ""
       }
     },
     {
@@ -8185,6 +8815,20 @@ const venueCatalog = {
           ]
         },
         "availabilityNote": "실내 예식 상품만 비교합니다. 야외 상품은 제외했습니다."
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "unconfirmed",
+        "visitor": null,
+        "blog": null,
+        "placeId": null,
+        "placeName": null,
+        "placeAddress": null,
+        "category": null,
+        "sourceUrl": "https://search.naver.com/search.naver?query=%ED%95%98%EC%9A%B0%EC%8A%A4%EC%98%A4%EB%B8%8C%EC%BD%A9%EB%91%90%20%EC%97%AC%EC%9D%98%EB%8F%84",
+        "placeUrl": null,
+        "scope": "동일 주소의 플레이스 리뷰 수 미확인",
+        "note": ""
       }
     },
     {
@@ -8374,6 +9018,20 @@ const venueCatalog = {
           ]
         },
         "availabilityNote": "실내 예식 상품만 비교합니다. 야외 상품은 제외했습니다."
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 2601,
+        "blog": 2057,
+        "placeId": "13217405",
+        "placeName": "코트야드 메리어트 서울 타임스퀘어",
+        "placeAddress": "서울 영등포구 영중로 15 타임스퀘어",
+        "category": "호텔",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%BD%94%ED%8A%B8%EC%95%BC%EB%93%9C%20%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8%20%EC%84%9C%EC%9A%B8%20%ED%83%80%EC%9E%84%EC%8A%A4%ED%80%98%EC%96%B4",
+        "placeUrl": "https://m.place.naver.com/place/13217405/home",
+        "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
+        "note": ""
       }
     },
     {
@@ -8449,6 +9107,20 @@ const venueCatalog = {
           ]
         },
         "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": null,
+        "blog": 8,
+        "placeId": "11493592",
+        "placeName": "일산컨벤션웨딩홀뷔페",
+        "placeAddress": "경기도 고양시 덕양구 화중로 50 대산프라자",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%9D%BC%EC%82%B0%EC%BB%A8%EB%B2%A4%EC%85%98%EC%9B%A8%EB%94%A9%ED%99%80%EB%B7%94%ED%8E%98",
+        "placeUrl": "https://m.place.naver.com/place/11493592/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": "방문자리뷰 숫자 미표시. 0건으로 간주하지 않음."
       }
     },
     {
@@ -8514,6 +9186,20 @@ const venueCatalog = {
           "blogReferences": []
         },
         "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": null,
+        "blog": 29,
+        "placeId": "1765085901",
+        "placeName": "베이스",
+        "placeAddress": "서울특별시 서대문구 성산로 309-14 5층",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%84%B1%EC%82%B0%EB%A1%9C%20309-14",
+        "placeUrl": "https://m.place.naver.com/place/1765085901/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": "방문자리뷰 숫자 미표시. 0건으로 간주하지 않음."
       }
     },
     {
@@ -8598,6 +9284,20 @@ const venueCatalog = {
           ]
         },
         "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "matched",
+        "visitor": 26,
+        "blog": 18,
+        "placeId": "1332476804",
+        "placeName": "예스에이피엠컨벤시아",
+        "placeAddress": "서울특별시 서대문구 이화여대1길 10",
+        "category": "예식장",
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%98%88%EC%8A%A4%EC%97%90%EC%9D%B4%ED%94%BC%EC%97%A0%EC%BB%A8%EB%B2%A4%EC%8B%9C%EC%95%84",
+        "placeUrl": "https://m.place.naver.com/place/1332476804/home",
+        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
+        "note": ""
       }
     },
     {
@@ -8674,6 +9374,20 @@ const venueCatalog = {
           "blogReferences": []
         },
         "comparisonNote": "공식·개인 후기에서 동일 시설의 적용기간과 포함 항목을 확인할 수 있는 대관료·성인 식대 자료를 확보하지 못했습니다. 검색된 지역 평균·총예산·다른 지점 가격은 사용하지 않았습니다."
+      },
+      "reviews": {
+        "checkedAt": "2026-11-22",
+        "status": "unconfirmed",
+        "visitor": null,
+        "blog": null,
+        "placeId": null,
+        "placeName": null,
+        "placeAddress": null,
+        "category": null,
+        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%9B%A8%EB%94%A9%ED%99%80%20%EC%B0%BD%EC%B2%9C%EB%8F%99",
+        "placeUrl": null,
+        "scope": "동일 주소의 플레이스 리뷰 수 미확인",
+        "note": "마포구 곤자가컨벤션 리뷰는 사용하지 않음."
       }
     }
   ],
@@ -9168,5 +9882,9 @@ const venueCatalog = {
       ]
     },
     "scopeNote": "8개 지역 51개 후보를 명칭별로 검색했습니다. 아래는 업체 공시·공식 안내·중개 공개가의 참고 가격이며, 2027년 9~11월 확정 견적이 아닙니다. 적용연도·홀·보증인원·필수 별도비용을 출처별로 구분했습니다. 2025·2026년 가을의 날짜별 계약 견적은 미확보입니다."
+  },
+  "reviewScope": {
+    "checkedAt": "2026-11-22",
+    "methodology": "네이버 명칭 검색의 플레이스 표시 집계. 업체명과 주소를 대조하여 지점 선택. 방문자리뷰와 블로그 리뷰는 합산 선택 시에만 더함. 호텔 전체 리뷰는 웨딩 전용 후기 수가 아님. 검색 집계의 갱신 시차와 광고·협찬 글이 포함될 수 있음. 미표시는 null로 보존."
   }
 };
