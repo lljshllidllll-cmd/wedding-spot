@@ -10,9 +10,24 @@
   <link rel="stylesheet" href="styles.css?v=20261123-chick-v1">
   <link rel="stylesheet" href="gallery.css?v=20261123-chick-v1">
   <link rel="stylesheet" href="pricing.css?v=20261123-chick-v1">
-  <link rel="stylesheet" href="theme.css?v=20261123-guide-v1">
+  <link rel="stylesheet" href="theme.css?v=20261123-gate-v1">
 </head>
-<body>
+<body class="site-locked">
+  <div id="entry-gate" class="entry-gate" aria-labelledby="entry-title">
+    <div class="gate-sun gate-sun-one" aria-hidden="true"></div><div class="gate-sun gate-sun-two" aria-hidden="true"></div>
+    <div class="gate-card">
+      <div class="gate-mark"><img src="chick.svg" alt=""><span>우당탕탕 결혼식 대작전</span></div>
+      <p class="gate-eyebrow">WELCOME TO OUR WEDDING PLAN</p>
+      <h1 id="entry-title">우리의 예식장 찾기,<br><em>함께 시작해요!</em></h1>
+      <p class="gate-description">비밀번호를 입력하면 후보 예식장과 조사 자료를 볼 수 있어요.</p>
+      <form id="entry-form" class="gate-form" novalidate>
+        <label for="entry-password">비밀번호</label>
+        <div class="gate-form-row"><input id="entry-password" type="password" inputmode="numeric" autocomplete="current-password" maxlength="4" placeholder="4자리 숫자" aria-describedby="entry-error" required><button type="submit">들어가기 <span aria-hidden="true">→</span></button></div>
+        <p id="entry-error" class="gate-error" role="alert" aria-live="polite"></p>
+      </form>
+    </div>
+    <div class="gate-ground" aria-hidden="true"><span class="gate-track"></span><img class="gate-rolling-chick" src="chick.svg" alt=""><span class="gate-grass gate-grass-one"></span><span class="gate-grass gate-grass-two"></span><span class="gate-grass gate-grass-three"></span></div>
+  </div>
   <div class="app-shell">
     <header class="site-header">
       <a class="brand" href="#venues" aria-label="우당탕탕 결혼식 대작전 홈"><img class="brand-chick" src="chick.svg" alt=""><span>우당탕탕 <strong>결혼식 대작전</strong></span></a>
@@ -92,6 +107,6 @@
     <div class="gallery-source"><span>사진 제공: 해당 시설 공식 사이트 · 2026. 11. 22. 확인</span><a id="photo-source" target="_blank" rel="noopener noreferrer">출처 페이지 ↗</a><a id="photo-original" target="_blank" rel="noopener noreferrer">원본 이미지 ↗</a></div>
   </dialog>
   <script src="catalog.js?v=20261123-scope-v2" defer></script>
-  <script src="script.js?v=20261123-guide-v1" defer></script>
+  <script src="script.js?v=20261123-gate-v1" defer></script>
 </body>
 </html>
