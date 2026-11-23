@@ -1,3 +1,31 @@
+const entryKey = 'wedding-spot-entry-v1';
+const entryForm = document.querySelector('#entry-form');
+const entryPassword = document.querySelector('#entry-password');
+const entryError = document.querySelector('#entry-error');
+try {
+  if (sessionStorage.getItem(entryKey) === 'unlocked') document.body.classList.remove('site-locked');
+} catch { /* 저장 공간을 사용할 수 없어도 현재 탭에서 입장할 수 있습니다. */ }
+entryForm.addEventListener('submit', event => {
+  event.preventDefault();
+  if (entryPassword.value !== '0611') {
+    entryError.textContent = '비밀번호가 맞지 않습니다. 다시 입력해 주세요.';
+    entryPassword.setAttribute('aria-invalid', 'true');
+    entryPassword.focus();
+    entryPassword.select();
+    return;
+  }
+  try { sessionStorage.setItem(entryKey, 'unlocked'); } catch { /* 현재 화면에서는 입장할 수 있습니다. */ }
+  entryError.textContent = '';
+  entryPassword.removeAttribute('aria-invalid');
+  entryPassword.value = '';
+  document.body.classList.remove('site-locked');
+  document.querySelector('.brand').focus();
+});
+entryPassword.addEventListener('input', () => {
+  entryError.textContent = '';
+  entryPassword.removeAttribute('aria-invalid');
+});
+
 const { regions, venues, excluded, statusLabels } = venueCatalog;
 
 const tabsElement = document.querySelector("#region-tabs");
