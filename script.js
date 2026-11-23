@@ -3,9 +3,7 @@ const { regions, venues, excluded, statusLabels } = venueCatalog;
 const tabsElement = document.querySelector("#region-tabs");
 const listElement = document.querySelector("#venue-list");
 const searchElement = document.querySelector("#search");
-const statusElement = document.querySelector("#status-filter");
 const reviewSortElement = document.querySelector('#review-sort');
-const photoFilter = document.querySelector('#photo-filter');
 let selectedRegion = regions[0].id;
 const choiceStorageKey = 'wedding-spot-choices-v1';
 const choiceLimits = { first: 3, second: 5 };
@@ -127,8 +125,7 @@ function renderVenues() {
   const query = searchElement.value.trim().toLocaleLowerCase("ko");
   const filtered = all.filter(venue => {
     const matchesText = `${venue.name} ${venue.address} ${venue.aliases.join(' ')}`.toLocaleLowerCase("ko").includes(query);
-    const matchesStatus = statusElement.value === 'all' || venue.status === statusElement.value;
-    return matchesText && matchesStatus && (!photoFilter.checked || venue.photos.length > 0);
+    return matchesText;
   });
   filtered.sort((a,b)=>compareReviews(a,b,reviewSortElement.value));
   document.querySelector('#review-sort-note').textContent=({visitor:'방문자리뷰 많은 순 · 동률은 블로그 리뷰순',blog:'블로그 리뷰 많은 순 · 동률은 방문자리뷰순',total:'방문자·블로그 합계순 · 두 건수가 모두 확인된 업체 기준'})[reviewSortElement.value]+' · 건수 미확인 업체는 뒤에 표시합니다. 확인 2026. 11. 22. 호텔·뷔페는 숙박·식음·돌잔치 등 전체 리뷰가 포함되며, 리뷰 수가 예식 품질을 뜻하지 않습니다.';
@@ -170,7 +167,6 @@ tabsElement.addEventListener("keydown", event => {
   selectRegion(regions[next].id, true);
 });
 searchElement.addEventListener("input", renderVenues);
-statusElement.addEventListener("change", renderVenues);
 reviewSortElement.addEventListener("change",renderVenues);
 
 const excludedSearchElement=document.querySelector('#excluded-search');
@@ -197,7 +193,7 @@ const countStatus = status => venues.filter(v=>v.status===status).length;
 document.querySelector('#survey-total').textContent = `${regions.length}개 지역 · 조사 후보 ${venues.length}곳 · 제외 ${excluded.length}곳`;
 document.querySelector('#survey-metrics').innerHTML = Object.entries(statusLabels).map(([status,label])=>`<div><strong>${countStatus(status)}</strong><span>${escapeHtml(label)}</span></div>`).join('');
 document.querySelector('#survey-region-rows').innerHTML = regions.map(r=>`<tr><th scope="row"><a href="#venues" data-survey-region="${r.id}">${escapeHtml(r.name)}</a></th><td>${venues.filter(v=>v.region===r.id).length}</td>${Object.keys(statusLabels).map(s=>`<td>${venues.filter(v=>v.region===r.id&&v.status===s).length}</td>`).join('')}</tr>`).join('');
-document.querySelector('#survey-region-rows').addEventListener('click',event=>{const link=event.target.closest('[data-survey-region]');if(link){statusElement.value='all';selectRegion(link.dataset.surveyRegion);}});
+document.querySelector('#survey-region-rows').addEventListener('click',event=>{const link=event.target.closest('[data-survey-region]');if(link)selectRegion(link.dataset.surveyRegion);});
 document.querySelector('#survey-other-records').innerHTML = venueCatalog.nonVenues.map(v=>`<p><strong>${escapeHtml(v.name)}</strong> · ${escapeHtml(v.address)}<br>${escapeHtml(v.reason)} <a href="${escapeHtml(v.source)}" target="_blank" rel="noopener noreferrer">근거</a></p>`).join('');
 
 window.addEventListener("hashchange", renderView);
@@ -244,6 +240,5 @@ photoDialog.addEventListener('keydown',event=>{if(event.key==='ArrowLeft'||event
 photoDialog.addEventListener('click',event=>{if(event.target===photoDialog){const box=photoDialog.getBoundingClientRect();if(event.clientX<box.left||event.clientX>box.right||event.clientY<box.top||event.clientY>box.bottom)photoDialog.close();}});
 photoDialog.addEventListener('close',()=>document.body.classList.remove('gallery-open'));
 photoImage.addEventListener('error',()=>{photoImage.hidden=true;document.querySelector('#photo-error').hidden=false;});
-photoFilter.addEventListener('change',renderVenues);
 const enrichment=venueCatalog.enrichment;
 document.querySelector('#enrichment-summary').textContent=`명칭별 검색: 네이버 ${enrichment.naverResults}/${venues.length} · 구글 ${enrichment.googleResults}/${venues.length} | 사진 ${enrichment.photos}장 · 5장 확보 ${enrichment.completeGalleries}곳 · 일부 확보 ${enrichment.partialGalleries}곳 · 미확보 ${enrichment.missingGalleries}곳`;
