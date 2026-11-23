@@ -47,6 +47,9 @@ function syncChoiceOrder(id, next) {
   if (next === 'first' || next === 'second') choiceOrder[next].push(id);
   saveChoiceOrder();
 }
+function saveChoices() {
+  try { localStorage.setItem(choiceStorageKey, JSON.stringify(choices)); } catch { /* 저장 공간이 없어도 현재 선택은 유지합니다. */ }
+}
 function renderCandidates() {
   const counts = choiceCounts();
   document.querySelector('#candidate-total').textContent = `1순위 ${counts.first}/3 · 2순위 ${counts.second}/5`;
@@ -59,6 +62,12 @@ function renderCandidates() {
       return `<li class="candidate-item" draggable="true" data-candidate-id="${id}" data-tier="${tier}"><span class="candidate-rank">${index + 1}</span><div class="candidate-item-copy"><a href="#venue-${id}" data-candidate-link="${id}">${escapeHtml(venue.name)}</a><small>${escapeHtml(region.name)} · ${escapeHtml(venue.type)}</small></div><span class="candidate-drag" aria-hidden="true">⋮⋮</span><div class="candidate-move"><button type="button" data-move="up" aria-label="${escapeHtml(venue.name)} 위로 이동"${index === 0 ? ' disabled' : ''}>↑</button><button type="button" data-move="down" aria-label="${escapeHtml(venue.name)} 아래로 이동"${index === choiceOrder[tier].length - 1 ? ' disabled' : ''}>↓</button></div></li>`;
     }).join('') : '<li class="candidate-empty">아직 선택한 업체가 없습니다. <a href="#venues">예식장 찾기에서 선택하기 →</a></li>';
   }
+  const userExcluded = venues.filter(venue => choices[venue.id] === 'excluded');
+  document.querySelector('#candidate-excluded-count').textContent = `${userExcluded.length}곳`;
+  document.querySelector('#candidate-excluded-list').innerHTML = userExcluded.length ? userExcluded.map(venue => {
+    const region = regions.find(item => item.id === venue.region);
+    return `<li><span><strong>${escapeHtml(venue.name)}</strong><small>${escapeHtml(region.name)} · ${escapeHtml(venue.type)}</small></span><button type="button" data-restore-id="${venue.id}" aria-label="${escapeHtml(venue.name)} 목록에 다시 추가">목록에 다시 추가</button></li>`;
+  }).join('') : '<li class="candidate-excluded-empty">제외한 업체가 없습니다.</li>';
 }
 function choiceCounts() {
   const values = Object.values(choices);
@@ -83,7 +92,7 @@ function mapUrl(address) {
 
 function renderTabs() {
   tabsElement.innerHTML = regions.map(region => {
-    const count = venues.filter(venue => venue.region === region.id).length;
+    const count = venues.filter(venue => venue.region === region.id && choices[venue.id] !== 'excluded').length;
     const active = region.id === selectedRegion;
     return `<button type="button" class="region-tab" role="tab" id="tab-${region.id}" aria-selected="${active}" aria-controls="venue-list" tabindex="${active ? 0 : -1}" data-region="${region.id}"><span>${escapeHtml(region.name)}</span><small>${count}</small></button>`;
   }).join("");
@@ -141,6 +150,7 @@ document.querySelector('#pricing-overview').addEventListener('change', event => 
   if (!input.matches('input[data-choice-id]')) return;
   const id = input.dataset.choiceId;
   if (!venueIds.has(id) || !Object.hasOwn(choiceLabels, input.value)) return;
+  const previous = choices[id];
   const next = input.checked ? input.value : null;
   if (next && choices[id] !== next && choiceLimits[next] && choiceCounts()[next] >= choiceLimits[next]) {
     input.checked = false;
@@ -149,16 +159,19 @@ document.querySelector('#pricing-overview').addEventListener('change', event => 
   }
   if (next) choices[id] = next;
   else delete choices[id];
-  try { localStorage.setItem(choiceStorageKey, JSON.stringify(choices)); } catch { /* 저장 공간이 없어도 현재 선택은 유지합니다. */ }
+  saveChoices();
   syncChoiceOrder(id, next);
   input.closest('tr').querySelectorAll('input[data-choice-id]').forEach(box => { box.checked = choices[id] === box.value; });
-  updateChoiceStatus();
+  if (next === 'excluded' || previous === 'excluded') {
+    renderTabs();
+    renderVenues();
+  } else updateChoiceStatus();
   renderCandidates();
 });
 
 function renderVenues() {
   const region = regions.find(item => item.id === selectedRegion);
-  const all = venues.filter(venue => venue.region === selectedRegion);
+  const all = venues.filter(venue => venue.region === selectedRegion && choices[venue.id] !== 'excluded');
   const query = searchElement.value.trim().toLocaleLowerCase("ko");
   const filtered = all.filter(venue => {
     const matchesText = `${venue.name} ${venue.address} ${venue.aliases.join(' ')}`.toLocaleLowerCase("ko").includes(query);
@@ -208,6 +221,19 @@ reviewSortElement.addEventListener("change",renderVenues);
 
 const candidateView = document.querySelector('#candidates-view');
 candidateView.addEventListener('click', event => {
+  const restore = event.target.closest('[data-restore-id]');
+  if (restore) {
+    const id = restore.dataset.restoreId;
+    if (choices[id] !== 'excluded') return;
+    delete choices[id];
+    saveChoices();
+    syncChoiceOrder(id, null);
+    renderTabs();
+    renderVenues();
+    renderCandidates();
+    document.querySelector('#candidate-restore-message').textContent = `${venueById.get(id).name} 업체를 예식장 목록에 다시 추가했습니다.`;
+    return;
+  }
   const link = event.target.closest('[data-candidate-link]');
   if (link) {
     event.preventDefault();
