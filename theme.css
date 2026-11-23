@@ -131,7 +131,10 @@ a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible
 .pricing-scope,.pricing-footnote,.pricing-history,.price-period,.price-availability { color: #71654b; }
 .pricing-table th,.pricing-table td,.venue-pricing { border-color: #ebdfc5; }
 .pricing-table thead { background: #fff2c8; color: #5f512e; }
-.pricing-table td:nth-child(3),.venue-pricing summary,.source-audit a,.blog-reference a,.price-record>a { color: #8c5b08; }
+.pricing-table td:nth-child(4),.venue-pricing summary,.source-audit a,.blog-reference a,.price-record>a { color: #8c5b08; }
+.pricing-table td:nth-child(3) { color: #4f442c; font-weight: 500; }
+.pricing-table td:nth-child(4) { font-weight: 750; white-space: nowrap; }
+.pricing-table td:last-child { color: #4f442c; font-size: 14px; }
 .pricing-history,.price-comparison { background: #fff2cf; color: #6c4b17; }
 .price-comparison { border-left-color: #e5b936; }
 .price-record,.source-audit,.blog-reference,.venue-reviews { background: #fff9e9; }
@@ -148,8 +151,8 @@ a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible
   .pricing-table { width: max-content; min-width: 100%; }
   .pricing-table th,.pricing-table td { padding: 12px 9px; line-height: 1.45; vertical-align: middle; white-space: nowrap; }
   .pricing-table tbody th { width: auto; min-width: 175px; }
-  .pricing-table td:nth-child(2) { width: auto; min-width: 205px; }
-  .pricing-table td:nth-child(3) { min-width: 155px; white-space: nowrap; }
+  .pricing-table td:nth-child(3) { width: auto; min-width: 205px; white-space: nowrap; }
+  .pricing-table td:nth-child(4) { min-width: 155px; white-space: nowrap; }
   .pricing-table .review-number { min-width: 100px; }
   .pricing-table .review-number small { display: inline; max-width: none; margin: 0 0 0 8px; white-space: nowrap; }
   .pricing-table .choice-heading,.pricing-table .choice-cell { min-width: 235px; }
