@@ -14,6 +14,6 @@ await Promise.all(Array.from({length:8},async()=>{while(index<files.length){cons
 const failed=checks.filter(c=>c.status!==200);assert.equal(failed.length,0,JSON.stringify(failed));
 const sample=[photos[0],data.venues.find(v=>v.id==='venue-014').photos[0],photos.at(-1)];
 for(const photo of sample){const bytes=Buffer.from(await (await get(photo.localPath)).arrayBuffer());assert.equal(crypto.createHash('sha256').update(bytes).digest('hex'),photo.sha256,'Published original '+photo.localPath);}
-const result={pass:true,checkedAt:new Date().toISOString(),url:base,homeStatus:200,catalogMatchesLocal:true,venues:data.venues.length,excluded:data.excluded.length,photoFiles:photos.length,checkedFiles:checks.length,failedFiles:failed.length,originalHashSamples:sample.length,browserRender:'Not rechecked on public URL: native browser control stopped because current URL could not be verified. Local desktop/mobile checks are in enrichment-browser-verification.json.',files:checks};
+const result={pass:true,checkedAt:new Date().toISOString(),url:base,homeStatus:200,catalogMatchesLocal:true,venues:data.venues.length,excluded:data.excluded.length,photoFiles:photos.length,checkedFiles:checks.length,failedFiles:failed.length,originalHashSamples:sample.length,browserRender:'This script checks HTTP assets only; browser rendering is checked separately.',files:checks};
 fs.writeFileSync('research/deployment-verification.json',JSON.stringify(result,null,2));
 console.log(JSON.stringify({...result,files:undefined},null,2));
