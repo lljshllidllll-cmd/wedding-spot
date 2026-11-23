@@ -6,6 +6,7 @@ const searchElement = document.querySelector("#search");
 const reviewSortElement = document.querySelector('#review-sort');
 let selectedRegion = regions[0].id;
 const choiceStorageKey = 'wedding-spot-choices-v1';
+const choiceOrderKey = 'wedding-spot-choice-order-v1';
 const choiceLimits = { first: 3, second: 5 };
 const choiceLabels = { first: '1순위', second: '2순위', excluded: '제외' };
 const venueIds = new Set(venues.map(venue => venue.id));
@@ -25,6 +26,40 @@ function loadChoices() {
   return result;
 }
 const choices = loadChoices();
+const venueById = new Map(venues.map(venue => [venue.id, venue]));
+function loadChoiceOrder() {
+  let saved = {};
+  try { saved = JSON.parse(localStorage.getItem(choiceOrderKey) || '{}') || {}; } catch { /* 저장된 순서가 잘못되어도 선택은 유지합니다. */ }
+  const order = { first: [], second: [] };
+  for (const tier of ['first', 'second']) {
+    const valid = Array.isArray(saved[tier]) ? saved[tier] : [];
+    order[tier] = [...new Set(valid.filter(id => choices[id] === tier))];
+    for (const id of Object.keys(choices)) if (choices[id] === tier && !order[tier].includes(id)) order[tier].push(id);
+  }
+  return order;
+}
+const choiceOrder = loadChoiceOrder();
+function saveChoiceOrder() {
+  try { localStorage.setItem(choiceOrderKey, JSON.stringify(choiceOrder)); } catch { /* 저장 공간이 없어도 현재 순서는 유지합니다. */ }
+}
+function syncChoiceOrder(id, next) {
+  for (const tier of ['first', 'second']) choiceOrder[tier] = choiceOrder[tier].filter(item => item !== id);
+  if (next === 'first' || next === 'second') choiceOrder[next].push(id);
+  saveChoiceOrder();
+}
+function renderCandidates() {
+  const counts = choiceCounts();
+  document.querySelector('#candidate-total').textContent = `1순위 ${counts.first}/3 · 2순위 ${counts.second}/5`;
+  for (const tier of ['first', 'second']) {
+    document.querySelector(`#candidate-${tier}-count`).textContent = `${choiceOrder[tier].length}곳`;
+    const list = document.querySelector(`#candidate-${tier}-list`);
+    list.innerHTML = choiceOrder[tier].length ? choiceOrder[tier].map((id, index) => {
+      const venue = venueById.get(id);
+      const region = regions.find(item => item.id === venue.region);
+      return `<li class="candidate-item" draggable="true" data-candidate-id="${id}" data-tier="${tier}"><span class="candidate-rank">${index + 1}</span><div class="candidate-item-copy"><a href="#venue-${id}" data-candidate-link="${id}">${escapeHtml(venue.name)}</a><small>${escapeHtml(region.name)} · ${escapeHtml(venue.type)}</small></div><span class="candidate-drag" aria-hidden="true">⋮⋮</span><div class="candidate-move"><button type="button" data-move="up" aria-label="${escapeHtml(venue.name)} 위로 이동"${index === 0 ? ' disabled' : ''}>↑</button><button type="button" data-move="down" aria-label="${escapeHtml(venue.name)} 아래로 이동"${index === choiceOrder[tier].length - 1 ? ' disabled' : ''}>↓</button></div></li>`;
+    }).join('') : '<li class="candidate-empty">아직 선택한 업체가 없습니다. <a href="#venues">예식장 찾기에서 선택하기 →</a></li>';
+  }
+}
 function choiceCounts() {
   const values = Object.values(choices);
   return { first: values.filter(value => value === 'first').length, second: values.filter(value => value === 'second').length, excluded: values.filter(value => value === 'excluded').length };
@@ -115,8 +150,10 @@ document.querySelector('#pricing-overview').addEventListener('change', event => 
   if (next) choices[id] = next;
   else delete choices[id];
   try { localStorage.setItem(choiceStorageKey, JSON.stringify(choices)); } catch { /* 저장 공간이 없어도 현재 선택은 유지합니다. */ }
+  syncChoiceOrder(id, next);
   input.closest('tr').querySelectorAll('input[data-choice-id]').forEach(box => { box.checked = choices[id] === box.value; });
   updateChoiceStatus();
+  renderCandidates();
 });
 
 function renderVenues() {
@@ -142,7 +179,7 @@ function renderVenues() {
       `<a href="${mapUrl(venue.address)}" target="_blank" rel="noopener noreferrer">지도 보기</a>`,
       venue.website ? `<a class="primary" href="${escapeHtml(venue.website)}" target="_blank" rel="noopener noreferrer">홈페이지</a>` : ""
     ].filter(Boolean).join("");
-    return `<article class="venue-card" data-status="${venue.status}"><div class="card-head"><div><span class="card-type">${escapeHtml(venue.type)}</span> <span class="status-badge status-${venue.status}">${escapeHtml(statusLabels[venue.status])}</span><h3>${escapeHtml(venue.name)}</h3></div><span class="card-index">${String(index + 1).padStart(2,"0")}</span></div>${venue.photos.length ? `<button type="button" class="venue-cover" data-gallery="${venue.id}" aria-label="${escapeHtml(venue.name)} 사진 ${venue.photos.length}장 보기"><img src="${escapeHtml(venue.photos[0].localPath)}" alt="${escapeHtml(venue.name)} 공식 사이트 대표 이미지" loading="lazy" width="640" height="360"><span>사진 ${venue.photos.length}/5장 · 확대 보기 ↗</span></button>` : `<div class="photo-unavailable">공식 사이트 사진 미확보</div>`}<dl class="info-list">${infoRow("위치", escapeHtml(venue.address))}${infoRow("전화", phone + fieldSource(venue,"phone"), venue.phone ? "" : "unknown")}${infoRow("주차", escapeHtml(venue.parking) + fieldSource(venue,"parking"), venue.parkingKnown ? "" : "unknown")}${infoRow("홈페이지", website, venue.website ? "" : "unknown")}${infoRow("정보 출처", `<a href="${escapeHtml(venue.source)}" target="_blank" rel="noopener noreferrer">원문 확인</a>`)}</dl>${renderReviews(venue)}${renderVenuePricing(venue)}${venue.aliases.length ? `<p class="alias-note">관련·과거 표기: ${escapeHtml(venue.aliases.join(' · '))}</p>` : ''}${venue.note ? `<p class="venue-note">${escapeHtml(venue.note)}</p>` : ''}<p class="photo-note">${escapeHtml(venue.photoNote)}</p><div class="search-links">명칭 검색 <a href="${escapeHtml(venue.searchChecks.naver.url)}" target="_blank" rel="noopener noreferrer">네이버 ↗</a><a href="${escapeHtml(venue.searchChecks.google.url)}" target="_blank" rel="noopener noreferrer">구글 ↗</a></div><div class="card-actions">${links}</div></article>`;
+    return `<article class="venue-card" id="venue-${venue.id}" data-status="${venue.status}"><div class="card-head"><div><span class="card-type">${escapeHtml(venue.type)}</span> <span class="status-badge status-${venue.status}">${escapeHtml(statusLabels[venue.status])}</span><h3>${escapeHtml(venue.name)}</h3></div><span class="card-index">${String(index + 1).padStart(2,"0")}</span></div>${venue.photos.length ? `<button type="button" class="venue-cover" data-gallery="${venue.id}" aria-label="${escapeHtml(venue.name)} 사진 ${venue.photos.length}장 보기"><img src="${escapeHtml(venue.photos[0].localPath)}" alt="${escapeHtml(venue.name)} 공식 사이트 대표 이미지" loading="lazy" width="640" height="360"><span>사진 ${venue.photos.length}/5장 · 확대 보기 ↗</span></button>` : `<div class="photo-unavailable">공식 사이트 사진 미확보</div>`}<dl class="info-list">${infoRow("위치", escapeHtml(venue.address))}${infoRow("전화", phone + fieldSource(venue,"phone"), venue.phone ? "" : "unknown")}${infoRow("주차", escapeHtml(venue.parking) + fieldSource(venue,"parking"), venue.parkingKnown ? "" : "unknown")}${infoRow("홈페이지", website, venue.website ? "" : "unknown")}${infoRow("정보 출처", `<a href="${escapeHtml(venue.source)}" target="_blank" rel="noopener noreferrer">원문 확인</a>`)}</dl>${renderReviews(venue)}${renderVenuePricing(venue)}${venue.aliases.length ? `<p class="alias-note">관련·과거 표기: ${escapeHtml(venue.aliases.join(' · '))}</p>` : ''}${venue.note ? `<p class="venue-note">${escapeHtml(venue.note)}</p>` : ''}<p class="photo-note">${escapeHtml(venue.photoNote)}</p><div class="search-links">명칭 검색 <a href="${escapeHtml(venue.searchChecks.naver.url)}" target="_blank" rel="noopener noreferrer">네이버 ↗</a><a href="${escapeHtml(venue.searchChecks.google.url)}" target="_blank" rel="noopener noreferrer">구글 ↗</a></div><div class="card-actions">${links}</div></article>`;
   }).join("") : `<div class="empty-state"><strong>검색 결과가 없어요</strong>검색어 또는 주차 조건을 바꿔보세요.</div>`;
 }
 
@@ -169,6 +206,66 @@ tabsElement.addEventListener("keydown", event => {
 searchElement.addEventListener("input", renderVenues);
 reviewSortElement.addEventListener("change",renderVenues);
 
+const candidateView = document.querySelector('#candidates-view');
+candidateView.addEventListener('click', event => {
+  const link = event.target.closest('[data-candidate-link]');
+  if (link) {
+    event.preventDefault();
+    const venue = venueById.get(link.dataset.candidateLink);
+    if (!venue) return;
+    selectRegion(venue.region);
+    location.hash = `venue-${venue.id}`;
+    renderView();
+    return;
+  }
+  const button = event.target.closest('[data-move]');
+  if (!button) return;
+  const item = button.closest('[data-candidate-id]');
+  const order = choiceOrder[item.dataset.tier];
+  const index = order.indexOf(item.dataset.candidateId);
+  const next = index + (button.dataset.move === 'up' ? -1 : 1);
+  if (index < 0 || next < 0 || next >= order.length) return;
+  [order[index], order[next]] = [order[next], order[index]];
+  saveChoiceOrder();
+  renderCandidates();
+  document.querySelector(`[data-candidate-id="${item.dataset.candidateId}"] [data-move="${button.dataset.move}"]`)?.focus();
+});
+let draggedCandidate = null;
+candidateView.addEventListener('dragstart', event => {
+  const item = event.target.closest('[data-candidate-id]');
+  if (!item) return;
+  draggedCandidate = { id: item.dataset.candidateId, tier: item.dataset.tier };
+  event.dataTransfer.effectAllowed = 'move';
+  event.dataTransfer.setData('text/plain', draggedCandidate.id);
+  item.classList.add('dragging');
+});
+candidateView.addEventListener('dragover', event => {
+  const item = event.target.closest('[data-candidate-id]');
+  if (!item || !draggedCandidate || item.dataset.tier !== draggedCandidate.tier || item.dataset.candidateId === draggedCandidate.id) return;
+  event.preventDefault();
+  event.dataTransfer.dropEffect = 'move';
+  candidateView.querySelectorAll('.drop-before,.drop-after').forEach(node => node.classList.remove('drop-before','drop-after'));
+  item.classList.add(event.clientY < item.getBoundingClientRect().top + item.getBoundingClientRect().height / 2 ? 'drop-before' : 'drop-after');
+});
+candidateView.addEventListener('drop', event => {
+  const item = event.target.closest('[data-candidate-id]');
+  if (!item || !draggedCandidate || item.dataset.tier !== draggedCandidate.tier) return;
+  event.preventDefault();
+  const order = choiceOrder[draggedCandidate.tier];
+  if (item.dataset.candidateId !== draggedCandidate.id) {
+    const after = event.clientY >= item.getBoundingClientRect().top + item.getBoundingClientRect().height / 2;
+    order.splice(order.indexOf(draggedCandidate.id), 1);
+    order.splice(order.indexOf(item.dataset.candidateId) + (after ? 1 : 0), 0, draggedCandidate.id);
+    saveChoiceOrder();
+    renderCandidates();
+  }
+  draggedCandidate = null;
+});
+candidateView.addEventListener('dragend', () => {
+  draggedCandidate = null;
+  candidateView.querySelectorAll('.dragging,.drop-before,.drop-after').forEach(node => node.classList.remove('dragging','drop-before','drop-after'));
+});
+
 const excludedSearchElement=document.querySelector('#excluded-search');
 function renderExcluded(){
  const query=excludedSearchElement.value.trim().toLocaleLowerCase('ko').replace(/\s+/g,'');
@@ -180,13 +277,18 @@ excludedSearchElement.addEventListener('input',renderExcluded);
 renderExcluded();
 
 function renderView() {
-  const view = location.hash === "#excluded" ? 'excluded' : location.hash === '#survey' ? 'survey' : 'venues';
-  ['venues','excluded','survey'].forEach(id => document.querySelector(`#${id}-view`).hidden = id !== view);
+  const view = location.hash === '#candidates' ? 'candidates' : location.hash === "#excluded" ? 'excluded' : location.hash === '#survey' ? 'survey' : 'venues';
+  const venueId = /^#venue-(venue-\d+)$/.exec(location.hash)?.[1];
+  const linkedVenue = venueById.get(venueId);
+  if (linkedVenue && selectedRegion !== linkedVenue.region) selectRegion(linkedVenue.region);
+  ['candidates','venues','excluded','survey'].forEach(id => document.querySelector(`#${id}-view`).hidden = id !== view);
   document.querySelectorAll("[data-view-link]").forEach(link => {
     if (link.dataset.viewLink === view) link.setAttribute("aria-current", "page");
     else link.removeAttribute("aria-current");
   });
-  if (view !== 'venues') window.scrollTo(0, 0);
+  if (view === 'candidates') renderCandidates();
+  if (linkedVenue) requestAnimationFrame(() => document.getElementById(`venue-${venueId}`)?.scrollIntoView({block:'start'}));
+  else if (view !== 'venues') window.scrollTo(0, 0);
 }
 
 const countStatus = status => venues.filter(v=>v.status===status).length;
