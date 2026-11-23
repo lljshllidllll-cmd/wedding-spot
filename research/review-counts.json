@@ -114,20 +114,6 @@
       "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
       "note": ""
     },
-    "venue-012": {
-      "checkedAt": "2026-11-22",
-      "status": "matched",
-      "visitor": 42,
-      "blog": 2133,
-      "placeId": "38262662",
-      "placeName": "로프트가든344",
-      "placeAddress": "서울특별시 양천구 오목로 344 청학빌딩 10층",
-      "category": "예식장",
-      "sourceUrl": "https://search.naver.com/search.naver?query=%EB%A1%9C%ED%94%84%ED%8A%B8%EA%B0%80%EB%93%A0344",
-      "placeUrl": "https://m.place.naver.com/place/38262662/home",
-      "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
-      "note": ""
-    },
     "venue-013": {
       "checkedAt": "2026-11-22",
       "status": "matched",
@@ -352,20 +338,6 @@
       "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
       "note": ""
     },
-    "venue-045": {
-      "checkedAt": "2026-11-22",
-      "status": "unconfirmed",
-      "visitor": null,
-      "blog": null,
-      "placeId": null,
-      "placeName": null,
-      "placeAddress": null,
-      "category": null,
-      "sourceUrl": "https://search.naver.com/search.naver?query=%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8B%9C%20%EC%BD%94%EC%97%91%EC%8A%A4%EB%A7%88%EA%B3%A1%20%EC%9B%A8%EB%94%A9",
-      "placeUrl": null,
-      "scope": "동일 주소의 플레이스 리뷰 수 미확인",
-      "note": "강남구 코엑스 지점 리뷰는 사용하지 않음."
-    },
     "venue-046": {
       "checkedAt": "2026-11-22",
       "status": "matched",
@@ -531,34 +503,6 @@
       "category": "콘도,리조트",
       "sourceUrl": "https://search.naver.com/search.naver?query=%EC%BC%84%EC%8B%B1%ED%84%B4%ED%98%B8%ED%85%94%20%EC%97%AC%EC%9D%98%EB%8F%84",
       "placeUrl": "https://m.place.naver.com/place/36769110/home",
-      "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
-      "note": ""
-    },
-    "venue-062": {
-      "checkedAt": "2026-11-22",
-      "status": "unconfirmed",
-      "visitor": null,
-      "blog": null,
-      "placeId": null,
-      "placeName": null,
-      "placeAddress": null,
-      "category": null,
-      "sourceUrl": "https://search.naver.com/search.naver?query=%ED%95%98%EC%9A%B0%EC%8A%A4%EC%98%A4%EB%B8%8C%EC%BD%A9%EB%91%90%20%EC%97%AC%EC%9D%98%EB%8F%84",
-      "placeUrl": null,
-      "scope": "동일 주소의 플레이스 리뷰 수 미확인",
-      "note": ""
-    },
-    "venue-066": {
-      "checkedAt": "2026-11-22",
-      "status": "matched",
-      "visitor": 2601,
-      "blog": 2057,
-      "placeId": "13217405",
-      "placeName": "코트야드 메리어트 서울 타임스퀘어",
-      "placeAddress": "서울 영등포구 영중로 15 타임스퀘어",
-      "category": "호텔",
-      "sourceUrl": "https://search.naver.com/search.naver?query=%EC%BD%94%ED%8A%B8%EC%95%BC%EB%93%9C%20%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8%20%EC%84%9C%EC%9A%B8%20%ED%83%80%EC%9E%84%EC%8A%A4%ED%80%98%EC%96%B4",
-      "placeUrl": "https://m.place.naver.com/place/13217405/home",
       "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
       "note": ""
     },

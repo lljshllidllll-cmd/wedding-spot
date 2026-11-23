@@ -1957,203 +1957,6 @@ const venueCatalog = {
       }
     },
     {
-      "type": "하우스",
-      "phone": "02-2644-7823",
-      "parking": "전용·공영주차장 합계 약 800대",
-      "parkingKnown": true,
-      "website": "https://www.loftgarden344.com/mainhall",
-      "aliases": [],
-      "note": "",
-      "checkedAt": "2026-11-22",
-      "region": "yangcheon",
-      "name": "로프트가든344",
-      "address": "서울 양천구 오목로 344, 청학빌딩",
-      "source": "https://www.loftgarden344.com/_files/ugd/898cdd_465f365bdda9492d9cdf2ba031fece43.pdf",
-      "status": "official",
-      "id": "venue-012",
-      "fieldSources": {
-        "website": {
-          "url": "https://www.loftgarden344.com/mainhall",
-          "type": "official",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "searchChecks": {
-        "naver": {
-          "query": "로프트가든344 양천구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EB%A1%9C%ED%94%84%ED%8A%B8%EA%B0%80%EB%93%A0344%20%EC%96%91%EC%B2%9C%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "로프트가든344 양천구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EB%A1%9C%ED%94%84%ED%8A%B8%EA%B0%80%EB%93%A0344%20%EC%96%91%EC%B2%9C%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [
-        {
-          "alt": "메인홀-(4)-보정.jpg",
-          "height": 613,
-          "hint": "browser-dom",
-          "imageUrl": "https://static.wixstatic.com/media/898cdd_f1c61775cc76498c933a4c84621c2ed8~mv2.jpg/v1/fill/w_1225,h_613,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/898cdd_f1c61775cc76498c933a4c84621c2ed8~mv2.jpg",
-          "width": 1225,
-          "sourcePage": "https://www.loftgarden344.com/mainhall",
-          "localPath": "public/photos/venue-012-1.jpg",
-          "sha256": "ac5de7ef218aec57ad6406796e7c818084002de1931ca37080bf2ea94f75cd24",
-          "bytes": 300159,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "alt": "메인홀 (2).JPG",
-          "height": 411,
-          "hint": "browser-dom",
-          "imageUrl": "https://static.wixstatic.com/media/898cdd_e9d9a7f355c04399808a5a4ddbe6f786~mv2.jpg/v1/fill/w_675,h_411,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/898cdd_e9d9a7f355c04399808a5a4ddbe6f786~mv2.jpg",
-          "width": 675,
-          "sourcePage": "https://www.loftgarden344.com/mainhall",
-          "localPath": "public/photos/venue-012-2.jpg",
-          "sha256": "e82a0459ecd8f77371d778f0be8fd0e757885adb5980061e0d89a733e842d4e4",
-          "bytes": 126536,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "alt": "메인홀-(3).jpg-보정.jpg",
-          "height": 411,
-          "hint": "browser-dom",
-          "imageUrl": "https://static.wixstatic.com/media/898cdd_b21409786b6d47f5870b6b460169f93b~mv2.jpg/v1/fill/w_675,h_411,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/898cdd_b21409786b6d47f5870b6b460169f93b~mv2.jpg",
-          "width": 675,
-          "sourcePage": "https://www.loftgarden344.com/mainhall",
-          "localPath": "public/photos/venue-012-3.jpg",
-          "sha256": "599bf882aed5867b0db79e40147faf4923c855b1122af96f19a902749c2305fa",
-          "bytes": 114712,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "alt": "KakaoTalk_20220825_173718675_01.jpg",
-          "height": 411,
-          "hint": "browser-dom",
-          "imageUrl": "https://static.wixstatic.com/media/898cdd_7119bb18787b4dd9b1b1f52bc45b95bc~mv2.jpg/v1/fill/w_675,h_411,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/898cdd_7119bb18787b4dd9b1b1f52bc45b95bc~mv2.jpg",
-          "width": 675,
-          "sourcePage": "https://www.loftgarden344.com/mainhall",
-          "localPath": "public/photos/venue-012-4.jpg",
-          "sha256": "bfc5bd40d308f72ece5879eb67a85c1c1605872a418d342d05adfde01c5927a2",
-          "bytes": 107121,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "alt": "포토테이블.jpg",
-          "height": 411,
-          "hint": "browser-dom",
-          "imageUrl": "https://static.wixstatic.com/media/898cdd_e5bf07c8cf4b418fa06f0e8f42e4616d~mv2.jpg/v1/fill/w_675,h_411,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/898cdd_e5bf07c8cf4b418fa06f0e8f42e4616d~mv2.jpg",
-          "width": 675,
-          "sourcePage": "https://www.loftgarden344.com/mainhall",
-          "localPath": "public/photos/venue-012-5.jpg",
-          "sha256": "55f4a82fa28d6f95f2c3f67b7d62810a9154c1306801a2863e625571447ca126",
-          "bytes": 112445,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        }
-      ],
-      "photoStatus": "complete",
-      "photoNote": "공식 사이트 공개 이미지 5/5장 · 촬영일 미공개",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "900만원",
-        "mealSummary": "80,000원",
-        "summaryType": "중개업체 공개가 · 적용기간은 상세 확인",
-        "records": [
-          {
-            "label": "로프트가든344",
-            "kind": "중개업체 공개가",
-            "period": "적용연도·월 미표기 · 2026-11-22 본문 조회",
-            "rental": "9,000,000원",
-            "adultMeal": "80,000원 / 성인 1인",
-            "rentalKRW": [
-              9000000,
-              9000000
-            ],
-            "adultMealKRW": [
-              80000,
-              80000
-            ],
-            "extras": "보증 최소 250명. 꽃장식 포함, 음주류 식대 포함. 연출료 필수 표기이나 별도 금액 미표기. VAT·봉사료는 별도 명시가 없으면 재확인 필요.",
-            "sourceLabel": "중개업체 공개가 원문",
-            "source": "https://www.directwedding.co.kr/weddinghall/hall0182"
-          }
-        ],
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"로프트가든344\" 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EB%A1%9C%ED%94%84%ED%8A%B8%EA%B0%80%EB%93%A0344%22%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": "https://www.loftgarden344.com/mainhall",
-            "status": "공식 페이지 접근 · 유효 가격 미확보",
-            "pages": [
-              {
-                "url": "https://www.loftgarden344.com/mainhall",
-                "title": "로프트가든344 - 메인홀"
-              },
-              {
-                "url": "https://www.loftgarden344.com/wedding-package",
-                "title": "로프트가든344 - 웨딩패키지"
-              },
-              {
-                "url": "https://www.loftgarden344.com/weddingprice",
-                "title": "로프트가든344 - 웨딩 가격 안내"
-              }
-            ],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "로프트가든344 양천구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EB%A1%9C%ED%94%84%ED%8A%B8%EA%B0%80%EB%93%A0344%20%EC%96%91%EC%B2%9C%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "로프트가든344 홀투어 후기ㅣ서울밝은홀, 가성비 , 신부 로비 하객 맞이",
-              "url": "https://blog.naver.com/haeonist/224474583923",
-              "publishedAt": "2026-11-12",
-              "readLevel": "본문 열람",
-              "priceUse": "참고 후기 · 가격 미사용",
-              "note": "작성자 경험·홍보 안내로 참고. 실제 계약서·적용일·세부 금액의 교차 확인이 되지 않아 가격 근거로 채택하지 않음.",
-              "independence": "운영사·혜택·홍보 문구 있음 / 독립 후기 여부 확인 필요"
-            }
-          ]
-        }
-      },
-      "reviews": {
-        "checkedAt": "2026-11-22",
-        "status": "matched",
-        "visitor": 42,
-        "blog": 2133,
-        "placeId": "38262662",
-        "placeName": "로프트가든344",
-        "placeAddress": "서울특별시 양천구 오목로 344 청학빌딩 10층",
-        "category": "예식장",
-        "sourceUrl": "https://search.naver.com/search.naver?query=%EB%A1%9C%ED%94%84%ED%8A%B8%EA%B0%80%EB%93%A0344",
-        "placeUrl": "https://m.place.naver.com/place/38262662/home",
-        "scope": "해당 플레이스 리뷰 · 상담·계약·하객 후기 등 포함",
-        "note": ""
-      }
-    },
-    {
       "type": "컨벤션",
       "phone": "02-6418-3000",
       "parking": "지하 1~8층 주차 전용 공간 · 부속 영남주차장 동선은 원문 확인",
@@ -5256,176 +5059,6 @@ const venueCatalog = {
       }
     },
     {
-      "type": "컨벤션",
-      "phone": "02-767-6032",
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
-      "aliases": [],
-      "note": "코엑스마곡 운영기관이 공개한 웨딩·가족연 전용 번호 사용. 일반 케이터링 번호와 구분.",
-      "checkedAt": "2026-11-22",
-      "region": "gangseo",
-      "name": "그래머시 코엑스마곡",
-      "address": "서울 강서구 마곡중앙로 143, B2·4층",
-      "status": "official",
-      "source": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
-      "id": "venue-045",
-      "fieldSources": {
-        "phone": {
-          "url": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
-          "type": "official",
-          "checkedAt": "2026-11-22"
-        },
-        "website": {
-          "url": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
-          "type": "official",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "phoneLabel": "웨딩·가족연 담당",
-      "phoneSourceType": "official",
-      "searchChecks": {
-        "naver": {
-          "query": "그래머시 코엑스마곡 강서구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8B%9C%20%EC%BD%94%EC%97%91%EC%8A%A4%EB%A7%88%EA%B3%A1%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "그래머시 코엑스마곡 강서구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8B%9C%20%EC%BD%94%EC%97%91%EC%8A%A4%EB%A7%88%EA%B3%A1%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [
-        {
-          "imageUrl": "https://coexmagok.co.kr/wp-content/uploads/2024/06/prs-bgs1-min.jpg",
-          "sourcePage": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
-          "alt": "",
-          "hint": "background",
-          "localPath": "public/photos/venue-045-1.jpg",
-          "width": 1980,
-          "height": 1320,
-          "sha256": "493b857d72ccdbc9a5ff4e05d45703e8e77ad74d273d27c7720ef63ae5eb31b1",
-          "bytes": 133067,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "https://coexmagok.co.kr/wp-content/uploads/2024/06/prs-bgs4-min.jpg",
-          "sourcePage": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
-          "alt": "",
-          "hint": "background",
-          "localPath": "public/photos/venue-045-2.jpg",
-          "width": 2000,
-          "height": 1326,
-          "sha256": "9756dc81e43b74f71f23cd4f27da54444eaa6902758c69962d65334893fefff6",
-          "bytes": 232738,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        }
-      ],
-      "photoStatus": "partial",
-      "photoNote": "공식 사이트 공개 이미지 2/5장 · 촬영일 미공개",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "별도 대관료 공시 없음",
-        "mealSummary": "77,000~130,000원",
-        "summaryType": "한국소비자원 게시 업체 공시 · 적용기간은 상세 확인",
-        "records": [
-          {
-            "label": "스퀘어볼룸",
-            "kind": "한국소비자원 게시 업체 공시",
-            "period": "2026-11-22 공시 원본 조회 · 예식 적용연도·월 미표기",
-            "rental": "별도 대관료 미기재 (무료 의미 아님)",
-            "adultMeal": "77,000원~130,000원 / 성인 1인",
-            "rentalKRW": null,
-            "adultMealKRW": [
-              77000,
-              130000
-            ],
-            "extras": "보증 150명 이상. 연출료 400만원, 플라워 500만원부터 별도. VAT 포함. 음주류 별도. 대관료 항목은 미기재.",
-            "sourceLabel": "한국소비자원 게시 업체 공시 원문",
-            "source": "https://www.price.go.kr/tprice/common/file/file_down.do?fileRgtnSeq=31491"
-          },
-          {
-            "label": "르웨스트홀",
-            "kind": "한국소비자원 게시 업체 공시",
-            "period": "2026-11-22 공시 원본 조회 · 예식 적용연도·월 미표기",
-            "rental": "별도 대관료 미기재 (무료 의미 아님)",
-            "adultMeal": "77,000원~130,000원 / 성인 1인",
-            "rentalKRW": null,
-            "adultMealKRW": [
-              77000,
-              130000
-            ],
-            "extras": "보증 300명 이상. 연출료 450만원, 플라워 600만원부터 별도. VAT 포함. 음주류 별도. 대관료 항목은 미기재.",
-            "sourceLabel": "한국소비자원 게시 업체 공시 원문",
-            "source": "https://www.price.go.kr/tprice/common/file/file_down.do?fileRgtnSeq=31491"
-          }
-        ],
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"그래머시 코엑스마곡\" 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8B%9C%20%EC%BD%94%EC%97%91%EC%8A%A4%EB%A7%88%EA%B3%A1%22%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
-            "status": "공식 가격 원문 확보",
-            "pages": [
-              {
-                "url": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
-                "title": "GRAMERCY | 코엑스마곡 컨벤션센터"
-              },
-              {
-                "url": "https://coexmagok.co.kr/exhibition-hall/rental-cost/rent/",
-                "title": "2027년 임대비용 | 코엑스마곡 컨벤션센터"
-              }
-            ],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "그래머시 코엑스마곡 강서구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8B%9C%20%EC%BD%94%EC%97%91%EC%8A%A4%EB%A7%88%EA%B3%A1%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "[강서구웨딩홀⑤] 마곡코엑스 그래머시마곡 27년 하반기 견적공유 당일혜택 (식대,대관료)",
-              "url": "https://blog.naver.com/hahyolife/224437844149",
-              "publishedAt": "2026-10-11",
-              "readLevel": "본문 열람",
-              "priceUse": "비공개 견적 · 금액 미사용",
-              "note": "가격은 댓글·메일 등으로 공유되며 공개 본문만으로 날짜별 대관료·식대 확정 불가.",
-              "independence": "운영사·혜택·홍보 문구 있음 / 독립 후기 여부 확인 필요"
-            }
-          ]
-        }
-      },
-      "reviews": {
-        "checkedAt": "2026-11-22",
-        "status": "unconfirmed",
-        "visitor": null,
-        "blog": null,
-        "placeId": null,
-        "placeName": null,
-        "placeAddress": null,
-        "category": null,
-        "sourceUrl": "https://search.naver.com/search.naver?query=%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8B%9C%20%EC%BD%94%EC%97%91%EC%8A%A4%EB%A7%88%EA%B3%A1%20%EC%9B%A8%EB%94%A9",
-        "placeUrl": null,
-        "scope": "동일 주소의 플레이스 리뷰 수 미확인",
-        "note": "강남구 코엑스 지점 리뷰는 사용하지 않음."
-      }
-    },
-    {
       "type": "호텔",
       "phone": "02-2138-0987",
       "parking": "공개자료에서 확인되지 않음",
@@ -7643,346 +7276,6 @@ const venueCatalog = {
         "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
         "note": ""
       }
-    },
-    {
-      "type": "하우스",
-      "phone": "02-722-7002",
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": "https://congdu.co.kr/",
-      "aliases": [
-        "세상의 모든 아침 여의도"
-      ],
-      "note": "FKI플라자와 같은 건물이지만 별도 층·브랜드·상품으로 구분. 비교 대상은 실내 예식 상품만 포함합니다.",
-      "checkedAt": "2026-11-22",
-      "region": "yeongdeungpo",
-      "name": "하우스 오브 콩두",
-      "address": "서울 영등포구 여의대로 24, FKI타워 50층",
-      "status": "official",
-      "source": "https://congdu.co.kr/wedding/",
-      "id": "venue-062",
-      "indoorOnly": true,
-      "searchChecks": {
-        "naver": {
-          "query": "하우스 오브 콩두 영등포구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%ED%95%98%EC%9A%B0%EC%8A%A4%20%EC%98%A4%EB%B8%8C%20%EC%BD%A9%EB%91%90%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "하우스 오브 콩두 영등포구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%ED%95%98%EC%9A%B0%EC%8A%A4%20%EC%98%A4%EB%B8%8C%20%EC%BD%A9%EB%91%90%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [],
-      "photoStatus": "missing",
-      "photoNote": "실내 예식 상품의 공식 사진 미확보",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "880만원 · 대관·연출 / 행사 조건",
-        "mealSummary": "135,000원 · 2027년 행사 조건",
-        "summaryType": "2027년 3~12월 한정 프로모션 · 꽃 별도",
-        "records": [
-          {
-            "label": "하우스 오브 콩두 50층 / 공개 정가",
-            "kind": "중개업체 공개가",
-            "period": "적용연도·월 미표기 · 2026-11-22 본문 조회",
-            "rental": "15,500,000원",
-            "adultMeal": "150,000원 / 성인 1인",
-            "rentalKRW": [
-              15500000,
-              15500000
-            ],
-            "adultMealKRW": [
-              150000,
-              150000
-            ],
-            "extras": "실내 하우스 예식. 보증 100명, 최대 300명. 필수 플라워는 홀 상세 990만원이나 프로모션의 할인 전 디렉팅·플라워 1,350만원과 구성·금액 차이가 있어 확인 필요. 음주류 별도, VAT·봉사료 포함.",
-            "sourceLabel": "중개업체 공개가 원문",
-            "source": "https://myweddingstory.co.kr/venue/699?event=213"
-          },
-          {
-            "label": "하우스 오브 콩두 50층 / 2027년 3~12월 프로모션",
-            "kind": "중개업체 기간 한정 프로모션",
-            "period": "예식 2027년 3~12월 명시 · 행사 게시 2026-10-01~12-31 · 2026-11-22 조회",
-            "rental": "8,800,000원",
-            "adultMeal": "135,000원 / 성인 1인",
-            "rentalKRW": [
-              8800000,
-              8800000
-            ],
-            "adultMealKRW": [
-              135000,
-              135000
-            ],
-            "extras": "대관·연출 묶음 880만원. 디렉팅·플라워 1,100만원 별도. 최초 보증 100명 이상. 행사 적용기간과 별개로 프로모션 게시 기간은 2026-10-01~12-31로 안내되므로 계약·잔여타임 조건 확인 필요. 음주류 별도, VAT·봉사료 포함.",
-            "sourceLabel": "중개업체 기간 한정 프로모션 원문",
-            "source": "https://myweddingstory.co.kr/venue/699?event=213"
-          }
-        ],
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"하우스 오브 콩두\" 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%ED%95%98%EC%9A%B0%EC%8A%A4%20%EC%98%A4%EB%B8%8C%20%EC%BD%A9%EB%91%90%22%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": "https://congdu.co.kr/",
-            "status": "공식 페이지 접근 · 유효 가격 미확보",
-            "pages": [
-              {
-                "url": "https://congdu.co.kr/",
-                "title": "CONGDU - Contemporary Korean Food & Culture Platform"
-              },
-              {
-                "url": "https://congdu.co.kr/wedding/",
-                "title": "Wedding - HOUSE of CONGDU"
-              }
-            ],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "하우스 오브 콩두 영등포구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%ED%95%98%EC%9A%B0%EC%8A%A4%20%EC%98%A4%EB%B8%8C%20%EC%BD%A9%EB%91%90%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "하우스 오브 콩두 웨딩홀 투어 후기｜한강뷰와 박효남 명장 코스, 그만큼 높은 견적",
-              "url": "https://blog.naver.com/jiyou5164/224449051170",
-              "publishedAt": "2026-10-26",
-              "readLevel": "본문 열람",
-              "priceUse": "참고 후기 · 가격 미사용",
-              "note": "작성자 경험·홍보 안내로 참고. 실제 계약서·적용일·세부 금액의 교차 확인이 되지 않아 가격 근거로 채택하지 않음.",
-              "independence": "운영사·혜택·홍보 문구 있음 / 독립 후기 여부 확인 필요"
-            }
-          ]
-        },
-        "availabilityNote": "실내 예식 상품만 비교합니다. 야외 상품은 제외했습니다."
-      },
-      "reviews": {
-        "checkedAt": "2026-11-22",
-        "status": "unconfirmed",
-        "visitor": null,
-        "blog": null,
-        "placeId": null,
-        "placeName": null,
-        "placeAddress": null,
-        "category": null,
-        "sourceUrl": "https://search.naver.com/search.naver?query=%ED%95%98%EC%9A%B0%EC%8A%A4%EC%98%A4%EB%B8%8C%EC%BD%A9%EB%91%90%20%EC%97%AC%EC%9D%98%EB%8F%84",
-        "placeUrl": null,
-        "scope": "동일 주소의 플레이스 리뷰 수 미확인",
-        "note": ""
-      }
-    },
-    {
-      "type": "호텔",
-      "phone": "02-2638-3000",
-      "parking": "공개자료에서 확인되지 않음",
-      "parkingKnown": false,
-      "website": "https://www.marriott.com/ko/hotels/selcy-courtyard-seoul-times-square/events/",
-      "aliases": [],
-      "note": "대표전화. 웨딩 전용 상담번호로 단정하지 않음. 비교 대상은 실내 예식 상품만 포함합니다.",
-      "checkedAt": "2026-11-22",
-      "region": "yeongdeungpo",
-      "name": "코트야드 메리어트 서울 타임스퀘어",
-      "address": "서울 영등포구 영중로 15, 타임스퀘어",
-      "status": "official",
-      "source": "https://www.marriott.com/ko/hotels/selcy-courtyard-seoul-times-square/events/",
-      "id": "venue-066",
-      "indoorOnly": true,
-      "searchChecks": {
-        "naver": {
-          "query": "코트야드 메리어트 서울 타임스퀘어 영등포구 홈페이지 전화 주차",
-          "url": "https://search.naver.com/search.naver?query=%EC%BD%94%ED%8A%B8%EC%95%BC%EB%93%9C%20%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8%20%EC%84%9C%EC%9A%B8%20%ED%83%80%EC%9E%84%EC%8A%A4%ED%80%98%EC%96%B4%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        },
-        "google": {
-          "query": "코트야드 메리어트 서울 타임스퀘어 영등포구 홈페이지 전화 주차",
-          "url": "https://www.google.com/search?q=%EC%BD%94%ED%8A%B8%EC%95%BC%EB%93%9C%20%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8%20%EC%84%9C%EC%9A%B8%20%ED%83%80%EC%9E%84%EC%8A%A4%ED%80%98%EC%96%B4%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%ED%99%94%20%EC%A3%BC%EC%B0%A8",
-          "status": "results",
-          "checkedAt": "2026-11-22"
-        }
-      },
-      "photos": [
-        {
-          "imageUrl": "https://cache.marriott.com/content/dam/marriott-renditions/SELCY/selcy-junior-ballroom-2307-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
-          "sourcePage": "https://www.marriott.com/ko/hotels/selcy-courtyard-seoul-times-square/photos/",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-066-1.jpg",
-          "width": 1336,
-          "height": 751,
-          "sha256": "9c31cd1f1537608729e0736d1cc0dade3994df038ff7096e4d0f274b463f60ed",
-          "bytes": 284810,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "https://cache.marriott.com/content/dam/marriott-renditions/SELCY/selcy-junior-ballroom-2305-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
-          "sourcePage": "https://www.marriott.com/ko/hotels/selcy-courtyard-seoul-times-square/photos/",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-066-2.jpg",
-          "width": 1336,
-          "height": 751,
-          "sha256": "af45804bcea502e33b1e8e01270298dd9591c84986260581ea39f62e254619d9",
-          "bytes": 292037,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "https://cache.marriott.com/content/dam/marriott-renditions/SELCY/selcy-junior-ballroom-2309-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
-          "sourcePage": "https://www.marriott.com/ko/hotels/selcy-courtyard-seoul-times-square/photos/",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-066-3.jpg",
-          "width": 1336,
-          "height": 751,
-          "sha256": "92d61f0ccbde4564b23046543c6bb6455ac837e2b399df2e842dad73d45cefc6",
-          "bytes": 309945,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "https://cache.marriott.com/content/dam/marriott-renditions/SELCY/selcy-junior-ballroom-2308-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
-          "sourcePage": "https://www.marriott.com/ko/hotels/selcy-courtyard-seoul-times-square/photos/",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-066-4.jpg",
-          "width": 1336,
-          "height": 751,
-          "sha256": "0f89044482b0db0ba3f529069a46badb7ad58b4dde4b20f1668f0f1c6cbe664b",
-          "bytes": 312278,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        },
-        {
-          "imageUrl": "https://cache.marriott.com/content/dam/marriott-renditions/SELCY/selcy-junior-ballroom-2306-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
-          "sourcePage": "https://www.marriott.com/ko/hotels/selcy-courtyard-seoul-times-square/photos/",
-          "alt": "",
-          "hint": "embedded",
-          "localPath": "public/photos/venue-066-5.jpg",
-          "width": 1336,
-          "height": 751,
-          "sha256": "f0e328f22b288029fb010c981d622143a0471672546996a8e39b159da7770aea",
-          "bytes": 203477,
-          "checkedAt": "2026-11-22",
-          "reviewStatus": "visually-reviewed",
-          "reviewedAt": "2026-11-22"
-        }
-      ],
-      "photoStatus": "complete",
-      "photoNote": "공식 사이트 공개 이미지 5/5장 · 촬영일 미공개",
-      "pricing": {
-        "historical": {
-          "2025": "9~11월 적용 견적 미확보",
-          "2026": "9~11월 적용 견적 미확보"
-        },
-        "rentalSummary": "330 / 550만원 · 실내홀",
-        "mealSummary": "100,000~190,000원",
-        "summaryType": "공식 운영사 네이버 블로그 · 적용기간은 상세 확인",
-        "records": [
-          {
-            "label": "보드룸 / 가족웨딩",
-            "kind": "공식 운영사 네이버 블로그",
-            "period": "게시 2025-07-15 · 소비자원 2026-09-18 공시에서 연결 · 예식 적용연도·월 미표기",
-            "rental": "3,300,000원",
-            "adultMeal": "100,000원~190,000원 / 성인 1인",
-            "rentalKRW": [
-              3300000,
-              3300000
-            ],
-            "adultMealKRW": [
-              100000,
-              190000
-            ],
-            "extras": "최소 20명. 코스 A 10만/B 13만/C 19만원. 꽃장식 275만원 별도. 연출·디렉팅은 대관료 포함, 세금·봉사료 포함, 음주류 별도.",
-            "sourceLabel": "공식 운영사 네이버 블로그 원문",
-            "source": "https://blog.naver.com/courtyard_timesquare/223934442903"
-          },
-          {
-            "label": "주니어볼룸 / 스몰웨딩",
-            "kind": "공식 운영사 네이버 블로그",
-            "period": "게시 2025-07-15 · 소비자원 2026-09-18 공시에서 연결 · 예식 적용연도·월 미표기",
-            "rental": "5,500,000원",
-            "adultMeal": "100,000원~120,000원 / 성인 1인",
-            "rentalKRW": [
-              5500000,
-              5500000
-            ],
-            "adultMealKRW": [
-              100000,
-              120000
-            ],
-            "extras": "최소 50명. 꽃장식 660만원 별도. 연출·디렉팅은 대관료 포함, 세금·봉사료 포함, 음주류 별도.",
-            "sourceLabel": "공식 운영사 네이버 블로그 원문",
-            "source": "https://blog.naver.com/courtyard_timesquare/223934442903"
-          }
-        ],
-        "comparisonNote": "소비자원 공시가 연결한 호텔 공식 블로그입니다. 게시일 2025-07-15를 2025년 가을 예식 적용일로 간주하지 않습니다.",
-        "research": {
-          "checkedAt": "2026-11-22",
-          "generalSearch": {
-            "query": "\"코트야드 메리어트 서울 타임스퀘어\" 서울 웨딩 대관료 식대 2026",
-            "url": "https://www.google.com/search?q=%22%EC%BD%94%ED%8A%B8%EC%95%BC%EB%93%9C%20%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8%20%EC%84%9C%EC%9A%B8%20%ED%83%80%EC%9E%84%EC%8A%A4%ED%80%98%EC%96%B4%22%20%EC%84%9C%EC%9A%B8%20%EC%9B%A8%EB%94%A9%20%EB%8C%80%EA%B4%80%EB%A3%8C%20%EC%8B%9D%EB%8C%80%202026",
-            "status": "명칭별 가격 검색 완료"
-          },
-          "official": {
-            "url": "https://www.marriott.com/ko/hotels/selcy-courtyard-seoul-times-square/events/",
-            "status": "공식 가격 원문 확보",
-            "pages": [
-              {
-                "url": "https://www.marriott.com/ko/hotels/selcy-courtyard-seoul-times-square/events/",
-                "title": "서울 도심 미팅룸 및 컨퍼런스룸 | 코트야드 서울 타임스퀘어"
-              }
-            ],
-            "note": "접근 성공은 가격표 전체 확인을 뜻하지 않습니다. 이미지·동적 콘텐츠·상담 전용 가격은 미확보로 남겼습니다."
-          },
-          "blogSearch": {
-            "query": "코트야드 메리어트 서울 타임스퀘어 영등포구 견적",
-            "url": "https://search.naver.com/search.naver?ssc=tab.blog.all&query=%EC%BD%94%ED%8A%B8%EC%95%BC%EB%93%9C%20%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8%20%EC%84%9C%EC%9A%B8%20%ED%83%80%EC%9E%84%EC%8A%A4%ED%80%98%EC%96%B4%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EA%B2%AC%EC%A0%81",
-            "status": "검색 및 후보 본문 열람"
-          },
-          "blogReferences": [
-            {
-              "title": "탐코야 스몰 웨딩의 모든 것! @코트야드 메리어트 서울 타임스퀘어",
-              "url": "https://blog.naver.com/courtyard_timesquare/223934442903",
-              "publishedAt": "2025-07-15",
-              "readLevel": "본문 열람",
-              "priceUse": "참고 후기 · 가격 미사용",
-              "note": "작성자 경험·홍보 안내로 참고. 실제 계약서·적용일·세부 금액의 교차 확인이 되지 않아 가격 근거로 채택하지 않음.",
-              "independence": "광고·협찬 여부 미확인"
-            }
-          ]
-        },
-        "availabilityNote": "실내 예식 상품만 비교합니다. 야외 상품은 제외했습니다."
-      },
-      "reviews": {
-        "checkedAt": "2026-11-22",
-        "status": "matched",
-        "visitor": 2601,
-        "blog": 2057,
-        "placeId": "13217405",
-        "placeName": "코트야드 메리어트 서울 타임스퀘어",
-        "placeAddress": "서울 영등포구 영중로 15 타임스퀘어",
-        "category": "호텔",
-        "sourceUrl": "https://search.naver.com/search.naver?query=%EC%BD%94%ED%8A%B8%EC%95%BC%EB%93%9C%20%EB%A9%94%EB%A6%AC%EC%96%B4%ED%8A%B8%20%EC%84%9C%EC%9A%B8%20%ED%83%80%EC%9E%84%EC%8A%A4%ED%80%98%EC%96%B4",
-        "placeUrl": "https://m.place.naver.com/place/13217405/home",
-        "scope": "호텔 전체 리뷰 · 숙박·식음 등 포함",
-        "note": ""
-      }
     }
   ],
   "excluded": [
@@ -8032,6 +7325,12 @@ const venueCatalog = {
       "name": "웨스턴빌리프",
       "address": "경기 고양시 일산동구 정발산로 24, 웨스턴타워 3차 9층",
       "reason": "사용자 요청으로 일산동구 비교 대상에서 제외"
+    },
+    {
+      "region": "yangcheon",
+      "name": "로프트가든344",
+      "address": "서울 양천구 오목로 344, 청학빌딩",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
     },
     {
       "region": "ilsan-west",
@@ -8106,6 +7405,12 @@ const venueCatalog = {
       "reason": "사용자 요청으로 비교 대상에서 제외"
     },
     {
+      "region": "gangseo",
+      "name": "그래머시 코엑스마곡",
+      "address": "서울 강서구 마곡중앙로 143, B2·4층",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
       "region": "yeongdeungpo",
       "name": "더파티움 여의도",
       "address": "서울 영등포구 은행로 30, 중소기업중앙회",
@@ -8131,6 +7436,12 @@ const venueCatalog = {
     },
     {
       "region": "yeongdeungpo",
+      "name": "하우스 오브 콩두",
+      "address": "서울 영등포구 여의대로 24, FKI타워 50층",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "yeongdeungpo",
       "name": "마리앤코 코지가든",
       "address": "서울 영등포구 양평로 8, 3층",
       "reason": "사용자 요청으로 비교 대상에서 제외"
@@ -8145,6 +7456,12 @@ const venueCatalog = {
       "region": "yeongdeungpo",
       "name": "워킹온더클라우드",
       "address": "서울 영등포구 63로 50, 59층",
+      "reason": "사용자 요청으로 비교 대상에서 제외"
+    },
+    {
+      "region": "yeongdeungpo",
+      "name": "코트야드 메리어트 서울 타임스퀘어",
+      "address": "서울 영등포구 영중로 15, 타임스퀘어",
       "reason": "사용자 요청으로 비교 대상에서 제외"
     },
     {
@@ -8439,23 +7756,22 @@ const venueCatalog = {
       "venue-038",
       "venue-039",
       "venue-047",
-      "venue-066",
-      "venue-062"
+      "venue-066"
     ]
   },
   "enrichment": {
     "checkedAt": "2026-11-22",
-    "total": 41,
-    "naverResults": 41,
-    "googleResults": 41,
-    "photos": 172,
-    "completeGalleries": 31,
-    "partialGalleries": 7,
-    "missingGalleries": 3,
+    "total": 37,
+    "naverResults": 37,
+    "googleResults": 37,
+    "photos": 160,
+    "completeGalleries": 29,
+    "partialGalleries": 6,
+    "missingGalleries": 2,
     "missingPhone": 0,
-    "missingParking": 18,
+    "missingParking": 15,
     "missingWebsite": 0,
-    "changes": 26
+    "changes": 23
   },
   "pricingScope": {
     "checkedAt": "2026-11-22",
@@ -8479,7 +7795,7 @@ const venueCatalog = {
         11
       ]
     },
-    "scopeNote": "7개 지역 41개 후보를 명칭별로 검색했습니다. 아래는 업체 공시·공식 안내·중개 공개가의 참고 가격이며, 2027년 9~11월 확정 견적이 아닙니다. 적용연도·홀·보증인원·필수 별도비용을 출처별로 구분했습니다. 2025·2026년 가을의 날짜별 계약 견적은 미확보입니다."
+    "scopeNote": "7개 지역 37개 후보를 명칭별로 검색했습니다. 아래는 업체 공시·공식 안내·중개 공개가의 참고 가격이며, 2027년 9~11월 확정 견적이 아닙니다. 적용연도·홀·보증인원·필수 별도비용을 출처별로 구분했습니다. 2025·2026년 가을의 날짜별 계약 견적은 미확보입니다."
   },
   "reviewScope": {
     "checkedAt": "2026-11-22",

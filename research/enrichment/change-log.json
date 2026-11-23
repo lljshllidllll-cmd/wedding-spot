@@ -72,18 +72,6 @@
     }
   },
   {
-    "id": "venue-012",
-    "name": "로프트가든344",
-    "field": "website",
-    "before": "https://www.loftgarden344.com/",
-    "after": "https://www.loftgarden344.com/mainhall",
-    "source": {
-      "url": "https://www.loftgarden344.com/mainhall",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
     "id": "venue-013",
     "name": "웨딩그룹위더스 영등포",
     "field": "parking",
@@ -187,30 +175,6 @@
     "after": "https://rysehotel.com/ko/events/wedding",
     "source": {
       "url": "https://rysehotel.com/ko/events/wedding",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-045",
-    "name": "그래머시 코엑스마곡",
-    "field": "phone",
-    "before": null,
-    "after": "02-767-6032",
-    "source": {
-      "url": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
-      "type": "official",
-      "checkedAt": "2026-11-22"
-    }
-  },
-  {
-    "id": "venue-045",
-    "name": "그래머시 코엑스마곡",
-    "field": "website",
-    "before": null,
-    "after": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
-    "source": {
-      "url": "https://coexmagok.co.kr/venu-service/fb-services/gramercy/",
       "type": "official",
       "checkedAt": "2026-11-22"
     }
