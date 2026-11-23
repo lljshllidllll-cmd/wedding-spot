@@ -3,7 +3,7 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 const root=process.cwd(),out=path.join(root,'dist');
 const catalog=JSON.parse(fs.readFileSync('catalog.json','utf8'));
-const files=['index.html','styles.css','gallery.css','pricing.css','script.js','catalog.js','catalog.json','catalog.csv','pricing.csv','SURVEY_REPORT.md','ENRICHMENT_REPORT.md','PRICING_REPORT.md',...catalog.venues.flatMap(v=>v.photos.map(p=>p.localPath))];
+const files=['index.html','styles.css','gallery.css','pricing.css','theme.css','chick.svg','script.js','catalog.js','catalog.json','catalog.csv','pricing.csv','SURVEY_REPORT.md','ENRICHMENT_REPORT.md','PRICING_REPORT.md',...catalog.venues.flatMap(v=>v.photos.map(p=>p.localPath))];
 assert.equal(out,path.resolve(root,'dist'),'배포 경로는 프로젝트 dist 폴더');
 fs.rmSync(out,{recursive:true,force:true});
 fs.mkdirSync(out,{recursive:true});
