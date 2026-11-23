@@ -7,6 +7,38 @@ const statusElement = document.querySelector("#status-filter");
 const reviewSortElement = document.querySelector('#review-sort');
 const photoFilter = document.querySelector('#photo-filter');
 let selectedRegion = regions[0].id;
+const choiceStorageKey = 'wedding-spot-choices-v1';
+const choiceLimits = { first: 3, second: 5 };
+const choiceLabels = { first: '1순위', second: '2순위', excluded: '제외' };
+const venueIds = new Set(venues.map(venue => venue.id));
+function loadChoices() {
+  const result = Object.create(null);
+  try {
+    const saved = JSON.parse(localStorage.getItem(choiceStorageKey) || '{}');
+    if (!saved || typeof saved !== 'object' || Array.isArray(saved)) return result;
+    const counts = { first: 0, second: 0 };
+    for (const [id, choice] of Object.entries(saved)) {
+      if (!venueIds.has(id) || !Object.hasOwn(choiceLabels, choice)) continue;
+      if (choiceLimits[choice] && counts[choice] >= choiceLimits[choice]) continue;
+      result[id] = choice;
+      if (choiceLimits[choice]) counts[choice]++;
+    }
+  } catch { /* 저장 공간을 사용할 수 없어도 현재 화면에서는 선택할 수 있습니다. */ }
+  return result;
+}
+const choices = loadChoices();
+function choiceCounts() {
+  const values = Object.values(choices);
+  return { first: values.filter(value => value === 'first').length, second: values.filter(value => value === 'second').length, excluded: values.filter(value => value === 'excluded').length };
+}
+function updateChoiceStatus(message = '') {
+  const counts = choiceCounts();
+  document.querySelector('#choice-status').textContent = `전체 선택 · 1순위 ${counts.first}/3 · 2순위 ${counts.second}/5 · 제외 ${counts.excluded}곳`;
+  document.querySelector('#choice-message').textContent = message || '선택은 이 브라우저에 저장됩니다.';
+}
+function renderChoiceCell(venue) {
+  return `<td class="choice-cell"><div class="choice-options" role="group" aria-label="${escapeHtml(venue.name)} 선택">${Object.entries(choiceLabels).map(([value,label])=>`<label class="choice-option"><input type="checkbox" data-choice-id="${venue.id}" value="${value}" aria-label="${escapeHtml(venue.name)} ${label}"${choices[venue.id]===value?' checked':''}><span>${label}</span></label>`).join('')}</div></td>`;
+}
 
 function escapeHtml(value) {
   return String(value).replace(/[&<>"']/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"})[char]);
@@ -64,7 +96,30 @@ function renderPricingOverview(filtered) {
   const element=document.querySelector('#pricing-overview');element.hidden=false;
   const region=regions.find(r=>r.id===selectedRegion),rows=filtered.filter(v=>v.pricing),count=rows.filter(v=>v.pricing.records.length).length;
   element.innerHTML=`<p class="heading-label">2027년 9~11월 예식 준비</p><h3>${escapeHtml(region.name)} 대관료 · 식대 비교</h3><p class="pricing-scope">${escapeHtml(venueCatalog.pricingScope.scopeNote)}</p><div class="price-coverage"><span>표시 후보 <strong>${rows.length}곳</strong></span><span>공개 가격 자료 <strong>${count}곳</strong></span><span>금액 미확보 <strong>${rows.length-count}곳</strong></span></div><p class="pricing-footnote">식장명을 누르면 홀별 가격·포함 항목·출처와 후기 확인 내역을 볼 수 있습니다. 검색·필터는 비교표와 목록에 함께 적용됩니다.</p><div class="table-scroll" role="region" aria-label="${escapeHtml(region.name)} 가격 비교표, 좁은 화면에서 좌우로 이동" tabindex="0"><table class="pricing-table"><thead><tr><th scope="col">예식장</th><th scope="col">홀 대관료</th><th scope="col">성인 1인 식대</th><th scope="col">방문자리뷰</th><th scope="col">블로그 리뷰</th><th scope="col">자료 구분·적용 범위</th></tr></thead><tbody>${rows.map(v=>`<tr><th scope="row"><a href="#price-${v.id}">${escapeHtml(v.name)}</a></th><td>${escapeHtml(v.pricing.rentalSummary)}</td><td>${escapeHtml(v.pricing.mealSummary)}</td><td class="review-number">${reviewCount(v.reviews?.visitor)}</td><td class="review-number">${reviewCount(v.reviews?.blog)}<small>${escapeHtml(v.reviews?.scope??'집계 미확인')}</small></td><td>${escapeHtml(v.pricing.summaryType)}</td></tr>`).join('')}</tbody></table>${rows.length?'':'<p>조건에 맞는 식장이 없습니다. 검색어나 필터를 변경해 주세요.</p>'}</div><p class="pricing-history">대관료만으로 총비용을 비교하지 마세요. 필수 꽃장식·연출비·촬영비, 음주류·VAT·봉사료와 보증인원을 함께 확인해야 합니다. 서로 다른 출처의 최저 금액을 합산하지 않았습니다.</p><p class="pricing-footnote">명칭별 개별 검색과 후보 블로그 본문 열람을 구분했습니다. 인터넷의 모든 후기 전수 열람이나 전화 견적 확인을 뜻하지 않습니다.</p><div class="report-links"><a href="PRICING_REPORT.md" target="_blank" rel="noopener">전체 지역 가격·출처 보고서</a><a href="pricing.csv" download>가격·미확보 내역 CSV</a></div>`;
+  const table = element.querySelector('.pricing-table');
+  table.querySelector('thead tr').insertAdjacentHTML('beforeend', '<th scope="col" class="choice-heading">선택</th>');
+  table.querySelectorAll('tbody tr').forEach((row, index) => row.insertAdjacentHTML('beforeend', renderChoiceCell(rows[index])));
+  element.querySelector('.price-coverage').insertAdjacentHTML('afterend', '<div class="choice-summary"><strong id="choice-status"></strong><span id="choice-message" role="status" aria-live="polite"></span></div>');
+  updateChoiceStatus();
 }
+
+document.querySelector('#pricing-overview').addEventListener('change', event => {
+  const input = event.target;
+  if (!input.matches('input[data-choice-id]')) return;
+  const id = input.dataset.choiceId;
+  if (!venueIds.has(id) || !Object.hasOwn(choiceLabels, input.value)) return;
+  const next = input.checked ? input.value : null;
+  if (next && choices[id] !== next && choiceLimits[next] && choiceCounts()[next] >= choiceLimits[next]) {
+    input.checked = false;
+    updateChoiceStatus(`${choiceLabels[next]}는 ${choiceLimits[next]}곳까지만 선택할 수 있습니다.`);
+    return;
+  }
+  if (next) choices[id] = next;
+  else delete choices[id];
+  try { localStorage.setItem(choiceStorageKey, JSON.stringify(choices)); } catch { /* 저장 공간이 없어도 현재 선택은 유지합니다. */ }
+  input.closest('tr').querySelectorAll('input[data-choice-id]').forEach(box => { box.checked = choices[id] === box.value; });
+  updateChoiceStatus();
+});
 
 function renderVenues() {
   const region = regions.find(item => item.id === selectedRegion);
