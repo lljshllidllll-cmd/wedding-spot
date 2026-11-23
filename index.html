@@ -10,15 +10,15 @@
   <link rel="stylesheet" href="styles.css?v=20261123-chick-v1">
   <link rel="stylesheet" href="gallery.css?v=20261123-chick-v1">
   <link rel="stylesheet" href="pricing.css?v=20261123-chick-v1">
-  <link rel="stylesheet" href="theme.css?v=20261123-choice-first-v1">
+  <link rel="stylesheet" href="theme.css?v=20261123-guide-v1">
 </head>
 <body>
   <div class="app-shell">
     <header class="site-header">
       <a class="brand" href="#venues" aria-label="우당탕탕 결혼식 대작전 홈"><img class="brand-chick" src="chick.svg" alt=""><span>우당탕탕 <strong>결혼식 대작전</strong></span></a>
       <nav class="top-nav" aria-label="페이지 이동">
-        <a href="#candidates" data-view-link="candidates">후보 업체</a>
         <a href="#venues" data-view-link="venues" aria-current="page">예식장 찾기</a>
+        <a href="#candidates" data-view-link="candidates">후보 업체</a>
         <a href="#excluded" data-view-link="excluded">제외된 예식장</a>
         <a href="#survey" data-view-link="survey">조사 내역</a>
       </nav>
@@ -32,14 +32,15 @@
           <section class="candidate-group" aria-labelledby="candidate-first-title"><div class="candidate-group-heading"><div><p class="heading-label">먼저 살펴볼 곳</p><h2 id="candidate-first-title">1순위 <span id="candidate-first-count"></span></h2></div><span class="candidate-limit">최대 3곳</span></div><ol id="candidate-first-list" class="candidate-list" aria-label="1순위 업체"></ol></section>
           <section class="candidate-group" aria-labelledby="candidate-second-title"><div class="candidate-group-heading"><div><p class="heading-label">다음으로 살펴볼 곳</p><h2 id="candidate-second-title">2순위 <span id="candidate-second-count"></span></h2></div><span class="candidate-limit">최대 5곳</span></div><ol id="candidate-second-list" class="candidate-list" aria-label="2순위 업체"></ol></section>
         </div>
+        <section class="candidate-excluded" aria-labelledby="candidate-excluded-title"><div class="candidate-excluded-heading"><div><p class="heading-label">다시 살펴보기</p><h2 id="candidate-excluded-title">내가 제외한 업체 <span id="candidate-excluded-count"></span></h2></div><p>선택을 바꾸려면 목록에 다시 추가하세요.</p></div><ul id="candidate-excluded-list" class="candidate-excluded-list"></ul><p id="candidate-restore-message" role="status" aria-live="polite"></p></section>
       </section>
       <section id="venues-view" class="view" aria-labelledby="hero-title">
         <div class="hero">
           <div class="hero-copy">
             <p class="eyebrow"><span class="eyebrow-line"></span> GOYANG · SEOUL WEDDING GUIDE</p>
             <h1 id="hero-title">우당탕탕<br><em>결혼식 대작전</em></h1>
-            <p class="hero-desc">고양 3개 구와 서울 4개 구의 예식 공간을 지역별로 살펴보세요. 주소, 문의 전화, 주차, 홈페이지를 한 자리에서 비교할 수 있습니다.</p>
-            <a class="hero-jump" href="#explore">지역별 공간 살펴보기 <span aria-hidden="true">↓</span></a>
+            <p class="hero-desc">맘에 드는 예식장 천천히 찾아서 1순위, 2순위, 제외 선택해주세요<br>제외를 선택한 예식장을 목록에서 제외하도록 하겠습니다.</p>
+            <p class="hero-desc hero-desc-follow">1순위, 2순위를 골랐다면 홈페이지 상단에서<br>후보 업체를 눌러주시면 정리해서 볼 수 있습니다!</p>
           </div>
           <div class="hero-art" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="orbit orbit-three"></div><img class="hero-chick" src="chick.svg" alt=""><i class="pin pin-a"></i><i class="pin pin-b"></i><i class="pin pin-c"></i><i class="pin pin-d"></i><div class="art-caption">한눈에 비교하는<br>우리의 결혼식 장소</div></div>
         </div>
@@ -91,6 +92,6 @@
     <div class="gallery-source"><span>사진 제공: 해당 시설 공식 사이트 · 2026. 11. 22. 확인</span><a id="photo-source" target="_blank" rel="noopener noreferrer">출처 페이지 ↗</a><a id="photo-original" target="_blank" rel="noopener noreferrer">원본 이미지 ↗</a></div>
   </dialog>
   <script src="catalog.js?v=20261123-scope-v2" defer></script>
-  <script src="script.js?v=20261123-choice-first-v1" defer></script>
+  <script src="script.js?v=20261123-guide-v1" defer></script>
 </body>
 </html>
