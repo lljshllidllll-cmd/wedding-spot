@@ -20,6 +20,7 @@ entryForm.addEventListener('submit', event => {
   entryPassword.value = '';
   document.body.classList.remove('site-locked');
   document.querySelector('.brand').focus();
+  startSharedSync();
 });
 entryPassword.addEventListener('input', () => {
   entryError.textContent = '';
@@ -37,6 +38,7 @@ const choiceStorageKey = 'wedding-spot-choices-v1';
 const choiceOrderKey = 'wedding-spot-choice-order-v1';
 const choiceLimits = { first: 3, second: 5 };
 const choiceLabels = { first: '1순위', second: '2순위', excluded: '제외' };
+const sharedApiUrl = 'https://wedding-spot-sync-2026.lljshllidll.chatgpt.site/state';
 const venueIds = new Set(venues.map(venue => venue.id));
 function loadChoices() {
   const result = Object.create(null);
@@ -53,48 +55,116 @@ function loadChoices() {
   } catch { /* 저장 공간을 사용할 수 없어도 현재 화면에서는 선택할 수 있습니다. */ }
   return result;
 }
-const choices = loadChoices();
+const legacyChoices = loadChoices();
+const choices = Object.create(null);
 const venueById = new Map(venues.map(venue => [venue.id, venue]));
-function loadChoiceOrder() {
+function loadChoiceOrder(savedChoices) {
   let saved = {};
   try { saved = JSON.parse(localStorage.getItem(choiceOrderKey) || '{}') || {}; } catch { /* 저장된 순서가 잘못되어도 선택은 유지합니다. */ }
   const order = { first: [], second: [] };
   for (const tier of ['first', 'second']) {
     const valid = Array.isArray(saved[tier]) ? saved[tier] : [];
-    order[tier] = [...new Set(valid.filter(id => choices[id] === tier))];
-    for (const id of Object.keys(choices)) if (choices[id] === tier && !order[tier].includes(id)) order[tier].push(id);
+    order[tier] = [...new Set(valid.filter(id => savedChoices[id] === tier))];
+    for (const id of Object.keys(savedChoices)) if (savedChoices[id] === tier && !order[tier].includes(id)) order[tier].push(id);
   }
   return order;
 }
-const choiceOrder = loadChoiceOrder();
-function saveChoiceOrder() {
-  try { localStorage.setItem(choiceOrderKey, JSON.stringify(choiceOrder)); } catch { /* 저장 공간이 없어도 현재 순서는 유지합니다. */ }
+const legacyOrder = loadChoiceOrder(legacyChoices);
+const choiceOrder = { first: [], second: [] };
+let sharedReady = false;
+let sharedBusy = false;
+let sharedStarted = false;
+let sharedRefreshBusy = false;
+let sharedEpoch = 0;
+let sharedMessage = '공유 선택을 불러오는 중입니다.';
+let lastSharedSignature = '';
+function sharedHeaders() { return { 'content-type': 'application/json', 'x-access-code': '0611' }; }
+function showSyncStatus(message, failed = false) {
+  document.querySelector('#sync-status').textContent = message;
+  document.querySelector('#sync-status').dataset.failed = String(failed);
+  sharedMessage = message;
+  document.querySelector('#choice-message')?.replaceChildren(document.createTextNode(message));
 }
-function syncChoiceOrder(id, next) {
-  for (const tier of ['first', 'second']) choiceOrder[tier] = choiceOrder[tier].filter(item => item !== id);
-  if (next === 'first' || next === 'second') choiceOrder[next].push(id);
-  saveChoiceOrder();
+function applySharedState(state) {
+  if (!state || typeof state !== 'object' || !state.choices || !state.order) throw new Error('공유 선택 응답이 올바르지 않습니다.');
+  const nextChoices = Object.fromEntries(Object.entries(state.choices).filter(([id, value]) => venueIds.has(id) && Object.hasOwn(choiceLabels, value)));
+  const nextOrder = { first: [], second: [] };
+  for (const tier of ['first', 'second']) {
+    const saved = Array.isArray(state.order[tier]) ? state.order[tier] : [];
+    nextOrder[tier] = [...new Set(saved.filter(id => nextChoices[id] === tier))];
+    for (const [id, value] of Object.entries(nextChoices)) if (value === tier && !nextOrder[tier].includes(id)) nextOrder[tier].push(id);
+  }
+  const signature = JSON.stringify([nextChoices, nextOrder]);
+  sharedReady = true;
+  if (signature === lastSharedSignature) return;
+  lastSharedSignature = signature;
+  for (const id of Object.keys(choices)) delete choices[id];
+  Object.assign(choices, nextChoices);
+  choiceOrder.first = nextOrder.first;
+  choiceOrder.second = nextOrder.second;
+  renderTabs();
+  renderVenues();
+  renderCandidates();
+  document.querySelector('#legacy-import').hidden = !Object.keys(legacyChoices).some(id => legacyChoices[id] !== choices[id] && !choices[id]);
 }
-function saveChoices() {
-  try { localStorage.setItem(choiceStorageKey, JSON.stringify(choices)); } catch { /* 저장 공간이 없어도 현재 선택은 유지합니다. */ }
+async function refreshSharedState() {
+  if (sharedBusy || sharedRefreshBusy || document.body.classList.contains('site-locked')) return;
+  sharedRefreshBusy = true;
+  const epoch = sharedEpoch;
+  try {
+    const response = await fetch(sharedApiUrl, { headers: sharedHeaders(), cache: 'no-store' });
+    if (!response.ok) throw new Error('공유 선택을 불러오지 못했습니다.');
+    const state = await response.json();
+    if (epoch === sharedEpoch && !sharedBusy) {
+      applySharedState(state);
+      showSyncStatus('공유 선택 연결됨');
+    }
+  } catch {
+    if (epoch === sharedEpoch) showSyncStatus('공유 선택 연결 실패 · 다시 시도 중', true);
+  } finally { sharedRefreshBusy = false; }
+}
+function startSharedSync() {
+  if (sharedStarted) return;
+  sharedStarted = true;
+  refreshSharedState();
+  setInterval(refreshSharedState, 5000);
+  document.addEventListener('visibilitychange', () => { if (!document.hidden) refreshSharedState(); });
+}
+async function submitSharedAction(action) {
+  if (!sharedReady || sharedBusy) return false;
+  sharedBusy = true;
+  sharedEpoch++;
+  try {
+    const response = await fetch(sharedApiUrl, { method: 'POST', headers: sharedHeaders(), body: JSON.stringify(action), cache: 'no-store' });
+    const result = await response.json();
+    if (result.state) applySharedState(result.state);
+    if (!response.ok) { showSyncStatus(result.error || '공유 선택을 저장하지 못했습니다.', true); renderVenues(); renderCandidates(); return false; }
+    showSyncStatus('공유 선택이 저장되었습니다.');
+    return true;
+  } catch {
+    showSyncStatus('공유 선택 저장 실패 · 다시 시도해 주세요.', true);
+    renderVenues();
+    renderCandidates();
+    return false;
+  } finally { sharedBusy = false; }
 }
 function renderCandidates() {
   const counts = choiceCounts();
-  document.querySelector('#candidate-total').textContent = `1순위 ${counts.first}/3 · 2순위 ${counts.second}/5`;
+  document.querySelector('#candidate-total').textContent = sharedReady ? `공유 선택 · 1순위 ${counts.first}/3 · 2순위 ${counts.second}/5` : '공유 선택을 불러오는 중입니다.';
   for (const tier of ['first', 'second']) {
     document.querySelector(`#candidate-${tier}-count`).textContent = `${choiceOrder[tier].length}곳`;
     const list = document.querySelector(`#candidate-${tier}-list`);
     list.innerHTML = choiceOrder[tier].length ? choiceOrder[tier].map((id, index) => {
       const venue = venueById.get(id);
       const region = regions.find(item => item.id === venue.region);
-      return `<li class="candidate-item" draggable="true" data-candidate-id="${id}" data-tier="${tier}"><span class="candidate-rank">${index + 1}</span><div class="candidate-item-copy"><a href="#venue-${id}" data-candidate-link="${id}">${escapeHtml(venue.name)}</a><small>${escapeHtml(region.name)} · ${escapeHtml(venue.type)}</small></div><span class="candidate-drag" aria-hidden="true">⋮⋮</span><div class="candidate-move"><button type="button" data-move="up" aria-label="${escapeHtml(venue.name)} 위로 이동"${index === 0 ? ' disabled' : ''}>↑</button><button type="button" data-move="down" aria-label="${escapeHtml(venue.name)} 아래로 이동"${index === choiceOrder[tier].length - 1 ? ' disabled' : ''}>↓</button></div></li>`;
+      return `<li class="candidate-item" draggable="${sharedReady}" data-candidate-id="${id}" data-tier="${tier}"><span class="candidate-rank">${index + 1}</span><div class="candidate-item-copy"><a href="#venue-${id}" data-candidate-link="${id}">${escapeHtml(venue.name)}</a><small>${escapeHtml(region.name)} · ${escapeHtml(venue.type)}</small></div><span class="candidate-drag" aria-hidden="true">⋮⋮</span><div class="candidate-move"><button type="button" data-move="up" aria-label="${escapeHtml(venue.name)} 위로 이동"${!sharedReady || index === 0 ? ' disabled' : ''}>↑</button><button type="button" data-move="down" aria-label="${escapeHtml(venue.name)} 아래로 이동"${!sharedReady || index === choiceOrder[tier].length - 1 ? ' disabled' : ''}>↓</button></div></li>`;
     }).join('') : '<li class="candidate-empty">아직 선택한 업체가 없습니다. <a href="#venues">예식장 찾기에서 선택하기 →</a></li>';
   }
   const userExcluded = venues.filter(venue => choices[venue.id] === 'excluded');
   document.querySelector('#candidate-excluded-count').textContent = `${userExcluded.length}곳`;
   document.querySelector('#candidate-excluded-list').innerHTML = userExcluded.length ? userExcluded.map(venue => {
     const region = regions.find(item => item.id === venue.region);
-    return `<li><span><strong>${escapeHtml(venue.name)}</strong><small>${escapeHtml(region.name)} · ${escapeHtml(venue.type)}</small></span><button type="button" data-restore-id="${venue.id}" aria-label="${escapeHtml(venue.name)} 목록에 다시 추가">목록에 다시 추가</button></li>`;
+    return `<li><span><strong>${escapeHtml(venue.name)}</strong><small>${escapeHtml(region.name)} · ${escapeHtml(venue.type)}</small></span><button type="button" data-restore-id="${venue.id}" aria-label="${escapeHtml(venue.name)} 목록에 다시 추가"${sharedReady ? '' : ' disabled'}>목록에 다시 추가</button></li>`;
   }).join('') : '<li class="candidate-excluded-empty">제외한 업체가 없습니다.</li>';
 }
 function choiceCounts() {
@@ -104,10 +174,10 @@ function choiceCounts() {
 function updateChoiceStatus(message = '') {
   const counts = choiceCounts();
   document.querySelector('#choice-status').textContent = `전체 선택 · 1순위 ${counts.first}/3 · 2순위 ${counts.second}/5 · 제외 ${counts.excluded}곳`;
-  document.querySelector('#choice-message').textContent = message || '선택은 이 브라우저에 저장됩니다.';
+  document.querySelector('#choice-message').textContent = message || sharedMessage;
 }
 function renderChoiceCell(venue) {
-  return `<td class="choice-cell"><div class="choice-options" role="group" aria-label="${escapeHtml(venue.name)} 선택">${Object.entries(choiceLabels).map(([value,label])=>`<label class="choice-option"><input type="checkbox" data-choice-id="${venue.id}" value="${value}" aria-label="${escapeHtml(venue.name)} ${label}"${choices[venue.id]===value?' checked':''}><span>${label}</span></label>`).join('')}</div></td>`;
+  return `<td class="choice-cell"><div class="choice-options" role="group" aria-label="${escapeHtml(venue.name)} 선택">${Object.entries(choiceLabels).map(([value,label])=>`<label class="choice-option"><input type="checkbox" data-choice-id="${venue.id}" value="${value}" aria-label="${escapeHtml(venue.name)} ${label}"${choices[venue.id]===value?' checked':''}${sharedReady?'':' disabled'}><span>${label}</span></label>`).join('')}</div></td>`;
 }
 
 function escapeHtml(value) {
@@ -173,28 +243,23 @@ function renderPricingOverview(filtered) {
   updateChoiceStatus();
 }
 
-document.querySelector('#pricing-overview').addEventListener('change', event => {
+document.querySelector('#pricing-overview').addEventListener('change', async event => {
   const input = event.target;
   if (!input.matches('input[data-choice-id]')) return;
   const id = input.dataset.choiceId;
   if (!venueIds.has(id) || !Object.hasOwn(choiceLabels, input.value)) return;
-  const previous = choices[id];
+  if (!sharedReady || sharedBusy) {
+    input.checked = choices[id] === input.value;
+    showSyncStatus('공유 선택 연결을 기다려 주세요.', true);
+    return;
+  }
   const next = input.checked ? input.value : null;
   if (next && choices[id] !== next && choiceLimits[next] && choiceCounts()[next] >= choiceLimits[next]) {
     input.checked = false;
     updateChoiceStatus(`${choiceLabels[next]}는 ${choiceLimits[next]}곳까지만 선택할 수 있습니다.`);
     return;
   }
-  if (next) choices[id] = next;
-  else delete choices[id];
-  saveChoices();
-  syncChoiceOrder(id, next);
-  input.closest('tr').querySelectorAll('input[data-choice-id]').forEach(box => { box.checked = choices[id] === box.value; });
-  if (next === 'excluded' || previous === 'excluded') {
-    renderTabs();
-    renderVenues();
-  } else updateChoiceStatus();
-  renderCandidates();
+  await submitSharedAction({ type: 'choice', id, choice: next });
 });
 
 function renderVenues() {
@@ -248,18 +313,12 @@ searchElement.addEventListener("input", renderVenues);
 reviewSortElement.addEventListener("change",renderVenues);
 
 const candidateView = document.querySelector('#candidates-view');
-candidateView.addEventListener('click', event => {
+candidateView.addEventListener('click', async event => {
   const restore = event.target.closest('[data-restore-id]');
   if (restore) {
     const id = restore.dataset.restoreId;
     if (choices[id] !== 'excluded') return;
-    delete choices[id];
-    saveChoices();
-    syncChoiceOrder(id, null);
-    renderTabs();
-    renderVenues();
-    renderCandidates();
-    document.querySelector('#candidate-restore-message').textContent = `${venueById.get(id).name} 업체를 예식장 목록에 다시 추가했습니다.`;
+    if (await submitSharedAction({ type: 'choice', id, choice: null })) document.querySelector('#candidate-restore-message').textContent = `${venueById.get(id).name} 업체를 예식장 목록에 다시 추가했습니다.`;
     return;
   }
   const link = event.target.closest('[data-candidate-link]');
@@ -275,19 +334,18 @@ candidateView.addEventListener('click', event => {
   const button = event.target.closest('[data-move]');
   if (!button) return;
   const item = button.closest('[data-candidate-id]');
-  const order = choiceOrder[item.dataset.tier];
+  if (!sharedReady || sharedBusy) return;
+  const order = [...choiceOrder[item.dataset.tier]];
   const index = order.indexOf(item.dataset.candidateId);
   const next = index + (button.dataset.move === 'up' ? -1 : 1);
   if (index < 0 || next < 0 || next >= order.length) return;
   [order[index], order[next]] = [order[next], order[index]];
-  saveChoiceOrder();
-  renderCandidates();
-  document.querySelector(`[data-candidate-id="${item.dataset.candidateId}"] [data-move="${button.dataset.move}"]`)?.focus();
+  if (await submitSharedAction({ type: 'reorder', tier: item.dataset.tier, order })) document.querySelector(`[data-candidate-id="${item.dataset.candidateId}"] [data-move="${button.dataset.move}"]`)?.focus();
 });
 let draggedCandidate = null;
 candidateView.addEventListener('dragstart', event => {
   const item = event.target.closest('[data-candidate-id]');
-  if (!item) return;
+  if (!item || !sharedReady || sharedBusy) { event.preventDefault(); return; }
   draggedCandidate = { id: item.dataset.candidateId, tier: item.dataset.tier };
   event.dataTransfer.effectAllowed = 'move';
   event.dataTransfer.setData('text/plain', draggedCandidate.id);
@@ -301,23 +359,35 @@ candidateView.addEventListener('dragover', event => {
   candidateView.querySelectorAll('.drop-before,.drop-after').forEach(node => node.classList.remove('drop-before','drop-after'));
   item.classList.add(event.clientY < item.getBoundingClientRect().top + item.getBoundingClientRect().height / 2 ? 'drop-before' : 'drop-after');
 });
-candidateView.addEventListener('drop', event => {
+candidateView.addEventListener('drop', async event => {
   const item = event.target.closest('[data-candidate-id]');
   if (!item || !draggedCandidate || item.dataset.tier !== draggedCandidate.tier) return;
   event.preventDefault();
-  const order = choiceOrder[draggedCandidate.tier];
+  const order = [...choiceOrder[draggedCandidate.tier]];
   if (item.dataset.candidateId !== draggedCandidate.id) {
     const after = event.clientY >= item.getBoundingClientRect().top + item.getBoundingClientRect().height / 2;
     order.splice(order.indexOf(draggedCandidate.id), 1);
     order.splice(order.indexOf(item.dataset.candidateId) + (after ? 1 : 0), 0, draggedCandidate.id);
-    saveChoiceOrder();
-    renderCandidates();
+    await submitSharedAction({ type: 'reorder', tier: draggedCandidate.tier, order });
   }
   draggedCandidate = null;
 });
 candidateView.addEventListener('dragend', () => {
   draggedCandidate = null;
   candidateView.querySelectorAll('.dragging,.drop-before,.drop-after').forEach(node => node.classList.remove('dragging','drop-before','drop-after'));
+});
+document.querySelector('#legacy-import-button').addEventListener('click', async event => {
+  if (!sharedReady || sharedBusy) return;
+  const button = event.currentTarget;
+  button.disabled = true;
+  let imported = 0;
+  const orderedIds = [...legacyOrder.first, ...legacyOrder.second, ...Object.keys(legacyChoices)];
+  for (const id of new Set(orderedIds)) {
+    if (choices[id] || !legacyChoices[id]) continue;
+    if (await submitSharedAction({ type: 'choice', id, choice: legacyChoices[id] })) imported++;
+  }
+  document.querySelector('#candidate-restore-message').textContent = `이전 선택 ${imported}곳을 공유 목록에 추가했습니다.`;
+  button.disabled = false;
 });
 
 const excludedSearchElement=document.querySelector('#excluded-search');
@@ -356,6 +426,7 @@ window.addEventListener("hashchange", renderView);
 renderTabs();
 renderVenues();
 renderView();
+if (!document.body.classList.contains('site-locked')) startSharedSync();
 
 
 // Gallery uses the venue's verified local originals and keeps per-photo sources.
